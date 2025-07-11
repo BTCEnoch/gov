@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Enochian Cyphers</title>
+</head>
+<body>
+    <h1>Enochian Cyphers WASM Test</h1>
+    <script type="module">
+        import init from './pkg/enochian_cyphers.js';
+        
+        async function run() {
+            try {
+                const wasm = await init();
+                console.log('WASM module loaded successfully!');
+                // Add your WASM function calls here
+            } catch (e) {
+                console.error('Failed to load WASM module:', e);
+            }
+        }
+
+        run();
+    </script>
+</body>
+</html> 

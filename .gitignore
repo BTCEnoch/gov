@@ -58,4 +58,31 @@ coverage.xml
 
 # Local development
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Rust
+target/
+Cargo.lock
+*.pdb
+*.exe
+
+# WASM
+pkg/
+*.wasm
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride 
