@@ -1,0 +1,39 @@
+{
+    "aethyrs": [
+        {
+            "name": "LIL",
+            "description": "The first and highest Aethyr",
+            "governors": ["ABRIOND", "ADVORPT", "AAETPIO"],
+            "attributes": {
+                "element": "fire",
+                "power": 10,
+                "resonance": 1.0
+            }
+        },
+        {
+            "name": "ARN",
+            "description": "The second Aethyr",
+            "governors": ["SIODA", "GMNAA", "THOTANF"],
+            "attributes": {
+                "element": "air",
+                "power": 9,
+                "resonance": 0.9
+            }
+        },
+        {
+            "name": "ZOM",
+            "description": "The third Aethyr",
+            "governors": ["AXZIARG", "POTHNIR", "LZINOPO"],
+            "attributes": {
+                "element": "water",
+                "power": 8,
+                "resonance": 0.8
+            }
+        }
+    ],
+    "metadata": {
+        "version": "1.0.0",
+        "description": "Aethyr data for the Governor Generation system",
+        "last_updated": "2024-03-19"
+    }
+}
