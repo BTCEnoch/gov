@@ -16,9 +16,9 @@ from core.lighthouse.schemas.knowledge_schemas import (
 )
 
 from core.utils.common.file_ops import safe_json_read
-from core.utils.custom_logging import custom_logger
+from core.utils.custom_logging import setup_logger
 
-logger = custom_logger.setup_logger(__name__)
+logger = setup_logger(__name__)
 
 HERMETIC_JSON_PATH = Path("data/knowledge/archives/governor_archives/hermetic_tradition.json")
 

@@ -56,24 +56,82 @@
   },
   "visual_aspects": {
     "form": {
-      "name": "",
-      "description": ""
+      "name": "crystalline",
+      "description": "A prismatic, multi-faceted crystalline form representing the pure structure of truth, with fractal edges that constantly refract and reveal hidden dimensions of perception. The crystal embodies Air's intellectual clarity and LIN Aethyr's transformative wisdom."
     },
-    "color": "",
+    "color": {
+      "primary": "luminous silver-white",
+      "secondary": "electric blue",
+      "pattern": "shifting",
+      "intensity": "intense",
+      "reasoning": "Silver-white represents divine truth and purity, while electric blue symbolizes Air's mental clarity and the Sagittarian quest for higher understanding. The shifting pattern reflects the dynamic nature of truth and perception."
+    },
     "geometry": {
-      "patterns": [],
-      "complexity": ""
+      "patterns": [
+        "octahedron",
+        "merkaba",
+        "flower of life"
+      ],
+      "complexity": "multidimensional",
+      "motion": "phase_shifting",
+      "reasoning": "Octahedron represents perfect balance, Merkaba signifies spiritual transportation, Flower of Life embodies universal connection - all reflecting the Judge archetype's ability to see multiple perspectives simultaneously."
     },
     "environment": {
-      "effect_type": "",
-      "radius": "",
-      "intensity": ""
+      "effect_type": "truth-revealing luminescence",
+      "radius": "expansive",
+      "intensity": "overwhelming",
+      "reasoning": "Creates a field of absolute transparency where illusions dissolve and core essence is revealed, extending far beyond immediate physical space"
     },
-    "time_variations": "",
-    "energy_signature": "",
-    "symbol_set": "",
-    "light_shadow": "",
-    "special_properties": []
+    "time_variations": {
+      "cycle": "celestial",
+      "phases": [
+        "revelation",
+        "discernment",
+        "integration",
+        "transformation"
+      ],
+      "stability": "crystallized",
+      "reasoning": "Transcends linear time, operating from a perspective of eternal truth and cosmic wisdom"
+    },
+    "energy_signature": {
+      "type": "celestial",
+      "flow": "spiraling",
+      "intensity": "transcendent",
+      "reasoning": "Spiraling energy represents continuous revelation and ascension, moving between material and spiritual planes"
+    },
+    "symbol_set": {
+      "primary": "OSIDAIA_sigil",
+      "secondary": [
+        "LIN_glyph",
+        "Air_symbol",
+        "Temperance_tarot"
+      ],
+      "sacred_geometry": "Vesica Piscis",
+      "reasoning": "Symbols that represent intersection of divine truth, elemental wisdom, and transformative understanding"
+    },
+    "light_shadow": {
+      "light_aspect": "transcendent",
+      "shadow_aspect": "transformative void",
+      "balance": "light_dominant",
+      "reasoning": "Light reveals truth, while shadow represents the potential for profound inner change"
+    },
+    "special_properties": {
+      "properties": [
+        "quantum_transparency",
+        "multi-dimensional perception",
+        "instant karmic reflection"
+      ],
+      "reasoning": "Abilities that allow immediate insight into true nature of reality, beyond conventional perception"
+    }
   },
-  "governor_id": "OSIDAIA"
+  "governor_id": "OSIDAIA",
+  "ai_generation_metadata": {
+    "generated_by": "anthropic_batch_api",
+    "timestamp": "2025-01-11T20:00:00Z",
+    "model_used": "claude-3-5-haiku-20241022",
+    "generation_method": "optimized_batch_interview",
+    "unicode_cleaned": true,
+    "cost_optimized": true,
+    "prompt_caching_used": true
+  }
 }

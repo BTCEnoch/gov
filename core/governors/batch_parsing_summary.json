@@ -1,0 +1,19 @@
+{
+  "parsing_summary": {
+    "total_lines_processed": 91,
+    "successfully_parsed": 91,
+    "profiles_updated": 91,
+    "failed_operations": 0,
+    "success_rate": "100.0%"
+  },
+  "unicode_cleaning": {
+    "enabled": true,
+    "replacements_applied": 23,
+    "ascii_encoding": true
+  },
+  "file_info": {
+    "source_file": "msgbatch_01KBqjiHHnfY6aFnZQqG1G7L_results.jsonl",
+    "profiles_directory": "core\\governors\\profiles",
+    "total_governors": 91
+  }
+}
