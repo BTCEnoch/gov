@@ -23,6 +23,14 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 getrandom = { version = "0.2", features = ["js"] }
 wasm-bindgen-futures = "0.4"
+# TAP Protocol and Bitcoin integration dependencies
+sha2 = "0.10"
+hex = "0.4"
+# P2P networking simulation (for Kademlia DHT as per expert guidance)
+# Note: Using minimal deps per zero-dependency constraint
+rand = { version = "0.8", features = ["small_rng"] }
+# Autonomous economics and cryptography
+secp256k1 = { version = "0.28", features = ["rand"] }
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3"

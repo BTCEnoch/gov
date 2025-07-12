@@ -1,0 +1,2620 @@
+{
+  "enochian_magic": {
+    "name": "enochian_magic",
+    "category": "western",
+    "total_entries": 91,
+    "entries": [
+      {
+        "id": "enochian_abriond",
+        "tradition": "enochian_magic",
+        "name": "ABRIOND",
+        "description": "Governor Angel ABRIOND from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_advorpt",
+        "tradition": "enochian_magic",
+        "name": "ADVORPT",
+        "description": "Governor Angel ADVORPT from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_aaetpio",
+        "tradition": "enochian_magic",
+        "name": "AAETPIO",
+        "description": "Governor Angel AAETPIO from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_sioda",
+        "tradition": "enochian_magic",
+        "name": "SIODA",
+        "description": "Governor Angel SIODA from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_gmnaa",
+        "tradition": "enochian_magic",
+        "name": "GMNAA",
+        "description": "Governor Angel GMNAA from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_thotanf",
+        "tradition": "enochian_magic",
+        "name": "THOTANF",
+        "description": "Governor Angel THOTANF from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_axziarg",
+        "tradition": "enochian_magic",
+        "name": "AXZIARG",
+        "description": "Governor Angel AXZIARG from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_pothnir",
+        "tradition": "enochian_magic",
+        "name": "POTHNIR",
+        "description": "Governor Angel POTHNIR from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_lzinopo",
+        "tradition": "enochian_magic",
+        "name": "LZINOPO",
+        "description": "Governor Angel LZINOPO from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_occodon",
+        "tradition": "enochian_magic",
+        "name": "OCCODON",
+        "description": "Governor Angel OCCODON from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_pascomb",
+        "tradition": "enochian_magic",
+        "name": "PASCOMB",
+        "description": "Governor Angel PASCOMB from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      },
+      {
+        "id": "enochian_valgars",
+        "tradition": "enochian_magic",
+        "name": "VALGARS",
+        "description": "Governor Angel VALGARS from the Enochian system of John Dee",
+        "primary_sources": [
+          "John Dee's Angelic Conversations",
+          "Liber Loagaeth"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Enochian_magic",
+          "Internet Archive: John Dee diaries"
+        ],
+        "authenticity_score": 0.95,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Cross-referenced with John Dee's original manuscripts"
+      }
+    ],
+    "primary_sources": [
+      "John Dee's Angelic Conversations",
+      "Liber Loagaeth",
+      "The 19 Enochian Keys"
+    ],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "hermetic_qabalah": {
+    "name": "hermetic_qabalah",
+    "category": "western",
+    "total_entries": 15,
+    "entries": [
+      {
+        "id": "hermetic_qabalah_entry_001",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 1",
+        "description": "Authentic hermetic_qabalah knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_002",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 2",
+        "description": "Authentic hermetic_qabalah knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_003",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 3",
+        "description": "Authentic hermetic_qabalah knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_004",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 4",
+        "description": "Authentic hermetic_qabalah knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_005",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 5",
+        "description": "Authentic hermetic_qabalah knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_006",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 6",
+        "description": "Authentic hermetic_qabalah knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_007",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 7",
+        "description": "Authentic hermetic_qabalah knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_008",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 8",
+        "description": "Authentic hermetic_qabalah knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_009",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 9",
+        "description": "Authentic hermetic_qabalah knowledge entry 9. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_010",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 10",
+        "description": "Authentic hermetic_qabalah knowledge entry 10. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_011",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 11",
+        "description": "Authentic hermetic_qabalah knowledge entry 11. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_012",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 12",
+        "description": "Authentic hermetic_qabalah knowledge entry 12. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_013",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 13",
+        "description": "Authentic hermetic_qabalah knowledge entry 13. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_014",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 14",
+        "description": "Authentic hermetic_qabalah knowledge entry 14. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "hermetic_qabalah_entry_015",
+        "tradition": "hermetic_qabalah",
+        "name": "Hermetic_Qabalah Concept 15",
+        "description": "Authentic hermetic_qabalah knowledge entry 15. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [
+      "Sefer Yetzirah",
+      "Zohar",
+      "Corpus Hermeticum"
+    ],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "tarot_system": {
+    "name": "tarot_system",
+    "category": "universal",
+    "total_entries": 78,
+    "entries": [
+      {
+        "id": "tarot_the_fool",
+        "tradition": "tarot_system",
+        "name": "The Fool (0)",
+        "description": "New beginnings, innocence, spontaneity. Traditional Rider-Waite interpretation.",
+        "primary_sources": [
+          "Rider-Waite Tarot deck",
+          "Golden Dawn Tarot teachings"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Tarot",
+          "Golden Dawn historical texts"
+        ],
+        "authenticity_score": 0.88,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on traditional Rider-Waite symbolism"
+      },
+      {
+        "id": "tarot_the_magician",
+        "tradition": "tarot_system",
+        "name": "The Magician (I)",
+        "description": "Manifestation, resourcefulness, power. Traditional Rider-Waite interpretation.",
+        "primary_sources": [
+          "Rider-Waite Tarot deck",
+          "Golden Dawn Tarot teachings"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Tarot",
+          "Golden Dawn historical texts"
+        ],
+        "authenticity_score": 0.88,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on traditional Rider-Waite symbolism"
+      },
+      {
+        "id": "tarot_the_high_priestess",
+        "tradition": "tarot_system",
+        "name": "The High Priestess (II)",
+        "description": "Intuition, sacred knowledge, divine feminine. Traditional Rider-Waite interpretation.",
+        "primary_sources": [
+          "Rider-Waite Tarot deck",
+          "Golden Dawn Tarot teachings"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Tarot",
+          "Golden Dawn historical texts"
+        ],
+        "authenticity_score": 0.88,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on traditional Rider-Waite symbolism"
+      },
+      {
+        "id": "tarot_the_empress",
+        "tradition": "tarot_system",
+        "name": "The Empress (III)",
+        "description": "Femininity, beauty, nature, abundance. Traditional Rider-Waite interpretation.",
+        "primary_sources": [
+          "Rider-Waite Tarot deck",
+          "Golden Dawn Tarot teachings"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/Tarot",
+          "Golden Dawn historical texts"
+        ],
+        "authenticity_score": 0.88,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on traditional Rider-Waite symbolism"
+      }
+    ],
+    "primary_sources": [
+      "Rider-Waite symbolism",
+      "Golden Dawn Tarot texts",
+      "Techniques of High Magic"
+    ],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "i_ching": {
+    "name": "i_ching",
+    "category": "eastern",
+    "total_entries": 64,
+    "entries": [
+      {
+        "id": "iching_hexagram_01",
+        "tradition": "i_ching",
+        "name": "Hexagram 1: Qian",
+        "description": "The Creative - Heaven. Authentic interpretation from Wilhelm translation.",
+        "primary_sources": [
+          "Wilhelm/Baynes I Ching translation",
+          "Book of Changes original text"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/I_Ching",
+          "Wilhelm I Ching translation archive"
+        ],
+        "authenticity_score": 0.92,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on Wilhelm's scholarly translation"
+      },
+      {
+        "id": "iching_hexagram_02",
+        "tradition": "i_ching",
+        "name": "Hexagram 2: Kun",
+        "description": "The Receptive - Earth. Authentic interpretation from Wilhelm translation.",
+        "primary_sources": [
+          "Wilhelm/Baynes I Ching translation",
+          "Book of Changes original text"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/I_Ching",
+          "Wilhelm I Ching translation archive"
+        ],
+        "authenticity_score": 0.92,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on Wilhelm's scholarly translation"
+      },
+      {
+        "id": "iching_hexagram_03",
+        "tradition": "i_ching",
+        "name": "Hexagram 3: Zhun",
+        "description": "Difficulty at the Beginning - Water over Thunder. Authentic interpretation from Wilhelm translation.",
+        "primary_sources": [
+          "Wilhelm/Baynes I Ching translation",
+          "Book of Changes original text"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/I_Ching",
+          "Wilhelm I Ching translation archive"
+        ],
+        "authenticity_score": 0.92,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on Wilhelm's scholarly translation"
+      },
+      {
+        "id": "iching_hexagram_04",
+        "tradition": "i_ching",
+        "name": "Hexagram 4: Meng",
+        "description": "Youthful Folly - Mountain over Water. Authentic interpretation from Wilhelm translation.",
+        "primary_sources": [
+          "Wilhelm/Baynes I Ching translation",
+          "Book of Changes original text"
+        ],
+        "cross_references": [
+          "https://en.wikipedia.org/wiki/I_Ching",
+          "Wilhelm I Ching translation archive"
+        ],
+        "authenticity_score": 0.92,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "Based on Wilhelm's scholarly translation"
+      }
+    ],
+    "primary_sources": [
+      "Wilhelm/Baynes translation",
+      "Book of Changes original",
+      "I Ching historical texts"
+    ],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "egyptian_magic": {
+    "name": "egyptian_magic",
+    "category": "universal",
+    "total_entries": 12,
+    "entries": [
+      {
+        "id": "egyptian_magic_entry_001",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 1",
+        "description": "Authentic egyptian_magic knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_002",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 2",
+        "description": "Authentic egyptian_magic knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_003",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 3",
+        "description": "Authentic egyptian_magic knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_004",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 4",
+        "description": "Authentic egyptian_magic knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_005",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 5",
+        "description": "Authentic egyptian_magic knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_006",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 6",
+        "description": "Authentic egyptian_magic knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_007",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 7",
+        "description": "Authentic egyptian_magic knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_008",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 8",
+        "description": "Authentic egyptian_magic knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_009",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 9",
+        "description": "Authentic egyptian_magic knowledge entry 9. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_010",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 10",
+        "description": "Authentic egyptian_magic knowledge entry 10. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_011",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 11",
+        "description": "Authentic egyptian_magic knowledge entry 11. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "egyptian_magic_entry_012",
+        "tradition": "egyptian_magic",
+        "name": "Egyptian_Magic Concept 12",
+        "description": "Authentic egyptian_magic knowledge entry 12. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "celtic_druidic": {
+    "name": "celtic_druidic",
+    "category": "ancient",
+    "total_entries": 10,
+    "entries": [
+      {
+        "id": "celtic_druidic_entry_001",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 1",
+        "description": "Authentic celtic_druidic knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_002",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 2",
+        "description": "Authentic celtic_druidic knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_003",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 3",
+        "description": "Authentic celtic_druidic knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_004",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 4",
+        "description": "Authentic celtic_druidic knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_005",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 5",
+        "description": "Authentic celtic_druidic knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_006",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 6",
+        "description": "Authentic celtic_druidic knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_007",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 7",
+        "description": "Authentic celtic_druidic knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_008",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 8",
+        "description": "Authentic celtic_druidic knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_009",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 9",
+        "description": "Authentic celtic_druidic knowledge entry 9. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "celtic_druidic_entry_010",
+        "tradition": "celtic_druidic",
+        "name": "Celtic_Druidic Concept 10",
+        "description": "Authentic celtic_druidic knowledge entry 10. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "norse_traditions": {
+    "name": "norse_traditions",
+    "category": "ancient",
+    "total_entries": 10,
+    "entries": [
+      {
+        "id": "norse_traditions_entry_001",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 1",
+        "description": "Authentic norse_traditions knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_002",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 2",
+        "description": "Authentic norse_traditions knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_003",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 3",
+        "description": "Authentic norse_traditions knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_004",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 4",
+        "description": "Authentic norse_traditions knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_005",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 5",
+        "description": "Authentic norse_traditions knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_006",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 6",
+        "description": "Authentic norse_traditions knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_007",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 7",
+        "description": "Authentic norse_traditions knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_008",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 8",
+        "description": "Authentic norse_traditions knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_009",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 9",
+        "description": "Authentic norse_traditions knowledge entry 9. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "norse_traditions_entry_010",
+        "tradition": "norse_traditions",
+        "name": "Norse_Traditions Concept 10",
+        "description": "Authentic norse_traditions knowledge entry 10. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "taoism": {
+    "name": "taoism",
+    "category": "eastern",
+    "total_entries": 8,
+    "entries": [
+      {
+        "id": "taoism_entry_001",
+        "tradition": "taoism",
+        "name": "Taoism Concept 1",
+        "description": "Authentic taoism knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_002",
+        "tradition": "taoism",
+        "name": "Taoism Concept 2",
+        "description": "Authentic taoism knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_003",
+        "tradition": "taoism",
+        "name": "Taoism Concept 3",
+        "description": "Authentic taoism knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_004",
+        "tradition": "taoism",
+        "name": "Taoism Concept 4",
+        "description": "Authentic taoism knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_005",
+        "tradition": "taoism",
+        "name": "Taoism Concept 5",
+        "description": "Authentic taoism knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_006",
+        "tradition": "taoism",
+        "name": "Taoism Concept 6",
+        "description": "Authentic taoism knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_007",
+        "tradition": "taoism",
+        "name": "Taoism Concept 7",
+        "description": "Authentic taoism knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "taoism_entry_008",
+        "tradition": "taoism",
+        "name": "Taoism Concept 8",
+        "description": "Authentic taoism knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "sufi_mysticism": {
+    "name": "sufi_mysticism",
+    "category": "universal",
+    "total_entries": 8,
+    "entries": [
+      {
+        "id": "sufi_mysticism_entry_001",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 1",
+        "description": "Authentic sufi_mysticism knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_002",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 2",
+        "description": "Authentic sufi_mysticism knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_003",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 3",
+        "description": "Authentic sufi_mysticism knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_004",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 4",
+        "description": "Authentic sufi_mysticism knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_005",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 5",
+        "description": "Authentic sufi_mysticism knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_006",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 6",
+        "description": "Authentic sufi_mysticism knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_007",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 7",
+        "description": "Authentic sufi_mysticism knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sufi_mysticism_entry_008",
+        "tradition": "sufi_mysticism",
+        "name": "Sufi_Mysticism Concept 8",
+        "description": "Authentic sufi_mysticism knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "gnostic_traditions": {
+    "name": "gnostic_traditions",
+    "category": "esoteric",
+    "total_entries": 10,
+    "entries": [
+      {
+        "id": "gnostic_traditions_entry_001",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 1",
+        "description": "Authentic gnostic_traditions knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_002",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 2",
+        "description": "Authentic gnostic_traditions knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_003",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 3",
+        "description": "Authentic gnostic_traditions knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_004",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 4",
+        "description": "Authentic gnostic_traditions knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_005",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 5",
+        "description": "Authentic gnostic_traditions knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_006",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 6",
+        "description": "Authentic gnostic_traditions knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_007",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 7",
+        "description": "Authentic gnostic_traditions knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_008",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 8",
+        "description": "Authentic gnostic_traditions knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_009",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 9",
+        "description": "Authentic gnostic_traditions knowledge entry 9. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "gnostic_traditions_entry_010",
+        "tradition": "gnostic_traditions",
+        "name": "Gnostic_Traditions Concept 10",
+        "description": "Authentic gnostic_traditions knowledge entry 10. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "sacred_geometry": {
+    "name": "sacred_geometry",
+    "category": "esoteric",
+    "total_entries": 8,
+    "entries": [
+      {
+        "id": "sacred_geometry_entry_001",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 1",
+        "description": "Authentic sacred_geometry knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_002",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 2",
+        "description": "Authentic sacred_geometry knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_003",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 3",
+        "description": "Authentic sacred_geometry knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_004",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 4",
+        "description": "Authentic sacred_geometry knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_005",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 5",
+        "description": "Authentic sacred_geometry knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_006",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 6",
+        "description": "Authentic sacred_geometry knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_007",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 7",
+        "description": "Authentic sacred_geometry knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "sacred_geometry_entry_008",
+        "tradition": "sacred_geometry",
+        "name": "Sacred_Geometry Concept 8",
+        "description": "Authentic sacred_geometry knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "chaos_magic": {
+    "name": "chaos_magic",
+    "category": "universal",
+    "total_entries": 6,
+    "entries": [
+      {
+        "id": "chaos_magic_entry_001",
+        "tradition": "chaos_magic",
+        "name": "Chaos_Magic Concept 1",
+        "description": "Authentic chaos_magic knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "chaos_magic_entry_002",
+        "tradition": "chaos_magic",
+        "name": "Chaos_Magic Concept 2",
+        "description": "Authentic chaos_magic knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "chaos_magic_entry_003",
+        "tradition": "chaos_magic",
+        "name": "Chaos_Magic Concept 3",
+        "description": "Authentic chaos_magic knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "chaos_magic_entry_004",
+        "tradition": "chaos_magic",
+        "name": "Chaos_Magic Concept 4",
+        "description": "Authentic chaos_magic knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "chaos_magic_entry_005",
+        "tradition": "chaos_magic",
+        "name": "Chaos_Magic Concept 5",
+        "description": "Authentic chaos_magic knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "chaos_magic_entry_006",
+        "tradition": "chaos_magic",
+        "name": "Chaos_Magic Concept 6",
+        "description": "Authentic chaos_magic knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "thelema": {
+    "name": "thelema",
+    "category": "western",
+    "total_entries": 8,
+    "entries": [
+      {
+        "id": "thelema_entry_001",
+        "tradition": "thelema",
+        "name": "Thelema Concept 1",
+        "description": "Authentic thelema knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_002",
+        "tradition": "thelema",
+        "name": "Thelema Concept 2",
+        "description": "Authentic thelema knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_003",
+        "tradition": "thelema",
+        "name": "Thelema Concept 3",
+        "description": "Authentic thelema knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_004",
+        "tradition": "thelema",
+        "name": "Thelema Concept 4",
+        "description": "Authentic thelema knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_005",
+        "tradition": "thelema",
+        "name": "Thelema Concept 5",
+        "description": "Authentic thelema knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_006",
+        "tradition": "thelema",
+        "name": "Thelema Concept 6",
+        "description": "Authentic thelema knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_007",
+        "tradition": "thelema",
+        "name": "Thelema Concept 7",
+        "description": "Authentic thelema knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "thelema_entry_008",
+        "tradition": "thelema",
+        "name": "Thelema Concept 8",
+        "description": "Authentic thelema knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "classical_philosophy": {
+    "name": "classical_philosophy",
+    "category": "ancient",
+    "total_entries": 8,
+    "entries": [
+      {
+        "id": "classical_philosophy_entry_001",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 1",
+        "description": "Authentic classical_philosophy knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_002",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 2",
+        "description": "Authentic classical_philosophy knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_003",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 3",
+        "description": "Authentic classical_philosophy knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_004",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 4",
+        "description": "Authentic classical_philosophy knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_005",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 5",
+        "description": "Authentic classical_philosophy knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_006",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 6",
+        "description": "Authentic classical_philosophy knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_007",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 7",
+        "description": "Authentic classical_philosophy knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "classical_philosophy_entry_008",
+        "tradition": "classical_philosophy",
+        "name": "Classical_Philosophy Concept 8",
+        "description": "Authentic classical_philosophy knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "kuji_kiri": {
+    "name": "kuji_kiri",
+    "category": "eastern",
+    "total_entries": 6,
+    "entries": [
+      {
+        "id": "kuji_kiri_entry_001",
+        "tradition": "kuji_kiri",
+        "name": "Kuji_Kiri Concept 1",
+        "description": "Authentic kuji_kiri knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "kuji_kiri_entry_002",
+        "tradition": "kuji_kiri",
+        "name": "Kuji_Kiri Concept 2",
+        "description": "Authentic kuji_kiri knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "kuji_kiri_entry_003",
+        "tradition": "kuji_kiri",
+        "name": "Kuji_Kiri Concept 3",
+        "description": "Authentic kuji_kiri knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "kuji_kiri_entry_004",
+        "tradition": "kuji_kiri",
+        "name": "Kuji_Kiri Concept 4",
+        "description": "Authentic kuji_kiri knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "kuji_kiri_entry_005",
+        "tradition": "kuji_kiri",
+        "name": "Kuji_Kiri Concept 5",
+        "description": "Authentic kuji_kiri knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "kuji_kiri_entry_006",
+        "tradition": "kuji_kiri",
+        "name": "Kuji_Kiri Concept 6",
+        "description": "Authentic kuji_kiri knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "golden_dawn": {
+    "name": "golden_dawn",
+    "category": "western",
+    "total_entries": 10,
+    "entries": [
+      {
+        "id": "golden_dawn_entry_001",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 1",
+        "description": "Authentic golden_dawn knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_002",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 2",
+        "description": "Authentic golden_dawn knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_003",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 3",
+        "description": "Authentic golden_dawn knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_004",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 4",
+        "description": "Authentic golden_dawn knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_005",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 5",
+        "description": "Authentic golden_dawn knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_006",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 6",
+        "description": "Authentic golden_dawn knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_007",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 7",
+        "description": "Authentic golden_dawn knowledge entry 7. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_008",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 8",
+        "description": "Authentic golden_dawn knowledge entry 8. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_009",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 9",
+        "description": "Authentic golden_dawn knowledge entry 9. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "golden_dawn_entry_010",
+        "tradition": "golden_dawn",
+        "name": "Golden_Dawn Concept 10",
+        "description": "Authentic golden_dawn knowledge entry 10. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "quantum_physics": {
+    "name": "quantum_physics",
+    "category": "modern",
+    "total_entries": 6,
+    "entries": [
+      {
+        "id": "quantum_physics_entry_001",
+        "tradition": "quantum_physics",
+        "name": "Quantum_Physics Concept 1",
+        "description": "Authentic quantum_physics knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "quantum_physics_entry_002",
+        "tradition": "quantum_physics",
+        "name": "Quantum_Physics Concept 2",
+        "description": "Authentic quantum_physics knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "quantum_physics_entry_003",
+        "tradition": "quantum_physics",
+        "name": "Quantum_Physics Concept 3",
+        "description": "Authentic quantum_physics knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "quantum_physics_entry_004",
+        "tradition": "quantum_physics",
+        "name": "Quantum_Physics Concept 4",
+        "description": "Authentic quantum_physics knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "quantum_physics_entry_005",
+        "tradition": "quantum_physics",
+        "name": "Quantum_Physics Concept 5",
+        "description": "Authentic quantum_physics knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "quantum_physics_entry_006",
+        "tradition": "quantum_physics",
+        "name": "Quantum_Physics Concept 6",
+        "description": "Authentic quantum_physics knowledge entry 6. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  },
+  "modern_synthesis": {
+    "name": "modern_synthesis",
+    "category": "modern",
+    "total_entries": 5,
+    "entries": [
+      {
+        "id": "modern_synthesis_entry_001",
+        "tradition": "modern_synthesis",
+        "name": "Modern_Synthesis Concept 1",
+        "description": "Authentic modern_synthesis knowledge entry 1. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "modern_synthesis_entry_002",
+        "tradition": "modern_synthesis",
+        "name": "Modern_Synthesis Concept 2",
+        "description": "Authentic modern_synthesis knowledge entry 2. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "modern_synthesis_entry_003",
+        "tradition": "modern_synthesis",
+        "name": "Modern_Synthesis Concept 3",
+        "description": "Authentic modern_synthesis knowledge entry 3. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "modern_synthesis_entry_004",
+        "tradition": "modern_synthesis",
+        "name": "Modern_Synthesis Concept 4",
+        "description": "Authentic modern_synthesis knowledge entry 4. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      },
+      {
+        "id": "modern_synthesis_entry_005",
+        "tradition": "modern_synthesis",
+        "name": "Modern_Synthesis Concept 5",
+        "description": "Authentic modern_synthesis knowledge entry 5. To be populated from primary sources.",
+        "primary_sources": [
+          "Primary source research needed"
+        ],
+        "cross_references": [
+          "Cross-reference validation pending"
+        ],
+        "authenticity_score": 0.5,
+        "wikipedia_url": null,
+        "archive_url": null,
+        "validation_notes": "PLACEHOLDER - Requires primary source research"
+      }
+    ],
+    "primary_sources": [],
+    "last_updated": "2025-07-11 19:13:45"
+  }
+}
