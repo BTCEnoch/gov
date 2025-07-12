@@ -31,6 +31,8 @@ hex = "0.4"
 rand = { version = "0.8", features = ["small_rng"] }
 # Autonomous economics and cryptography
 secp256k1 = { version = "0.28", features = ["rand"] }
+# Additional dependencies for gap resolution
+hex = "0.4"
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3"

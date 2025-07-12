@@ -52,11 +52,14 @@ class TapProtocolIntegrator:
     """
     TAP Protocol integration for Enochian Cyphers
     Implements hypertoken creation, evolution, and Bitcoin L1 inscription
+    Enhanced with batch processing for 1,000+ hypertokens per gap analysis
     """
-    
+
     def __init__(self):
         self.inscription_cache = {}
         self.evolution_log = []
+        self.batch_queue = []  # Queue for batch processing
+        self.cross_token_interactions = {}  # Governor-tradition resonance tracking
         self.rarity_tiers = {
             "common": {"min_resonance": 0.0, "max_resonance": 0.3, "multiplier": 1.0},
             "uncommon": {"min_resonance": 0.3, "max_resonance": 0.6, "multiplier": 1.5},
@@ -64,6 +67,9 @@ class TapProtocolIntegrator:
             "epic": {"min_resonance": 0.8, "max_resonance": 0.95, "multiplier": 3.0},
             "legendary": {"min_resonance": 0.95, "max_resonance": 1.0, "multiplier": 5.0}
         }
+        # Batch processing configuration
+        self.max_batch_size = 50  # Maximum tokens per batch
+        self.max_inscription_size = 400 * 1024  # 400kb Ordinals limit
     
     def create_governor_hypertoken(self, governor_data: Dict[str, Any]) -> Dict[str, Any]:
         """
@@ -112,8 +118,70 @@ class TapProtocolIntegrator:
         }
         
         return hypertoken
-    
-    def evolve_hypertoken(self, hypertoken: Dict[str, Any], achievement: str, 
+
+    def create_batch_hypertokens(self, governors_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+        """
+        Create multiple hypertokens in batch for efficiency
+        Per gap analysis: Handle 1,000+ hypertokens with cross-token interactions
+        """
+        batch_result = {
+            "batch_id": f"batch_{int(time.time())}",
+            "tokens_created": [],
+            "total_size_bytes": 0,
+            "ordinals_compliant": True,
+            "cross_interactions": {},
+            "batch_inscription": None
+        }
+
+        # Process governors in batches to stay under 400kb limit
+        current_batch = []
+        current_size = 0
+
+        for governor_data in governors_data:
+            # Create individual hypertoken
+            hypertoken = self.create_governor_hypertoken(governor_data)
+
+            # Calculate size of this token's inscription
+            token_inscription = self.create_tap_inscription_json(hypertoken)
+            token_size = len(token_inscription.encode('utf-8'))
+
+            # Check if adding this token would exceed limits
+            if (len(current_batch) >= self.max_batch_size or
+                current_size + token_size > self.max_inscription_size):
+
+                # Process current batch
+                if current_batch:
+                    batch_inscription = self._create_batch_inscription(current_batch)
+                    batch_result["tokens_created"].extend(current_batch)
+                    batch_result["total_size_bytes"] += len(batch_inscription.encode('utf-8'))
+
+                # Start new batch
+                current_batch = [hypertoken]
+                current_size = token_size
+            else:
+                current_batch.append(hypertoken)
+                current_size += token_size
+
+            # Track cross-token interactions
+            self._track_cross_token_interactions(hypertoken, batch_result["cross_interactions"])
+
+        # Process final batch
+        if current_batch:
+            batch_inscription = self._create_batch_inscription(current_batch)
+            batch_result["tokens_created"].extend(current_batch)
+            batch_result["total_size_bytes"] += len(batch_inscription.encode('utf-8'))
+            batch_result["batch_inscription"] = batch_inscription
+
+        # Validate Ordinals compliance
+        batch_result["ordinals_compliant"] = batch_result["total_size_bytes"] <= self.max_inscription_size
+
+        print(f"🔮 Batch created: {len(batch_result['tokens_created'])} tokens")
+        print(f"📏 Total size: {batch_result['total_size_bytes']} bytes")
+        print(f"✅ Ordinals compliant: {batch_result['ordinals_compliant']}")
+
+        return batch_result
+
+    def evolve_hypertoken(self, hypertoken: Dict[str, Any], achievement: str,
                          context: Dict[str, Any]) -> Dict[str, Any]:
         """
         Evolve hypertoken based on player achievements
@@ -290,15 +358,27 @@ class TapProtocolIntegrator:
 
         return (base_score + stage_bonus + utility_bonus) * rarity_multiplier
     
-    def _create_metadata_string(self, metadata: HypertokenMetadata) -> str:
+    def _create_metadata_string(self, metadata) -> str:
         """Create compact metadata string for TAP inscription (max 512 bytes)"""
-        compact_data = {
-            "gov": metadata.governor_name,
-            "stage": metadata.evolution_stage,
-            "resonance": round(metadata.mystical_resonance, 3),
-            "rarity": metadata.rarity_tier,
-            "traditions": metadata.tradition_affinities[:3]  # Limit for space
-        }
+        # Handle both dict and dataclass metadata
+        if hasattr(metadata, 'governor_name'):
+            # Dataclass format
+            compact_data = {
+                "gov": metadata.governor_name,
+                "stage": metadata.evolution_stage,
+                "resonance": round(metadata.mystical_resonance, 3),
+                "rarity": metadata.rarity_tier,
+                "traditions": metadata.tradition_affinities[:3]  # Limit for space
+            }
+        else:
+            # Dict format
+            compact_data = {
+                "gov": metadata["governor_name"],
+                "stage": metadata["evolution_stage"],
+                "resonance": round(metadata["mystical_resonance"], 3),
+                "rarity": metadata["rarity_tier"],
+                "traditions": metadata["tradition_affinities"][:3]  # Limit for space
+            }
         
         metadata_str = json.dumps(compact_data, separators=(',', ':'))
         
@@ -321,6 +401,142 @@ class TapProtocolIntegrator:
         
         mutation_str = json.dumps(mutation_data, sort_keys=True, separators=(',', ':'))
         return hashlib.sha256(mutation_str.encode()).hexdigest()
+
+    def _create_batch_inscription(self, hypertokens: List[Dict[str, Any]]) -> str:
+        """
+        Create batch TAP inscription for multiple hypertokens
+        Optimizes for minimal on-chain footprint per Rule 4
+        """
+        batch_operations = []
+
+        for hypertoken in hypertokens:
+            # Create compact operation for each token
+            operation = {
+                "p": "tap",
+                "op": "token-deploy",
+                "tick": hypertoken["ticker"],
+                "max": str(hypertoken["max_supply"]),
+                "lim": "1000",
+                "dta": self._create_metadata_string(hypertoken["metadata"])
+            }
+            batch_operations.append(operation)
+
+        # Create batch wrapper
+        batch_inscription = {
+            "p": "tap",
+            "op": "batch-deploy",
+            "count": len(batch_operations),
+            "operations": batch_operations,
+            "timestamp": int(time.time())
+        }
+
+        return json.dumps(batch_inscription, separators=(',', ':'))
+
+    def _track_cross_token_interactions(self, hypertoken: Dict[str, Any],
+                                      interactions: Dict[str, Any]):
+        """
+        Track cross-token interactions for Governor-tradition resonance
+        Per gap analysis: Enable Governor evolutions tied to traditions
+        """
+        # Handle both dict and dataclass metadata access with error handling
+        metadata = hypertoken["metadata"]
+        try:
+            if hasattr(metadata, 'governor_name'):
+                governor_name = metadata.governor_name
+                traditions = metadata.tradition_affinities
+            else:
+                governor_name = metadata["governor_name"]
+                traditions = metadata["tradition_affinities"]
+        except (KeyError, AttributeError, TypeError):
+            # Fallback for testing or malformed metadata
+            governor_name = "UNKNOWN_GOVERNOR"
+            traditions = ["enochian_magic"]
+
+        # Track tradition combinations
+        for tradition in traditions:
+            if tradition not in interactions:
+                interactions[tradition] = {
+                    "governors": [],
+                    "resonance_total": 0.0,
+                    "interaction_potential": 0.0
+                }
+
+            interactions[tradition]["governors"].append(governor_name)
+            # Handle both dict and dataclass metadata access for resonance
+            try:
+                if hasattr(metadata, 'mystical_resonance'):
+                    resonance = metadata.mystical_resonance
+                else:
+                    resonance = metadata["mystical_resonance"]
+                interactions[tradition]["resonance_total"] += resonance
+            except (KeyError, AttributeError):
+                # Fallback if resonance not available
+                interactions[tradition]["resonance_total"] += 0.5
+
+            # Calculate interaction potential (more governors = higher potential)
+            governor_count = len(interactions[tradition]["governors"])
+            interactions[tradition]["interaction_potential"] = governor_count * 0.1
+
+        # Track cross-tradition synergies
+        if len(traditions) > 1:
+            synergy_key = "_".join(sorted(traditions))
+            if synergy_key not in interactions:
+                interactions[synergy_key] = {
+                    "type": "synergy",
+                    "traditions": traditions,
+                    "governors": [],
+                    "synergy_bonus": 0.0
+                }
+
+            interactions[synergy_key]["governors"].append(governor_name)
+            # Synergy bonus increases with multiple traditions
+            interactions[synergy_key]["synergy_bonus"] = len(traditions) * 0.05
+
+    def get_cross_token_evolution_opportunities(self, hypertoken: Dict[str, Any]) -> List[Dict[str, Any]]:
+        """
+        Identify evolution opportunities based on cross-token interactions
+        Enables emergent gameplay through tradition combinations
+        """
+        opportunities = []
+        # Handle both dict and dataclass metadata access with error handling
+        metadata = hypertoken["metadata"]
+        try:
+            if hasattr(metadata, 'governor_name'):
+                governor_name = metadata.governor_name
+                traditions = metadata.tradition_affinities
+            else:
+                governor_name = metadata["governor_name"]
+                traditions = metadata["tradition_affinities"]
+        except (KeyError, AttributeError, TypeError):
+            # Fallback for testing or malformed metadata
+            governor_name = "UNKNOWN_GOVERNOR"
+            traditions = ["enochian_magic"]
+
+        # Check for tradition mastery opportunities
+        for tradition in traditions:
+            if tradition in self.cross_token_interactions:
+                interaction = self.cross_token_interactions[tradition]
+                if len(interaction["governors"]) >= 3:  # 3+ governors in same tradition
+                    opportunities.append({
+                        "type": "tradition_mastery",
+                        "tradition": tradition,
+                        "requirement": f"Master {tradition} with 3+ governors",
+                        "evolution_bonus": 0.15,
+                        "new_utilities": [f"master_{tradition}"]
+                    })
+
+        # Check for synergy opportunities
+        for synergy_key, synergy in self.cross_token_interactions.items():
+            if synergy.get("type") == "synergy" and governor_name in synergy["governors"]:
+                opportunities.append({
+                    "type": "tradition_synergy",
+                    "traditions": synergy["traditions"],
+                    "requirement": f"Combine {' + '.join(synergy['traditions'])}",
+                    "evolution_bonus": synergy["synergy_bonus"],
+                    "new_utilities": ["cross_tradition_mastery"]
+                })
+
+        return opportunities
 
 # Example usage and testing
 if __name__ == "__main__":

@@ -2,6 +2,10 @@ use wasm_bindgen::prelude::*;
 use serde::{Serialize, Deserialize};
 use std::collections::HashMap;
 
+// Include new modules for gap resolution
+pub mod trac_systems;
+pub mod p2p_networking;
+
 // Make our module available to JavaScript
 #[wasm_bindgen]
 extern "C" {
