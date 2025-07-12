@@ -1,0 +1,229 @@
+{
+  "version": "1.0",
+  "categories": {
+    "form": {
+      "name": "Form and Manifestation",
+      "description": "Basic form and appearance characteristics",
+      "questions": [
+        {
+          "id": "form_base_type",
+          "question": "What is the primary form type of the governor?",
+          "description": "The fundamental form that best describes the governor's appearance",
+          "options": [
+            "geometric",
+            "organic",
+            "abstract",
+            "crystalline",
+            "fluid",
+            "composite"
+          ]
+        },
+        {
+          "id": "form_complexity",
+          "question": "How complex is the form's structure?",
+          "description": "The level of intricacy in the form's composition",
+          "options": [
+            "simple",
+            "moderate",
+            "complex",
+            "highly_complex",
+            "metamorphic"
+          ]
+        },
+        {
+          "id": "form_symmetry",
+          "question": "What type of symmetry does the form exhibit?",
+          "description": "The primary symmetrical characteristics of the form",
+          "options": [
+            "bilateral",
+            "radial",
+            "rotational",
+            "fractal",
+            "asymmetric",
+            "dynamic"
+          ]
+        }
+      ]
+    },
+    "color": {
+      "name": "Color and Light",
+      "description": "Color manifestation and light interaction characteristics",
+      "questions": [
+        {
+          "id": "color_primary",
+          "question": "What is the primary color of the governor's manifestation?",
+          "description": "The dominant color that represents the governor's essence",
+          "options": [
+            "golden",
+            "silver",
+            "azure",
+            "emerald",
+            "crimson",
+            "violet",
+            "obsidian"
+          ]
+        },
+        {
+          "id": "color_pattern",
+          "question": "How does the color manifest and change?",
+          "description": "The pattern and behavior of the color manifestation",
+          "options": [
+            "static",
+            "pulsing",
+            "shifting",
+            "radiating",
+            "prismatic",
+            "phase_changing"
+          ]
+        },
+        {
+          "id": "color_intensity",
+          "question": "What is the intensity of the color manifestation?",
+          "description": "The strength and vibrancy of the color",
+          "options": [
+            "subtle",
+            "moderate",
+            "bright",
+            "intense",
+            "overwhelming",
+            "transcendent"
+          ]
+        }
+      ]
+    },
+    "geometry": {
+      "name": "Sacred Geometry",
+      "description": "Geometric patterns and mathematical principles",
+      "questions": [
+        {
+          "id": "geometry_pattern",
+          "question": "What sacred geometric pattern is most prominent?",
+          "description": "The primary geometric structure present",
+          "options": [
+            "flower_of_life",
+            "merkaba",
+            "metatron_cube",
+            "sri_yantra",
+            "torus",
+            "vesica_piscis"
+          ]
+        },
+        {
+          "id": "geometry_complexity",
+          "question": "How complex are the geometric patterns?",
+          "description": "The level of intricacy in the geometric manifestation",
+          "options": [
+            "singular",
+            "layered",
+            "interwoven",
+            "multidimensional",
+            "transcendent"
+          ]
+        },
+        {
+          "id": "geometry_motion",
+          "question": "How do the geometric patterns move or transform?",
+          "description": "The dynamic aspects of the geometric manifestation",
+          "options": [
+            "static",
+            "rotating",
+            "pulsing",
+            "flowing",
+            "phase_shifting",
+            "dimension_folding"
+          ]
+        }
+      ]
+    },
+    "temporal": {
+      "name": "Temporal Patterns",
+      "description": "Time-related manifestation characteristics",
+      "questions": [
+        {
+          "id": "temporal_cycle",
+          "question": "What is the primary temporal cycle of the governor?",
+          "description": "The fundamental time pattern that governs manifestation",
+          "options": [
+            "solar",
+            "lunar",
+            "celestial",
+            "quantum",
+            "eternal",
+            "spiral"
+          ]
+        },
+        {
+          "id": "temporal_flow",
+          "question": "How does the governor interact with time?",
+          "description": "The way time flows and behaves around the governor",
+          "options": [
+            "linear",
+            "cyclical",
+            "spiral",
+            "quantum",
+            "transcendent",
+            "paradoxical"
+          ]
+        },
+        {
+          "id": "temporal_stability",
+          "question": "How stable is the temporal manifestation?",
+          "description": "The consistency and predictability of temporal patterns",
+          "options": [
+            "unstable",
+            "fluctuating",
+            "stable",
+            "crystallized",
+            "eternal",
+            "absolute"
+          ]
+        }
+      ]
+    },
+    "energy": {
+      "name": "Energy Signatures",
+      "description": "Energy patterns and resonance characteristics",
+      "questions": [
+        {
+          "id": "energy_type",
+          "question": "What is the primary energy signature type?",
+          "description": "The fundamental nature of the governor's energy",
+          "options": [
+            "elemental",
+            "celestial",
+            "ethereal",
+            "quantum",
+            "primordial",
+            "transcendent"
+          ]
+        },
+        {
+          "id": "energy_flow",
+          "question": "How does the energy flow and manifest?",
+          "description": "The pattern and behavior of energy movement",
+          "options": [
+            "radiating",
+            "spiraling",
+            "pulsing",
+            "flowing",
+            "crystalline",
+            "quantum_field"
+          ]
+        },
+        {
+          "id": "energy_intensity",
+          "question": "What is the intensity of the energy signature?",
+          "description": "The strength and impact of the energy manifestation",
+          "options": [
+            "subtle",
+            "moderate",
+            "strong",
+            "intense",
+            "overwhelming",
+            "transcendent"
+          ]
+        }
+      ]
+    }
+  }
+} 

@@ -62,17 +62,17 @@
     "color": "",
     "geometry": {
       "patterns": [],
-      "complexity": null
+      "complexity": ""
     },
     "environment": {
-      "effect_type": null,
-      "radius": null,
-      "intensity": null
+      "effect_type": "",
+      "radius": "",
+      "intensity": ""
     },
-    "time_variations": null,
-    "energy_signature": null,
-    "symbol_set": null,
-    "light_shadow": null,
+    "time_variations": "",
+    "energy_signature": "",
+    "symbol_set": "",
+    "light_shadow": "",
     "special_properties": []
   },
   "governor_id": "PASCOMB"

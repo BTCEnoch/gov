@@ -1,0 +1,184 @@
+{
+  "version": "1.0",
+  "form_mappings": {
+    "form_base_type": {
+      "geometric": {
+        "base_form": "geometric",
+        "description": "Pure geometric forms with precise mathematical proportions"
+      },
+      "organic": {
+        "base_form": "organic",
+        "description": "Flowing, natural forms reminiscent of living structures"
+      },
+      "abstract": {
+        "base_form": "abstract",
+        "description": "Non-representational forms that defy conventional categorization"
+      },
+      "crystalline": {
+        "base_form": "crystalline",
+        "description": "Faceted, crystal-like structures with regular patterns"
+      },
+      "fluid": {
+        "base_form": "fluid",
+        "description": "Liquid-like forms in constant smooth motion"
+      },
+      "composite": {
+        "base_form": "composite",
+        "description": "Complex forms combining multiple form types"
+      }
+    },
+    "form_complexity": {
+      "simple": {
+        "complexity_level": 1,
+        "detail_density": "low"
+      },
+      "moderate": {
+        "complexity_level": 2,
+        "detail_density": "medium"
+      },
+      "complex": {
+        "complexity_level": 3,
+        "detail_density": "high"
+      },
+      "highly_complex": {
+        "complexity_level": 4,
+        "detail_density": "very_high"
+      },
+      "metamorphic": {
+        "complexity_level": 5,
+        "detail_density": "dynamic"
+      }
+    }
+  },
+  "color_mappings": {
+    "color_primary": {
+      "golden": {
+        "rgb": [255, 215, 0],
+        "energy": "solar",
+        "vibration": "high"
+      },
+      "silver": {
+        "rgb": [192, 192, 192],
+        "energy": "lunar",
+        "vibration": "medium"
+      },
+      "azure": {
+        "rgb": [0, 127, 255],
+        "energy": "celestial",
+        "vibration": "high"
+      },
+      "emerald": {
+        "rgb": [0, 168, 107],
+        "energy": "natural",
+        "vibration": "medium"
+      },
+      "crimson": {
+        "rgb": [220, 20, 60],
+        "energy": "vital",
+        "vibration": "intense"
+      },
+      "violet": {
+        "rgb": [138, 43, 226],
+        "energy": "spiritual",
+        "vibration": "very_high"
+      },
+      "obsidian": {
+        "rgb": [0, 0, 0],
+        "energy": "void",
+        "vibration": "deep"
+      }
+    },
+    "color_pattern": {
+      "static": {
+        "pattern_type": "fixed",
+        "transition_speed": 0
+      },
+      "pulsing": {
+        "pattern_type": "rhythmic",
+        "transition_speed": 2
+      },
+      "shifting": {
+        "pattern_type": "fluid",
+        "transition_speed": 3
+      },
+      "radiating": {
+        "pattern_type": "emanating",
+        "transition_speed": 2
+      },
+      "prismatic": {
+        "pattern_type": "spectrum",
+        "transition_speed": 4
+      },
+      "phase_changing": {
+        "pattern_type": "transforming",
+        "transition_speed": 5
+      }
+    }
+  },
+  "geometry_mappings": {
+    "geometry_pattern": {
+      "flower_of_life": {
+        "base_pattern": "flower_of_life",
+        "dimension": 2,
+        "symmetry_points": 6
+      },
+      "merkaba": {
+        "base_pattern": "merkaba",
+        "dimension": 3,
+        "symmetry_points": 8
+      },
+      "metatron_cube": {
+        "base_pattern": "metatron_cube",
+        "dimension": 3,
+        "symmetry_points": 13
+      },
+      "sri_yantra": {
+        "base_pattern": "sri_yantra",
+        "dimension": 2,
+        "symmetry_points": 9
+      },
+      "torus": {
+        "base_pattern": "torus",
+        "dimension": 3,
+        "symmetry_points": "infinite"
+      },
+      "vesica_piscis": {
+        "base_pattern": "vesica_piscis",
+        "dimension": 2,
+        "symmetry_points": 2
+      }
+    },
+    "geometry_motion": {
+      "static": {
+        "motion_type": "fixed",
+        "speed": 0,
+        "complexity": 1
+      },
+      "rotating": {
+        "motion_type": "rotation",
+        "speed": 2,
+        "complexity": 2
+      },
+      "pulsing": {
+        "motion_type": "expansion",
+        "speed": 3,
+        "complexity": 2
+      },
+      "flowing": {
+        "motion_type": "fluid",
+        "speed": 3,
+        "complexity": 3
+      },
+      "phase_shifting": {
+        "motion_type": "transformation",
+        "speed": 4,
+        "complexity": 4
+      },
+      "dimension_folding": {
+        "motion_type": "dimensional",
+        "speed": 5,
+        "complexity": 5
+      }
+    }
+  }
+} 

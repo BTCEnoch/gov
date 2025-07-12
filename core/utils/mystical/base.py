@@ -1,94 +1,149 @@
 """
-Base classes for mystical systems with Bitcoin integration
+Base utilities for mystical operations
 """
 
-from abc import ABC, abstractmethod
-from typing import Any, Dict, List, Optional, Union
-from pydantic import BaseModel, Field
+import logging
+from typing import Dict, List, Any, Optional
+from dataclasses import dataclass
+from enum import Enum, auto
+from pydantic import BaseModel, Field, ConfigDict
 
-from ..custom_logging import setup_logger
-from ..bitcoin.art_generation import BitcoinArtGenerator
+def setup_logger(name: str, level: int = logging.INFO) -> logging.Logger:
+    """
+    Set up a logger with consistent formatting
+    
+    Args:
+        name: Logger name
+        level: Logging level
+        
+    Returns:
+        Configured logger
+    """
+    logger = logging.getLogger(name)
+    
+    if not logger.handlers:
+        handler = logging.StreamHandler()
+        formatter = logging.Formatter(
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+        )
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+        
+    logger.setLevel(level)
+    return logger
 
-class ValidationResult(BaseModel):
-    """Result of data validation"""
-    is_valid: bool = Field(..., description="Whether the validation passed")
-    data: Any = Field(..., description="The validated data")
-    errors: Optional[List[str]] = Field(default=None, description="List of validation errors")
+class ValidationStatus(Enum):
+    """Validation status enum"""
+    SUCCESS = auto()
+    WARNING = auto()
+    ERROR = auto()
 
-class MysticalAttribute(BaseModel):
-    """Attribute for mystical entities"""
-    name: str = Field(..., description="Name of the attribute")
-    value: Any = Field(..., description="Value of the attribute")
-    description: str = Field(..., description="Description of the attribute")
+@dataclass
+class ValidationResult:
+    """Result of a validation operation"""
+    status: ValidationStatus
+    message: str
+    details: Optional[Dict[str, Any]] = None
 
 class MysticalEntity(BaseModel):
     """Base class for mystical entities"""
-    id: str = Field(..., description="Unique identifier")
+    id: str = Field(..., description="Entity identifier")
     name: str = Field(..., description="Entity name")
-    attributes: List[MysticalAttribute] = Field(default_factory=list, description="Entity attributes")
-    relationships: Dict[str, List[str]] = Field(default_factory=dict, description="Related entity IDs")
-    metadata: Dict[str, Any] = Field(default_factory=dict, description="Additional metadata")
+    attributes: Dict[str, Any] = Field(default_factory=dict, description="Entity attributes")
+        
+    def validate(self) -> ValidationResult:
+        """Validate the entity"""
+        if not self.id or not self.name:
+            return ValidationResult(
+                status=ValidationStatus.ERROR,
+                message="Entity must have both id and name"
+            )
+        return ValidationResult(
+            status=ValidationStatus.SUCCESS,
+            message="Entity is valid"
+        )
+    
+    def add_attribute(self, name: str, value: Any, source: Optional[str] = None) -> None:
+        """Add a mystical attribute to the entity"""
+        attr = MysticalAttribute(name=name, value=value, source=source)
+        self.attributes[name] = attr.dict()
 
-class BitcoinMysticalSystem(ABC):
+class MysticalAttribute(BaseModel):
+    """Represents a mystical attribute"""
+    name: str = Field(..., description="Attribute name")
+    value: Any = Field(..., description="Attribute value")
+    source: Optional[str] = Field(None, description="Source of the attribute")
+        
+    def validate(self) -> ValidationResult:
+        """Validate the attribute"""
+        if not self.name:
+            return ValidationResult(
+                status=ValidationStatus.ERROR,
+                message="Attribute must have a name"
+            )
+        return ValidationResult(
+            status=ValidationStatus.SUCCESS,
+            message="Attribute is valid"
+        )
+
+class MysticalSystem(BaseModel):
+    """Base class for all mystical systems"""
+    model_config = ConfigDict(arbitrary_types_allowed=True)
+    
+    name: str = Field(..., description="System name")
+    description: Optional[str] = Field(None, description="System description")
+    entities: Dict[str, MysticalEntity] = Field(default_factory=dict, description="Registered entities")
+
+    def __init__(self, **data):
+        super().__init__(**data)
+        self.logger = setup_logger(f"mystical.{self.name}")
+
+    def validate_entity(self, entity: MysticalEntity) -> ValidationResult:
+        """Validate an entity in this system"""
+        return entity.validate()
+        
+    def validate_attribute(self, attribute: MysticalAttribute) -> ValidationResult:
+        """Validate an attribute in this system"""
+        return attribute.validate()
+    
+    def register_entity(self, entity: MysticalEntity) -> None:
+        """Register an entity with this system"""
+        validation = self.validate_entity(entity)
+        if validation.status == ValidationStatus.ERROR:
+            raise ValueError(f"Invalid entity: {validation.message}")
+        self.entities[entity.id] = entity
+    
+    def get_entity(self, entity_id: str) -> Optional[MysticalEntity]:
+        """Get an entity by ID"""
+        return self.entities.get(entity_id)
+
+class BitcoinMysticalSystem(MysticalSystem):
     """Base class for Bitcoin-integrated mystical systems"""
     
-    def __init__(self, system_id: str, config: Optional[Dict[str, Any]] = None):
-        self.id = system_id
-        self.config = config if config is not None else {}
-        self.logger = setup_logger(f"mystical_{system_id}")
-        self.ordinal_data = {}
-        self.inscription_data = {}
-        art_config = self.config.get("art_generation", {}) if self.config else {}
-        self.art_generator = BitcoinArtGenerator(art_config)
+    def __init__(self, name: str, description: Optional[str] = None):
+        super().__init__(name=name, description=description)
+        self.logger = setup_logger(f"mystical.{name}")
         
-    @abstractmethod
-    def validate_input(self, data: Any) -> ValidationResult:
-        """Validate input data"""
-        pass
+    def get_bitcoin_entropy(self, seed: str) -> str:
+        """
+        Get Bitcoin-based entropy for the system
         
-    @abstractmethod
-    def format_output(self, result: Any) -> Any:
-        """Format output data"""
-        pass
-        
-    @abstractmethod
-    def calculate_correspondences(self, data: Dict[str, Any]) -> Dict[str, Any]:
-        """Calculate mystical correspondences"""
-        pass
-
-    def derive_mystical_attributes(self, txid: str) -> List[MysticalAttribute]:
-        """Derive mystical attributes from Bitcoin transaction"""
-        self.logger.info(f"Deriving mystical attributes from txid: {txid}")
-        # Implementation will vary by system
-        return []
-
-    def bind_to_ordinal(self, ordinal_id: str) -> None:
-        """Bind system to Bitcoin ordinal"""
-        self.logger.info(f"Binding to ordinal: {ordinal_id}")
-        # Implementation will vary by system
-        pass
-
-    def bind_to_inscription(self, inscription_id: str) -> None:
-        """Bind system to Bitcoin inscription"""
-        self.logger.info(f"Binding to inscription: {inscription_id}")
-        # Implementation will vary by system
-        pass
-
-    def generate_art(self, data: Dict[str, Any]) -> str:
-        """Generate Bitcoin-influenced art"""
-        self.logger.info("Generating mystical art")
+        Args:
+            seed: Seed value for entropy generation
+            
+        Returns:
+            Generated entropy string
+            
+        Raises:
+            ImportError: If bitcoin integration module is not available
+            ValueError: If seed is invalid
+        """
         try:
-            art_config = self.config.get("art_generation", {}) if self.config else {}
-            return self.art_generator.generate(
-                system_id=self.id,
-                mystical_data=data,
-                config=art_config
-            )
-        except Exception as e:
-            self.logger.error(f"Art generation failed: {e}")
-            return ""
-
-    @abstractmethod
-    def get_system_info(self) -> Dict[str, Any]:
-        """Return system metadata"""
-        pass 
+            from .bitcoin_integration import get_bitcoin_entropy
+            return get_bitcoin_entropy(seed)
+        except ImportError as e:
+            self.logger.error(f"Failed to import bitcoin integration: {e}")
+            raise ImportError("Bitcoin integration module not available") from e
+        except ValueError as e:
+            self.logger.error(f"Invalid seed value: {e}")
+            raise ValueError(f"Invalid seed value: {e}") from e 

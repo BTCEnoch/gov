@@ -1,212 +1,144 @@
 """Tests for the governor interview system."""
-
 import json
 import pytest
 from pathlib import Path
 from datetime import datetime
-from core.governors.profiler.interview.governor_interview_system import (
-    GovernorInterviewSystem, InterviewSession, ContentLibrary
+
+from core.governors.profiler.interview.governor_interview_system import GovernorInterviewSystem
+from core.governors.profiler.interview.schemas.interview_schemas import (
+    InterviewQuestion,
+    QuestionCategory,
+    InterviewResponse,
+    InterviewSession
 )
 
 @pytest.fixture
-def output_dir(tmp_path):
-    """Create temporary output directory"""
-    return tmp_path / "interview_output"
-
-@pytest.fixture
-def test_traits():
-    """Create test trait data"""
+def test_questions():
+    """Sample interview questions for testing."""
     return {
-        "name": "TESTGOV",
-        "traits": {
-            "wisdom": {
-                "level": 5,
-                "focus": "mystical_insight"
-            },
-            "compassion": {
-                "level": 4,
-                "focus": "healing"
+        "version": "1.0",
+        "categories": {
+            "form": {
+                "name": "Form and Manifestation",
+                "description": "Basic form characteristics",
+                "questions": [
+                    {
+                        "id": "form_base_type",
+                        "question": "What is the primary form type?",
+                        "description": "Basic form type",
+                        "options": ["geometric", "organic", "abstract"]
+                    },
+                    {
+                        "id": "form_complexity",
+                        "question": "How complex is the form?",
+                        "description": "Form complexity level",
+                        "options": ["simple", "moderate", "complex"]
+                    }
+                ]
             }
-        },
-        "specializations": ["teaching", "guidance"],
-        "mystical_traditions": ["hermetic", "buddhist"]
+        }
     }
 
 @pytest.fixture
-def interview_system(output_dir):
-    """Create interview system instance"""
-    return GovernorInterviewSystem(output_dir)
+def test_dir(tmp_path):
+    """Create test directory structure."""
+    templates_dir = tmp_path / "templates"
+    templates_dir.mkdir()
+    
+    questions_file = templates_dir / "interview_questions.json"
+    with open(questions_file, 'w') as f:
+        json.dump(test_questions(), f)
+        
+    return tmp_path
 
-def test_conduct_full_interview_series(interview_system, test_traits):
-    """Test conducting full interview series"""
-    # Conduct interviews
-    library = interview_system.conduct_full_interview_series("TESTGOV", test_traits)
+def test_load_interview_categories(test_dir):
+    """Test loading interview categories."""
+    system = GovernorInterviewSystem(test_dir)
     
-    # Verify library was created
-    assert library.governor_name == "TESTGOV"
-    assert library.traits == test_traits
+    assert "form" in system.categories
+    category = system.categories["form"]
+    assert category.name == "Form and Manifestation"
+    assert len(category.questions) == 2
     
-    # Verify all components were generated
-    assert library.dialog_trees
-    assert library.story_patterns
-    assert library.knowledge_base
-    assert library.interaction_rules
-    assert library.procedural_templates
+    question = category.questions[0]
+    assert question.id == "form_base_type"
+    assert len(question.options) == 3
 
-def test_conduct_topic_interview(interview_system, test_traits):
-    """Test conducting single topic interview"""
-    # Conduct personality interview
-    session = interview_system._conduct_topic_interview(
-        "TESTGOV", "personality", test_traits
-    )
+def test_start_interview(test_dir):
+    """Test starting a new interview session."""
+    system = GovernorInterviewSystem(test_dir)
+    system.start_interview("TEST001")
     
-    # Verify session data
-    assert session.governor_name == "TESTGOV"
-    assert "personality" in session.topics_covered
-    assert session.questions_asked
-    assert session.responses
-    assert session.generated_content
-    assert session.insights_gained
+    assert system.current_session is not None
+    assert system.current_session.governor_id == "TEST001"
+    assert len(system.current_session.responses) == 0
 
-def test_integrate_session_content(interview_system, test_traits):
-    """Test integrating session content into library"""
-    # Create test session
-    session = InterviewSession(
-        session_id="test_session",
-        timestamp=datetime.now().isoformat(),
-        governor_name="TESTGOV",
-        topics_covered=["personality"],
-        questions_asked=["How do you teach?"],
-        responses=[{
-            "question": "How do you teach?",
-            "response": "With wisdom and patience",
-            "context": str(test_traits)
-        }],
-        generated_content={
-            "dialog_teaching": {
-                "patterns": ["Explains with analogies", "Uses examples"]
-            },
-            "story_lesson": {
-                "elements": ["Challenge", "Insight", "Resolution"]
-            }
-        },
-        insights_gained=["Prefers interactive teaching"]
-    )
+def test_get_next_question(test_dir):
+    """Test getting next unanswered question."""
+    system = GovernorInterviewSystem(test_dir)
+    system.start_interview("TEST001")
     
-    # Initialize library
-    interview_system.current_library = ContentLibrary(
-        governor_name="TESTGOV",
-        traits=test_traits,
-        dialog_trees={},
-        story_patterns={},
-        knowledge_base={},
-        interaction_rules={},
-        procedural_templates={}
-    )
+    # First question should be form_base_type
+    question = system.get_next_question("form")
+    assert question is not None
+    assert question.id == "form_base_type"
     
-    # Integrate content
-    interview_system._integrate_session_content(session)
+    # Record response and get next question
+    system.record_response("form_base_type", "geometric")
+    question = system.get_next_question("form")
+    assert question is not None
+    assert question.id == "form_complexity"
     
-    # Verify content was integrated
-    assert "dialog_teaching" in interview_system.current_library.dialog_trees
-    assert "story_lesson" in interview_system.current_library.story_patterns
+    # Record response and verify no more questions
+    system.record_response("form_complexity", "simple")
+    question = system.get_next_question("form")
+    assert question is None
 
-def test_generate_procedural_content(interview_system, test_traits):
-    """Test generating procedural content"""
-    # Initialize library with test content
-    interview_system.current_library = ContentLibrary(
-        governor_name="TESTGOV",
-        traits=test_traits,
-        dialog_trees={
-            "dialog_greeting": {
-                "patterns": ["Welcomes warmly", "Acknowledges seeker"]
-            }
-        },
-        story_patterns={
-            "story_quest": {
-                "elements": ["Challenge", "Journey", "Discovery"]
-            }
-        },
-        knowledge_base={},
-        interaction_rules={
-            "rule_teaching": {
-                "conditions": ["seeker_ready", "topic_relevant"]
-            }
-        },
-        procedural_templates={}
-    )
+def test_record_response(test_dir):
+    """Test recording interview responses."""
+    system = GovernorInterviewSystem(test_dir)
+    system.start_interview("TEST001")
     
-    # Generate templates
-    interview_system._generate_procedural_content()
+    # Valid response
+    assert system.record_response("form_base_type", "geometric")
+    assert len(system.current_session.responses) == 1
     
-    # Verify templates were generated
-    templates = interview_system.current_library.procedural_templates
-    assert "dialog" in templates
-    assert "story" in templates
-    assert "interaction" in templates
+    # Invalid question ID
+    assert not system.record_response("invalid_id", "geometric")
+    
+    # Invalid option
+    assert not system.record_response("form_base_type", "invalid_option")
 
-def test_save_content_library(interview_system, test_traits, output_dir):
-    """Test saving content library"""
-    # Create test library
-    interview_system.current_library = ContentLibrary(
-        governor_name="TESTGOV",
-        traits=test_traits,
-        dialog_trees={"test": "data"},
-        story_patterns={"test": "data"},
-        knowledge_base={"test": "data"},
-        interaction_rules={"test": "data"},
-        procedural_templates={"test": "data"}
-    )
+def test_save_session(test_dir):
+    """Test saving interview session."""
+    system = GovernorInterviewSystem(test_dir)
+    system.start_interview("TEST001")
     
-    # Add test session
-    interview_system.sessions.append(
-        InterviewSession(
-            session_id="test_session",
-            timestamp=datetime.now().isoformat(),
-            governor_name="TESTGOV",
-            topics_covered=["test"],
-            questions_asked=["test"],
-            responses=[{"test": "data"}],
-            generated_content={"test": "data"},
-            insights_gained=["test"]
-        )
-    )
+    system.record_response("form_base_type", "geometric")
+    system.record_response("form_complexity", "simple")
     
-    # Save library
-    interview_system._save_content_library()
+    output_dir = test_dir / "output"
+    assert system.save_session(output_dir)
     
-    # Verify files were created
-    governor_dir = output_dir / "TESTGOV"
-    assert governor_dir.exists()
+    # Verify saved file
+    gov_dir = output_dir / "TEST001"
+    saved_files = list(gov_dir.glob("interview_*.json"))
+    assert len(saved_files) == 1
     
-    library_file = governor_dir / "content_library.json"
-    assert library_file.exists()
-    
-    sessions_dir = governor_dir / "interview_sessions"
-    assert sessions_dir.exists()
-    assert list(sessions_dir.glob("*.json"))
+    with open(saved_files[0]) as f:
+        data = json.load(f)
+        assert data["governor_id"] == "TEST001"
+        assert len(data["responses"]) == 2
 
-def test_load_interview_questions(interview_system):
-    """Test loading interview questions"""
-    questions = interview_system._load_interview_questions()
+def test_is_category_complete(test_dir):
+    """Test checking category completion."""
+    system = GovernorInterviewSystem(test_dir)
+    system.start_interview("TEST001")
     
-    # Verify question categories
-    assert "personality" in questions
-    assert "knowledge" in questions
-    assert "teaching" in questions
-    assert "challenges" in questions
+    assert not system.is_category_complete("form")
     
-    # Verify questions exist
-    for category in questions.values():
-        assert category  # Not empty
-        assert all(isinstance(q, str) for q in category)
-
-def test_load_interview_topics(interview_system):
-    """Test loading interview topics"""
-    topics = interview_system._load_interview_topics()
+    system.record_response("form_base_type", "geometric")
+    assert not system.is_category_complete("form")
     
-    # Verify core topics exist
-    assert "personality" in topics
-    assert "knowledge" in topics
-    assert "teaching" in topics
-    assert "challenges" in topics 
+    system.record_response("form_complexity", "simple")
+    assert system.is_category_complete("form") 

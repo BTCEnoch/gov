@@ -1,0 +1,1918 @@
+[
+  {
+    "name": "OCCODON",
+    "number": 1,
+    "translation": "He whose name is renewal",
+    "aethyr": "LIL",
+    "element": "Water",
+    "essence": "In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris and baptizing new forms into being.",
+    "angelic role": "Seraph of Primordial Renewal; commands tideborn spirits.",
+    "traits": [
+      "transformative",
+      "adaptive",
+      "integrative"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "PASCOMB",
+    "number": 2,
+    "translation": "He who precedes understanding",
+    "aethyr": "LIL",
+    "element": "Water",
+    "essence": "In PASCOMB's presence, a diamond spark glimmers at the cusp of dawn—an intuition before thought, a proto-logos of inspiration.",
+    "angelic role": "Cherub of Dawn of Understanding; leads oceanic hosts.",
+    "traits": [
+      "enlightening",
+      "guiding",
+      "pioneering"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "VALGARS",
+    "number": 3,
+    "translation": "He who works with that which is",
+    "aethyr": "LIL",
+    "element": "Water",
+    "essence": "VALGARS's presence is like that of a master artisan at work—reality itself feels malleable, with base circumstances transmuting into something sacred.",
+    "angelic role": "Throne of Sacred Alchemy; marshals pearl-plumed guardians.",
+    "traits": [
+      "pragmatic",
+      "grounded",
+      "resourceful"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "DOAGNIS",
+    "number": 4,
+    "translation": "She who comes without a name",
+    "aethyr": "ARN",
+    "element": "Water",
+    "essence": "When DOAGNIS is near, assistance arrives without fanfare—an anonymous blessing, answers slipping in without name or notice.",
+    "angelic role": "Dominion of Nameless Grace; guides waveborne angels.",
+    "traits": [
+      "enigmatic",
+      "unassuming",
+      "mysterious"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "PACASNA",
+    "number": 5,
+    "translation": "She who is unchanged by time",
+    "aethyr": "ARN",
+    "element": "Water",
+    "essence": "In PACASNA's presence, time itself seems to stand still at an unmoving center— a still-point of eternity about which the ages quietly wheel.",
+    "angelic role": "Virtue of Eternal Stillness; governs abyssal wardens.",
+    "traits": [
+      "eternal",
+      "constant",
+      "steadfast"
+    ],
+    "archetypal": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "DIALOIA",
+    "number": 6,
+    "translation": "The god where truth is",
+    "aethyr": "ARN",
+    "element": "Water",
+    "essence": "When DIALOIA is near, truth stands revealed: her presence is the embodied Logos, enthroned wherever clarity reigns.",
+    "angelic role": "Power of Enthroned Truth; commands rain-crowned heralds.",
+    "traits": [
+      "truthful",
+      "illuminating",
+      "wise"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "SAMAPHA",
+    "number": 7,
+    "translation": "He who is with continuity",
+    "aethyr": "ZOM",
+    "element": "Water",
+    "essence": "When SAMAPHA is near, a golden thread of continuity weaves through the atmosphere, ensuring identity endures through every transformation.",
+    "angelic role": "Principality of Golden Continuum; leads deluge-born bringers.",
+    "traits": [
+      "sustaining",
+      "persistent",
+      "harmonious"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "VIROOLI",
+    "number": 8,
+    "translation": "He who made the first nest",
+    "aethyr": "ZOM",
+    "element": "Water",
+    "essence": "In VIROOLI's presence, one feels held within a primordial sanctuary—an inner sacred chamber built before any outer realm can be commanded.",
+    "angelic role": "Archangel of Primordial Sanctuary; marshals tideborn spirits.",
+    "traits": [
+      "nurturing",
+      "pioneering",
+      "foundational"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ANDISPI",
+    "number": 9,
+    "translation": "He who binds into obedience",
+    "aethyr": "ZOM",
+    "element": "Water",
+    "essence": "When ANDISPI is near, a profound covenant fills the space—a resonant vow knitting separate wills into living harmony.",
+    "angelic role": "Angel of Binding Covenant; guides oceanic hosts.",
+    "traits": [
+      "commanding",
+      "authoritative",
+      "disciplined"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ZIXLAYI",
+    "number": 10,
+    "translation": "She whose visits bring victory",
+    "aethyr": "PAZ",
+    "element": "Water",
+    "essence": "In ZIXLAYI's presence, triumphant momentum swells—like a victorious wind providing the precise updraft for evolution to leap forward.",
+    "angelic role": "Seraph of Triumphant Winds; governs pearl-plumed guardians.",
+    "traits": [
+      "victorious",
+      "inspiring",
+      "decisive"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "LABNIXP",
+    "number": 11,
+    "translation": "He who was made a leader",
+    "aethyr": "PAZ",
+    "element": "Water",
+    "essence": "When LABNIXP is near, an aura of humble authority prevails—leadership is felt as service, bearing the weight of communal purpose.",
+    "angelic role": "Cherub of Humble Authority; commands oceanic guardians.",
+    "traits": [
+      "passionate",
+      "radiant",
+      "intense"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "CALVIZA",
+    "number": 12,
+    "translation": "Son of the three-fold throne",
+    "aethyr": "PAZ",
+    "element": "Water",
+    "essence": "In CALVIZA's presence, vision spans threefold time—past, present, and future refract together into a single, balanced ray.",
+    "angelic role": "Throne of Threefold Time; marshals tideborn guardians.",
+    "traits": [
+      "regal",
+      "balanced",
+      "dutiful"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "AVTOTAR",
+    "number": 13,
+    "translation": "He who protects that which is",
+    "aethyr": "LIT",
+    "element": "Water",
+    "essence": "When AVTOTAR is near, reality feels safeguarded—clear boundaries hold firm, keeping the very syntax of existence intact.",
+    "angelic role": "Dominion of Sanctity of Being; guides waveborne wardens.",
+    "traits": [
+      "humble",
+      "ineffable",
+      "transcendent"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ICHIZA",
+    "number": 14,
+    "translation": "He who proceeds with wisdom",
+    "aethyr": "LIT",
+    "element": "Water",
+    "essence": "When ICHIZA is near, discernment hums in measured harmony—wisdom unfolding like a deliberate, guiding hymn.",
+    "angelic role": "Virtue of Guiding Wisdom; governs abyssal angels.",
+    "traits": [
+      "dutiful",
+      "focused",
+      "swift"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Hod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "TIARPAX",
+    "number": 15,
+    "translation": "He whose name means truth",
+    "aethyr": "LIT",
+    "element": "Water",
+    "essence": "When TIARPAX is near, a higher truth becomes evident—as if the microcosm and macrocosm suddenly recognize each other in perfect reflection.",
+    "angelic role": "Power of Absolute Truth; commands rain-crowned wardens.",
+    "traits": [
+      "honest",
+      "genuine",
+      "forthright"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "SAXTOMP",
+    "number": 16,
+    "translation": "She whose name means understanding",
+    "aethyr": "MAZ",
+    "element": "Fire",
+    "essence": "In SAXTOMP's presence, a flame of pure comprehension burns away illusion—until only the bone-truth of the cosmos remains.",
+    "angelic role": "Principality of Sacred Understanding; leads flameborn sentinels.",
+    "traits": [
+      "wise",
+      "perceptive",
+      "empathetic"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "VAUAAMP",
+    "number": 17,
+    "translation": "He who initiates action",
+    "aethyr": "MAZ",
+    "element": "Fire",
+    "essence": "In VAUAAMP's presence, a first spark of creation sketches sacred angles in living fire—one feels the prime mover igniting all beginnings.",
+    "angelic role": "Archangel of First Flame of Action; marshals blazing hosts.",
+    "traits": [
+      "proactive",
+      "enterprising",
+      "dynamic"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ZIRZIRD",
+    "number": 18,
+    "translation": "He who was and will be",
+    "aethyr": "MAZ",
+    "element": "Fire",
+    "essence": "In ZIRZIRD's presence, the cosmic ledger turns—epochs are tallied on starry wheels with unwavering precision.",
+    "angelic role": "Angel of Eternal Cycle; guides solar warriors.",
+    "traits": [
+      "enduring",
+      "timeless",
+      "steadfast"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "OPMACAS",
+    "number": 19,
+    "translation": "He who is from the beginning",
+    "aethyr": "DEO",
+    "element": "Fire",
+    "essence": "In OPMACAS's presence, form emerges from formlessness—a primordial fire breathing shape into the void.",
+    "angelic role": "Seraph of Primordial Flame; governs fire-forged guardians.",
+    "traits": [
+      "primordial",
+      "ancient",
+      "foundational"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "GENADOL",
+    "number": 20,
+    "translation": "He who only attracts",
+    "aethyr": "DEO",
+    "element": "Fire",
+    "essence": "In GENADOL's presence, fate feels malleable—his magnetic charisma draws life's iron filings into alignment.",
+    "angelic role": "Cherub of Magnet of Fate; commands ember-crowned heralds.",
+    "traits": [
+      "charismatic",
+      "magnetic",
+      "alluring"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "ASPIAON",
+    "number": 21,
+    "translation": "She who precedes inner truth",
+    "aethyr": "DEO",
+    "element": "Fire",
+    "essence": "When ASPIAON stands before you, rightful order asserts itself—motives are tested in a fiery tribunal of truth.",
+    "angelic role": "Throne of Inner Judgement; commands 7,777 flameborn heralds.",
+    "traits": [
+      "intuitive",
+      "introspective",
+      "revelatory"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ZAMFRES",
+    "number": 22,
+    "translation": "He who appears when praised",
+    "aethyr": "ZID",
+    "element": "Fire",
+    "essence": "In ZAMFRES's presence, honest praise takes on life—genuine gratitude manifests tangible blessings before your eyes.",
+    "angelic role": "Dominion of Blessings of Praise; guides flameborn hosts.",
+    "traits": [
+      "encouraging",
+      "responsive",
+      "benevolent"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "TODNAON",
+    "number": 23,
+    "translation": "He who is and will be",
+    "aethyr": "ZID",
+    "element": "Fire",
+    "essence": "In TODNAON's presence, surfaces become mirrors of destiny—reflections of the future shift and reveal themselves.",
+    "angelic role": "Virtue of Perpetuity of Being; governs flameborn warriors.",
+    "traits": [
+      "immutable",
+      "perpetual",
+      "steadfast"
+    ],
+    "archetypal": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "PRISTAC",
+    "number": 24,
+    "translation": "He who has the likeness of a Holy One",
+    "aethyr": "ZID",
+    "element": "Fire",
+    "essence": "When PRISTAC is near, the air resonates with a higher model—mortals find themselves drawn to echo a more celestial harmony.",
+    "angelic role": "Power of Divine Reflection; commands tempestuous legions.",
+    "traits": [
+      "virtuous",
+      "sacred",
+      "exemplary"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "ODDIORG",
+    "number": 25,
+    "translation": "He of fire and justice",
+    "aethyr": "ZIP",
+    "element": "Fire",
+    "essence": "When ODDIORG stands before you, an inner alchemy begins—will and psyche are tempered in a crucible of sacred number.",
+    "angelic role": "Principality of Fiery Justice; leads thunderous riders.",
+    "traits": [
+      "spiritual",
+      "mediating",
+      "aspirational"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "CRALPIR",
+    "number": 26,
+    "translation": "He of bright joy",
+    "aethyr": "ZIP",
+    "element": "Fire",
+    "essence": "In CRALPIR's presence, despair yields to comfort—like the triumphant solace of sunrise after a long night on the battlefield.",
+    "angelic role": "Archangel of Radiant Dawn; marshals zephyr-bound sentinels.",
+    "traits": [
+      "controlling",
+      "possessive",
+      "protective"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "DOANZIN",
+    "number": 27,
+    "translation": "He who names the waters",
+    "aethyr": "ZIP",
+    "element": "Fire",
+    "essence": "In DOANZIN's presence, hidden patterns reveal their true names—granting authority over unseen tides and the shapes they take.",
+    "angelic role": "Angel of Hidden Tides; guides cloudborne choirs.",
+    "traits": [
+      "spiritual",
+      "mediating",
+      "aspirational"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "LEXARPH",
+    "number": 28,
+    "translation": "He who is first of the air",
+    "aethyr": "ZAX",
+    "element": "Spirit",
+    "essence": "In LEXARPH's presence, a liminal breeze seems to whisper fate onto invisible vellum—one can almost read the script of destiny between worlds.",
+    "angelic role": "Seraph of Primacy of Air; commands stoneclad sentinels.",
+    "traits": [
+      "pragmatic",
+      "grounded",
+      "resourceful"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "COMANAN",
+    "number": 29,
+    "translation": "He who knows how to manifest",
+    "aethyr": "ZAX",
+    "element": "Spirit",
+    "essence": "In COMANAN's presence, seeds of possibility stir to life—drawing spirit into leaf and legend in a quiet alchemy of growth.",
+    "angelic role": "Cherub of Mystic Manifestation; leads earth-forged guardians.",
+    "traits": [
+      "discerning",
+      "reverent",
+      "selective"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TABITOM",
+    "number": 30,
+    "translation": "He who is like fire",
+    "aethyr": "ZAX",
+    "element": "Spirit",
+    "essence": "When TABITOM is near, a paradoxical sunlight fills the air—a spirit-fire that neither burns nor dims, but wholly transmutes.",
+    "angelic role": "Throne of Sacred Flame; marshals oak-crowned hosts.",
+    "traits": [
+      "incorruptible",
+      "illuminating",
+      "truthful"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "MOLPAND",
+    "number": 31,
+    "translation": "He who receives men",
+    "aethyr": "ICH",
+    "element": "Water",
+    "essence": "In MOLPAND's presence, a tranquil harbor opens for the soul—a port where journeyman spirits first taste the calm of incarnation.",
+    "angelic role": "Dominion of the Harbor of Incarnation; commands oceanic mariners.",
+    "traits": [
+      "mysterious",
+      "universal",
+      "transcendent"
+    ],
+    "archetypal": {
+      "tarot": "The World",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "VSNARDA",
+    "number": 32,
+    "translation": "He who casts down into the depths",
+    "aethyr": "ICH",
+    "element": "Water",
+    "essence": "When VSNARDA is near, arrogance is plunged beneath black tides—pride suffocates and humility is reborn in the darkness.",
+    "angelic role": "Virtue of Abyssal Humility; guides tideborn wardens.",
+    "traits": [
+      "lofty",
+      "celestial",
+      "expansive"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "PONODOL",
+    "number": 33,
+    "translation": "He who destroys and creates",
+    "aethyr": "ICH",
+    "element": "Fire",
+    "essence": "When PONODOL stands before you, obsolete forms shatter—a cataclysmic forge breaking the old and midwifing new laws into existence.",
+    "angelic role": "Power of Cataclysmic Forge; commands windborne heralds.",
+    "traits": [
+      "lofty",
+      "celestial",
+      "expansive"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "TAPAMAL",
+    "number": 34,
+    "translation": "She as at the beginning",
+    "aethyr": "LOE",
+    "element": "Fire",
+    "essence": "When TAPAMAL stands before you, the first note of a cosmic hymn resounds—re-striking the fundamental tone from which worlds are born.",
+    "angelic role": "Principality of Cosmic Genesis; leads tempestuous messengers.",
+    "traits": [
+      "cathartic",
+      "intense",
+      "resilient"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "GEDOONS",
+    "number": 35,
+    "translation": "He who eliminates your name",
+    "aethyr": "LOE",
+    "element": "Fire",
+    "essence": "When GEDOONS is near, identities can be erased like chalk—names vanish from celestial rolls to grant the bearer tactical invisibility.",
+    "angelic role": "Archangel of Veil of Anonymity; marshals thunderous hosts.",
+    "traits": [
+      "versatile",
+      "multifaceted",
+      "complex"
+    ],
+    "archetypal": {
+      "tarot": "The Lovers",
+      "sephirot": "Daath",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "NOCAMAL",
+    "number": 36,
+    "translation": "She who only obeys",
+    "aethyr": "LOE",
+    "element": "Spirit",
+    "essence": "When NOCAMAL stands before you, turmoil hushes into a gentle lullaby—storm-tossed hearts are soothed by ember-warm dreams of solace.",
+    "angelic role": "Angel of Dreamful Respite; guides zephyr-bound messengers.",
+    "traits": [
+      "rhythmic",
+      "cyclical",
+      "intuitive"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "ISEMTAR",
+    "number": 37,
+    "translation": "He protector of man",
+    "aethyr": "ZIM",
+    "element": "Fire",
+    "essence": "When ISEMTAR is near, chaos finds pattern—sparks of metamorphosis codify disorder into sacred rite and harmonious flight.",
+    "angelic role": "Seraph of Metamorphic Order; commands skyward hosts.",
+    "traits": [
+      "obedient",
+      "dutiful",
+      "orderly"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "MASTIPT",
+    "number": 38,
+    "translation": "He who names only great names",
+    "aethyr": "ZIM",
+    "element": "Fire",
+    "essence": "In MASTIPT's presence, faith stands as a bulwark of light—a solar bastion where holy ground meets the roar of battle without yielding.",
+    "angelic role": "Cherub of Bulwark of Light; leads whirlwind sentinels.",
+    "traits": [
+      "protective",
+      "benevolent",
+      "paternal"
+    ],
+    "archetypal": {
+      "tarot": "The Sun",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "CAMAXOX",
+    "number": 39,
+    "translation": "He who demands obedience",
+    "aethyr": "ZIM",
+    "element": "Fire",
+    "essence": "In CAMAXOX's presence, every deed finds its true name—this discerning herald crowns each act with a resonant, legendary title.",
+    "angelic role": "Throne of Herald of Sacred Names; marshals storm-winged heralds.",
+    "traits": [
+      "discerning",
+      "reverent",
+      "selective"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "EXGSDIA",
+    "number": 40,
+    "translation": "She of many repetitions",
+    "aethyr": "VTA",
+    "element": "Fire",
+    "essence": "When EXGSDIA stands before you, pure law manifests—wild forces are bound to stern vectors, compelled into divine order.",
+    "angelic role": "Dominion of Divine Law; guides storm-winged messengers.",
+    "traits": [
+      "authoritative",
+      "strict",
+      "unyielding"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "SAPDION",
+    "number": 41,
+    "translation": "He to whom truth is relative",
+    "aethyr": "VTA",
+    "element": "Fire",
+    "essence": "In SAPDION's presence, patterns repeat toward perfection—echoing cycles that forge refinement through each iteration.",
+    "angelic role": "Virtue of Cycle of Perfection; commands solar legionnaires.",
+    "traits": [
+      "persistent",
+      "methodical",
+      "tireless"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ALPUDUS",
+    "number": 42,
+    "translation": "He who lives by his name",
+    "aethyr": "VTA",
+    "element": "Fire",
+    "essence": "In ALPUDUS's presence, truth shifts with perspective—every context and season refracts reality into a different hue of understanding.",
+    "angelic role": "Power of Prismatic Truth; commands sunsworn warriors.",
+    "traits": [
+      "relativistic",
+      "open-minded",
+      "diplomatic"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TAHAMDO",
+    "number": 43,
+    "translation": "Servant who speaks truth",
+    "aethyr": "OXO",
+    "element": "Air",
+    "essence": "When TAHAMDO is invoked, all facets of the self lock into harmony—utterance, act, and essence moving in perfectly principled step.",
+    "angelic role": "Principality of Harmonious Word; leads empyrean hosts.",
+    "traits": [
+      "authentic",
+      "principled",
+      "self-consistent"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "NOTIABI",
+    "number": 44,
+    "translation": "She who initiates dancing",
+    "aethyr": "OXO",
+    "element": "Air",
+    "essence": "When NOTIABI is invoked, truth arrives like a lightning strike—sharp, sudden, and unerring, cutting through falsehood in an instant.",
+    "angelic role": "Archangel of Lightning Revelation; marshals celestial legions.",
+    "traits": [
+      "honest",
+      "dutiful",
+      "candid"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TASTOZO",
+    "number": 45,
+    "translation": "She who replaces what was with something similar",
+    "aethyr": "OXO",
+    "element": "Air",
+    "essence": "In TASTOZO's presence, the heavens move in concert—a cosmic choreography as planets and stars waltz to her joyful design.",
+    "angelic role": "Angel of Celestial Dance; guides luminous spirits.",
+    "traits": [
+      "joyous",
+      "inspiring",
+      "vivacious"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "CALZICH",
+    "number": 46,
+    "translation": "He who governs restoration",
+    "aethyr": "LEA",
+    "element": "Air",
+    "essence": "In CALZICH's presence, every ending glows with a new dawn—an echo-forge where conclusions transform into beginnings lit by gentle light.",
+    "angelic role": "Seraph of Forge of Renewal; commands radiant ministers.",
+    "traits": [
+      "adaptive",
+      "restorative",
+      "conservative"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ALDAPI",
+    "number": 47,
+    "translation": "He whose measure guides",
+    "aethyr": "LEA",
+    "element": "Air",
+    "essence": "In ALDAPI's presence, a warm fairness permeates the air—base conditions are kindly uplifted and transmuted as if by a compassionate, solar fire.",
+    "angelic role": "Cherub of Guiding Light; leads divine messengers.",
+    "traits": [
+      "joyful",
+      "optimistic",
+      "content"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "ANELOB",
+    "number": 48,
+    "translation": "He who heals through equivalence",
+    "aethyr": "LEA",
+    "element": "Air",
+    "essence": "In ANELOB's presence, stagnation combusts into change—her radical energy ignites a cathartic blaze that frees and renews the spirit.",
+    "angelic role": "Throne of Cathartic Flame; marshals heavenly choristers.",
+    "traits": [
+      "radical",
+      "cathartic",
+      "liberating"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "ARSPHOR",
+    "number": 49,
+    "translation": "She who sees us with equality",
+    "aethyr": "TAN",
+    "element": "Air",
+    "essence": "In ARSPHOR's presence, fear melts away in steady flame—a fearless aura that forges fearless resolve and lights introspection with strength.",
+    "angelic role": "Dominion of Fearless Resolve; guides celestial hosts.",
+    "traits": [
+      "courageous",
+      "introspective",
+      "fearless"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "AYDROPT",
+    "number": 50,
+    "translation": "He of such equality",
+    "aethyr": "TAN",
+    "element": "Air",
+    "essence": "In AYDROPT's presence, the atmosphere feels balanced and benevolent—a gentle wind of fairness that carries compassion and clears all prejudice.",
+    "angelic role": "Virtue of Winds of Equilibrium; commands empyrean legions.",
+    "traits": [
+      "impartial",
+      "fair-minded",
+      "compassionate"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TOCARZI",
+    "number": 51,
+    "translation": "He who knows pain",
+    "aethyr": "TAN",
+    "element": "Air",
+    "essence": "In TOCARZI's presence, all things regain their equilibrium—an invisible scale seems to bring every situation into fair and perfect balance.",
+    "angelic role": "Power of Scales of Mercy; commands empyrean spirits.",
+    "traits": [
+      "equitable",
+      "just",
+      "balanced"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "NABAOMI",
+    "number": 52,
+    "translation": "He who defends the path",
+    "aethyr": "ZEN",
+    "element": "Air",
+    "essence": "In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers—old traumas are scoured clean and grief is tempered into quiet, luminous resolve.",
+    "angelic role": "Principality of Path of Compassion; leads celestial spirits.",
+    "traits": [
+      "empathetic",
+      "resilient",
+      "compassionate"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "SANIZAR",
+    "number": 53,
+    "translation": "He who speaks the serpent's number",
+    "aethyr": "ZEN",
+    "element": "Air",
+    "essence": "In SANIZAR's presence, solitude feels sacred—the air grows still and serene, inviting a detached peace that softens every edge of being.",
+    "angelic role": "Archangel of Sacred Solitude; marshals resplendent watchers.",
+    "traits": [
+      "solitary",
+      "serene",
+      "detached"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "CHIALPS",
+    "number": 54,
+    "translation": "He who crowns the unseen",
+    "aethyr": "ZEN",
+    "element": "Air",
+    "essence": "In CHIALPS's presence, one senses the eternal cycle turning—past and future fold together in a vast calm, revealing the unbroken wholeness of time.",
+    "angelic role": "Angel of Wholeness of Time; guides radiant ministers.",
+    "traits": [
+      "comprehensive",
+      "cyclic",
+      "eternal"
+    ],
+    "archetypal": {
+      "tarot": "The World",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "ZIRACAH",
+    "number": 55,
+    "translation": "He who crowns the unseen",
+    "aethyr": "POP",
+    "element": "Air",
+    "essence": "In ZIRACAH's presence, courage surges anew—the atmosphere brims with resilient valor, empowering the spirit to stand valiant against all odds.",
+    "angelic role": "Seraph of Crown of Valor; commands luminous spirits.",
+    "traits": [
+      "resilient",
+      "empowered",
+      "valiant"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "MEMNIE",
+    "number": 56,
+    "translation": "He who continuously comforts",
+    "aethyr": "POP",
+    "element": "Air",
+    "essence": "In MEMNIE's presence, nebulous visions crystallize into strategy—her provident insight lays methodical plans that light the way ahead.",
+    "angelic role": "Cherub of Provident Strategy; leads divine messengers.",
+    "traits": [
+      "visionary",
+      "provident",
+      "methodical"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "VAUNESH",
+    "number": 57,
+    "translation": "She who only obeys",
+    "aethyr": "POP",
+    "element": "Air",
+    "essence": "When VAUNESH is invoked, intuition moves in gentle cycles—the atmosphere invites deep reflection as patterns repeat like comforting lunar phases.",
+    "angelic role": "Throne of Lunar Reflection; marshals ethereal choristers.",
+    "traits": [
+      "intuitive",
+      "reflective",
+      "cyclic"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "NATGLAF",
+    "number": 58,
+    "translation": "He who begins the changes",
+    "aethyr": "CHR",
+    "element": "Air",
+    "essence": "In NATGLAF's presence, change feels exhilarating and imminent—a catalytic force breaks old bonds and motivates bold new beginnings.",
+    "angelic role": "Dominion of Catalyst of Change; guides celestial hosts.",
+    "traits": [
+      "liberating",
+      "motivational",
+      "catalytic"
+    ],
+    "archetypal": {
+      "tarot": "The Tower",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "OLXNOSP",
+    "number": 59,
+    "translation": "He who continuously comforts",
+    "aethyr": "CHR",
+    "element": "Air",
+    "essence": "In OLXNOSP's presence, the spirit lifts with quiet optimism—an assuring light of faith glimmers even in darkness, gentle and unwavering.",
+    "angelic role": "Virtue of Star of Hope; commands empyrean legions.",
+    "traits": [
+      "hopeful",
+      "reassuring",
+      "faithful"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "MIANTRA",
+    "number": 60,
+    "translation": "He who begins the changes",
+    "aethyr": "CHR",
+    "element": "Air",
+    "essence": "In MIANTRA's presence, all things align into steady cadence—each moment regulated by a persistent, calming rhythm that never falters.",
+    "angelic role": "Power of Rhythm of Order; commands empyrean spirits.",
+    "traits": [
+      "steady",
+      "persistent",
+      "regulating"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "GAVSTEX",
+    "number": 61,
+    "translation": "He protector of man",
+    "aethyr": "ASP",
+    "element": "Air",
+    "essence": "In GAVSTEX's presence, the ground itself feels alive with boisterous energy—earthy laughter and exuberant vibrations spur bold action and joy.",
+    "angelic role": "Principality of Rhapsody of Earth; commands skyward riders.",
+    "traits": [
+      "boisterous",
+      "exuberant",
+      "bold"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "LABRINO",
+    "number": 62,
+    "translation": "He who names only great names",
+    "aethyr": "ASP",
+    "element": "Air",
+    "essence": "In LABRINO's presence, even stones seem to whisper knowledge—an inquisitive hush invites discovery as the scholar in you awakens with curiosity.",
+    "angelic role": "Archangel of Vault of Knowledge; marshals stoneclad soldiers.",
+    "traits": [
+      "inquisitive",
+      "scholarly",
+      "curious"
+    ],
+    "archetypal": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "VORGAMI",
+    "number": 63,
+    "translation": "He who demands obedience",
+    "aethyr": "ASP",
+    "element": "Air",
+    "essence": "In VORGAMI's presence, the atmosphere grows intensely heavy and demanding—an insatiable force that hungers for more, pulling all energy into its voracious embrace.",
+    "angelic role": "Angel of Voracious Abyss; guides stoneclad guardians.",
+    "traits": [
+      "voracious",
+      "overwhelming",
+      "insatiable"
+    ],
+    "archetypal": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "TASCHOX",
+    "number": 64,
+    "translation": "She who only obeys",
+    "aethyr": "LIN",
+    "element": "Air",
+    "essence": "When TASCHOX is invoked, a clarifying radiance floods the scene—nothing corrupt can hide from this illuminating truth that shines in every nook.",
+    "angelic role": "Seraph of Light of Truth; commands stoneclad hosts.",
+    "traits": [
+      "incorruptible",
+      "illuminating",
+      "truthful"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "DOLMANI",
+    "number": 65,
+    "translation": "She who sees us with equality",
+    "aethyr": "LIN",
+    "element": "Spirit",
+    "essence": "In DOLMANI's presence, the veil of ordinary reality grows thin—a mysterious sense of the universal permeates the air, hinting at transcendent truths beyond form.",
+    "angelic role": "Cherub of Veil of Transcendence; leads oak-crowned hosts.",
+    "traits": [
+      "mysterious",
+      "universal",
+      "transcendent"
+    ],
+    "archetypal": {
+      "tarot": "The World",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "ZIRFARZ",
+    "number": 66,
+    "translation": "He who continuously comforts",
+    "aethyr": "LIN",
+    "element": "Earth",
+    "essence": "As ZIRFARZ approaches, the horizon stretches skyward—an expansive, lofty feeling as if the very heavens have descended to meet the earth.",
+    "angelic role": "Throne of Firmament of Grace; marshals mountain wardens.",
+    "traits": [
+      "lofty",
+      "celestial",
+      "expansive"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "PAZIMOL",
+    "number": 67,
+    "translation": "He whose measure guides",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "essence": "As PAZIMOL approaches, a comforting warmth enfolds the space—generosity and support flow freely, urging everyone to give and care for one another.",
+    "angelic role": "Dominion of Hearth of Generosity; guides iron-winged legionaries.",
+    "traits": [
+      "supportive",
+      "nurturing",
+      "patient"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ONIZIMP",
+    "number": 68,
+    "translation": "He whose measure guides",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "essence": "In ONIZIMP's presence, one is stirred to industrious action—the environment buzzes with motivating energy, making productivity feel natural and rewarding.",
+    "angelic role": "Virtue of Forge of Industry; commands iron-winged legionaries.",
+    "traits": [
+      "industrious",
+      "motivating",
+      "productive"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ZAXANIN",
+    "number": 69,
+    "translation": "He who names things",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "essence": "In ZAXANIN's presence, every element falls into a logical pattern—an analytical clarity permeates the air, and communication flows with precise articulation.",
+    "angelic role": "Power of Lexicon of Creation; commands emerald soldiers.",
+    "traits": [
+      "analytical",
+      "articulate",
+      "methodical"
+    ],
+    "archetypal": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ORANCIR",
+    "number": 70,
+    "translation": "He who is above and below",
+    "aethyr": "NIA",
+    "element": "Earth",
+    "essence": "In ORANCIR's presence, the above and below unite in harmony—a holistic balance is struck, as if all aspects of existence integrate into one complete whole.",
+    "angelic role": "Principality of Unity of the Spheres; leads terra-bound stewards.",
+    "traits": [
+      "holistic",
+      "integrative",
+      "balanced"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "CHASLPO",
+    "number": 71,
+    "translation": "He of wondrous joy",
+    "aethyr": "NIA",
+    "element": "Earth",
+    "essence": "In CHASLPO's presence, joy shines like sunlight—a musical energy that inspires and buoys the spirit with exuberant life.",
+    "angelic role": "Archangel of Song of Joy; marshals granite-hewn wardens.",
+    "traits": [
+      "joyous",
+      "inspiring",
+      "exuberant"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "SOAGEEL",
+    "number": 72,
+    "translation": "He who helps the most",
+    "aethyr": "NIA",
+    "element": "Earth",
+    "essence": "As SOAGEEL approaches, a comforting warmth enfolds the space—generosity and support flow freely, urging everyone to give and care for one another.",
+    "angelic role": "Angel of Fount of Benevolence; guides granite-hewn hosts.",
+    "traits": [
+      "altruistic",
+      "generous",
+      "supportive"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ERZLAKU",
+    "number": 73,
+    "translation": "He who divides the firmament",
+    "aethyr": "VTI",
+    "element": "Earth",
+    "essence": "As ERZLAKU approaches, the atmosphere crackles with intensity—pent-up emotions erupt in a cleansing release, tempered afterward into steeled resilience.",
+    "angelic role": "Seraph of Storm of Reckoning; commands mountain wardens.",
+    "traits": [
+      "cathartic",
+      "intense",
+      "resilient"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "OBUAORS",
+    "number": 74,
+    "translation": "She who is half darkness",
+    "aethyr": "VTI",
+    "element": "Earth",
+    "essence": "As OBUAORS approaches, the light dims into a thoughtful twilight—mysteries stir in the quiet, inviting deep introspection into unseen complexities.",
+    "angelic role": "Cherub of Twilight Mystery; leads mountain wardens.",
+    "traits": [
+      "mysterious",
+      "introspective",
+      "complex"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "RANGLAM",
+    "number": 75,
+    "translation": "He who governs his thoughts",
+    "aethyr": "VTI",
+    "element": "Earth",
+    "essence": "As RANGLAM approaches, a monk-like stillness prevails—mind and body align under strict self-discipline, and contemplation becomes as natural as breath.",
+    "angelic role": "Throne of Monastic Mind; marshals iron-winged legionaries.",
+    "traits": [
+      "disciplined",
+      "self-controlled",
+      "contemplative"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ANGLOAI",
+    "number": 76,
+    "translation": "He whose name means truth",
+    "aethyr": "DES",
+    "element": "Earth",
+    "essence": "As ANGLOAI approaches, diverse energies converge harmoniously—like a hearty stew blending flavors, nourishing both body and spirit in equal measure.",
+    "angelic role": "Dominion of Triune Harmony; guides oak-crowned guardians.",
+    "traits": [
+      "versatile",
+      "multifaceted",
+      "complex"
+    ],
+    "archetypal": {
+      "tarot": "The Lovers",
+      "sephirot": "Daath",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "NIGRANA",
+    "number": 77,
+    "translation": "He who governs the 28 days of the moon",
+    "aethyr": "DES",
+    "element": "Earth",
+    "essence": "In NIGRANA's presence, the world moves to a sacred rhythm—half light, half darkness, each cycle intuitive and measured as if drawn by lunar tides at the edge of awareness.",
+    "angelic role": "Virtue of Lunar Cycle; leads earth-forged legionaries.",
+    "traits": [
+      "rhythmic",
+      "cyclical",
+      "intuitive"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "LAZHIIM",
+    "number": 78,
+    "translation": "He who makes use of the day",
+    "aethyr": "DES",
+    "element": "Earth",
+    "essence": "As LAZHIIM approaches, potential is swiftly seized—every opportunity is efficiently utilized, and productivity flows with grounded ease.",
+    "angelic role": "Power of Mastery of the Moment; commands earth-forged guardians.",
+    "traits": [
+      "productive",
+      "opportunistic",
+      "efficient"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "SAZIAMI",
+    "number": 79,
+    "translation": "He who has true power",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "essence": "As SAZIAMI approaches, a wave of confidence asserts itself—the atmosphere bristles with authority and clear command that cannot be ignored.",
+    "angelic role": "Principality of Absolute Authority; leads earth-forged hosts.",
+    "traits": [
+      "authoritative",
+      "commanding",
+      "confident"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "MATHVLA",
+    "number": 80,
+    "translation": "He who ends actions",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "essence": "As MATHVLA approaches, wavering ends at once—a decisive finality grips the moment, ensuring all actions reach a firm and resolute conclusion.",
+    "angelic role": "Archangel of Final Verdict; marshals earth-forged wardens.",
+    "traits": [
+      "decisive",
+      "conclusive",
+      "resolute"
+    ],
+    "archetypal": {
+      "tarot": "Judgement",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "CRPANIB",
+    "number": 81,
+    "translation": "He who destroys speech",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "essence": "In CRPANIB's presence, even silence speaks volumes—an unseen undercurrent passes through the hush, hinting at guarded secrets and hidden intentions.",
+    "angelic role": "Angel of Silence of Secrets; guides oak-crowned guardians.",
+    "traits": [
+      "secretive",
+      "subversive",
+      "silent"
+    ],
+    "archetypal": {
+      "tarot": "The High Priestess",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "PABNIXP",
+    "number": 82,
+    "translation": "He who governs",
+    "aethyr": "BAG",
+    "element": "Earth",
+    "essence": "In PABNIXP's presence, things naturally fall into line—a calm but firm direction organizes every effort, instilling a sense of duty and responsibility in all.",
+    "angelic role": "Seraph of Terrestrial Order; commands oak-crowned hosts.",
+    "traits": [
+      "administrative",
+      "directive",
+      "responsible"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "POCISNI",
+    "number": 83,
+    "translation": "He who visits those in Heaven",
+    "aethyr": "BAG",
+    "element": "Earth",
+    "essence": "As POCISNI approaches, a hush of reverence falls—a bridge between realms opens, and aspirations take wing toward the heavens under his spiritual guidance.",
+    "angelic role": "Cherub of Bridge of Aspiration; leads earth-forged wardens.",
+    "traits": [
+      "spiritual",
+      "mediating",
+      "aspirational"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "OXLOPAR",
+    "number": 84,
+    "translation": "He who has them in his hands",
+    "aethyr": "BAG",
+    "element": "Earth",
+    "essence": "As OXLOPAR approaches, a protective hold grips the environment—like an invisible hand preventing any straying, it is both sheltering and unyieldingly firm.",
+    "angelic role": "Throne of Providential Grasp; marshals mountain wardens.",
+    "traits": [
+      "controlling",
+      "possessive",
+      "protective"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "VASTRIM",
+    "number": 85,
+    "translation": "He who is merciful",
+    "aethyr": "RII",
+    "element": "Earth",
+    "essence": "As VASTRIM approaches, kindness spreads like a soft light—anger and hurt melt away in the glow of compassion, and a benevolent forgiveness fills the air.",
+    "angelic role": "Principality of Radiant Mercy; leads mountain wardens.",
+    "traits": [
+      "compassionate",
+      "forgiving",
+      "benevolent"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "ODRAXTI",
+    "number": 86,
+    "translation": "He who opens up the east",
+    "aethyr": "RII",
+    "element": "Earth",
+    "essence": "In ODRAXTI's presence, the morning of insight dawns—a guiding Eastern star that cuts through confusion with the sharp logic of truth.",
+    "angelic role": "Archangel of Star of the East; marshals granite-hewn wardens.",
+    "traits": [
+      "enlightening",
+      "initiating",
+      "orienting"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "GMTZIAM",
+    "number": 87,
+    "translation": "She who knows only herself",
+    "aethyr": "RII",
+    "element": "Earth",
+    "essence": "In GMTZIAM's presence, the mind becomes a poet's map—introspective verses chart the soul's landscape, guiding an inner journey of profound self-discovery.",
+    "angelic role": "Angel of Mirror of the Soul; guides iron-winged guardians.",
+    "traits": [
+      "self-aware",
+      "introspective",
+      "self-sufficient"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "TAAOGBA",
+    "number": 88,
+    "translation": "He who becomes the foremost beginning",
+    "aethyr": "TEX",
+    "element": "Water",
+    "essence": "When TAAOGBA is near, a pioneering spark ignites the air—it feels like the universe is beginning anew, led forward by an originative force.",
+    "angelic role": "Seraph of Flame of Genesis; commands mist-bound spirits.",
+    "traits": [
+      "pioneering",
+      "originative",
+      "leading"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "GEMNIMB",
+    "number": 89,
+    "translation": "He who is only for a season",
+    "aethyr": "TEX",
+    "element": "Water",
+    "essence": "In GEMNIMB's presence, every moment feels transient and precious—like a season that blooms brilliantly then passes, encouraging adaptability to life's constant change.",
+    "angelic role": "Cherub of Seasonal Wheel; leads deluge-born hosts.",
+    "traits": [
+      "transient",
+      "adaptable",
+      "changeable"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ADVORPT",
+    "number": 90,
+    "translation": "She who silently watches",
+    "aethyr": "TEX",
+    "element": "Water",
+    "essence": "In ADVORPT's presence, an unseen sentinel seems to be watching quietly—a patient, observant hush that safeguards each secret and respects every boundary.",
+    "angelic role": "Throne of Silent Vigil; marshals tideborn heralds.",
+    "traits": [
+      "observant",
+      "patient",
+      "discreet"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "DOXINAL",
+    "number": 91,
+    "translation": "He who crowns the unseen",
+    "aethyr": "TEX",
+    "element": "Water",
+    "essence": "In DOXINAL's presence, boundaries between worlds grow thin—a liminal magic threads through the air, weaving together realities in secret hermetic harmony.",
+    "angelic role": "Dominion of Veil of Night; guides pearl-plumed wardens.",
+    "traits": [
+      "soothing",
+      "protective",
+      "enigmatic"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+]
+
+
+
+
+

@@ -1,97 +1,79 @@
-"""
-Unified schemas for all governor traits.
-"""
-
+"""Schemas for visual traits and aspects."""
 from dataclasses import dataclass
-from typing import List, Dict, Optional
-from enum import Enum
-
-class ElementType(Enum):
-    """Elemental associations"""
-    FIRE = "fire"
-    WATER = "water" 
-    AIR = "air"
-    EARTH = "earth"
-    SPIRIT = "spirit"
-
-class AlignmentType(Enum):
-    """Moral/ethical alignments"""
-    LAWFUL_GOOD = "lawful_good"
-    NEUTRAL_GOOD = "neutral_good"
-    CHAOTIC_GOOD = "chaotic_good"
-    LAWFUL_NEUTRAL = "lawful_neutral"
-    TRUE_NEUTRAL = "true_neutral"
-    CHAOTIC_NEUTRAL = "chaotic_neutral"
-    LAWFUL_EVIL = "lawful_evil"
-    NEUTRAL_EVIL = "neutral_evil"
-    CHAOTIC_EVIL = "chaotic_evil"
+from typing import Dict, List, Optional
 
 @dataclass
-class CanonicalTraits:
-    """Core canonical traits that define a governor's essence"""
-    name: str
-    aethyr: str
-    aethyr_number: int
-    region: str
-    correspondence: str
-    personality: List[str]
-    domain: str
-    visual_motif: str
-    letter_influence: List[str]
-    version: str = "1.0.0"
-
-@dataclass 
-class EnhancedTraits:
-    """Expanded definitions and context for canonical traits"""
-    trait_name: str
-    definition: str
-    source: str
-    correspondences: List[str]
-    practical_application: str
-    version: str = "1.0.0"
+class FormAspects:
+    """Form-related visual aspects."""
+    base_form: str
+    description: str
+    complexity: int
+    detail_density: str
 
 @dataclass
-class MysticalTraits:
-    """Mystical alignments and correspondences"""
-    element: ElementType
-    alignment: AlignmentType
-    zodiac: str
-    tarot: str
-    sephirot: str
-    angel: str
-    number: int
-    version: str = "1.0.0"
+class ColorPattern:
+    """Color pattern characteristics."""
+    type: str
+    speed: int
 
 @dataclass
-class PersonalityTraits:
-    """Generated personality characteristics"""
-    archetype: str
-    primary_traits: List[str]
-    secondary_traits: List[str]
-    teaching_style: str
-    approach: str
-    tone: str
-    version: str = "1.0.0"
+class ColorAspects:
+    """Color-related visual aspects."""
+    primary_color: List[int]
+    energy_type: str
+    vibration: str
+    pattern: ColorPattern
+
+@dataclass
+class GeometryMotion:
+    """Geometric motion characteristics."""
+    type: str
+    speed: int
+    complexity: int
+
+@dataclass
+class GeometryAspects:
+    """Geometry-related visual aspects."""
+    base_pattern: str
+    dimension: int
+    symmetry_points: int
+    motion: GeometryMotion
+
+@dataclass
+class TemporalCycle:
+    """Temporal cycle characteristics."""
+    type: str
+    duration: int
+    phase: float
+
+@dataclass
+class TemporalAspects:
+    """Time-related visual aspects."""
+    primary_cycle: TemporalCycle
+    flow_type: str
+    stability: float
+    variations: List[str]
+
+@dataclass
+class EnergyFlow:
+    """Energy flow characteristics."""
+    direction: str
+    intensity: float
+    frequency: float
+
+@dataclass
+class EnergyAspects:
+    """Energy-related visual aspects."""
+    signature_type: str
+    primary_flow: EnergyFlow
+    resonance: List[str]
+    harmonics: List[float]
 
 @dataclass
 class VisualTraits:
-    """Visual manifestation aspects"""
-    form_type: str
-    color_scheme: str
-    sacred_geometry: List[str]
-    manifestation: str
-    effects: List[str]
-    version: str = "1.0.0"
-
-@dataclass
-class GovernorTraits:
-    """Complete unified trait definition for a governor"""
-    governor_id: str
-    governor_number: int
-    canonical: CanonicalTraits
-    enhanced: Dict[str, EnhancedTraits]
-    mystical: MysticalTraits
-    personality: PersonalityTraits
-    visual: VisualTraits
-    version: str = "1.0.0"
-    last_updated: Optional[str] = None  # ISO format timestamp 
+    """Visual traits and aspects of a governor."""
+    form: FormAspects
+    color: ColorAspects
+    geometry: GeometryAspects
+    temporal: TemporalAspects
+    energy: EnergyAspects 

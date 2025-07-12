@@ -1,0 +1,33 @@
+{
+    "schema_version": "1.0.0",
+    "last_updated": "2024-03-14T00:00:00",
+    "entries": [
+        {
+            "id": "TRAIT001",
+            "name": "Wisdom",
+            "definition": "Deep understanding and insight",
+            "category": "Mental",
+            "metadata": {"source": "Test"},
+            "subcategory": "Knowledge",
+            "correspondences": ["Mercury", "Air"]
+        },
+        {
+            "id": "TRAIT002",
+            "name": "Strength",
+            "definition": "Inner and outer power",
+            "category": "Physical",
+            "metadata": {"source": "Test"},
+            "subcategory": "Power",
+            "correspondences": ["Mars", "Fire"]
+        },
+        {
+            "id": "TRAIT003",
+            "name": "Compassion",
+            "definition": "Deep empathy and care for others",
+            "category": "Emotional",
+            "metadata": {"source": "Test"},
+            "subcategory": "Virtues",
+            "correspondences": ["Venus", "Water"]
+        }
+    ]
+} 

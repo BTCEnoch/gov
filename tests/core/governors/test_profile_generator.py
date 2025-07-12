@@ -15,8 +15,8 @@ from core.governors.bitcoin import (
     Inscription,
     StateProof
 )
-from core.governors.profiles.analyzer import (
-    EnhancedProfile,
+from core.governors.profiler.core.enhanced_profile_analyzer import (
+    EnhancedGovernorProfile as EnhancedProfile,
     ElementalEssence,
     VoidmakerAwareness,
     WisdomFoundation,

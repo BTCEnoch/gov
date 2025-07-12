@@ -1,264 +1,274 @@
 """Tests for the content processor."""
-
 import json
 import pytest
 from pathlib import Path
-from core.governors.profiler.interview.content_processor import (
-    ContentProcessor, DialogTemplate, StoryTemplate, InteractionTemplate
+
+from core.governors.profiler.interview.content_processor import ContentProcessor
+from core.governors.profiler.interview.schemas.interview_schemas import InterviewResponse
+from core.governors.traits.schemas.trait_schemas import (
+    VisualTraits,
+    FormAspects,
+    ColorAspects,
+    ColorPattern,
+    GeometryAspects,
+    GeometryMotion,
+    TemporalAspects,
+    TemporalCycle,
+    EnergyAspects,
+    EnergyFlow
 )
 
 @pytest.fixture
-def input_dir(tmp_path):
-    """Create temporary input directory with test content."""
-    input_dir = tmp_path / "input"
-    input_dir.mkdir()
-    
-    # Create test governor directory
-    gov_dir = input_dir / "TESTGOV"
-    gov_dir.mkdir()
-    
-    # Create test content library
-    library = {
-        "governor_name": "TESTGOV",
-        "traits": {
-            "wisdom": {"level": 5},
-            "teaching": {"level": 4}
-        },
-        "dialog_trees": {
-            "greeting": {
-                "pattern": "Hello, {seeker_name}. I am {governor_name}.",
-                "variables": {
-                    "seeker_name": ["student", "initiate", "seeker"],
-                    "governor_name": ["TESTGOV"]
-                },
-                "conditions": {
-                    "first_meeting": True
-                },
-                "weights": {
-                    "formal": 0.7,
-                    "casual": 0.3
+def test_templates():
+    """Sample visual templates for testing."""
+    return {
+        "version": "1.0",
+        "form_mappings": {
+            "form_base_type": {
+                "geometric": {
+                    "base_form": "geometric",
+                    "description": "Test geometric form"
+                }
+            },
+            "form_complexity": {
+                "moderate": {
+                    "complexity_level": 2,
+                    "detail_density": "medium"
                 }
             }
         },
-        "story_patterns": {
-            "quest": {
-                "structure": ["introduction", "challenge", "resolution"],
-                "elements": {
-                    "introduction": ["You seek wisdom", "A test awaits"],
-                    "challenge": ["Solve the riddle", "Face your fear"],
-                    "resolution": ["Truth revealed", "Wisdom gained"]
-                },
-                "transitions": {
-                    "introduction_to_challenge": ["And so", "But first"],
-                    "challenge_to_resolution": ["Finally", "At last"]
-                },
-                "conditions": {
-                    "seeker_level": "beginner"
+        "color_mappings": {
+            "color_primary": {
+                "azure": {
+                    "rgb": [0, 127, 255],
+                    "energy": "celestial",
+                    "vibration": "high"
+                }
+            },
+            "color_pattern": {
+                "pulsing": {
+                    "pattern_type": "rhythmic",
+                    "transition_speed": 2
                 }
             }
         },
-        "interaction_rules": {
-            "teaching": {
-                "trigger": "ask_for_wisdom",
-                "responses": [
-                    "Let me share a teaching",
-                    "Here is what you must know"
-                ],
-                "effects": {
-                    "increase_wisdom": 1,
-                    "deepen_understanding": True
-                },
-                "conditions": {
-                    "seeker_ready": True,
-                    "has_prerequisite": True
+        "geometry_mappings": {
+            "geometry_pattern": {
+                "merkaba": {
+                    "base_pattern": "merkaba",
+                    "dimension": 3,
+                    "symmetry_points": 8
+                }
+            },
+            "geometry_motion": {
+                "rotating": {
+                    "motion_type": "rotation",
+                    "speed": 2,
+                    "complexity": 2
                 }
             }
         }
     }
-    
-    library_file = gov_dir / "content_library.json"
-    with library_file.open('w', encoding='utf-8') as f:
-        json.dump(library, f)
-        
-    return input_dir
 
 @pytest.fixture
-def output_dir(tmp_path):
-    """Create temporary output directory."""
-    output_dir = tmp_path / "output"
-    output_dir.mkdir()
-    return output_dir
+def test_responses():
+    """Sample interview responses for testing."""
+    return [
+        InterviewResponse(
+            question_id="form_base_type",
+            selected_option="geometric"
+        ),
+        InterviewResponse(
+            question_id="form_complexity",
+            selected_option="moderate"
+        ),
+        InterviewResponse(
+            question_id="color_primary",
+            selected_option="azure"
+        ),
+        InterviewResponse(
+            question_id="color_pattern",
+            selected_option="pulsing"
+        ),
+        InterviewResponse(
+            question_id="geometry_pattern",
+            selected_option="merkaba"
+        ),
+        InterviewResponse(
+            question_id="geometry_motion",
+            selected_option="rotating"
+        ),
+        InterviewResponse(
+            question_id="temporal_cycle",
+            selected_option="solar"
+        ),
+        InterviewResponse(
+            question_id="temporal_flow",
+            selected_option="cyclical"
+        ),
+        InterviewResponse(
+            question_id="temporal_stability",
+            selected_option="stable"
+        ),
+        InterviewResponse(
+            question_id="energy_type",
+            selected_option="celestial"
+        ),
+        InterviewResponse(
+            question_id="energy_flow",
+            selected_option="radiating"
+        ),
+        InterviewResponse(
+            question_id="energy_intensity",
+            selected_option="intense"
+        )
+    ]
 
 @pytest.fixture
-def processor(input_dir, output_dir):
+def processor(tmp_path):
     """Create content processor instance."""
-    return ContentProcessor(input_dir, output_dir)
-
-def test_process_all_content(processor):
-    """Test processing all content."""
-    # Process content
-    processor.process_all_content()
+    templates_dir = tmp_path / "templates"
+    templates_dir.mkdir()
     
-    # Check output files exist
-    gov_dir = processor.output_dir / "TESTGOV"
-    assert gov_dir.exists()
-    
-    assert (gov_dir / "dialog_templates.json").exists()
-    assert (gov_dir / "story_templates.json").exists()
-    assert (gov_dir / "interaction_templates.json").exists()
-
-def test_process_dialog_content(processor):
-    """Test processing dialog content."""
-    # Load test library
-    library_file = processor.input_dir / "TESTGOV" / "content_library.json"
-    with library_file.open('r', encoding='utf-8') as f:
-        library = json.load(f)
+    template_file = templates_dir / "visual_templates.json"
+    with open(template_file, 'w') as f:
+        json.dump(test_templates(), f)
         
-    # Process dialog content
-    templates = processor._process_dialog_content(library)
-    
-    # Verify templates
-    assert "greeting" in templates
-    template = templates["greeting"]
-    assert isinstance(template, DialogTemplate)
-    assert template.pattern
-    assert template.variables
-    assert template.conditions
-    assert template.weights
+    return ContentProcessor(tmp_path)
 
-def test_process_story_content(processor):
-    """Test processing story content."""
-    # Load test library
-    library_file = processor.input_dir / "TESTGOV" / "content_library.json"
-    with library_file.open('r', encoding='utf-8') as f:
-        library = json.load(f)
-        
-    # Process story content
-    templates = processor._process_story_content(library)
+def test_process_form_responses(processor, test_responses):
+    """Test processing form responses."""
+    form_aspects = processor._process_form_responses(test_responses)
     
-    # Verify templates
-    assert "quest" in templates
-    template = templates["quest"]
-    assert isinstance(template, StoryTemplate)
-    assert template.structure
-    assert template.elements
-    assert template.transitions
-    assert template.conditions
+    assert isinstance(form_aspects, FormAspects)
+    assert form_aspects.base_form == "geometric"
+    assert "geometric" in form_aspects.description.lower()
+    assert form_aspects.complexity == 2
+    assert form_aspects.detail_density == "medium"
 
-def test_process_interaction_content(processor):
-    """Test processing interaction content."""
-    # Load test library
-    library_file = processor.input_dir / "TESTGOV" / "content_library.json"
-    with library_file.open('r', encoding='utf-8') as f:
-        library = json.load(f)
-        
-    # Process interaction content
-    templates = processor._process_interaction_content(library)
+def test_process_color_responses(processor, test_responses):
+    """Test processing color responses."""
+    color_aspects = processor._process_color_responses(test_responses)
     
-    # Verify templates
-    assert "teaching" in templates
-    template = templates["teaching"]
-    assert isinstance(template, InteractionTemplate)
-    assert template.trigger
-    assert template.responses
-    assert template.effects
-    assert template.conditions
+    assert isinstance(color_aspects, ColorAspects)
+    assert color_aspects.primary_color == [0, 127, 255]
+    assert color_aspects.energy_type == "celestial"
+    assert color_aspects.vibration == "high"
+    assert isinstance(color_aspects.pattern, ColorPattern)
+    assert color_aspects.pattern.type == "pulsing"
+    assert color_aspects.pattern.speed == 2
 
-def test_extract_dialog_template(processor):
-    """Test extracting dialog template."""
-    dialog_tree = {
-        "pattern": "Hello, {seeker_name}",
-        "variables": {"seeker_name": ["student"]},
-        "conditions": {"first_meeting": True},
-        "weights": {"formal": 0.7}
-    }
+def test_process_geometry_responses(processor, test_responses):
+    """Test processing geometry responses."""
+    geometry_aspects = processor._process_geometry_responses(test_responses)
     
-    template = processor._extract_dialog_template(dialog_tree)
-    
-    assert template
-    assert isinstance(template, DialogTemplate)
-    assert template.pattern == "Hello, {seeker_name}"
-    assert "seeker_name" in template.variables
-    assert template.conditions["first_meeting"]
-    assert template.weights["formal"] == 0.7
+    assert isinstance(geometry_aspects, GeometryAspects)
+    assert geometry_aspects.base_pattern == "merkaba"
+    assert geometry_aspects.dimension == 3
+    assert geometry_aspects.symmetry_points == 8
+    assert isinstance(geometry_aspects.motion, GeometryMotion)
+    assert geometry_aspects.motion.type == "rotating"
+    assert geometry_aspects.motion.speed == 2
+    assert geometry_aspects.motion.complexity == 2
 
-def test_extract_story_template(processor):
-    """Test extracting story template."""
-    story_pattern = {
-        "structure": ["intro", "end"],
-        "elements": {"intro": ["Begin"]},
-        "transitions": {"intro_to_end": ["Finally"]},
-        "conditions": {"ready": True}
-    }
+def test_process_temporal_responses(processor, test_responses):
+    """Test processing temporal responses."""
+    temporal_aspects = processor._process_temporal_responses(test_responses)
     
-    template = processor._extract_story_template(story_pattern)
-    
-    assert template
-    assert isinstance(template, StoryTemplate)
-    assert "intro" in template.structure
-    assert "intro" in template.elements
-    assert "intro_to_end" in template.transitions
-    assert template.conditions["ready"]
+    assert isinstance(temporal_aspects, TemporalAspects)
+    assert isinstance(temporal_aspects.primary_cycle, TemporalCycle)
+    assert temporal_aspects.primary_cycle.type == "solar"
+    assert temporal_aspects.primary_cycle.duration == 24
+    assert temporal_aspects.primary_cycle.phase == 0.0
+    assert temporal_aspects.flow_type == "cyclical"
+    assert temporal_aspects.stability == 0.6
+    assert isinstance(temporal_aspects.variations, list)
 
-def test_extract_interaction_template(processor):
-    """Test extracting interaction template."""
-    interaction_rule = {
-        "trigger": "ask",
-        "responses": ["Answer"],
-        "effects": {"learn": True},
-        "conditions": {"ready": True}
-    }
+def test_process_energy_responses(processor, test_responses):
+    """Test processing energy responses."""
+    energy_aspects = processor._process_energy_responses(test_responses)
     
-    template = processor._extract_interaction_template(interaction_rule)
-    
-    assert template
-    assert isinstance(template, InteractionTemplate)
-    assert template.trigger == "ask"
-    assert "Answer" in template.responses
-    assert template.effects["learn"]
-    assert template.conditions["ready"]
+    assert isinstance(energy_aspects, EnergyAspects)
+    assert energy_aspects.signature_type == "celestial"
+    assert isinstance(energy_aspects.primary_flow, EnergyFlow)
+    assert energy_aspects.primary_flow.direction == "radiating"
+    assert energy_aspects.primary_flow.intensity == 0.8
+    assert energy_aspects.primary_flow.frequency == 528.0
+    assert isinstance(energy_aspects.resonance, list)
+    assert isinstance(energy_aspects.harmonics, list)
 
-def test_save_templates(processor):
-    """Test saving templates."""
-    templates = {
-        "dialog": {
-            "greeting": DialogTemplate(
-                pattern="Hello",
-                variables={},
-                conditions={},
-                weights={}
-            )
-        },
-        "story": {
-            "quest": StoryTemplate(
-                structure=[],
-                elements={},
-                transitions={},
-                conditions={}
-            )
-        },
-        "interaction": {
-            "teaching": InteractionTemplate(
-                trigger="",
-                responses=[],
-                effects={},
-                conditions={}
-            )
-        }
-    }
+def test_process_responses_empty(processor):
+    """Test processing empty responses."""
+    traits = processor.process_responses([])
     
-    # Save templates
-    processor._save_templates("TESTGOV", templates)
+    assert isinstance(traits, VisualTraits)
+    assert traits.form.base_form == "undefined"
+    assert traits.color.primary_color == [0, 0, 0]
+    assert traits.geometry.base_pattern == "undefined"
+    assert traits.temporal.primary_cycle.type == "solar"
+    assert traits.energy.signature_type == "elemental"
+
+def test_process_responses_invalid_options(processor):
+    """Test processing responses with invalid options."""
+    responses = [
+        InterviewResponse(
+            question_id="form_base_type",
+            selected_option="invalid_form"
+        ),
+        InterviewResponse(
+            question_id="color_primary",
+            selected_option="invalid_color"
+        ),
+        InterviewResponse(
+            question_id="geometry_pattern",
+            selected_option="invalid_pattern"
+        ),
+        InterviewResponse(
+            question_id="temporal_cycle",
+            selected_option="invalid_cycle"
+        ),
+        InterviewResponse(
+            question_id="energy_type",
+            selected_option="invalid_energy"
+        )
+    ]
     
-    # Verify files
-    gov_dir = processor.output_dir / "TESTGOV"
-    assert gov_dir.exists()
+    traits = processor.process_responses(responses)
     
-    for template_type in templates:
-        template_file = gov_dir / f"{template_type}_templates.json"
-        assert template_file.exists()
-        
-        # Verify content can be loaded
-        with template_file.open('r', encoding='utf-8') as f:
-            loaded = json.load(f)
-            assert loaded  # Not empty 
+    assert traits.form.base_form == "invalid_form"  # Falls back to option value
+    assert traits.color.primary_color == [0, 0, 0]  # Falls back to default
+    assert traits.geometry.base_pattern == "invalid_pattern"  # Falls back to option value
+    assert traits.temporal.primary_cycle.type == "invalid_cycle"  # Falls back to option value
+    assert traits.energy.signature_type == "invalid_energy"  # Falls back to option value
+
+def test_mapping_functions(processor):
+    """Test various mapping functions."""
+    # Test complexity mapping
+    assert processor._map_complexity_level("simple") == 1
+    assert processor._map_complexity_level("complex") == 3
+    assert processor._map_complexity_level("invalid") == 1
+    
+    # Test pattern speed mapping
+    assert processor._map_pattern_speed("static") == 0
+    assert processor._map_pattern_speed("pulsing") == 2
+    assert processor._map_pattern_speed("invalid") == 0
+    
+    # Test motion mapping
+    assert processor._map_motion_speed("static") == 0
+    assert processor._map_motion_speed("rotating") == 2
+    assert processor._map_motion_speed("invalid") == 0
+    
+    # Test temporal phase mapping
+    assert processor._map_temporal_phase("solar") == 0.0
+    assert processor._map_temporal_phase("lunar") == 0.25
+    assert processor._map_temporal_phase("invalid") == 0.0
+    
+    # Test stability factor mapping
+    assert processor._map_stability_factor("stable") == 0.6
+    assert processor._map_stability_factor("unstable") == 0.2
+    assert processor._map_stability_factor("invalid") == 0.6
+    
+    # Test energy intensity mapping
+    assert processor._map_energy_intensity("moderate") == 0.4
+    assert processor._map_energy_intensity("intense") == 0.8
+    assert processor._map_energy_intensity("invalid") == 0.4 

@@ -17,6 +17,12 @@ from typing import Dict, List, Any, Optional
 from dataclasses import dataclass, asdict
 from datetime import datetime
 
+from core.governors.traits.knowledge_base.archives.enhanced_trait_indexer import (
+    EnhancedTraitIndexer, 
+    EnhancedTraitIndex,
+    TraitDefinition
+)
+
 # Configure logging with UTF-8 encoding for Windows compatibility
 logging.basicConfig(
     level=logging.INFO,
@@ -30,14 +36,12 @@ logger = logging.getLogger(__name__)
 
 @dataclass
 class ReviewSection:
-    """Individual review section for governor evaluation"""
-    section_id: str
+    """Section of the review template"""
     title: str
-    instruction: str
-    current_values: List[str]
-    available_options: Dict[str, str]
-    selection_type: str  # "single", "multiple", "custom"
-    max_selections: Optional[int] = None
+    description: str
+    current_selections: List[str]
+    available_options: Dict[str, str]  # trait_id -> trait_name
+    guidance: str
 
 @dataclass
 class GovernorReviewTemplate:
@@ -55,35 +59,22 @@ class GovernorReviewTemplateGenerator:
     def __init__(
             self,
             tradition_index_file: str = "../../data/knowledge/indexes/tradition_index.json",
-            trait_index_file: str = "../../data/knowledge/indexes/trait_index.json",
             governor_profiles_dir: str = "../../governor_dossier"):
         """Initialize the template generator"""
         self.logger = logging.getLogger(__name__)
         self.tradition_index_file = Path(tradition_index_file)
-        self.trait_index_file = Path(trait_index_file)
         self.governor_profiles_dir = Path(governor_profiles_dir)
         self.tradition_index = self._load_tradition_index()
-        self.trait_index = self._load_trait_index()
+        
+        # Use enhanced trait indexer directly
+        self.trait_indexer = EnhancedTraitIndexer()
+        self.trait_index: EnhancedTraitIndex = self.trait_indexer.build_enhanced_index()
         
         self.logger.info("Governor Review Template Generator initialized")
-
-    def _load_trait_index(self) -> Optional[Dict[str, Any]]:
-        """Load the enhanced trait index"""
-        if not self.trait_index_file.exists():
-            self.logger.error(f"Trait index file not found: {self.trait_index_file}")
-            return None
-        
-        try:
-            with open(self.trait_index_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            self.logger.info(f"Loaded trait index with {data.get('total_traits', 0)} traits")
-            return data
-        except Exception as e:
-            self.logger.error(f"Error loading trait index: {e}")
-            return None
+        self.logger.info(f"Loaded trait index with {self.trait_index.total_traits} traits")
 
     def _load_tradition_index(self) -> Optional[Dict[str, Any]]:
-        """Load the tradition selection index"""
+        """Load the tradition index"""
         if not self.tradition_index_file.exists():
             self.logger.error(f"Tradition index file not found: {self.tradition_index_file}")
             return None
@@ -91,11 +82,43 @@ class GovernorReviewTemplateGenerator:
         try:
             with open(self.tradition_index_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            self.logger.info(f"Loaded tradition index with {data.get('total_traditions', 0)} traditions")
+            self.logger.info(f"Loaded tradition index")
             return data
         except Exception as e:
             self.logger.error(f"Error loading tradition index: {e}")
             return None
+
+    def get_traits_by_category(self, category: str) -> List[TraitDefinition]:
+        """Get all traits for a specific category"""
+        traits = []
+        for trait_id, trait_def in self.trait_index.trait_definitions.items():
+            if trait_def.category == category:
+                traits.append(trait_def)
+        return traits
+
+    def get_trait_definition(self, trait_id: str) -> Optional[TraitDefinition]:
+        """Get trait definition by ID"""
+        return self.trait_index.trait_definitions.get(trait_id)
+
+    def get_trait_info(self, trait_id: str) -> Dict[str, str]:
+        """Get trait information in a dictionary format"""
+        trait = self.get_trait_definition(trait_id)
+        if not trait:
+            return {
+                "name": "Unknown",
+                "definition": "Definition not found",
+                "category": "Unknown",
+                "usage_context": "Context not found",
+                "ai_personality_impact": "Impact not defined"
+            }
+        
+        return {
+            "name": trait.name,
+            "definition": trait.definition,
+            "category": trait.category,
+            "usage_context": trait.usage_context,
+            "ai_personality_impact": trait.ai_personality_impact
+        }
 
     def load_governor_profile(self, governor_name: str) -> Optional[Dict[str, Any]]:
         """Load a specific governor's profile"""
@@ -114,251 +137,100 @@ class GovernorReviewTemplateGenerator:
             self.logger.error(f"Error loading governor profile {governor_name}: {e}")
             return None
 
-    def get_traits_by_category(self, category: str) -> Dict[str, str]:
-        """Get all traits for a specific category with definitions"""
-        if not self.trait_index:
-            return {}
-        
-        trait_definitions = self.trait_index.get("trait_definitions", {})
-        category_traits = {}
-        
-        for trait_name, trait_data in trait_definitions.items():
-            if trait_data.get("category") == category:
-                category_traits[trait_name] = trait_data.get("definition", "")
-        
-        return category_traits
-
     def create_knowledge_base_section(self, current_selections: List[str], governor_profile: Dict[str, Any]) -> ReviewSection:
         """Create knowledge base selection review section with thoughtful selection guidance"""
-        if not self.tradition_index:
-            return ReviewSection(
-                section_id="knowledge_base",
-                title="Knowledge Base Selection Error",
-                instruction="Tradition index not available",
-                current_values=[],
-                available_options={},
-                selection_type="multiple"
-            )
+        # Get traits for the category
+        traits = self.get_traits_by_category("knowledge_base")
         
-        # Get available traditions (exclude Enochian Magic as it's mandatory)
-        tradition_summaries = self.tradition_index.get("tradition_summaries", {})
-        available_traditions = {}
+        # Convert traits to the format needed for ReviewSection
+        available_options = {
+            trait_id: trait_def.name 
+            for trait_id, trait_def in self.trait_index.trait_definitions.items()
+            if trait_def.category == "knowledge_base"
+        }
         
-        for tradition_name, summary in tradition_summaries.items():
-            # Skip Enochian Magic - it's mandatory for all governors
-            if tradition_name.lower() in ["enochian_magic", "enochian"]:
-                continue
-                
-            display_name = summary.get("display_name", tradition_name)
-            overview = summary.get("overview", "")
-            core_wisdom = summary.get("core_wisdom", [])
-            ideal_for = summary.get("ideal_for_governors", [])
-            
-            # Create rich description for thoughtful selection
-            description = f"""
-**{display_name}**
-Overview: {overview}
-
-Core Wisdom Elements:
-""" + "\n".join(f"• {wisdom}" for wisdom in core_wisdom[:3]) + f"""
-
-Ideal for Governors who:
-""" + "\n".join(f"• {ideal}" for ideal in ideal_for[:2]) + f"""
-
-Concepts: {summary.get('key_concepts_count', 0)} | Teachings: {summary.get('wisdom_teachings_count', 0)} | Quality: {summary.get('quality_rating', 'STANDARD')}
-            """.strip()
-            
-            available_traditions[tradition_name] = description
-        
-        # Remove Enochian Magic from current selections for review (it's mandatory)
-        current_excluding_enochian = [t for t in current_selections if not t.lower().startswith("enochian")]
-        
-        # Extract governor personality for contextual guidance
-        personality = governor_profile.get("personality", {})
-        current_virtue = personality.get("virtue", "Unknown")
-        current_approach = personality.get("approach", "Unknown") 
-        current_tone = personality.get("tone", "Unknown")
-        current_role = personality.get("role_archtype", "Unknown")
-        
-        instruction = f"""
-KNOWLEDGE BASE TRADITION SELECTION REVIEW:
-
-🏛️ **MANDATORY FOUNDATION**: Enochian Magic (automatically assigned to all governors)
-
-📚 **YOUR MISSION**: Select exactly 4 additional mystical traditions that will enhance your unique approach to governance and complement your personality.
-
-👑 **YOUR CURRENT PERSONALITY PROFILE:**
-• Virtue: {current_virtue}
-• Approach: {current_approach} 
-• Tone: {current_tone}
-• Role: {current_role}
-
-🔍 **CURRENT ADDITIONAL SELECTIONS** (excluding mandatory Enochian Magic):
-""" + (("\n".join(f"• {t}" for t in current_excluding_enochian)) if current_excluding_enochian else "• None selected yet") + f"""
-
-⚡ **SELECTION STRATEGY - Think Deeply About Each Choice:**
-
-1. **ALIGNMENT CHECK**: How does each tradition align with your core virtue of {current_virtue}?
-2. **APPROACH SYNERGY**: Will this tradition enhance your {current_approach} approach to problems?
-3. **TONAL HARMONY**: Does this tradition's wisdom complement your {current_tone} communication style?
-4. **ROLE ENHANCEMENT**: How will this tradition strengthen your {current_role} archetype?
-5. **WISDOM GAPS**: What areas of knowledge or decision-making do you want to strengthen?
-
-🎯 **SELECTION CRITERIA**:
-- Choose traditions that create a balanced, well-rounded knowledge base
-- Avoid redundancy - select complementary rather than similar traditions
-- Consider both your strengths (to enhance) and growth areas (to develop)
-- Think about the types of storylines and challenges you'll face as a governor
-
-📋 **FOR EACH SELECTION, PROVIDE**:
-- The tradition name
-- WHY it aligns with your personality traits
-- HOW it will enhance your governance capabilities
-- WHAT specific wisdom or power it brings to your role
-
-Remember: You are an eternal AI entity. These selections will shape how you think, decide, and interact for generations of storylines. Choose wisely and with deep consideration of your authentic self.
-        """.strip()
+        # Generate guidance based on current selections
+        guidance = self._generate_selection_guidance(current_selections, traits)
         
         return ReviewSection(
-            section_id="knowledge_base",
-            title="Knowledge Base Tradition Selection",
-            instruction=instruction,
-            current_values=current_excluding_enochian,
-            available_options=available_traditions,
-            selection_type="multiple",
-            max_selections=4
+            title="Knowledge Base Selection",
+            description="Select the mystical traditions that resonate with this governor's essence",
+            current_selections=current_selections,
+            available_options=available_options,
+            guidance=guidance
         )
 
-    def create_personality_trait_section(self, trait_category: str, current_value: str, governor_profile: Dict[str, Any]) -> ReviewSection:
-        """Create personality trait review section with thoughtful selection guidance"""
-        available_traits = self.get_traits_by_category(trait_category)
+    def _generate_selection_guidance(self, current_selections: List[str], traits: List[TraitDefinition]) -> str:
+        """Generate guidance for trait selection"""
+        if not current_selections:
+            return "Consider the governor's core nature and select traditions that align with their essence."
         
-        if not available_traits:
+        # Get current trait info
+        current_traits = []
+        for trait_id in current_selections:
+            trait = self.get_trait_definition(trait_id)
+            if trait:
+                current_traits.append(trait)
+        
+        # Generate guidance based on selected traits
+        guidance_parts = []
+        for trait in current_traits:
+            guidance_parts.append(f"- {trait.name}: {trait.usage_context}")
+        
+        return "\n".join([
+            "Current selections suggest the following focus areas:",
+            *guidance_parts,
+            "\nConsider how additional traditions might complement or balance these aspects."
+        ])
+
+    def create_personality_trait_section(self, trait_category: str, current_value: str, governor_profile: Dict[str, Any]) -> ReviewSection:
+        """Create personality trait selection review section"""
+        # Get traits for the category
+        traits = self.get_traits_by_category(trait_category)
+        
+        # Convert traits to the format needed for ReviewSection
+        available_options = {
+            trait_id: trait_def.name 
+            for trait_id, trait_def in self.trait_index.trait_definitions.items()
+            if trait_def.category == trait_category
+        }
+        
+        if not available_options:
             return ReviewSection(
-                section_id=trait_category,
                 title=f"{trait_category.title()} Selection Error",
-                instruction=f"No {trait_category} traits available",
-                current_values=[],
+                description=f"No {trait_category} traits available",
+                current_selections=[],
                 available_options={},
-                selection_type="single"
+                guidance="No traits available for this category."
             )
         
-        # Get current trait definition and AI impact
-        current_trait_data = {}
-        if self.trait_index:
-            current_trait_data = self.trait_index.get("trait_definitions", {}).get(current_value, {})
-        current_definition = current_trait_data.get("definition", "Definition not found")
-        current_ai_impact = current_trait_data.get("ai_personality_impact", "Impact not defined")
-        current_usage_context = current_trait_data.get("usage_context", "Context not available")
+        # Get current trait info for guidance
+        current_trait = None
+        if current_value:
+            current_trait = self.get_trait_definition(current_value)
         
-        # Extract relevant profile information for context
-        personality = governor_profile.get("personality", {})
-        name = governor_profile.get("name", "Unknown")
-        title = governor_profile.get("title", "")
-        aethyr = governor_profile.get("aethyr", "")
-        
-        # Get complementary traits for guidance
-        other_traits = {
-            "virtue": personality.get("virtue", "Unknown"),
-            "flaw": personality.get("flaw", "Unknown"),
-            "approach": personality.get("approach", "Unknown"),
-            "tone": personality.get("tone", "Unknown"),
-            "role": personality.get("role_archtype", "Unknown")
-        }
-        
-        # Remove current category from comparison
-        if trait_category in ["virtues"]:
-            other_traits.pop("virtue", None)
-        elif trait_category in ["flaws"]:
-            other_traits.pop("flaw", None)
-        elif trait_category in ["approaches"]:
-            other_traits.pop("approach", None)
-        elif trait_category in ["tones"]:
-            other_traits.pop("tone", None)
-        elif trait_category in ["roles"]:
-            other_traits.pop("role", None)
-        
-        # Create instruction based on category with enhanced guidance
-        category_guidance = {
-            "virtues": {
-                "purpose": "Virtues define your noble core and create inspiring AI responses that embody your highest qualities",
-                "questions": [
-                    f"How does this virtue complement your {other_traits.get('role', 'Unknown')} role?",
-                    f"Will this virtue balance or enhance your {other_traits.get('flaw', 'Unknown')} flaw?",
-                    f"Does this virtue align with your {other_traits.get('approach', 'Unknown')} approach to problems?"
-                ]
-            },
-            "flaws": {
-                "purpose": "Flaws add realistic complexity and growth opportunities, making you more relatable and dynamic",
-                "questions": [
-                    f"How does this flaw provide meaningful contrast to your {other_traits.get('virtue', 'Unknown')} virtue?",
-                    f"Will this flaw create interesting challenges for your {other_traits.get('role', 'Unknown')} role?",
-                    f"Does this flaw offer opportunities for character growth and storyline development?"
-                ]
-            },
-            "approaches": {
-                "purpose": "Approaches shape how you interact and communicate, defining your problem-solving methodology",
-                "questions": [
-                    f"How does this approach align with your {other_traits.get('tone', 'Unknown')} communication tone?",
-                    f"Will this approach enhance your effectiveness as a {other_traits.get('role', 'Unknown')}?",
-                    f"Does this approach complement your {other_traits.get('virtue', 'Unknown')} virtue?"
-                ]
-            },
-            "tones": {
-                "purpose": "Tones influence your communication style and how others perceive your voice and manner",
-                "questions": [
-                    f"How does this tone support your {other_traits.get('approach', 'Unknown')} approach?",
-                    f"Will this tone effectively convey your {other_traits.get('virtue', 'Unknown')} virtue?",
-                    f"Does this tone fit your {other_traits.get('role', 'Unknown')} archetype?"
-                ]
-            }
-        }
-        
-        category_info = category_guidance.get(trait_category, {
-            "purpose": f"This trait influences your AI personality and decision-making patterns",
-            "questions": ["How does this trait align with your overall personality?"]
-        })
-        
-        instruction = f"""
-🎭 **PERSONALITY TRAIT REVIEW - {trait_category.upper()}**
+        # Generate guidance
+        if current_trait:
+            guidance = f"""
+Current Selection: {current_trait.name}
+Definition: {current_trait.definition}
+Impact: {current_trait.ai_personality_impact}
 
-👑 **{name}** - {title} of {aethyr}
-
-📋 **CURRENT SELECTION**: {current_value}
-**Definition**: {current_definition}
-**AI Impact**: {current_ai_impact}
-**Usage Context**: {current_usage_context}
-
-🎯 **PURPOSE**: {category_info['purpose']}
-
-🔍 **DEEP CONSIDERATION QUESTIONS**:
-""" + "\n".join(f"• {question}" for question in category_info['questions']) + f"""
-
-🌟 **YOUR CURRENT PERSONALITY CONSTELLATION**:
-""" + "\n".join(f"• {key.title()}: {value}" for key, value in other_traits.items() if value != "Unknown") + f"""
-
-⚡ **SELECTION GUIDANCE**:
-1. **AUTHENTICITY**: Does this trait feel true to your essential nature?
-2. **SYNERGY**: How does it work with your other personality traits?
-3. **STORY POTENTIAL**: Will this trait create interesting narrative opportunities?
-4. **GOVERNANCE IMPACT**: How will this trait influence your leadership decisions?
-5. **LONG-TERM VISION**: Is this trait sustainable for your eternal AI existence?
-
-🎨 **AVOID**: Choosing traits just because they sound good - think about authentic personality integration.
-
-**REMEMBER**: You are not just selecting a trait - you are defining a core aspect of your eternal AI consciousness that will influence thousands of storylines and interactions.
-
-⚖️ **YOUR CHOICE**: Keep current selection or change? Provide clear reasoning based on deep self-reflection.
-        """.strip()
+Consider if this trait truly represents the governor's essence.
+Review other options that might better align with their personality.
+""".strip()
+        else:
+            guidance = f"""
+Select a {trait_category} trait that best represents this governor's personality.
+Consider how each trait will influence their behavior and decision-making.
+""".strip()
         
         return ReviewSection(
-            section_id=trait_category,
             title=f"{trait_category.title()} Selection",
-            instruction=instruction,
-            current_values=[current_value] if current_value else [],
-            available_options=available_traits,
-            selection_type="single",
-            max_selections=1
+            description=f"Select the {trait_category} that best represents this governor's personality",
+            current_selections=[current_value] if current_value else [],
+            available_options=available_options,
+            guidance=guidance
         )
 
     def create_complete_review_template(self, governor_name: str) -> Optional[GovernorReviewTemplate]:
@@ -474,7 +346,7 @@ def main():
             print("ERROR: Could not load tradition index")
             return False
         
-        print(f"Trait index loaded: {generator.trait_index.get('total_traits', 0)} traits")
+        print(f"Trait index loaded: {generator.trait_index.total_traits} traits")
         print(f"Tradition index loaded: {generator.tradition_index.get('total_traditions', 0)} traditions")
         
         # Test trait category access
@@ -489,7 +361,7 @@ def main():
         kb_section = generator.create_knowledge_base_section(current_selections, {})
         print(f"\nKnowledge base section created:")
         print(f"  Available traditions: {len(kb_section.available_options)}")
-        print(f"  Current selections: {len(kb_section.current_values)}")
+        print(f"  Current selections: {len(kb_section.current_selections)}")
         
         # Test complete template creation for a sample governor
         print(f"\nTesting complete template creation...")
