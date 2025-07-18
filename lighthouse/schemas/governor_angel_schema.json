@@ -1,0 +1,328 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Enochian Governor Angel Schema",
+  "description": "Schema for the 91 Governor Angels with authentic Enochian attributes",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 91,
+      "description": "Governor Angel number (1-91)"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 20,
+      "description": "Authentic Enochian name from primary sources"
+    },
+    "enochian_name": {
+      "type": "string",
+      "description": "Original Enochian script name if different from romanized"
+    },
+    "aethyr_association": {
+      "type": "object",
+      "properties": {
+        "aethyr_name": {
+          "type": "string",
+          "enum": [
+            "LIL", "ARN", "ZOM", "PAZ", "LIT", "MAZ", "DEO", "ZID", "ZIP", "ZAX",
+            "ICH", "LOE", "ZIM", "UTA", "OXO", "LEA", "TAN", "ZEN", "POP", "KHR",
+            "ASP", "LIN", "TOR", "NIA", "VTI", "DES", "ZAA", "BAG", "RII", "TEX"
+          ]
+        },
+        "aethyr_number": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 30
+        },
+        "tier_level": {
+          "type": "string",
+          "enum": ["foundation", "development", "mastery", "transcendence"]
+        }
+      },
+      "required": ["aethyr_name", "aethyr_number"]
+    },
+    "primary_tradition": {
+      "type": "string",
+      "enum": [
+        "enochian_magic",
+        "i_ching",
+        "hermetic_qabalah", 
+        "tarot",
+        "egyptian_magic",
+        "celtic_druidic",
+        "norse_traditions",
+        "taoism",
+        "kuji_kiri",
+        "chaos_magic",
+        "thelema",
+        "sacred_geometry",
+        "quantum_physics",
+        "alchemy",
+        "natal_chart_astrology",
+        "shamanism",
+        "traditional_kabbalah",
+        "sufism",
+        "gnosticism",
+        "greek_mythology"
+      ],
+      "description": "Primary mystical tradition this Governor specializes in"
+    },
+    "secondary_traditions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "enochian_magic", "i_ching", "hermetic_qabalah", "tarot", "egyptian_magic",
+          "celtic_druidic", "norse_traditions", "taoism", "kuji_kiri", "chaos_magic",
+          "thelema", "sacred_geometry", "quantum_physics", "alchemy", "natal_chart_astrology",
+          "shamanism", "traditional_kabbalah", "sufism", "gnosticism", "greek_mythology"
+        ]
+      },
+      "maxItems": 3,
+      "description": "Secondary traditions for cross-tradition synthesis"
+    },
+    "core_wisdom": {
+      "type": "string",
+      "minLength": 100,
+      "maxLength": 500,
+      "description": "Core teaching or wisdom this Governor imparts"
+    },
+    "personality_traits": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 3,
+        "maxLength": 30
+      },
+      "minItems": 3,
+      "maxItems": 7,
+      "uniqueItems": true,
+      "description": "Personality traits for AI interview generation"
+    },
+    "teaching_style": {
+      "type": "string",
+      "enum": [
+        "direct_instruction",
+        "socratic_questioning", 
+        "experiential_learning",
+        "symbolic_guidance",
+        "paradoxical_teaching",
+        "meditative_transmission",
+        "practical_demonstration"
+      ]
+    },
+    "questline": {
+      "type": "object",
+      "properties": {
+        "total_quests": {
+          "type": "integer",
+          "minimum": 75,
+          "maximum": 125,
+          "description": "Total number of quests in this Governor's tree"
+        },
+        "difficulty_progression": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "level": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 10
+              },
+              "reputation_required": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 100
+              },
+              "quest_count": {
+                "type": "integer",
+                "minimum": 5,
+                "maximum": 20
+              },
+              "energy_cost_range": {
+                "type": "object",
+                "properties": {
+                  "min": {"type": "integer", "minimum": 1},
+                  "max": {"type": "integer", "maximum": 25}
+                }
+              }
+            },
+            "required": ["level", "reputation_required", "quest_count"]
+          },
+          "minItems": 5,
+          "maxItems": 10
+        },
+        "specialization_focus": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "meditation_practices",
+              "symbolic_interpretation", 
+              "energy_manipulation",
+              "divination_techniques",
+              "ritual_performance",
+              "philosophical_understanding",
+              "practical_application",
+              "cross_tradition_synthesis"
+            ]
+          },
+          "minItems": 2,
+          "maxItems": 4
+        }
+      },
+      "required": ["total_quests", "difficulty_progression", "specialization_focus"]
+    },
+    "hypertoken_attributes": {
+      "type": "object",
+      "properties": {
+        "base_traits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 3,
+          "maxItems": 7,
+          "description": "Base traits for TAP Protocol hypertoken"
+        },
+        "evolution_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "trigger": {
+                "type": "string",
+                "enum": [
+                  "reputation_milestone",
+                  "quest_completion",
+                  "cross_tradition_synthesis",
+                  "community_interaction",
+                  "time_based",
+                  "achievement_unlock"
+                ]
+              },
+              "threshold": {
+                "type": "integer"
+              },
+              "mutation_type": {
+                "type": "string",
+                "enum": ["trait_enhancement", "new_trait_addition", "trait_combination", "rare_variant"]
+              }
+            },
+            "required": ["trigger", "mutation_type"]
+          }
+        },
+        "rarity_tier": {
+          "type": "string",
+          "enum": ["common", "uncommon", "rare", "epic", "legendary", "mythic"]
+        }
+      },
+      "required": ["base_traits", "evolution_conditions", "rarity_tier"]
+    },
+    "bitcoin_integration": {
+      "type": "object",
+      "properties": {
+        "ordinal_inscription_id": {
+          "type": "string",
+          "description": "Bitcoin Ordinals inscription ID when deployed"
+        },
+        "tap_protocol_id": {
+          "type": "string",
+          "description": "TAP Protocol asset ID"
+        },
+        "compressed_size_bytes": {
+          "type": "integer",
+          "description": "Compressed size for Ordinals optimization"
+        },
+        "inscription_cost_sats": {
+          "type": "integer",
+          "description": "Estimated inscription cost in satoshis"
+        }
+      }
+    },
+    "cross_references": {
+      "type": "object",
+      "properties": {
+        "related_governors": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 91
+          },
+          "description": "Other Governor Angels with synergistic teachings"
+        },
+        "mystical_entries": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+_[0-9]{3}$"
+          },
+          "description": "Associated mystical knowledge entries"
+        },
+        "tradition_bridges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "tradition_a": {"type": "string"},
+              "tradition_b": {"type": "string"},
+              "bridge_type": {
+                "type": "string",
+                "enum": ["philosophical", "practical", "symbolic", "historical"]
+              },
+              "synthesis_strength": {
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 1.0
+              }
+            },
+            "required": ["tradition_a", "tradition_b", "bridge_type"]
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "created_date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "last_updated": {
+          "type": "string", 
+          "format": "date-time"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        },
+        "ai_interview_ready": {
+          "type": "boolean",
+          "description": "Whether Governor profile is ready for AI interview generation"
+        },
+        "authenticity_validated": {
+          "type": "boolean",
+          "description": "Whether Enochian attributes have been validated against primary sources"
+        }
+      },
+      "required": ["created_date", "version"]
+    }
+  },
+  "required": [
+    "id",
+    "name", 
+    "aethyr_association",
+    "primary_tradition",
+    "core_wisdom",
+    "personality_traits",
+    "teaching_style",
+    "questline",
+    "hypertoken_attributes",
+    "metadata"
+  ],
+  "additionalProperties": false
+}

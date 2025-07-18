@@ -1,0 +1,354 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Enochian Cyphers Cross-Reference System Schema",
+  "description": "Schema for linking mystical entries, Governor Angels, and traditions",
+  "type": "object",
+  "properties": {
+    "system_version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
+      "description": "Cross-reference system version"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "tradition_mappings": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-z_]+$": {
+          "type": "object",
+          "properties": {
+            "name": {"type": "string"},
+            "total_entries": {"type": "integer"},
+            "governor_count": {"type": "integer"},
+            "primary_governors": {
+              "type": "array",
+              "items": {"type": "integer", "minimum": 1, "maximum": 91}
+            },
+            "secondary_governors": {
+              "type": "array", 
+              "items": {"type": "integer", "minimum": 1, "maximum": 91}
+            },
+            "entry_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z0-9_]+_[0-9]{3}$"
+              }
+            },
+            "cross_tradition_synergies": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "target_tradition": {"type": "string"},
+                  "synergy_type": {
+                    "type": "string",
+                    "enum": ["complementary", "parallel", "synthesis", "contrast", "historical"]
+                  },
+                  "strength": {
+                    "type": "number",
+                    "minimum": 0.0,
+                    "maximum": 1.0
+                  },
+                  "examples": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "entry_a": {"type": "string"},
+                        "entry_b": {"type": "string"},
+                        "description": {"type": "string"}
+                      }
+                    }
+                  }
+                },
+                "required": ["target_tradition", "synergy_type", "strength"]
+              }
+            }
+          },
+          "required": ["name", "total_entries", "entry_ids"]
+        }
+      }
+    },
+    "governor_networks": {
+      "type": "object",
+      "properties": {
+        "collaboration_clusters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "cluster_id": {"type": "string"},
+              "name": {"type": "string"},
+              "description": {"type": "string"},
+              "governor_ids": {
+                "type": "array",
+                "items": {"type": "integer", "minimum": 1, "maximum": 91},
+                "minItems": 2,
+                "maxItems": 7
+              },
+              "shared_themes": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "collaboration_type": {
+                "type": "string",
+                "enum": ["teaching_sequence", "parallel_wisdom", "synthesis_group", "challenge_series"]
+              },
+              "difficulty_range": {
+                "type": "object",
+                "properties": {
+                  "min_tier": {"type": "integer", "minimum": 1, "maximum": 30},
+                  "max_tier": {"type": "integer", "minimum": 1, "maximum": 30}
+                }
+              }
+            },
+            "required": ["cluster_id", "name", "governor_ids", "collaboration_type"]
+          }
+        },
+        "progression_paths": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "path_id": {"type": "string"},
+              "name": {"type": "string"},
+              "description": {"type": "string"},
+              "governor_sequence": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "governor_id": {"type": "integer", "minimum": 1, "maximum": 91},
+                    "order": {"type": "integer", "minimum": 1},
+                    "prerequisites": {
+                      "type": "array",
+                      "items": {"type": "integer"}
+                    },
+                    "reputation_threshold": {"type": "integer", "minimum": 0, "maximum": 100}
+                  },
+                  "required": ["governor_id", "order"]
+                }
+              },
+              "path_type": {
+                "type": "string",
+                "enum": ["linear", "branching", "circular", "network"]
+              },
+              "estimated_completion_time": {"type": "string"},
+              "target_audience": {
+                "type": "string",
+                "enum": ["beginner", "intermediate", "advanced", "master"]
+              }
+            },
+            "required": ["path_id", "name", "governor_sequence", "path_type"]
+          }
+        }
+      }
+    },
+    "knowledge_graph": {
+      "type": "object",
+      "properties": {
+        "nodes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {"type": "string"},
+              "type": {
+                "type": "string",
+                "enum": ["mystical_entry", "governor_angel", "tradition", "concept", "practice"]
+              },
+              "title": {"type": "string"},
+              "tradition": {"type": "string"},
+              "weight": {
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 1.0,
+                "description": "Importance weight in knowledge graph"
+              },
+              "centrality_score": {
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 1.0,
+                "description": "Network centrality score"
+              }
+            },
+            "required": ["id", "type", "title"]
+          }
+        },
+        "edges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": {"type": "string"},
+              "target": {"type": "string"},
+              "relationship": {
+                "type": "string",
+                "enum": [
+                  "teaches", "requires", "complements", "contrasts", "synthesizes",
+                  "builds_upon", "parallels", "exemplifies", "applies", "transcends"
+                ]
+              },
+              "strength": {
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 1.0
+              },
+              "bidirectional": {
+                "type": "boolean",
+                "default": false
+              },
+              "context": {
+                "type": "string",
+                "description": "Additional context for the relationship"
+              }
+            },
+            "required": ["source", "target", "relationship", "strength"]
+          }
+        },
+        "clusters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "cluster_id": {"type": "string"},
+              "name": {"type": "string"},
+              "node_ids": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "cluster_type": {
+                "type": "string",
+                "enum": ["tradition_core", "cross_tradition", "practice_group", "concept_family"]
+              },
+              "cohesion_score": {
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 1.0
+              }
+            },
+            "required": ["cluster_id", "name", "node_ids", "cluster_type"]
+          }
+        }
+      },
+      "required": ["nodes", "edges"]
+    },
+    "quest_integration": {
+      "type": "object",
+      "properties": {
+        "entry_to_quest_mappings": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z0-9_]+_[0-9]{3}$": {
+              "type": "object",
+              "properties": {
+                "primary_quests": {
+                  "type": "array",
+                  "items": {"type": "string"}
+                },
+                "supporting_quests": {
+                  "type": "array", 
+                  "items": {"type": "string"}
+                },
+                "synthesis_opportunities": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "other_entry_id": {"type": "string"},
+                      "synthesis_type": {"type": "string"},
+                      "quest_template": {"type": "string"}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "difficulty_calibration": {
+          "type": "object",
+          "properties": {
+            "tier_mappings": {
+              "type": "object",
+              "patternProperties": {
+                "^[1-9][0-9]?$|^30$": {
+                  "type": "object",
+                  "properties": {
+                    "aethyr_name": {"type": "string"},
+                    "difficulty_description": {"type": "string"},
+                    "typical_entries": {
+                      "type": "array",
+                      "items": {"type": "string"}
+                    },
+                    "governor_specializations": {
+                      "type": "array",
+                      "items": {"type": "integer"}
+                    },
+                    "energy_cost_range": {
+                      "type": "object",
+                      "properties": {
+                        "min": {"type": "integer"},
+                        "max": {"type": "integer"}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "validation_metrics": {
+      "type": "object",
+      "properties": {
+        "total_entries": {"type": "integer"},
+        "total_governors": {"type": "integer"},
+        "cross_references_count": {"type": "integer"},
+        "average_authenticity_score": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "tradition_coverage": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z_]+$": {
+              "type": "object",
+              "properties": {
+                "entry_count": {"type": "integer"},
+                "governor_count": {"type": "integer"},
+                "completeness_score": {
+                  "type": "number",
+                  "minimum": 0.0,
+                  "maximum": 1.0
+                }
+              }
+            }
+          }
+        },
+        "graph_metrics": {
+          "type": "object",
+          "properties": {
+            "node_count": {"type": "integer"},
+            "edge_count": {"type": "integer"},
+            "average_degree": {"type": "number"},
+            "clustering_coefficient": {"type": "number"},
+            "network_density": {"type": "number"}
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "system_version",
+    "last_updated", 
+    "tradition_mappings",
+    "knowledge_graph",
+    "validation_metrics"
+  ],
+  "additionalProperties": false
+}

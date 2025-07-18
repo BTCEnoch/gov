@@ -1,0 +1,29 @@
+# Enochian Cyphers Lighthouse Requirements
+# Core Python libraries for the lighthouse system
+
+# Data handling and processing
+json5>=0.9.6
+pathlib2>=2.3.7
+
+# Date and time handling
+python-dateutil>=2.8.2
+
+# Optional: Enhanced JSON handling
+ujson>=5.4.0
+
+# Optional: Performance improvements
+numpy>=1.21.0
+
+# Optional: Advanced text processing
+regex>=2022.7.9
+
+# Development and testing (optional)
+pytest>=7.1.0
+pytest-cov>=3.0.0
+
+# Documentation (optional)
+markdown>=3.4.0
+
+# Note: The lighthouse system is designed to work with Python 3.8+ standard library
+# Most functionality requires only built-in modules for maximum compatibility
+# Additional packages listed above are optional enhancements

@@ -1,0 +1,264 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Enochian Cyphers Mystical Entry Schema",
+  "description": "Comprehensive schema for mystical tradition entries with authenticity validation",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+_[0-9]{3}$",
+      "description": "Unique identifier: tradition_number (e.g., enochian_001)"
+    },
+    "tradition": {
+      "type": "string",
+      "enum": [
+        "enochian_magic",
+        "i_ching",
+        "hermetic_qabalah", 
+        "tarot",
+        "egyptian_magic",
+        "celtic_druidic",
+        "norse_traditions",
+        "taoism",
+        "kuji_kiri",
+        "chaos_magic",
+        "thelema",
+        "sacred_geometry",
+        "quantum_physics",
+        "alchemy",
+        "shamanism",
+        "traditional_kabbalah",
+        "sufism",
+        "gnosticism",
+        "natal_chart_astrology",
+        "greek_mythology"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 100,
+      "description": "Authentic name from primary sources"
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 50,
+      "maxLength": 300,
+      "description": "2-3 sentence summary of core meaning"
+    },
+    "full_content": {
+      "type": "string",
+      "minLength": 100,
+      "description": "Complete detailed content with historical context"
+    },
+    "knowledge_type": {
+      "type": "string",
+      "enum": ["principle", "practice", "system", "concept", "historical", "practical"]
+    },
+    "authenticity": {
+      "type": "object",
+      "properties": {
+        "primary_source": {
+          "type": "string",
+          "description": "Primary historical source reference"
+        },
+        "source_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "validation_score": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0,
+          "description": "Authenticity score from primary source validation"
+        },
+        "cross_references": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Additional sources that confirm authenticity"
+        },
+        "historical_period": {
+          "type": "string",
+          "description": "Historical period of origin"
+        },
+        "cultural_context": {
+          "type": "string",
+          "description": "Cultural and geographical context"
+        }
+      },
+      "required": ["primary_source", "validation_score"]
+    },
+    "attributes": {
+      "type": "object",
+      "properties": {
+        "elemental_association": {
+          "type": "string",
+          "enum": ["fire", "water", "air", "earth", "spirit", "none"]
+        },
+        "planetary_correspondence": {
+          "type": "string",
+          "enum": ["sun", "moon", "mercury", "venus", "mars", "jupiter", "saturn", "none"]
+        },
+        "numerical_value": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 999
+        },
+        "symbolic_representation": {
+          "type": "string",
+          "description": "Unicode symbol or description"
+        },
+        "color_association": {
+          "type": "string",
+          "description": "Traditional color correspondence"
+        }
+      }
+    },
+    "game_mechanics": {
+      "type": "object",
+      "properties": {
+        "difficulty_tier": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 30,
+          "description": "Difficulty tier (1-30 corresponding to Aethyrs)"
+        },
+        "quest_type": {
+          "type": "string",
+          "enum": ["meditation", "challenge", "riddle", "practice", "synthesis", "transcendence"]
+        },
+        "energy_cost": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 25,
+          "description": "Energy required to engage with this content"
+        },
+        "reputation_reward": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 100,
+          "description": "Reputation points awarded for completion"
+        },
+        "hypertoken_attributes": {
+          "type": "object",
+          "properties": {
+            "evolution_trigger": {
+              "type": "string",
+              "description": "Condition for TAP hypertoken evolution"
+            },
+            "mutation_probability": {
+              "type": "number",
+              "minimum": 0.0,
+              "maximum": 1.0
+            },
+            "trait_modifiers": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      },
+      "required": ["difficulty_tier", "quest_type"]
+    },
+    "cross_references": {
+      "type": "object",
+      "properties": {
+        "related_entries": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+_[0-9]{3}$"
+          },
+          "description": "IDs of related entries within same tradition"
+        },
+        "tradition_synergies": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "tradition": {
+                "type": "string"
+              },
+              "entry_id": {
+                "type": "string",
+                "pattern": "^[a-z0-9_]+_[0-9]{3}$"
+              },
+              "synergy_type": {
+                "type": "string",
+                "enum": ["complementary", "parallel", "synthesis", "contrast"]
+              },
+              "synergy_strength": {
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 1.0
+              }
+            },
+            "required": ["tradition", "entry_id", "synergy_type"]
+          }
+        },
+        "governor_associations": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 91
+          },
+          "description": "Governor Angel numbers associated with this entry"
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 2,
+        "maxLength": 30
+      },
+      "uniqueItems": true,
+      "description": "Searchable tags for categorization"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "created_date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        },
+        "bitcoin_inscription_ready": {
+          "type": "boolean",
+          "description": "Whether entry is optimized for Bitcoin Ordinals inscription"
+        },
+        "compression_ratio": {
+          "type": "number",
+          "description": "Gzip compression ratio for Ordinals optimization"
+        }
+      },
+      "required": ["created_date", "version"]
+    }
+  },
+  "required": [
+    "id",
+    "tradition", 
+    "title",
+    "summary",
+    "full_content",
+    "knowledge_type",
+    "authenticity",
+    "game_mechanics",
+    "tags",
+    "metadata"
+  ],
+  "additionalProperties": false
+}

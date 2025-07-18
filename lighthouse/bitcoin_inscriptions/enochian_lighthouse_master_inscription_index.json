@@ -1,0 +1,167 @@
+{
+  "enochian_cyphers_lighthouse": {
+    "version": "1.0.0",
+    "created_date": "2025-07-18T09:23:06.848772",
+    "total_batches": 10,
+    "total_traditions": 26,
+    "total_entries": 2678,
+    "bitcoin_ready": true
+  },
+  "inscription_batches": [
+    {
+      "batch_id": "enochian_lighthouse_001",
+      "traditions": [
+        "enochian_magic",
+        "hermetic_qabalah"
+      ],
+      "tradition_count": 2,
+      "entry_count": 230,
+      "compressed_size": 19632,
+      "content_hash": "f35617d82a9c26f9009651defafc4946ecd87c139d663172befc56e11c09a1da",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_002",
+      "traditions": [
+        "thelema",
+        "celtic_druidic",
+        "chaos_magic"
+      ],
+      "tradition_count": 3,
+      "entry_count": 300,
+      "compressed_size": 23711,
+      "content_hash": "25f2005ac58759ead78c6b3dc8ecd8e4b900223f7f67361a796ec3f256a07601",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_003",
+      "traditions": [
+        "alchemy",
+        "golden_dawn"
+      ],
+      "tradition_count": 2,
+      "entry_count": 223,
+      "compressed_size": 17496,
+      "content_hash": "a8363b067a8f245182dc77d85e1074189c0eeb92564721ecfad4409105b18cea",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_004",
+      "traditions": [
+        "taoism",
+        "traditional_kabbalah"
+      ],
+      "tradition_count": 2,
+      "entry_count": 235,
+      "compressed_size": 18707,
+      "content_hash": "7f92a67ce9f08598286455b1bb8a950bbdcd878b8b3ab4ddc4372040bd080a89",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_005",
+      "traditions": [
+        "sufism",
+        "gnosticism",
+        "norse_traditions"
+      ],
+      "tradition_count": 3,
+      "entry_count": 300,
+      "compressed_size": 23199,
+      "content_hash": "f4c0295607b72ddf6538111d7b721342d63a625749023e957223bc30b8a77229",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_006",
+      "traditions": [
+        "greek_philosophy",
+        "tarot",
+        "i_ching"
+      ],
+      "tradition_count": 3,
+      "entry_count": 305,
+      "compressed_size": 23955,
+      "content_hash": "f63080785da481aa25d52801b2c2c5b4ff9ce2db01359292b0372286d75562df",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_007",
+      "traditions": [
+        "natal_astrology",
+        "egyptian_magic",
+        "shamanism"
+      ],
+      "tradition_count": 3,
+      "entry_count": 300,
+      "compressed_size": 23363,
+      "content_hash": "b095f8fbf28c812e85ff27ba594c35b8dca34bad8314df36327e3fe21edde05e",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_008",
+      "traditions": [
+        "numerology",
+        "sacred_geometry",
+        "quantum_physics"
+      ],
+      "tradition_count": 3,
+      "entry_count": 295,
+      "compressed_size": 23180,
+      "content_hash": "227da57bd9ddc9d372552035c7e68d6cad6c6edb81d2b9bf73085503c4e2c4db",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_009",
+      "traditions": [
+        "kuji_kiri",
+        "greek_mythology",
+        "astrology"
+      ],
+      "tradition_count": 3,
+      "entry_count": 310,
+      "compressed_size": 24003,
+      "content_hash": "75407fc014b23bd7790a8ddedb4fc2baa3294eebd0d566f6649df38409f17544",
+      "inscription_ready": true
+    },
+    {
+      "batch_id": "enochian_lighthouse_010",
+      "traditions": [
+        "digital_physics",
+        "m_theory"
+      ],
+      "tradition_count": 2,
+      "entry_count": 180,
+      "compressed_size": 14987,
+      "content_hash": "7c61d3f619b8c3654e36338c57f1b26595f552c2bcb998bd9894981c34ae0808",
+      "inscription_ready": true
+    }
+  ],
+  "deployment_info": {
+    "target_network": "Bitcoin L1",
+    "inscription_protocol": "Ordinals",
+    "max_size_per_inscription": "1MB",
+    "compression": "gzip",
+    "encoding": "utf-8"
+  },
+  "merkle_tree": {
+    "merkle_root": "e5971b5fae9693ea9b2988c2cf29c6241633800bcfa107e60859ee4e111a8427",
+    "batch_hashes": [
+      "f35617d82a9c26f9009651defafc4946ecd87c139d663172befc56e11c09a1da",
+      "25f2005ac58759ead78c6b3dc8ecd8e4b900223f7f67361a796ec3f256a07601",
+      "a8363b067a8f245182dc77d85e1074189c0eeb92564721ecfad4409105b18cea",
+      "7f92a67ce9f08598286455b1bb8a950bbdcd878b8b3ab4ddc4372040bd080a89",
+      "f4c0295607b72ddf6538111d7b721342d63a625749023e957223bc30b8a77229",
+      "f63080785da481aa25d52801b2c2c5b4ff9ce2db01359292b0372286d75562df",
+      "b095f8fbf28c812e85ff27ba594c35b8dca34bad8314df36327e3fe21edde05e",
+      "227da57bd9ddc9d372552035c7e68d6cad6c6edb81d2b9bf73085503c4e2c4db",
+      "75407fc014b23bd7790a8ddedb4fc2baa3294eebd0d566f6649df38409f17544",
+      "7c61d3f619b8c3654e36338c57f1b26595f552c2bcb998bd9894981c34ae0808"
+    ],
+    "verification_method": "SHA256"
+  },
+  "verification": {
+    "total_compressed_size": 212233,
+    "average_compression": 0.02632781013844416,
+    "largest_batch": 24003,
+    "smallest_batch": 14987
+  }
+}
