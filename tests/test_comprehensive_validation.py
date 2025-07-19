@@ -320,9 +320,136 @@ class TestContentMetricsValidation(unittest.TestCase):
         self.assertGreaterEqual(total_entries, self.expected_entries_min,
                                f"Expected at least {self.expected_entries_min} entries, found {total_entries}")
 
+class TestP2PAndByzantineFaultTolerance(unittest.TestCase):
+    """Test P2P synchronization and Byzantine fault tolerance (expert recommendation)"""
+
+    def test_p2p_sync_simulation(self):
+        """Test P2P state synchronization with multiple nodes"""
+        logger.info("Testing P2P sync simulation")
+
+        num_nodes = 3
+        quests = 10
+
+        # Create mock node states
+        states = []
+        for node in range(num_nodes):
+            node_state = {}
+            for quest_id in range(quests):
+                # Simulate different completion states
+                node_state[f'quest_{quest_id}'] = random.choice(['pending', 'complete', 'failed'])
+            states.append(node_state)
+
+        # Mock consensus: Majority vote (Byzantine-tolerant)
+        consensus = {}
+        for quest_id in range(quests):
+            quest_key = f'quest_{quest_id}'
+            votes = [states[node][quest_key] for node in range(num_nodes)]
+
+            # Simple majority consensus
+            vote_counts = {}
+            for vote in votes:
+                vote_counts[vote] = vote_counts.get(vote, 0) + 1
+
+            consensus[quest_key] = max(vote_counts.items(), key=lambda x: x[1])[0]
+
+        # Validate consensus
+        self.assertEqual(len(consensus), quests, "Consensus failed to include all quests")
+
+        # Validate all consensus values are valid states
+        valid_states = {'pending', 'complete', 'failed'}
+        for quest_key, state in consensus.items():
+            self.assertIn(state, valid_states, f"Invalid consensus state: {state}")
+
+    def test_byzantine_fault_tolerance(self):
+        """Test Byzantine fault tolerance with malicious nodes"""
+        logger.info("Testing Byzantine fault tolerance")
+
+        num_nodes = 5
+        malicious_nodes = 1  # 1 out of 5 nodes is malicious
+        quests = 5
+
+        # Create states with one malicious node
+        states = []
+        for node in range(num_nodes):
+            node_state = {}
+            for quest_id in range(quests):
+                if node < malicious_nodes:
+                    # Malicious node always reports 'failed'
+                    node_state[f'quest_{quest_id}'] = 'failed'
+                else:
+                    # Honest nodes report actual state
+                    node_state[f'quest_{quest_id}'] = 'complete'
+            states.append(node_state)
+
+        # Byzantine fault tolerant consensus (requires 2/3 majority)
+        consensus = {}
+        for quest_id in range(quests):
+            quest_key = f'quest_{quest_id}'
+            votes = [states[node][quest_key] for node in range(num_nodes)]
+
+            vote_counts = {}
+            for vote in votes:
+                vote_counts[vote] = vote_counts.get(vote, 0) + 1
+
+            # Require 2/3 majority for Byzantine tolerance
+            required_votes = (num_nodes * 2) // 3 + 1
+            consensus_found = False
+
+            for state, count in vote_counts.items():
+                if count >= required_votes:
+                    consensus[quest_key] = state
+                    consensus_found = True
+                    break
+
+            if not consensus_found:
+                consensus[quest_key] = 'uncertain'
+
+        # With 4 honest nodes vs 1 malicious, consensus should be 'complete'
+        for quest_key, state in consensus.items():
+            self.assertEqual(state, 'complete',
+                           f"Byzantine fault tolerance failed for {quest_key}: {state}")
+
+    def test_divination_quest_integration(self):
+        """Test integration of divination systems with quest branching"""
+        logger.info("Testing divination quest integration")
+
+        # Mock I Ching hexagram influence on quest difficulty
+        hexagrams = list(range(1, 65))  # 64 hexagrams
+        quest_difficulties = []
+
+        for i in range(10):
+            hexagram = random.choice(hexagrams)
+
+            # Map hexagram to difficulty (simplified)
+            if hexagram <= 21:
+                difficulty = 'easy'
+            elif hexagram <= 42:
+                difficulty = 'medium'
+            else:
+                difficulty = 'hard'
+
+            quest_difficulties.append({
+                'quest_id': f'divination_quest_{i}',
+                'hexagram': hexagram,
+                'difficulty': difficulty,
+                'branching_factor': min(hexagram // 10, 6)  # 1-6 branches
+            })
+
+        # Validate quest generation
+        self.assertEqual(len(quest_difficulties), 10, "Failed to generate all divination quests")
+
+        # Validate difficulty distribution
+        difficulties = [q['difficulty'] for q in quest_difficulties]
+        self.assertTrue(len(set(difficulties)) > 1, "No difficulty variation in quests")
+
+        # Validate branching factors
+        for quest in quest_difficulties:
+            self.assertGreaterEqual(quest['branching_factor'], 1, "Invalid branching factor")
+            self.assertLessEqual(quest['branching_factor'], 6, "Excessive branching factor")
+
 class TestBitcoinInscriptionReadiness(unittest.TestCase):
     """Test Bitcoin inscription readiness and compliance"""
-    
+
     def test_ordinals_size_compliance(self):
         """Test that content can be compressed under 1MB for Ordinals"""
         logger.info("Testing Ordinals size compliance")
@@ -376,6 +503,7 @@ def run_comprehensive_tests():
         TestAuthenticityValidation,
         TestGovernorValidation,
         TestContentMetricsValidation,
+        TestP2PAndByzantineFaultTolerance,
         TestBitcoinInscriptionReadiness
     ]
     

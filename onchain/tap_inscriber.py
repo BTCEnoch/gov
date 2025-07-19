@@ -271,6 +271,56 @@ class TAPInscriber:
         
         return batch
     
+    def evolve_hypertoken(self, token_id: str, quest_completion: bool, aethyr_tier: int) -> Dict[str, Any]:
+        """
+        Enhanced hypertoken evolution mechanics (expert recommendation)
+        Mutates hypertoken traits based on completion and Aethyr tier
+        """
+        # Mock TAP state (replace with actual Trac query in production)
+        current_traits = {
+            'virtue_level': 1,
+            'shadow_aspect': 'unbalanced',
+            'wisdom_attained': 0,
+            'tradition_mastery': {},
+            'evolution_stage': 'nascent'
+        }
+
+        if quest_completion:
+            # Scale evolution by Aethyr tier (1-30, with 1 being highest)
+            evolution_multiplier = max(1, (31 - aethyr_tier) / 10.0)
+            current_traits['virtue_level'] += int(aethyr_tier * evolution_multiplier)
+            current_traits['wisdom_attained'] += 1
+
+            # Evolution thresholds based on Thelemic True Will mechanics
+            if current_traits['virtue_level'] >= 10:
+                current_traits['shadow_aspect'] = 'integrating'
+            if current_traits['virtue_level'] >= 20:
+                current_traits['shadow_aspect'] = 'integrated'
+                current_traits['evolution_stage'] = 'adept'
+            if current_traits['virtue_level'] >= 30:
+                current_traits['evolution_stage'] = 'master'
+
+            # Chaos Magic paradigm shift at high levels
+            if current_traits['virtue_level'] >= 40:
+                current_traits['evolution_stage'] = 'paradigm_shifter'
+                current_traits['shadow_aspect'] = 'transcended'
+
+        # Prepare for TAP inscription (compress metadata)
+        metadata = json.dumps(current_traits, separators=(',', ':'))
+        metadata_bytes = metadata.encode('utf-8')
+        compressed_size = len(gzip.compress(metadata_bytes))
+
+        evolution_result = {
+            'new_token_id': f"{token_id}_evolved_{current_traits['virtue_level']}",
+            'traits': current_traits,
+            'metadata_size': len(metadata_bytes),
+            'compressed_size': compressed_size,
+            'evolution_multiplier': evolution_multiplier,
+            'inscription_ready': compressed_size < 1000  # Keep metadata small
+        }
+
+        return evolution_result
+
     def generate_hypertoken_metadata(self, governor_name: str, batch_ref: str) -> TAPHypertokenMetadata:
         """Generate hypertoken metadata for a specific governor"""
         

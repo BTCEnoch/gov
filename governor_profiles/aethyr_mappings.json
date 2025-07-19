@@ -1,0 +1,1926 @@
+{
+  "system_info": {
+    "created_timestamp": "2025-07-18T21:06:10.204835",
+    "total_governors": 88,
+    "total_aethyrs": 29,
+    "sacred_distribution_valid": false,
+    "system_hash": "5e103d1165b15398"
+  },
+  "aethyr_hierarchy": {
+    "TEX": {
+      "name": "TEX",
+      "tier": 29,
+      "governor_count": 4,
+      "governors": [
+        "ABRIOND",
+        "ADVORPT",
+        "AMBRIOL",
+        "ANDISPI"
+      ],
+      "mystical_properties": {
+        "element": "Earth",
+        "planetary_influence": "Saturn",
+        "sephirotic_path": "Yesod",
+        "tarot_correspondence": "The Lovers",
+        "i_ching_hexagram": 29
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "ARN": {
+      "name": "ARN",
+      "tier": 2,
+      "governor_count": 3,
+      "governors": [
+        "ASPIAON",
+        "AXXIARG",
+        "AYDROPT"
+      ],
+      "mystical_properties": {
+        "element": "Water",
+        "planetary_influence": "Jupiter",
+        "sephirotic_path": "Chokmah",
+        "tarot_correspondence": "The Magician",
+        "i_ching_hexagram": 2
+      },
+      "hypertoken_multiplier": 2.9
+    },
+    "ZOM": {
+      "name": "ZOM",
+      "tier": 3,
+      "governor_count": 3,
+      "governors": [
+        "CALZIRG",
+        "CHASLPO",
+        "CHIRZPA"
+      ],
+      "mystical_properties": {
+        "element": "Air",
+        "planetary_influence": "Mars",
+        "sephirotic_path": "Binah",
+        "tarot_correspondence": "The High Priestess",
+        "i_ching_hexagram": 3
+      },
+      "hypertoken_multiplier": 2.8
+    },
+    "PAZ": {
+      "name": "PAZ",
+      "tier": 4,
+      "governor_count": 3,
+      "governors": [
+        "COMANAN",
+        "CRALPIR",
+        "CRPANIB"
+      ],
+      "mystical_properties": {
+        "element": "Earth",
+        "planetary_influence": "Sun",
+        "sephirotic_path": "Chesed",
+        "tarot_correspondence": "The Empress",
+        "i_ching_hexagram": 4
+      },
+      "hypertoken_multiplier": 2.7
+    },
+    "LIT": {
+      "name": "LIT",
+      "tier": 5,
+      "governor_count": 3,
+      "governors": [
+        "CUCARPT",
+        "DIALOIA",
+        "DOAGNIS"
+      ],
+      "mystical_properties": {
+        "element": "Spirit",
+        "planetary_influence": "Venus",
+        "sephirotic_path": "Geburah",
+        "tarot_correspondence": "The Emperor",
+        "i_ching_hexagram": 5
+      },
+      "hypertoken_multiplier": 2.6
+    },
+    "MAZ": {
+      "name": "MAZ",
+      "tier": 6,
+      "governor_count": 3,
+      "governors": [
+        "DOANZIN",
+        "DOCEPAX",
+        "DOXMAEL"
+      ],
+      "mystical_properties": {
+        "element": "Fire",
+        "planetary_influence": "Mercury",
+        "sephirotic_path": "Tiphareth",
+        "tarot_correspondence": "The Hierophant",
+        "i_ching_hexagram": 6
+      },
+      "hypertoken_multiplier": 2.5
+    },
+    "DEO": {
+      "name": "DEO",
+      "tier": 7,
+      "governor_count": 3,
+      "governors": [
+        "GECAOND",
+        "GEDOONS",
+        "GEMNIMB"
+      ],
+      "mystical_properties": {
+        "element": "Water",
+        "planetary_influence": "Moon",
+        "sephirotic_path": "Netzach",
+        "tarot_correspondence": "The Lovers",
+        "i_ching_hexagram": 7
+      },
+      "hypertoken_multiplier": 2.4
+    },
+    "ZID": {
+      "name": "ZID",
+      "tier": 8,
+      "governor_count": 3,
+      "governors": [
+        "GENADOL",
+        "GMTZIAM",
+        "LAPARIN"
+      ],
+      "mystical_properties": {
+        "element": "Air",
+        "planetary_influence": "Saturn",
+        "sephirotic_path": "Hod",
+        "tarot_correspondence": "The Chariot",
+        "i_ching_hexagram": 8
+      },
+      "hypertoken_multiplier": 2.3
+    },
+    "ZIP": {
+      "name": "ZIP",
+      "tier": 9,
+      "governor_count": 3,
+      "governors": [
+        "LAVACON",
+        "LAZDIXI",
+        "LAZHIIM"
+      ],
+      "mystical_properties": {
+        "element": "Earth",
+        "planetary_influence": "Jupiter",
+        "sephirotic_path": "Yesod",
+        "tarot_correspondence": "Strength",
+        "i_ching_hexagram": 9
+      },
+      "hypertoken_multiplier": 2.2
+    },
+    "ZAX": {
+      "name": "ZAX",
+      "tier": 10,
+      "governor_count": 3,
+      "governors": [
+        "LEXARPH",
+        "MATHVLA",
+        "MIRZIND"
+      ],
+      "mystical_properties": {
+        "element": "Spirit",
+        "planetary_influence": "Mars",
+        "sephirotic_path": "Malkuth",
+        "tarot_correspondence": "The Hermit",
+        "i_ching_hexagram": 10
+      },
+      "hypertoken_multiplier": 2.1
+    },
+    "ICH": {
+      "name": "ICH",
+      "tier": 11,
+      "governor_count": 3,
+      "governors": [
+        "MOLPAND",
+        "NABAOMI",
+        "NIGRANA"
+      ],
+      "mystical_properties": {
+        "element": "Fire",
+        "planetary_influence": "Sun",
+        "sephirotic_path": "Kether",
+        "tarot_correspondence": "Wheel of Fortune",
+        "i_ching_hexagram": 11
+      },
+      "hypertoken_multiplier": 2.0
+    },
+    "LOE": {
+      "name": "LOE",
+      "tier": 12,
+      "governor_count": 3,
+      "governors": [
+        "NOCAMAL",
+        "NOTIABI",
+        "OBUAORS"
+      ],
+      "mystical_properties": {
+        "element": "Water",
+        "planetary_influence": "Venus",
+        "sephirotic_path": "Chokmah",
+        "tarot_correspondence": "Justice",
+        "i_ching_hexagram": 12
+      },
+      "hypertoken_multiplier": 1.9
+    },
+    "ZIM": {
+      "name": "ZIM",
+      "tier": 13,
+      "governor_count": 3,
+      "governors": [
+        "OCCODON",
+        "ODDIORG",
+        "ODRAXTI"
+      ],
+      "mystical_properties": {
+        "element": "Air",
+        "planetary_influence": "Mercury",
+        "sephirotic_path": "Binah",
+        "tarot_correspondence": "The Hanged Man",
+        "i_ching_hexagram": 13
+      },
+      "hypertoken_multiplier": 1.8
+    },
+    "UTI": {
+      "name": "UTI",
+      "tier": 14,
+      "governor_count": 3,
+      "governors": [
+        "OMAGRAP",
+        "ONIZIMP",
+        "OPMACAS"
+      ],
+      "mystical_properties": {
+        "element": "Earth",
+        "planetary_influence": "Moon",
+        "sephirotic_path": "Chesed",
+        "tarot_correspondence": "Death",
+        "i_ching_hexagram": 14
+      },
+      "hypertoken_multiplier": 1.7
+    },
+    "OXO": {
+      "name": "OXO",
+      "tier": 15,
+      "governor_count": 3,
+      "governors": [
+        "ORANCIR",
+        "OSIDAIA",
+        "OXLOPAR"
+      ],
+      "mystical_properties": {
+        "element": "Spirit",
+        "planetary_influence": "Saturn",
+        "sephirotic_path": "Geburah",
+        "tarot_correspondence": "Temperance",
+        "i_ching_hexagram": 15
+      },
+      "hypertoken_multiplier": 1.6
+    },
+    "LEA": {
+      "name": "LEA",
+      "tier": 16,
+      "governor_count": 3,
+      "governors": [
+        "PABNIXP",
+        "PACASNA",
+        "PARAOAN"
+      ],
+      "mystical_properties": {
+        "element": "Fire",
+        "planetary_influence": "Jupiter",
+        "sephirotic_path": "Tiphareth",
+        "tarot_correspondence": "The Devil",
+        "i_ching_hexagram": 16
+      },
+      "hypertoken_multiplier": 1.5
+    },
+    "TAN": {
+      "name": "TAN",
+      "tier": 17,
+      "governor_count": 3,
+      "governors": [
+        "PARZIBA",
+        "PASCOMB",
+        "POCISNI"
+      ],
+      "mystical_properties": {
+        "element": "Water",
+        "planetary_influence": "Mars",
+        "sephirotic_path": "Netzach",
+        "tarot_correspondence": "The Tower",
+        "i_ching_hexagram": 17
+      },
+      "hypertoken_multiplier": 1.4
+    },
+    "ZEN": {
+      "name": "ZEN",
+      "tier": 18,
+      "governor_count": 3,
+      "governors": [
+        "PONODOL",
+        "POPHAND",
+        "POTHNIR"
+      ],
+      "mystical_properties": {
+        "element": "Air",
+        "planetary_influence": "Sun",
+        "sephirotic_path": "Hod",
+        "tarot_correspondence": "The Star",
+        "i_ching_hexagram": 18
+      },
+      "hypertoken_multiplier": 1.3
+    },
+    "POP": {
+      "name": "POP",
+      "tier": 19,
+      "governor_count": 3,
+      "governors": [
+        "PRISTAC",
+        "RANGLAM",
+        "RONOOMB"
+      ],
+      "mystical_properties": {
+        "element": "Earth",
+        "planetary_influence": "Venus",
+        "sephirotic_path": "Yesod",
+        "tarot_correspondence": "The Moon",
+        "i_ching_hexagram": 19
+      },
+      "hypertoken_multiplier": 1.2
+    },
+    "CHR": {
+      "name": "CHR",
+      "tier": 20,
+      "governor_count": 3,
+      "governors": [
+        "SAMAPHA",
+        "SAXTOMP",
+        "SAZIAMI"
+      ],
+      "mystical_properties": {
+        "element": "Spirit",
+        "planetary_influence": "Mercury",
+        "sephirotic_path": "Malkuth",
+        "tarot_correspondence": "The Sun",
+        "i_ching_hexagram": 20
+      },
+      "hypertoken_multiplier": 1.1
+    },
+    "ASP": {
+      "name": "ASP",
+      "tier": 21,
+      "governor_count": 3,
+      "governors": [
+        "SIGMORF",
+        "SOAGEEL",
+        "SOCHIAL"
+      ],
+      "mystical_properties": {
+        "element": "Fire",
+        "planetary_influence": "Moon",
+        "sephirotic_path": "Kether",
+        "tarot_correspondence": "Judgement",
+        "i_ching_hexagram": 21
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "LIN": {
+      "name": "LIN",
+      "tier": 22,
+      "governor_count": 3,
+      "governors": [
+        "TABITOM",
+        "TAHAMDO",
+        "TAOAGLA"
+      ],
+      "mystical_properties": {
+        "element": "Water",
+        "planetary_influence": "Saturn",
+        "sephirotic_path": "Chokmah",
+        "tarot_correspondence": "The World",
+        "i_ching_hexagram": 22
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "TOR": {
+      "name": "TOR",
+      "tier": 23,
+      "governor_count": 3,
+      "governors": [
+        "TAPAMAL",
+        "TASTOZO",
+        "TEDOOND"
+      ],
+      "mystical_properties": {
+        "element": "Air",
+        "planetary_influence": "Jupiter",
+        "sephirotic_path": "Binah",
+        "tarot_correspondence": "The Fool",
+        "i_ching_hexagram": 23
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "NIA": {
+      "name": "NIA",
+      "tier": 24,
+      "governor_count": 3,
+      "governors": [
+        "THOTANP",
+        "TIARPAX",
+        "TOANTOM"
+      ],
+      "mystical_properties": {
+        "element": "Earth",
+        "planetary_influence": "Mars",
+        "sephirotic_path": "Chesed",
+        "tarot_correspondence": "The Magician",
+        "i_ching_hexagram": 24
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "VTI": {
+      "name": "VTI",
+      "tier": 25,
+      "governor_count": 3,
+      "governors": [
+        "TOCARZI",
+        "TODNAON",
+        "TORZOXI"
+      ],
+      "mystical_properties": {
+        "element": "Spirit",
+        "planetary_influence": "Sun",
+        "sephirotic_path": "Geburah",
+        "tarot_correspondence": "The High Priestess",
+        "i_ching_hexagram": 25
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "ZAA": {
+      "name": "ZAA",
+      "tier": 26,
+      "governor_count": 3,
+      "governors": [
+        "TOTOCAN",
+        "USNARDA",
+        "VALGARS"
+      ],
+      "mystical_properties": {
+        "element": "Fire",
+        "planetary_influence": "Venus",
+        "sephirotic_path": "Tiphareth",
+        "tarot_correspondence": "The Empress",
+        "i_ching_hexagram": 26
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "BAG": {
+      "name": "BAG",
+      "tier": 27,
+      "governor_count": 3,
+      "governors": [
+        "VASTRIM",
+        "VAUAAMP",
+        "VIROOLI"
+      ],
+      "mystical_properties": {
+        "element": "Water",
+        "planetary_influence": "Mercury",
+        "sephirotic_path": "Netzach",
+        "tarot_correspondence": "The Emperor",
+        "i_ching_hexagram": 27
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "RII": {
+      "name": "RII",
+      "tier": 28,
+      "governor_count": 3,
+      "governors": [
+        "VIVIPOS",
+        "VIXPALG",
+        "VOANAMB"
+      ],
+      "mystical_properties": {
+        "element": "Air",
+        "planetary_influence": "Moon",
+        "sephirotic_path": "Hod",
+        "tarot_correspondence": "The Hierophant",
+        "i_ching_hexagram": 28
+      },
+      "hypertoken_multiplier": 1.0
+    },
+    "LIL": {
+      "name": "LIL",
+      "tier": 30,
+      "governor_count": 3,
+      "governors": [
+        "YALPAMB",
+        "ZAFASAI",
+        "ZAMFRES"
+      ],
+      "mystical_properties": {
+        "element": "Spirit",
+        "planetary_influence": "Jupiter",
+        "sephirotic_path": "Malkuth",
+        "tarot_correspondence": "The Chariot",
+        "i_ching_hexagram": 30
+      },
+      "hypertoken_multiplier": 1.0
+    }
+  },
+  "governor_mappings": {
+    "ABRIOND": {
+      "governor_name": "ABRIOND",
+      "aethyr_name": "TEX",
+      "aethyr_tier": 29,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Saturn",
+        "sephirah": "Yesod",
+        "tarot": "The Lovers",
+        "i_ching": 29
+      },
+      "evolution_potential": 10
+    },
+    "ADVORPT": {
+      "governor_name": "ADVORPT",
+      "aethyr_name": "TEX",
+      "aethyr_tier": 29,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Saturn",
+        "sephirah": "Yesod",
+        "tarot": "The Lovers",
+        "i_ching": 29
+      },
+      "evolution_potential": 10
+    },
+    "AMBRIOL": {
+      "governor_name": "AMBRIOL",
+      "aethyr_name": "TEX",
+      "aethyr_tier": 29,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Saturn",
+        "sephirah": "Yesod",
+        "tarot": "The Lovers",
+        "i_ching": 29
+      },
+      "evolution_potential": 10
+    },
+    "ANDISPI": {
+      "governor_name": "ANDISPI",
+      "aethyr_name": "TEX",
+      "aethyr_tier": 29,
+      "position_in_aethyr": 4,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Saturn",
+        "sephirah": "Yesod",
+        "tarot": "The Lovers",
+        "i_ching": 29
+      },
+      "evolution_potential": 10
+    },
+    "ASPIAON": {
+      "governor_name": "ASPIAON",
+      "aethyr_name": "ARN",
+      "aethyr_tier": 2,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Jupiter",
+        "sephirah": "Chokmah",
+        "tarot": "The Magician",
+        "i_ching": 2
+      },
+      "evolution_potential": 29
+    },
+    "AXXIARG": {
+      "governor_name": "AXXIARG",
+      "aethyr_name": "ARN",
+      "aethyr_tier": 2,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Jupiter",
+        "sephirah": "Chokmah",
+        "tarot": "The Magician",
+        "i_ching": 2
+      },
+      "evolution_potential": 29
+    },
+    "AYDROPT": {
+      "governor_name": "AYDROPT",
+      "aethyr_name": "ARN",
+      "aethyr_tier": 2,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Jupiter",
+        "sephirah": "Chokmah",
+        "tarot": "The Magician",
+        "i_ching": 2
+      },
+      "evolution_potential": 29
+    },
+    "CALZIRG": {
+      "governor_name": "CALZIRG",
+      "aethyr_name": "ZOM",
+      "aethyr_tier": 3,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Mars",
+        "sephirah": "Binah",
+        "tarot": "The High Priestess",
+        "i_ching": 3
+      },
+      "evolution_potential": 28
+    },
+    "CHASLPO": {
+      "governor_name": "CHASLPO",
+      "aethyr_name": "ZOM",
+      "aethyr_tier": 3,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Mars",
+        "sephirah": "Binah",
+        "tarot": "The High Priestess",
+        "i_ching": 3
+      },
+      "evolution_potential": 28
+    },
+    "CHIRZPA": {
+      "governor_name": "CHIRZPA",
+      "aethyr_name": "ZOM",
+      "aethyr_tier": 3,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Mars",
+        "sephirah": "Binah",
+        "tarot": "The High Priestess",
+        "i_ching": 3
+      },
+      "evolution_potential": 28
+    },
+    "COMANAN": {
+      "governor_name": "COMANAN",
+      "aethyr_name": "PAZ",
+      "aethyr_tier": 4,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Sun",
+        "sephirah": "Chesed",
+        "tarot": "The Empress",
+        "i_ching": 4
+      },
+      "evolution_potential": 27
+    },
+    "CRALPIR": {
+      "governor_name": "CRALPIR",
+      "aethyr_name": "PAZ",
+      "aethyr_tier": 4,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Sun",
+        "sephirah": "Chesed",
+        "tarot": "The Empress",
+        "i_ching": 4
+      },
+      "evolution_potential": 27
+    },
+    "CRPANIB": {
+      "governor_name": "CRPANIB",
+      "aethyr_name": "PAZ",
+      "aethyr_tier": 4,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Sun",
+        "sephirah": "Chesed",
+        "tarot": "The Empress",
+        "i_ching": 4
+      },
+      "evolution_potential": 27
+    },
+    "CUCARPT": {
+      "governor_name": "CUCARPT",
+      "aethyr_name": "LIT",
+      "aethyr_tier": 5,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Venus",
+        "sephirah": "Geburah",
+        "tarot": "The Emperor",
+        "i_ching": 5
+      },
+      "evolution_potential": 26
+    },
+    "DIALOIA": {
+      "governor_name": "DIALOIA",
+      "aethyr_name": "LIT",
+      "aethyr_tier": 5,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Venus",
+        "sephirah": "Geburah",
+        "tarot": "The Emperor",
+        "i_ching": 5
+      },
+      "evolution_potential": 26
+    },
+    "DOAGNIS": {
+      "governor_name": "DOAGNIS",
+      "aethyr_name": "LIT",
+      "aethyr_tier": 5,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Venus",
+        "sephirah": "Geburah",
+        "tarot": "The Emperor",
+        "i_ching": 5
+      },
+      "evolution_potential": 26
+    },
+    "DOANZIN": {
+      "governor_name": "DOANZIN",
+      "aethyr_name": "MAZ",
+      "aethyr_tier": 6,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Mercury",
+        "sephirah": "Tiphareth",
+        "tarot": "The Hierophant",
+        "i_ching": 6
+      },
+      "evolution_potential": 25
+    },
+    "DOCEPAX": {
+      "governor_name": "DOCEPAX",
+      "aethyr_name": "MAZ",
+      "aethyr_tier": 6,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Mercury",
+        "sephirah": "Tiphareth",
+        "tarot": "The Hierophant",
+        "i_ching": 6
+      },
+      "evolution_potential": 25
+    },
+    "DOXMAEL": {
+      "governor_name": "DOXMAEL",
+      "aethyr_name": "MAZ",
+      "aethyr_tier": 6,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Mercury",
+        "sephirah": "Tiphareth",
+        "tarot": "The Hierophant",
+        "i_ching": 6
+      },
+      "evolution_potential": 25
+    },
+    "GECAOND": {
+      "governor_name": "GECAOND",
+      "aethyr_name": "DEO",
+      "aethyr_tier": 7,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Moon",
+        "sephirah": "Netzach",
+        "tarot": "The Lovers",
+        "i_ching": 7
+      },
+      "evolution_potential": 24
+    },
+    "GEDOONS": {
+      "governor_name": "GEDOONS",
+      "aethyr_name": "DEO",
+      "aethyr_tier": 7,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Moon",
+        "sephirah": "Netzach",
+        "tarot": "The Lovers",
+        "i_ching": 7
+      },
+      "evolution_potential": 24
+    },
+    "GEMNIMB": {
+      "governor_name": "GEMNIMB",
+      "aethyr_name": "DEO",
+      "aethyr_tier": 7,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Moon",
+        "sephirah": "Netzach",
+        "tarot": "The Lovers",
+        "i_ching": 7
+      },
+      "evolution_potential": 24
+    },
+    "GENADOL": {
+      "governor_name": "GENADOL",
+      "aethyr_name": "ZID",
+      "aethyr_tier": 8,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Saturn",
+        "sephirah": "Hod",
+        "tarot": "The Chariot",
+        "i_ching": 8
+      },
+      "evolution_potential": 23
+    },
+    "GMTZIAM": {
+      "governor_name": "GMTZIAM",
+      "aethyr_name": "ZID",
+      "aethyr_tier": 8,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Saturn",
+        "sephirah": "Hod",
+        "tarot": "The Chariot",
+        "i_ching": 8
+      },
+      "evolution_potential": 23
+    },
+    "LAPARIN": {
+      "governor_name": "LAPARIN",
+      "aethyr_name": "ZID",
+      "aethyr_tier": 8,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Saturn",
+        "sephirah": "Hod",
+        "tarot": "The Chariot",
+        "i_ching": 8
+      },
+      "evolution_potential": 23
+    },
+    "LAVACON": {
+      "governor_name": "LAVACON",
+      "aethyr_name": "ZIP",
+      "aethyr_tier": 9,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Jupiter",
+        "sephirah": "Yesod",
+        "tarot": "Strength",
+        "i_ching": 9
+      },
+      "evolution_potential": 22
+    },
+    "LAZDIXI": {
+      "governor_name": "LAZDIXI",
+      "aethyr_name": "ZIP",
+      "aethyr_tier": 9,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Jupiter",
+        "sephirah": "Yesod",
+        "tarot": "Strength",
+        "i_ching": 9
+      },
+      "evolution_potential": 22
+    },
+    "LAZHIIM": {
+      "governor_name": "LAZHIIM",
+      "aethyr_name": "ZIP",
+      "aethyr_tier": 9,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Jupiter",
+        "sephirah": "Yesod",
+        "tarot": "Strength",
+        "i_ching": 9
+      },
+      "evolution_potential": 22
+    },
+    "LEXARPH": {
+      "governor_name": "LEXARPH",
+      "aethyr_name": "ZAX",
+      "aethyr_tier": 10,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Mars",
+        "sephirah": "Malkuth",
+        "tarot": "The Hermit",
+        "i_ching": 10
+      },
+      "evolution_potential": 21
+    },
+    "MATHVLA": {
+      "governor_name": "MATHVLA",
+      "aethyr_name": "ZAX",
+      "aethyr_tier": 10,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Mars",
+        "sephirah": "Malkuth",
+        "tarot": "The Hermit",
+        "i_ching": 10
+      },
+      "evolution_potential": 21
+    },
+    "MIRZIND": {
+      "governor_name": "MIRZIND",
+      "aethyr_name": "ZAX",
+      "aethyr_tier": 10,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Mars",
+        "sephirah": "Malkuth",
+        "tarot": "The Hermit",
+        "i_ching": 10
+      },
+      "evolution_potential": 21
+    },
+    "MOLPAND": {
+      "governor_name": "MOLPAND",
+      "aethyr_name": "ICH",
+      "aethyr_tier": 11,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Sun",
+        "sephirah": "Kether",
+        "tarot": "Wheel of Fortune",
+        "i_ching": 11
+      },
+      "evolution_potential": 20
+    },
+    "NABAOMI": {
+      "governor_name": "NABAOMI",
+      "aethyr_name": "ICH",
+      "aethyr_tier": 11,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Sun",
+        "sephirah": "Kether",
+        "tarot": "Wheel of Fortune",
+        "i_ching": 11
+      },
+      "evolution_potential": 20
+    },
+    "NIGRANA": {
+      "governor_name": "NIGRANA",
+      "aethyr_name": "ICH",
+      "aethyr_tier": 11,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Sun",
+        "sephirah": "Kether",
+        "tarot": "Wheel of Fortune",
+        "i_ching": 11
+      },
+      "evolution_potential": 20
+    },
+    "NOCAMAL": {
+      "governor_name": "NOCAMAL",
+      "aethyr_name": "LOE",
+      "aethyr_tier": 12,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Venus",
+        "sephirah": "Chokmah",
+        "tarot": "Justice",
+        "i_ching": 12
+      },
+      "evolution_potential": 19
+    },
+    "NOTIABI": {
+      "governor_name": "NOTIABI",
+      "aethyr_name": "LOE",
+      "aethyr_tier": 12,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Venus",
+        "sephirah": "Chokmah",
+        "tarot": "Justice",
+        "i_ching": 12
+      },
+      "evolution_potential": 19
+    },
+    "OBUAORS": {
+      "governor_name": "OBUAORS",
+      "aethyr_name": "LOE",
+      "aethyr_tier": 12,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Venus",
+        "sephirah": "Chokmah",
+        "tarot": "Justice",
+        "i_ching": 12
+      },
+      "evolution_potential": 19
+    },
+    "OCCODON": {
+      "governor_name": "OCCODON",
+      "aethyr_name": "ZIM",
+      "aethyr_tier": 13,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Mercury",
+        "sephirah": "Binah",
+        "tarot": "The Hanged Man",
+        "i_ching": 13
+      },
+      "evolution_potential": 18
+    },
+    "ODDIORG": {
+      "governor_name": "ODDIORG",
+      "aethyr_name": "ZIM",
+      "aethyr_tier": 13,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Mercury",
+        "sephirah": "Binah",
+        "tarot": "The Hanged Man",
+        "i_ching": 13
+      },
+      "evolution_potential": 18
+    },
+    "ODRAXTI": {
+      "governor_name": "ODRAXTI",
+      "aethyr_name": "ZIM",
+      "aethyr_tier": 13,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Mercury",
+        "sephirah": "Binah",
+        "tarot": "The Hanged Man",
+        "i_ching": 13
+      },
+      "evolution_potential": 18
+    },
+    "OMAGRAP": {
+      "governor_name": "OMAGRAP",
+      "aethyr_name": "UTI",
+      "aethyr_tier": 14,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Moon",
+        "sephirah": "Chesed",
+        "tarot": "Death",
+        "i_ching": 14
+      },
+      "evolution_potential": 17
+    },
+    "ONIZIMP": {
+      "governor_name": "ONIZIMP",
+      "aethyr_name": "UTI",
+      "aethyr_tier": 14,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Moon",
+        "sephirah": "Chesed",
+        "tarot": "Death",
+        "i_ching": 14
+      },
+      "evolution_potential": 17
+    },
+    "OPMACAS": {
+      "governor_name": "OPMACAS",
+      "aethyr_name": "UTI",
+      "aethyr_tier": 14,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Moon",
+        "sephirah": "Chesed",
+        "tarot": "Death",
+        "i_ching": 14
+      },
+      "evolution_potential": 17
+    },
+    "ORANCIR": {
+      "governor_name": "ORANCIR",
+      "aethyr_name": "OXO",
+      "aethyr_tier": 15,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Saturn",
+        "sephirah": "Geburah",
+        "tarot": "Temperance",
+        "i_ching": 15
+      },
+      "evolution_potential": 16
+    },
+    "OSIDAIA": {
+      "governor_name": "OSIDAIA",
+      "aethyr_name": "OXO",
+      "aethyr_tier": 15,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Saturn",
+        "sephirah": "Geburah",
+        "tarot": "Temperance",
+        "i_ching": 15
+      },
+      "evolution_potential": 16
+    },
+    "OXLOPAR": {
+      "governor_name": "OXLOPAR",
+      "aethyr_name": "OXO",
+      "aethyr_tier": 15,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Saturn",
+        "sephirah": "Geburah",
+        "tarot": "Temperance",
+        "i_ching": 15
+      },
+      "evolution_potential": 16
+    },
+    "PABNIXP": {
+      "governor_name": "PABNIXP",
+      "aethyr_name": "LEA",
+      "aethyr_tier": 16,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Jupiter",
+        "sephirah": "Tiphareth",
+        "tarot": "The Devil",
+        "i_ching": 16
+      },
+      "evolution_potential": 15
+    },
+    "PACASNA": {
+      "governor_name": "PACASNA",
+      "aethyr_name": "LEA",
+      "aethyr_tier": 16,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Jupiter",
+        "sephirah": "Tiphareth",
+        "tarot": "The Devil",
+        "i_ching": 16
+      },
+      "evolution_potential": 15
+    },
+    "PARAOAN": {
+      "governor_name": "PARAOAN",
+      "aethyr_name": "LEA",
+      "aethyr_tier": 16,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Jupiter",
+        "sephirah": "Tiphareth",
+        "tarot": "The Devil",
+        "i_ching": 16
+      },
+      "evolution_potential": 15
+    },
+    "PARZIBA": {
+      "governor_name": "PARZIBA",
+      "aethyr_name": "TAN",
+      "aethyr_tier": 17,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Mars",
+        "sephirah": "Netzach",
+        "tarot": "The Tower",
+        "i_ching": 17
+      },
+      "evolution_potential": 14
+    },
+    "PASCOMB": {
+      "governor_name": "PASCOMB",
+      "aethyr_name": "TAN",
+      "aethyr_tier": 17,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Mars",
+        "sephirah": "Netzach",
+        "tarot": "The Tower",
+        "i_ching": 17
+      },
+      "evolution_potential": 14
+    },
+    "POCISNI": {
+      "governor_name": "POCISNI",
+      "aethyr_name": "TAN",
+      "aethyr_tier": 17,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Mars",
+        "sephirah": "Netzach",
+        "tarot": "The Tower",
+        "i_ching": 17
+      },
+      "evolution_potential": 14
+    },
+    "PONODOL": {
+      "governor_name": "PONODOL",
+      "aethyr_name": "ZEN",
+      "aethyr_tier": 18,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Sun",
+        "sephirah": "Hod",
+        "tarot": "The Star",
+        "i_ching": 18
+      },
+      "evolution_potential": 13
+    },
+    "POPHAND": {
+      "governor_name": "POPHAND",
+      "aethyr_name": "ZEN",
+      "aethyr_tier": 18,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Sun",
+        "sephirah": "Hod",
+        "tarot": "The Star",
+        "i_ching": 18
+      },
+      "evolution_potential": 13
+    },
+    "POTHNIR": {
+      "governor_name": "POTHNIR",
+      "aethyr_name": "ZEN",
+      "aethyr_tier": 18,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Sun",
+        "sephirah": "Hod",
+        "tarot": "The Star",
+        "i_ching": 18
+      },
+      "evolution_potential": 13
+    },
+    "PRISTAC": {
+      "governor_name": "PRISTAC",
+      "aethyr_name": "POP",
+      "aethyr_tier": 19,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Venus",
+        "sephirah": "Yesod",
+        "tarot": "The Moon",
+        "i_ching": 19
+      },
+      "evolution_potential": 12
+    },
+    "RANGLAM": {
+      "governor_name": "RANGLAM",
+      "aethyr_name": "POP",
+      "aethyr_tier": 19,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Venus",
+        "sephirah": "Yesod",
+        "tarot": "The Moon",
+        "i_ching": 19
+      },
+      "evolution_potential": 12
+    },
+    "RONOOMB": {
+      "governor_name": "RONOOMB",
+      "aethyr_name": "POP",
+      "aethyr_tier": 19,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Venus",
+        "sephirah": "Yesod",
+        "tarot": "The Moon",
+        "i_ching": 19
+      },
+      "evolution_potential": 12
+    },
+    "SAMAPHA": {
+      "governor_name": "SAMAPHA",
+      "aethyr_name": "CHR",
+      "aethyr_tier": 20,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Mercury",
+        "sephirah": "Malkuth",
+        "tarot": "The Sun",
+        "i_ching": 20
+      },
+      "evolution_potential": 11
+    },
+    "SAXTOMP": {
+      "governor_name": "SAXTOMP",
+      "aethyr_name": "CHR",
+      "aethyr_tier": 20,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Mercury",
+        "sephirah": "Malkuth",
+        "tarot": "The Sun",
+        "i_ching": 20
+      },
+      "evolution_potential": 11
+    },
+    "SAZIAMI": {
+      "governor_name": "SAZIAMI",
+      "aethyr_name": "CHR",
+      "aethyr_tier": 20,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Mercury",
+        "sephirah": "Malkuth",
+        "tarot": "The Sun",
+        "i_ching": 20
+      },
+      "evolution_potential": 11
+    },
+    "SIGMORF": {
+      "governor_name": "SIGMORF",
+      "aethyr_name": "ASP",
+      "aethyr_tier": 21,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Moon",
+        "sephirah": "Kether",
+        "tarot": "Judgement",
+        "i_ching": 21
+      },
+      "evolution_potential": 10
+    },
+    "SOAGEEL": {
+      "governor_name": "SOAGEEL",
+      "aethyr_name": "ASP",
+      "aethyr_tier": 21,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Moon",
+        "sephirah": "Kether",
+        "tarot": "Judgement",
+        "i_ching": 21
+      },
+      "evolution_potential": 10
+    },
+    "SOCHIAL": {
+      "governor_name": "SOCHIAL",
+      "aethyr_name": "ASP",
+      "aethyr_tier": 21,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Moon",
+        "sephirah": "Kether",
+        "tarot": "Judgement",
+        "i_ching": 21
+      },
+      "evolution_potential": 10
+    },
+    "TABITOM": {
+      "governor_name": "TABITOM",
+      "aethyr_name": "LIN",
+      "aethyr_tier": 22,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Saturn",
+        "sephirah": "Chokmah",
+        "tarot": "The World",
+        "i_ching": 22
+      },
+      "evolution_potential": 10
+    },
+    "TAHAMDO": {
+      "governor_name": "TAHAMDO",
+      "aethyr_name": "LIN",
+      "aethyr_tier": 22,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Saturn",
+        "sephirah": "Chokmah",
+        "tarot": "The World",
+        "i_ching": 22
+      },
+      "evolution_potential": 10
+    },
+    "TAOAGLA": {
+      "governor_name": "TAOAGLA",
+      "aethyr_name": "LIN",
+      "aethyr_tier": 22,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Saturn",
+        "sephirah": "Chokmah",
+        "tarot": "The World",
+        "i_ching": 22
+      },
+      "evolution_potential": 10
+    },
+    "TAPAMAL": {
+      "governor_name": "TAPAMAL",
+      "aethyr_name": "TOR",
+      "aethyr_tier": 23,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Jupiter",
+        "sephirah": "Binah",
+        "tarot": "The Fool",
+        "i_ching": 23
+      },
+      "evolution_potential": 10
+    },
+    "TASTOZO": {
+      "governor_name": "TASTOZO",
+      "aethyr_name": "TOR",
+      "aethyr_tier": 23,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Jupiter",
+        "sephirah": "Binah",
+        "tarot": "The Fool",
+        "i_ching": 23
+      },
+      "evolution_potential": 10
+    },
+    "TEDOOND": {
+      "governor_name": "TEDOOND",
+      "aethyr_name": "TOR",
+      "aethyr_tier": 23,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Jupiter",
+        "sephirah": "Binah",
+        "tarot": "The Fool",
+        "i_ching": 23
+      },
+      "evolution_potential": 10
+    },
+    "THOTANP": {
+      "governor_name": "THOTANP",
+      "aethyr_name": "NIA",
+      "aethyr_tier": 24,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Mars",
+        "sephirah": "Chesed",
+        "tarot": "The Magician",
+        "i_ching": 24
+      },
+      "evolution_potential": 10
+    },
+    "TIARPAX": {
+      "governor_name": "TIARPAX",
+      "aethyr_name": "NIA",
+      "aethyr_tier": 24,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Mars",
+        "sephirah": "Chesed",
+        "tarot": "The Magician",
+        "i_ching": 24
+      },
+      "evolution_potential": 10
+    },
+    "TOANTOM": {
+      "governor_name": "TOANTOM",
+      "aethyr_name": "NIA",
+      "aethyr_tier": 24,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Earth",
+        "planet": "Mars",
+        "sephirah": "Chesed",
+        "tarot": "The Magician",
+        "i_ching": 24
+      },
+      "evolution_potential": 10
+    },
+    "TOCARZI": {
+      "governor_name": "TOCARZI",
+      "aethyr_name": "VTI",
+      "aethyr_tier": 25,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Sun",
+        "sephirah": "Geburah",
+        "tarot": "The High Priestess",
+        "i_ching": 25
+      },
+      "evolution_potential": 10
+    },
+    "TODNAON": {
+      "governor_name": "TODNAON",
+      "aethyr_name": "VTI",
+      "aethyr_tier": 25,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Sun",
+        "sephirah": "Geburah",
+        "tarot": "The High Priestess",
+        "i_ching": 25
+      },
+      "evolution_potential": 10
+    },
+    "TORZOXI": {
+      "governor_name": "TORZOXI",
+      "aethyr_name": "VTI",
+      "aethyr_tier": 25,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Sun",
+        "sephirah": "Geburah",
+        "tarot": "The High Priestess",
+        "i_ching": 25
+      },
+      "evolution_potential": 10
+    },
+    "TOTOCAN": {
+      "governor_name": "TOTOCAN",
+      "aethyr_name": "ZAA",
+      "aethyr_tier": 26,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Venus",
+        "sephirah": "Tiphareth",
+        "tarot": "The Empress",
+        "i_ching": 26
+      },
+      "evolution_potential": 10
+    },
+    "USNARDA": {
+      "governor_name": "USNARDA",
+      "aethyr_name": "ZAA",
+      "aethyr_tier": 26,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Venus",
+        "sephirah": "Tiphareth",
+        "tarot": "The Empress",
+        "i_ching": 26
+      },
+      "evolution_potential": 10
+    },
+    "VALGARS": {
+      "governor_name": "VALGARS",
+      "aethyr_name": "ZAA",
+      "aethyr_tier": 26,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Fire",
+        "planet": "Venus",
+        "sephirah": "Tiphareth",
+        "tarot": "The Empress",
+        "i_ching": 26
+      },
+      "evolution_potential": 10
+    },
+    "VASTRIM": {
+      "governor_name": "VASTRIM",
+      "aethyr_name": "BAG",
+      "aethyr_tier": 27,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Mercury",
+        "sephirah": "Netzach",
+        "tarot": "The Emperor",
+        "i_ching": 27
+      },
+      "evolution_potential": 10
+    },
+    "VAUAAMP": {
+      "governor_name": "VAUAAMP",
+      "aethyr_name": "BAG",
+      "aethyr_tier": 27,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Mercury",
+        "sephirah": "Netzach",
+        "tarot": "The Emperor",
+        "i_ching": 27
+      },
+      "evolution_potential": 10
+    },
+    "VIROOLI": {
+      "governor_name": "VIROOLI",
+      "aethyr_name": "BAG",
+      "aethyr_tier": 27,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Water",
+        "planet": "Mercury",
+        "sephirah": "Netzach",
+        "tarot": "The Emperor",
+        "i_ching": 27
+      },
+      "evolution_potential": 10
+    },
+    "VIVIPOS": {
+      "governor_name": "VIVIPOS",
+      "aethyr_name": "RII",
+      "aethyr_tier": 28,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Moon",
+        "sephirah": "Hod",
+        "tarot": "The Hierophant",
+        "i_ching": 28
+      },
+      "evolution_potential": 10
+    },
+    "VIXPALG": {
+      "governor_name": "VIXPALG",
+      "aethyr_name": "RII",
+      "aethyr_tier": 28,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Moon",
+        "sephirah": "Hod",
+        "tarot": "The Hierophant",
+        "i_ching": 28
+      },
+      "evolution_potential": 10
+    },
+    "VOANAMB": {
+      "governor_name": "VOANAMB",
+      "aethyr_name": "RII",
+      "aethyr_tier": 28,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Air",
+        "planet": "Moon",
+        "sephirah": "Hod",
+        "tarot": "The Hierophant",
+        "i_ching": 28
+      },
+      "evolution_potential": 10
+    },
+    "YALPAMB": {
+      "governor_name": "YALPAMB",
+      "aethyr_name": "LIL",
+      "aethyr_tier": 30,
+      "position_in_aethyr": 1,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Jupiter",
+        "sephirah": "Malkuth",
+        "tarot": "The Chariot",
+        "i_ching": 30
+      },
+      "evolution_potential": 10
+    },
+    "ZAFASAI": {
+      "governor_name": "ZAFASAI",
+      "aethyr_name": "LIL",
+      "aethyr_tier": 30,
+      "position_in_aethyr": 2,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Jupiter",
+        "sephirah": "Malkuth",
+        "tarot": "The Chariot",
+        "i_ching": 30
+      },
+      "evolution_potential": 10
+    },
+    "ZAMFRES": {
+      "governor_name": "ZAMFRES",
+      "aethyr_name": "LIL",
+      "aethyr_tier": 30,
+      "position_in_aethyr": 3,
+      "mystical_correspondences": {
+        "element": "Spirit",
+        "planet": "Jupiter",
+        "sephirah": "Malkuth",
+        "tarot": "The Chariot",
+        "i_ching": 30
+      },
+      "evolution_potential": 10
+    }
+  },
+  "aethyr_to_governors": {
+    "TEX": [
+      "ABRIOND",
+      "ADVORPT",
+      "AMBRIOL",
+      "ANDISPI"
+    ],
+    "ARN": [
+      "ASPIAON",
+      "AXXIARG",
+      "AYDROPT"
+    ],
+    "ZOM": [
+      "CALZIRG",
+      "CHASLPO",
+      "CHIRZPA"
+    ],
+    "PAZ": [
+      "COMANAN",
+      "CRALPIR",
+      "CRPANIB"
+    ],
+    "LIT": [
+      "CUCARPT",
+      "DIALOIA",
+      "DOAGNIS"
+    ],
+    "MAZ": [
+      "DOANZIN",
+      "DOCEPAX",
+      "DOXMAEL"
+    ],
+    "DEO": [
+      "GECAOND",
+      "GEDOONS",
+      "GEMNIMB"
+    ],
+    "ZID": [
+      "GENADOL",
+      "GMTZIAM",
+      "LAPARIN"
+    ],
+    "ZIP": [
+      "LAVACON",
+      "LAZDIXI",
+      "LAZHIIM"
+    ],
+    "ZAX": [
+      "LEXARPH",
+      "MATHVLA",
+      "MIRZIND"
+    ],
+    "ICH": [
+      "MOLPAND",
+      "NABAOMI",
+      "NIGRANA"
+    ],
+    "LOE": [
+      "NOCAMAL",
+      "NOTIABI",
+      "OBUAORS"
+    ],
+    "ZIM": [
+      "OCCODON",
+      "ODDIORG",
+      "ODRAXTI"
+    ],
+    "UTI": [
+      "OMAGRAP",
+      "ONIZIMP",
+      "OPMACAS"
+    ],
+    "OXO": [
+      "ORANCIR",
+      "OSIDAIA",
+      "OXLOPAR"
+    ],
+    "LEA": [
+      "PABNIXP",
+      "PACASNA",
+      "PARAOAN"
+    ],
+    "TAN": [
+      "PARZIBA",
+      "PASCOMB",
+      "POCISNI"
+    ],
+    "ZEN": [
+      "PONODOL",
+      "POPHAND",
+      "POTHNIR"
+    ],
+    "POP": [
+      "PRISTAC",
+      "RANGLAM",
+      "RONOOMB"
+    ],
+    "CHR": [
+      "SAMAPHA",
+      "SAXTOMP",
+      "SAZIAMI"
+    ],
+    "ASP": [
+      "SIGMORF",
+      "SOAGEEL",
+      "SOCHIAL"
+    ],
+    "LIN": [
+      "TABITOM",
+      "TAHAMDO",
+      "TAOAGLA"
+    ],
+    "TOR": [
+      "TAPAMAL",
+      "TASTOZO",
+      "TEDOOND"
+    ],
+    "NIA": [
+      "THOTANP",
+      "TIARPAX",
+      "TOANTOM"
+    ],
+    "VTI": [
+      "TOCARZI",
+      "TODNAON",
+      "TORZOXI"
+    ],
+    "ZAA": [
+      "TOTOCAN",
+      "USNARDA",
+      "VALGARS"
+    ],
+    "BAG": [
+      "VASTRIM",
+      "VAUAAMP",
+      "VIROOLI"
+    ],
+    "RII": [
+      "VIVIPOS",
+      "VIXPALG",
+      "VOANAMB"
+    ],
+    "LIL": [
+      "YALPAMB",
+      "ZAFASAI",
+      "ZAMFRES"
+    ]
+  },
+  "validation_results": {
+    "valid": false,
+    "total_governors": 88,
+    "total_aethyrs": 29,
+    "tex_governors": 4,
+    "distribution_errors": [
+      "Total governors: 88, expected 91",
+      "Total Aethyrs: 29, expected 30"
+    ]
+  }
+}

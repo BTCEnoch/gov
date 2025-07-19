@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-07-18T20:26:33.663140",
-  "tests_run": 12,
-  "failures": 5,
+  "timestamp": "2025-07-18T21:06:15.870186",
+  "tests_run": 15,
+  "failures": 7,
   "errors": 0,
-  "success_rate": 0.5833333333333334,
+  "success_rate": 0.5333333333333333,
   "sacred_architecture_compliance": true,
   "bitcoin_inscription_ready": false
 }
