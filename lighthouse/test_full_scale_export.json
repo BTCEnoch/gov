@@ -1,0 +1,61 @@
+{
+  "export_timestamp": "2025-07-18T21:57:28.200953",
+  "generation_summary": {
+    "total_quests_generated": 0,
+    "total_governors_processed": 0,
+    "target_achievement": "0.0%",
+    "authenticity_achievement": "0.000 (target: 0.95)",
+    "generation_time": "0.03 seconds"
+  },
+  "authenticity_metrics": {
+    "overall_authenticity": 0,
+    "enochian_authenticity": 0,
+    "tradition_authenticity": {},
+    "source_validation_score": 0.92,
+    "cross_reference_score": 0.88,
+    "historical_accuracy_score": 0.91,
+    "authenticity_distribution": {
+      "excellent_95_plus": 0,
+      "good_90_to_95": 0,
+      "fair_85_to_90": 0,
+      "poor_below_85": 0
+    }
+  },
+  "performance_metrics": {
+    "generation_time_seconds": 0.02985692024230957,
+    "governors_per_second": 0.0,
+    "quests_per_second": 0.0,
+    "successful_governors": 0,
+    "failed_governors": 10,
+    "success_rate_percentage": 0.0,
+    "average_quests_per_governor": 0,
+    "target_achievement_percentage": 0.0
+  },
+  "economic_results": {
+    "total_economic_value": 0,
+    "average_quest_value": 0,
+    "high_value_quest_count": 0,
+    "economic_efficiency": 0.0,
+    "authenticity_premium_applied": true
+  },
+  "divination_integration_stats": {
+    "tarot_integrations": 0,
+    "i_ching_integrations": 0,
+    "astrological_integrations": 0,
+    "total_divination_enhanced_questlines": 0,
+    "divination_coverage_percentage": 100.0
+  },
+  "configuration": {
+    "total_governors": 10,
+    "target_quests_per_governor": 50,
+    "total_target_quests": 500,
+    "authenticity_target": 0.95,
+    "enochian_weight": 0.6,
+    "max_concurrent_governors": 5,
+    "batch_size_per_governor": 25,
+    "enable_divination_branching": true,
+    "enable_autonomous_economics": true,
+    "performance_monitoring": true
+  },
+  "questlines": {}
+}
