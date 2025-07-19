@@ -1,0 +1,2067 @@
+{
+  "export_timestamp": "2025-07-18T21:33:50.660206",
+  "generation_statistics": {
+    "total_governors_processed": 3,
+    "total_quests_generated": 26,
+    "total_lighthouse_retrievals": 3,
+    "average_authenticity": 0.9039999999999999,
+    "generation_time": 0.12744140625,
+    "api_calls_made": 0,
+    "cost_incurred": 0.0
+  },
+  "configuration": {
+    "target_quests_per_governor": 10,
+    "min_quests_per_governor": 8,
+    "max_quests_per_governor": 12,
+    "enochian_weight": 0.6,
+    "min_authenticity": 0.8,
+    "max_concurrent_governors": 5,
+    "lighthouse_entries_per_quest": 5,
+    "enable_hypertoken_evolution": true,
+    "cost_limit_usd": 100.0,
+    "api_provider": "mock"
+  },
+  "total_questlines": 3,
+  "total_quests": 26,
+  "questlines": {
+    "ABRIOND": {
+      "governor_name": "ABRIOND",
+      "questline_title": "The Sacred Path of ABRIOND: Creation Mastery",
+      "narrative_arc": "A comprehensive journey through creation mastery guided by Governor ABRIOND, integrating Enochian wisdom with enochian_magic traditions.",
+      "total_quests": 9,
+      "quests": [
+        {
+          "quest_id": "ABRIOND_QUEST_001",
+          "title": "The Mystical Path of Governor Angel PETAVAL",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel PETAVAL",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "greek_philosophy",
+            "enochian_magic",
+            "taoism"
+          ],
+          "difficulty_level": 3,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_petaval",
+            "enochian_concept_calls_and_invocations",
+            "greek_philosophy_080",
+            "enochian_governor_gmnaa",
+            "taoism_059"
+          ],
+          "authenticity_score": 0.9039999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_001_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.3265746683782627,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.29522350021394944,
+            "creation_timestamp": "2025-07-18T21:33:50.539272"
+          },
+          "domain_relevance": {
+            "knowledge": 0.5,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_002",
+          "title": "The Sacred Path of Governor Angel DIALIVA",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel DIALIVA",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "natal_astrology",
+            "numerology",
+            "enochian_magic"
+          ],
+          "difficulty_level": 8,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_dialiva",
+            "enochian_governor_zafasai",
+            "natal_astrology_058",
+            "numerology_061",
+            "enochian_governor_gmnaa"
+          ],
+          "authenticity_score": 0.9099999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_002_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.3386746076763093,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.3081938929854414,
+            "creation_timestamp": "2025-07-18T21:33:50.564790"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_003",
+          "title": "The Mystical Path of Natal_Astrology Practice 66",
+          "description": "A quest inspired by natal_astrology teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Natal_Astrology Practice 66",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through natal_astrology principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "natal_astrology",
+            "traditional_kabbalah",
+            "natal_astrology",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 7,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "natal_astrology_066",
+            "traditional_kabbalah_022",
+            "natal_astrology_058",
+            "enochian_governor_lzinopo",
+            "enochian_governor_zafasai"
+          ],
+          "authenticity_score": 0.89,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_003_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.22883720930232557,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.20366511627906975,
+            "creation_timestamp": "2025-07-18T21:33:50.580801"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_004",
+          "title": "The Hidden Path of Governor Angel ZAFASAI",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel ZAFASAI",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "natal_astrology",
+            "greek_philosophy",
+            "hermetic_qabalah"
+          ],
+          "difficulty_level": 7,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_zafasai",
+            "enochian_concept_holy_table",
+            "natal_astrology_058",
+            "greek_philosophy_080",
+            "qabalah_concept_049"
+          ],
+          "authenticity_score": 0.8939999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_004_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.22302122356434068,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.19938097386652054,
+            "creation_timestamp": "2025-07-18T21:33:50.596309"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_005",
+          "title": "The Mystical Path of Qabalistic Concept 67",
+          "description": "A quest inspired by hermetic_qabalah teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Qabalistic Concept 67",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through hermetic_qabalah principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "hermetic_qabalah",
+            "numerology",
+            "enochian_magic",
+            "traditional_kabbalah",
+            "enochian_magic"
+          ],
+          "difficulty_level": 3,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "qabalah_concept_067",
+            "numerology_061",
+            "enochian_concept_holy_table",
+            "traditional_kabbalah_022",
+            "enochian_governor_dialiva"
+          ],
+          "authenticity_score": 0.8939999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_005_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.22302122356434068,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.19938097386652054,
+            "creation_timestamp": "2025-07-18T21:33:50.612171"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_006",
+          "title": "The Hidden Path of Governor Angel GMNAA",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel GMNAA",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "hermetic_qabalah",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 7,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_gmnaa",
+            "qabalah_concept_067",
+            "enochian_governor_petaval",
+            "enochian_governor_dialiva",
+            "enochian_concept_tablet_of_union"
+          ],
+          "authenticity_score": 0.9339999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_006_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.44696789337475523,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.41746801241202136,
+            "creation_timestamp": "2025-07-18T21:33:50.628179"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_007",
+          "title": "The Mystical Path of Numerology Practice 61",
+          "description": "A quest inspired by numerology teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Numerology Practice 61",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through numerology principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "numerology",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "hermetic_qabalah"
+          ],
+          "difficulty_level": 4,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "numerology_061",
+            "enochian_governor_petaval",
+            "enochian_governor_thotanf",
+            "enochian_concept_calls_and_invocations",
+            "qabalah_concept_067"
+          ],
+          "authenticity_score": 0.914,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_007_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.32655442351178243,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.2984707430897692,
+            "creation_timestamp": "2025-07-18T21:33:50.643688"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_008",
+          "title": "The Ancient Path of Governor Angel THOTANF",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel THOTANF",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "hermetic_qabalah",
+            "greek_philosophy"
+          ],
+          "difficulty_level": 3,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_thotanf",
+            "enochian_concept_calls_and_invocations",
+            "enochian_governor_todnaon",
+            "qabalah_concept_067",
+            "greek_philosophy_080"
+          ],
+          "authenticity_score": 0.914,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_008_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.3272861308288556,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.299139523577574,
+            "creation_timestamp": "2025-07-18T21:33:50.659206"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ABRIOND_QUEST_009",
+          "title": "The Hidden Path of Tablet of Union",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Tablet of Union",
+            "Practice creation-based meditation techniques",
+            "Integrate ABRIOND's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ABRIOND GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "greek_philosophy",
+            "hermetic_qabalah",
+            "enochian_magic",
+            "traditional_kabbalah"
+          ],
+          "difficulty_level": 6,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ABRIOND attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_concept_tablet_of_union",
+            "greek_philosophy_080",
+            "qabalah_concept_049",
+            "enochian_governor_gmnaa",
+            "traditional_kabbalah_022"
+          ],
+          "authenticity_score": 0.8939999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ABRIOND_ABRIOND_QUEST_009_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.2234435976666819,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.1997585763140136,
+            "creation_timestamp": "2025-07-18T21:33:50.659206"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        }
+      ],
+      "wisdom_focus": "Creation mastery through Enochian-grounded practice",
+      "lighthouse_knowledge_base": [
+        "enochian_governor_thotanf",
+        "enochian_governor_dialiva",
+        "enochian_governor_todnaon",
+        "enochian_concept_tablet_of_union",
+        "enochian_governor_onizimp",
+        "enochian_concept_holy_table",
+        "enochian_governor_lzinopo",
+        "enochian_governor_torzoxi",
+        "enochian_governor_petaval",
+        "enochian_governor_zafasai",
+        "enochian_governor_gmnaa",
+        "enochian_concept_calls_and_invocations",
+        "qabalah_concept_067",
+        "natal_astrology_066",
+        "taoism_059",
+        "traditional_kabbalah_022",
+        "qabalah_concept_049",
+        "numerology_061",
+        "greek_philosophy_080",
+        "natal_astrology_058"
+      ],
+      "average_authenticity": 0.9053333333333333,
+      "enochian_percentage": 60.0,
+      "domain_coverage": {
+        "knowledge": 9
+      },
+      "generation_metadata": {
+        "generation_timestamp": "2025-07-18T21:33:50.659206",
+        "lighthouse_retrieval_metadata": {
+          "enochian_percentage": 60.0,
+          "average_authenticity": 0.9105000000000001,
+          "domain_coverage": {
+            "knowledge": 20
+          },
+          "total_available": 2514
+        },
+        "primary_domain": "creation",
+        "quest_generation_method": "enhanced_ai_batch",
+        "config_used": {
+          "target_quests_per_governor": 10,
+          "min_quests_per_governor": 8,
+          "max_quests_per_governor": 12,
+          "enochian_weight": 0.6,
+          "min_authenticity": 0.8,
+          "max_concurrent_governors": 5,
+          "lighthouse_entries_per_quest": 5,
+          "enable_hypertoken_evolution": true,
+          "cost_limit_usd": 100.0,
+          "api_provider": "mock"
+        }
+      },
+      "hypertoken_evolutions": [
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_001_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.3265746683782627,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.29522350021394944,
+          "creation_timestamp": "2025-07-18T21:33:50.539272"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_002_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.3386746076763093,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.3081938929854414,
+          "creation_timestamp": "2025-07-18T21:33:50.564790"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_003_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.22883720930232557,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.20366511627906975,
+          "creation_timestamp": "2025-07-18T21:33:50.580801"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_004_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.22302122356434068,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.19938097386652054,
+          "creation_timestamp": "2025-07-18T21:33:50.596309"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_005_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.22302122356434068,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.19938097386652054,
+          "creation_timestamp": "2025-07-18T21:33:50.612171"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_006_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.44696789337475523,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.41746801241202136,
+          "creation_timestamp": "2025-07-18T21:33:50.628179"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_007_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.32655442351178243,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.2984707430897692,
+          "creation_timestamp": "2025-07-18T21:33:50.643688"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_008_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.3272861308288556,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.299139523577574,
+          "creation_timestamp": "2025-07-18T21:33:50.659206"
+        },
+        {
+          "token_id": "ABRIOND_ABRIOND_QUEST_009_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.2234435976666819,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.1997585763140136,
+          "creation_timestamp": "2025-07-18T21:33:50.659206"
+        }
+      ]
+    },
+    "ADVORPT": {
+      "governor_name": "ADVORPT",
+      "questline_title": "The Sacred Path of ADVORPT: Creation Mastery",
+      "narrative_arc": "A comprehensive journey through creation mastery guided by Governor ADVORPT, integrating Enochian wisdom with enochian_magic traditions.",
+      "total_quests": 9,
+      "quests": [
+        {
+          "quest_id": "ADVORPT_QUEST_001",
+          "title": "The Hidden Path of Governor Angel VIXPALG",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel VIXPALG",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "alchemy",
+            "thelema"
+          ],
+          "difficulty_level": 5,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_vixpalg",
+            "enochian_concept_elemental_tablets",
+            "enochian_governor_todnaon",
+            "alchemy_002",
+            "thelema_003"
+          ],
+          "authenticity_score": 0.9039999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_001_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.33028704164592665,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.29857948564791764,
+            "creation_timestamp": "2025-07-18T21:33:50.539272"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_002",
+          "title": "The Mystical Path of Governor Angel TODNAON",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel TODNAON",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "natal_astrology",
+            "shamanism",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 4,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_todnaon",
+            "natal_astrology_009",
+            "shamanism_002",
+            "enochian_concept_sigillum_dei_aemeth",
+            "enochian_concept_tablet_of_union"
+          ],
+          "authenticity_score": 0.898,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_002_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.33036371416345744,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.2966666153187848,
+            "creation_timestamp": "2025-07-18T21:33:50.564790"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_003",
+          "title": "The Mystical Path of Golden_Dawn Practice 102",
+          "description": "A quest inspired by golden_dawn teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Golden_Dawn Practice 102",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through golden_dawn principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "golden_dawn",
+            "enochian_magic",
+            "enochian_magic",
+            "natal_astrology",
+            "enochian_magic"
+          ],
+          "difficulty_level": 7,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "golden_dawn_102",
+            "enochian_governor_todnaon",
+            "enochian_concept_cacodemons",
+            "natal_astrology_009",
+            "enochian_governor_pacasna"
+          ],
+          "authenticity_score": 0.9039999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_003_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.3271121035154013,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.2957093415779228,
+            "creation_timestamp": "2025-07-18T21:33:50.580801"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_004",
+          "title": "The Hidden Path of Natal_Astrology Practice 9",
+          "description": "A quest inspired by natal_astrology teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Natal_Astrology Practice 9",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through natal_astrology principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "natal_astrology",
+            "alchemy",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 6,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "natal_astrology_009",
+            "alchemy_002",
+            "enochian_governor_vixpalg",
+            "enochian_concept_elemental_tablets",
+            "enochian_concept_aethyrs"
+          ],
+          "authenticity_score": 0.898,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_004_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.32861865735644996,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.2950995543060921,
+            "creation_timestamp": "2025-07-18T21:33:50.596309"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_005",
+          "title": "The Ancient Path of Governor Angel TODNAON",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel TODNAON",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "alchemy",
+            "natal_astrology",
+            "enochian_magic",
+            "celtic_druidic"
+          ],
+          "difficulty_level": 4,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_todnaon",
+            "alchemy_002",
+            "natal_astrology_015",
+            "enochian_governor_sioda",
+            "celtic_druidic_048"
+          ],
+          "authenticity_score": 0.89,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_005_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.22425600302514653,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.19958784269238042,
+            "creation_timestamp": "2025-07-18T21:33:50.612171"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_006",
+          "title": "The Sacred Path of Angelic Script",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Angelic Script",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "natal_astrology",
+            "natal_astrology",
+            "enochian_magic",
+            "thelema"
+          ],
+          "difficulty_level": 4,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_concept_angelic_script",
+            "natal_astrology_015",
+            "natal_astrology_009",
+            "enochian_concept_aethyrs",
+            "thelema_003"
+          ],
+          "authenticity_score": 0.8779999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_006_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.21606017054709206,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.1897008297403468,
+            "creation_timestamp": "2025-07-18T21:33:50.628179"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_007",
+          "title": "The Mystical Path of Barbarous Names",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Barbarous Names",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "celtic_druidic",
+            "thelema",
+            "enochian_magic",
+            "natal_astrology"
+          ],
+          "difficulty_level": 8,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_concept_barbarous_names",
+            "celtic_druidic_048",
+            "thelema_003",
+            "enochian_concept_aethyrs",
+            "natal_astrology_015"
+          ],
+          "authenticity_score": 0.8779999999999999,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_007_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.21606017054709206,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.1897008297403468,
+            "creation_timestamp": "2025-07-18T21:33:50.643688"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_008",
+          "title": "The Ancient Path of Governor Angel PACASNA",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel PACASNA",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "celtic_druidic"
+          ],
+          "difficulty_level": 5,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_pacasna",
+            "enochian_concept_angelic_script",
+            "enochian_concept_tablet_of_union",
+            "enochian_concept_elemental_tablets",
+            "celtic_druidic_048"
+          ],
+          "authenticity_score": 0.9120000000000001,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_008_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.44050382925956005,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.40173949228471884,
+            "creation_timestamp": "2025-07-18T21:33:50.659206"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "ADVORPT_QUEST_009",
+          "title": "The Ancient Path of Aethyrs",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Aethyrs",
+            "Practice creation-based meditation techniques",
+            "Integrate ADVORPT's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG ADVORPT GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "celtic_druidic",
+            "tarot",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 6,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and ADVORPT attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_concept_aethyrs",
+            "celtic_druidic_048",
+            "tarot_major_the_moon",
+            "enochian_concept_barbarous_names",
+            "enochian_governor_sioda"
+          ],
+          "authenticity_score": 0.908,
+          "hypertoken_evolution": {
+            "token_id": "ADVORPT_ADVORPT_QUEST_009_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.33047877519825486,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.30007472788001543,
+            "creation_timestamp": "2025-07-18T21:33:50.659206"
+          },
+          "domain_relevance": {
+            "knowledge": 0.6000000000000001,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        }
+      ],
+      "wisdom_focus": "Creation mastery through Enochian-grounded practice",
+      "lighthouse_knowledge_base": [
+        "enochian_governor_todnaon",
+        "enochian_concept_barbarous_names",
+        "enochian_concept_sigillum_dei_aemeth",
+        "enochian_governor_pristac",
+        "enochian_governor_sioda",
+        "enochian_governor_vixpalg",
+        "enochian_concept_cacodemons",
+        "enochian_concept_angelic_script",
+        "enochian_governor_pacasna",
+        "enochian_concept_elemental_tablets",
+        "enochian_concept_aethyrs",
+        "enochian_concept_tablet_of_union",
+        "tarot_major_the_moon",
+        "natal_astrology_015",
+        "natal_astrology_009",
+        "celtic_druidic_048",
+        "golden_dawn_102",
+        "shamanism_002",
+        "thelema_003",
+        "alchemy_002"
+      ],
+      "average_authenticity": 0.8966666666666667,
+      "enochian_percentage": 60.0,
+      "domain_coverage": {
+        "knowledge": 9
+      },
+      "generation_metadata": {
+        "generation_timestamp": "2025-07-18T21:33:50.659206",
+        "lighthouse_retrieval_metadata": {
+          "enochian_percentage": 60.0,
+          "average_authenticity": 0.9019999999999999,
+          "domain_coverage": {
+            "knowledge": 19
+          },
+          "total_available": 2514
+        },
+        "primary_domain": "creation",
+        "quest_generation_method": "enhanced_ai_batch",
+        "config_used": {
+          "target_quests_per_governor": 10,
+          "min_quests_per_governor": 8,
+          "max_quests_per_governor": 12,
+          "enochian_weight": 0.6,
+          "min_authenticity": 0.8,
+          "max_concurrent_governors": 5,
+          "lighthouse_entries_per_quest": 5,
+          "enable_hypertoken_evolution": true,
+          "cost_limit_usd": 100.0,
+          "api_provider": "mock"
+        }
+      },
+      "hypertoken_evolutions": [
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_001_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.33028704164592665,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.29857948564791764,
+          "creation_timestamp": "2025-07-18T21:33:50.539272"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_002_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.33036371416345744,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.2966666153187848,
+          "creation_timestamp": "2025-07-18T21:33:50.564790"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_003_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.3271121035154013,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.2957093415779228,
+          "creation_timestamp": "2025-07-18T21:33:50.580801"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_004_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.32861865735644996,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.2950995543060921,
+          "creation_timestamp": "2025-07-18T21:33:50.596309"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_005_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.22425600302514653,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.19958784269238042,
+          "creation_timestamp": "2025-07-18T21:33:50.612171"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_006_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.21606017054709206,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.1897008297403468,
+          "creation_timestamp": "2025-07-18T21:33:50.628179"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_007_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.21606017054709206,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.1897008297403468,
+          "creation_timestamp": "2025-07-18T21:33:50.643688"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_008_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.44050382925956005,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.40173949228471884,
+          "creation_timestamp": "2025-07-18T21:33:50.659206"
+        },
+        {
+          "token_id": "ADVORPT_ADVORPT_QUEST_009_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.33047877519825486,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.30007472788001543,
+          "creation_timestamp": "2025-07-18T21:33:50.659206"
+        }
+      ]
+    },
+    "AMBRIOL": {
+      "governor_name": "AMBRIOL",
+      "questline_title": "The Sacred Path of AMBRIOL: Creation Mastery",
+      "narrative_arc": "A comprehensive journey through creation mastery guided by Governor AMBRIOL, integrating Enochian wisdom with enochian_magic traditions.",
+      "total_quests": 8,
+      "quests": [
+        {
+          "quest_id": "AMBRIOL_QUEST_001",
+          "title": "The Hidden Path of Governor Angel PETAVAL",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel PETAVAL",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "golden_dawn",
+            "enochian_magic",
+            "taoism"
+          ],
+          "difficulty_level": 3,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_petaval",
+            "enochian_concept_enochian_chess",
+            "golden_dawn_076",
+            "enochian_governor_gmnaa",
+            "taoism_041"
+          ],
+          "authenticity_score": 0.9039999999999999,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_001_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.3336369669819147,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.30160781815165083,
+            "creation_timestamp": "2025-07-18T21:33:50.539272"
+          },
+          "domain_relevance": {
+            "knowledge": 0.8,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_002",
+          "title": "The Hidden Path of Astrological Concept 18",
+          "description": "A quest inspired by astrology teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Astrological Concept 18",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through astrology principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "astrology",
+            "enochian_magic",
+            "shamanism",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 6,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "astrology_concept_018",
+            "enochian_concept_cacodemons",
+            "shamanism_020",
+            "enochian_governor_axziarg",
+            "enochian_concept_seniors"
+          ],
+          "authenticity_score": 0.898,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_002_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.33075663282017687,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.29701945627251886,
+            "creation_timestamp": "2025-07-18T21:33:50.564790"
+          },
+          "domain_relevance": {
+            "knowledge": 0.7,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_003",
+          "title": "The Ancient Path of Golden_Dawn Practice 76",
+          "description": "A quest inspired by golden_dawn teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Golden_Dawn Practice 76",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through golden_dawn principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "golden_dawn",
+            "astrology",
+            "m_theory",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 6,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "golden_dawn_076",
+            "astrology_concept_013",
+            "m_theory_042",
+            "enochian_concept_seniors",
+            "enochian_governor_petaval"
+          ],
+          "authenticity_score": 0.884,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_003_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.2172747051414176,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.19207083934501318,
+            "creation_timestamp": "2025-07-18T21:33:50.580801"
+          },
+          "domain_relevance": {
+            "knowledge": 0.9,
+            "protection": 0,
+            "transformation": 0,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_004",
+          "title": "The Sacred Path of Alchemy Practice 86",
+          "description": "A quest inspired by alchemy teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Alchemy Practice 86",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through alchemy principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "alchemy",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 6,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "alchemy_086",
+            "enochian_governor_doagnis",
+            "enochian_concept_cacodemons",
+            "enochian_governor_axziarg",
+            "enochian_concept_enochian_chess"
+          ],
+          "authenticity_score": 0.9179999999999999,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_004_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.44711889466067395,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.41045514529849864,
+            "creation_timestamp": "2025-07-18T21:33:50.596309"
+          },
+          "domain_relevance": {
+            "knowledge": 0.5,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_005",
+          "title": "The Sacred Path of Governor Angel AXZIARG",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel AXZIARG",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "shamanism",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 3,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_axziarg",
+            "enochian_governor_pothnir",
+            "shamanism_020",
+            "enochian_governor_sioda",
+            "enochian_governor_doagnis"
+          ],
+          "authenticity_score": 0.9299999999999999,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_005_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.44851200605029307,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.4171161656267725,
+            "creation_timestamp": "2025-07-18T21:33:50.612171"
+          },
+          "domain_relevance": {
+            "knowledge": 0.5,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_006",
+          "title": "The Mystical Path of Seniors",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Seniors",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 5,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_concept_seniors",
+            "enochian_concept_enochian_chess",
+            "enochian_governor_petaval",
+            "enochian_governor_doagnis",
+            "enochian_governor_gmnaa"
+          ],
+          "authenticity_score": 0.938,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_006_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.5516433794404054,
+            "traits": [
+              "authentic_wisdom",
+              "enochian_resonance",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.5174414899151003,
+            "creation_timestamp": "2025-07-18T21:33:50.628179"
+          },
+          "domain_relevance": {
+            "knowledge": 0.5,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_007",
+          "title": "The Sacred Path of Governor Angel POTHNIR",
+          "description": "A quest inspired by enochian_magic teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Governor Angel POTHNIR",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through enochian_magic principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "enochian_magic",
+            "enochian_magic",
+            "taoism",
+            "enochian_magic",
+            "enochian_magic"
+          ],
+          "difficulty_level": 8,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "enochian_governor_pothnir",
+            "enochian_governor_sioda",
+            "taoism_041",
+            "enochian_governor_petaval",
+            "enochian_concept_seniors"
+          ],
+          "authenticity_score": 0.924,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_007_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 9,
+            "enochian_resonance": 0.44153070816656415,
+            "traits": [
+              "authentic_wisdom",
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.4079743743459053,
+            "creation_timestamp": "2025-07-18T21:33:50.643688"
+          },
+          "domain_relevance": {
+            "knowledge": 0.5,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        },
+        {
+          "quest_id": "AMBRIOL_QUEST_008",
+          "title": "The Hidden Path of Astrological Concept 13",
+          "description": "A quest inspired by astrology teachings, guiding seekers through creation mastery via Enochian invocations.",
+          "objectives": [
+            "Study the principles of Astrological Concept 13",
+            "Practice creation-based meditation techniques",
+            "Integrate AMBRIOL's guidance into daily practice"
+          ],
+          "wisdom_taught": "Creation mastery through astrology principles",
+          "enochian_invocation": "OL SONF VORSG AMBRIOL GOHO IAD BALT",
+          "tradition_references": [
+            "astrology",
+            "enochian_magic",
+            "enochian_magic",
+            "taoism",
+            "astrology"
+          ],
+          "difficulty_level": 8,
+          "completion_criteria": [
+            "Demonstrate understanding of core principles",
+            "Complete practical exercises",
+            "Receive governor's blessing"
+          ],
+          "rewards_suggestion": "Enhanced creation abilities and AMBRIOL attunement",
+          "branching_paths": {
+            "success": "Advanced creation mastery path",
+            "failure": "Foundational creation review"
+          },
+          "lighthouse_sources": [
+            "astrology_concept_013",
+            "enochian_governor_sioda",
+            "enochian_concept_enochian_chess",
+            "taoism_041",
+            "astrology_concept_018"
+          ],
+          "authenticity_score": 0.884,
+          "hypertoken_evolution": {
+            "token_id": "AMBRIOL_AMBRIOL_QUEST_008_hypertoken",
+            "evolution_stage": "nascent",
+            "wisdom_level": 8,
+            "enochian_resonance": 0.2291124822021832,
+            "traits": [
+              "knowledge_mastery"
+            ],
+            "evolution_potential": 0.20253543426672996,
+            "creation_timestamp": "2025-07-18T21:33:50.659206"
+          },
+          "domain_relevance": {
+            "knowledge": 0.9,
+            "protection": 0,
+            "transformation": 0.1,
+            "divination": 0,
+            "healing": 0.1,
+            "creation": 0,
+            "destruction": 0,
+            "communication": 0.1
+          }
+        }
+      ],
+      "wisdom_focus": "Creation mastery through Enochian-grounded practice",
+      "lighthouse_knowledge_base": [
+        "enochian_concept_enochian_pronunciation",
+        "enochian_concept_seniors",
+        "enochian_governor_vsnarda",
+        "enochian_governor_axziarg",
+        "enochian_governor_gmnaa",
+        "enochian_concept_cacodemons",
+        "enochian_governor_pacasna",
+        "enochian_governor_doagnis",
+        "enochian_governor_pothnir",
+        "enochian_governor_sioda",
+        "enochian_concept_enochian_chess",
+        "enochian_governor_petaval",
+        "golden_dawn_076",
+        "natal_astrology_025",
+        "astrology_concept_018",
+        "m_theory_042",
+        "alchemy_086",
+        "shamanism_020",
+        "taoism_041",
+        "astrology_concept_013"
+      ],
+      "average_authenticity": 0.9099999999999999,
+      "enochian_percentage": 60.0,
+      "domain_coverage": {
+        "knowledge": 8
+      },
+      "generation_metadata": {
+        "generation_timestamp": "2025-07-18T21:33:50.659206",
+        "lighthouse_retrieval_metadata": {
+          "enochian_percentage": 60.0,
+          "average_authenticity": 0.9039999999999999,
+          "domain_coverage": {
+            "knowledge": 20
+          },
+          "total_available": 2514
+        },
+        "primary_domain": "creation",
+        "quest_generation_method": "enhanced_ai_batch",
+        "config_used": {
+          "target_quests_per_governor": 10,
+          "min_quests_per_governor": 8,
+          "max_quests_per_governor": 12,
+          "enochian_weight": 0.6,
+          "min_authenticity": 0.8,
+          "max_concurrent_governors": 5,
+          "lighthouse_entries_per_quest": 5,
+          "enable_hypertoken_evolution": true,
+          "cost_limit_usd": 100.0,
+          "api_provider": "mock"
+        }
+      },
+      "hypertoken_evolutions": [
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_001_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.3336369669819147,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.30160781815165083,
+          "creation_timestamp": "2025-07-18T21:33:50.539272"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_002_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.33075663282017687,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.29701945627251886,
+          "creation_timestamp": "2025-07-18T21:33:50.564790"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_003_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.2172747051414176,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.19207083934501318,
+          "creation_timestamp": "2025-07-18T21:33:50.580801"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_004_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.44711889466067395,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.41045514529849864,
+          "creation_timestamp": "2025-07-18T21:33:50.596309"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_005_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.44851200605029307,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.4171161656267725,
+          "creation_timestamp": "2025-07-18T21:33:50.612171"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_006_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.5516433794404054,
+          "traits": [
+            "authentic_wisdom",
+            "enochian_resonance",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.5174414899151003,
+          "creation_timestamp": "2025-07-18T21:33:50.628179"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_007_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 9,
+          "enochian_resonance": 0.44153070816656415,
+          "traits": [
+            "authentic_wisdom",
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.4079743743459053,
+          "creation_timestamp": "2025-07-18T21:33:50.643688"
+        },
+        {
+          "token_id": "AMBRIOL_AMBRIOL_QUEST_008_hypertoken",
+          "evolution_stage": "nascent",
+          "wisdom_level": 8,
+          "enochian_resonance": 0.2291124822021832,
+          "traits": [
+            "knowledge_mastery"
+          ],
+          "evolution_potential": 0.20253543426672996,
+          "creation_timestamp": "2025-07-18T21:33:50.659206"
+        }
+      ]
+    }
+  }
+}
