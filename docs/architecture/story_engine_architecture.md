@@ -29,44 +29,44 @@ The Enochian Cyphers Story Engine represents a revolutionary approach to Bitcoin
 ```rust
 // Layer 1: Bitcoin L1 Foundation
 Bitcoin Blockchain
-├── TAP Protocol (Hypertoken Evolution)
-├── Trac Systems (P2P Consensus)
-└── Ordinals (Immutable Storage)
+ TAP Protocol (Hypertoken Evolution)
+ Trac Systems (P2P Consensus)
+ Ordinals (Immutable Storage)
 
 // Layer 2: Lighthouse Core (Knowledge Base)
 Lighthouse Core
-├── 26 Sacred Traditions (2,000+ entries)
-├── Merkle Tree Sharding (<400kb compliance)
-├── Cross-Reference Engine
-└── Authenticity Validation (95%+ score)
+ 26 Sacred Traditions (2,000+ entries)
+ Merkle Tree Sharding (<400kb compliance)
+ Cross-Reference Engine
+ Authenticity Validation (95%+ score)
 
 // Layer 3: Governor Angels (Entity Layer)
 Governor Angels (91 Entities)
-├── Individual Personality Matrices
-├── Quest Tree Generation (75-125 per governor)
-├── Reputation Systems (0-100 scale)
-└── Tradition Affinity Mappings
+ Individual Personality Matrices
+ Quest Tree Generation (75-125 per governor)
+ Reputation Systems (0-100 scale)
+ Tradition Affinity Mappings
 
 // Layer 4: Story Generation Engine
 Story Engine
-├── Dynamic Quest Creation
-├── Narrative Coherence Systems
-├── Choice Consequence Tracking
-└── Mystical Integration Patterns
+ Dynamic Quest Creation
+ Narrative Coherence Systems
+ Choice Consequence Tracking
+ Mystical Integration Patterns
 
 // Layer 5: Game Mechanics
 Game Mechanics
-├── Energy System (25-point stamina)
-├── Ritual Interactions
-├── Divination Games
-└── Hypertoken Evolution
+ Energy System (25-point stamina)
+ Ritual Interactions
+ Divination Games
+ Hypertoken Evolution
 
 // Layer 6: User Interface
 Interface Layer
-├── WASM Core (Browser execution)
-├── WebGL Rendering
-├── PWA Capabilities
-└── P2P Networking
+ WASM Core (Browser execution)
+ WebGL Rendering
+ PWA Capabilities
+ P2P Networking
 ```
 
 ## Component Specifications
@@ -132,21 +132,21 @@ Interface Layer
 
 ### Quest Generation Pipeline
 ```
-Player Request → Governor Selection → Reputation Check → 
-Template Selection → Mystical Enhancement → Choice Generation → 
-Consequence Mapping → Narrative Coherence → Quest Delivery
+Player Request  Governor Selection  Reputation Check
+Template Selection  Mystical Enhancement  Choice Generation
+Consequence Mapping  Narrative Coherence  Quest Delivery
 ```
 
 ### Mystical Enhancement Process
 ```
-Base Template → Tradition Lookup → Cross-Reference Injection → 
-Authenticity Validation → Personality Adaptation → Final Narrative
+Base Template  Tradition Lookup  Cross-Reference Injection
+Authenticity Validation  Personality Adaptation  Final Narrative
 ```
 
 ### Player Progression Flow
 ```
-Action Execution → Energy Consumption → Reputation Update → 
-Achievement Tracking → Hypertoken Evolution → State Persistence
+Action Execution  Energy Consumption  Reputation Update
+Achievement Tracking  Hypertoken Evolution  State Persistence
 ```
 
 ## Storage Architecture
@@ -249,7 +249,7 @@ Achievement Tracking → Hypertoken Evolution → State Persistence
 ### Governance Framework
 - **Hypertoken Allocation**: 10 tokens per reputation tier
 - **Proposal System**: Quest additions, tokenomics, tradition expansions
-- **Execution Authority**: Team → Community "Archangels" transition
+- **Execution Authority**: Team  Community "Archangels" transition
 - **Dispute Resolution**: I Ching-seeded BFT with deflationary burns
 
 ---

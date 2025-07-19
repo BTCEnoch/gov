@@ -250,14 +250,14 @@ class CompleteLighthousePopulator:
         MAIN METHOD: Integrate 159+ researched practices into complete lighthouse
         Creates 2,600+ rich knowledge entries across 26 traditions
         """
-        print("🏛️ Starting Complete Lighthouse Integration")
-        print("📚 Integrating 159+ researched practices into 26 traditions")
-        print("🎯 Target: 2,600+ rich knowledge entries with 300-800 word descriptions")
+        print("️ Starting Complete Lighthouse Integration")
+        print(" Integrating 159+ researched practices into 26 traditions")
+        print(" Target: 2,600+ rich knowledge entries with 300-800 word descriptions")
 
         total_entries = 0
 
         for tradition_name, config in self.tradition_mapping.items():
-            print(f"\n🔮 Processing {config['display_name']}...")
+            print(f"\n Processing {config['display_name']}...")
 
             # Load existing tradition file
             existing_data = self._load_existing_tradition(tradition_name)
@@ -287,8 +287,8 @@ class CompleteLighthousePopulator:
 
             print(f"✅ {config['display_name']}: {len(entries)} rich entries created")
 
-        print(f"\n🎯 Total rich entries created: {total_entries}")
-        print(f"📊 Target achieved: {'✅' if total_entries >= 2600 else '❌'}")
+        print(f"\n Total rich entries created: {total_entries}")
+        print(f" Target achieved: {'✅' if total_entries >= 2600 else '❌'}")
 
         return self.knowledge_base
 
@@ -1027,7 +1027,7 @@ class CompleteLighthousePopulator:
                 json.dump(serializable_data, f, indent=2, ensure_ascii=False)
 
             total_entries += len(tradition_data.entries)
-            print(f"💾 {tradition_data.display_name}: {len(tradition_data.entries)} entries saved")
+            print(f" {tradition_data.display_name}: {len(tradition_data.entries)} entries saved")
 
         # Create master index
         master_index = {
@@ -1061,19 +1061,19 @@ class CompleteLighthousePopulator:
         with open(master_index_file, 'w', encoding='utf-8') as f:
             json.dump(master_index, f, indent=2, ensure_ascii=False)
 
-        print(f"\n📊 Complete Lighthouse Summary:")
-        print(f"   📁 Output directory: {output_path}")
-        print(f"   🏛️ Total traditions: {len(self.knowledge_base)}")
-        print(f"   📚 Total entries: {total_entries}")
-        print(f"   🎯 Target achieved: {'✅' if total_entries >= 2600 else '❌'}")
-        print(f"   💾 Master index: {master_index_file}")
+        print(f"\n Complete Lighthouse Summary:")
+        print(f"    Output directory: {output_path}")
+        print(f"   ️ Total traditions: {len(self.knowledge_base)}")
+        print(f"    Total entries: {total_entries}")
+        print(f"    Target achieved: {'✅' if total_entries >= 2600 else '❌'}")
+        print(f"    Master index: {master_index_file}")
 
         return str(output_path)
 
 if __name__ == "__main__":
     # Initialize and populate complete lighthouse
-    print("🚀 Starting Complete Lighthouse Implementation")
-    print("📋 HANDOFF CONTINUATION: Integrating 159+ researched practices")
+    print(" Starting Complete Lighthouse Implementation")
+    print(" HANDOFF CONTINUATION: Integrating 159+ researched practices")
 
     populator = CompleteLighthousePopulator()
     knowledge_base = populator.integrate_research_data_and_populate()
@@ -1081,7 +1081,7 @@ if __name__ == "__main__":
     # Save complete lighthouse
     output_path = populator.save_complete_lighthouse()
 
-    print(f"\n🎉 Complete Lighthouse Implementation Finished!")
-    print(f"📁 Lighthouse saved to: {output_path}")
-    print(f"🔍 Ready for Governor Angels and Bitcoin L1 inscription!")
+    print(f"\n Complete Lighthouse Implementation Finished!")
+    print(f" Lighthouse saved to: {output_path}")
+    print(f" Ready for Governor Angels and Bitcoin L1 inscription!")
     print(f"✨ 26 traditions with 2,600+ rich knowledge entries complete!")

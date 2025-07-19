@@ -35,7 +35,7 @@
       "entry_count": 105,
       "target_entries": 105,
       "priority": "high",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\thelema.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\thelema.json"
     },
     "golden_dawn": {
       "display_name": "Golden Dawn",
@@ -75,7 +75,7 @@
       "entry_count": 110,
       "target_entries": 110,
       "priority": "high",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\taoism.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\taoism.json"
     },
     "traditional_kabbalah": {
       "display_name": "Traditional Jewish Kabbalah",
@@ -83,7 +83,7 @@
       "entry_count": 125,
       "target_entries": 125,
       "priority": "high",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\traditional_kabbalah.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\traditional_kabbalah.json"
     },
     "sufism": {
       "display_name": "Sufism",
@@ -107,7 +107,7 @@
       "entry_count": 95,
       "target_entries": 95,
       "priority": "medium",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\norse_traditions.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\norse_traditions.json"
     },
     "greek_philosophy": {
       "display_name": "Greek Philosophy",
@@ -123,7 +123,7 @@
       "entry_count": 100,
       "target_entries": 100,
       "priority": "critical",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\tarot.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\tarot.json"
     },
     "i_ching": {
       "display_name": "I Ching",
@@ -139,7 +139,7 @@
       "entry_count": 105,
       "target_entries": 105,
       "priority": "high",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\natal_astrology.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\natal_astrology.json"
     },
     "egyptian_magic": {
       "display_name": "Egyptian Magic",
@@ -163,7 +163,7 @@
       "entry_count": 85,
       "target_entries": 85,
       "priority": "medium",
-      "file_path": "core\\lighthouse\\complete_lighthouse\\numerology.json"
+      "file_path": "core\\lighthouse\\complete_lighthouse\numerology.json"
     },
     "sacred_geometry": {
       "display_name": "Sacred Geometry",

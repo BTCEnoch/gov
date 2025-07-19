@@ -100,7 +100,7 @@ This creates 4-dimensional specialization vectors with each tradition having a c
 ### 2. Balanced Distribution
 - 21 traditions distributed across 4 categories (6+5+5+5)
 - Each Governor gets one tradition from each category
-- Creates 6×5×5×5 = 750 possible combinations for 91 Governors
+- Creates 6555 = 750 possible combinations for 91 Governors
 
 ### 3. Focused Expertise
 - Each Governor has 4 distinct specializations

@@ -272,11 +272,11 @@ class ComprehensiveKnowledgeGenerator:
     
     def generate_all_traditions(self):
         """Generate comprehensive knowledge base for all 26 traditions"""
-        print("🏛️ Generating Comprehensive Knowledge Base for 26 Sacred Traditions")
+        print("️ Generating Comprehensive Knowledge Base for 26 Sacred Traditions")
         print("=" * 70)
         
         for tradition_id in self.traditions.keys():
-            print(f"📚 Generating {self.traditions[tradition_id]['name']}...")
+            print(f" Generating {self.traditions[tradition_id]['name']}...")
             tradition_data = self.generate_tradition_content(tradition_id)
             
             # Save tradition data
@@ -286,8 +286,8 @@ class ComprehensiveKnowledgeGenerator:
             
             print(f"✅ Completed {tradition_data.tradition_name}: {tradition_data.total_entries} entries")
         
-        print("\n🌟 Knowledge Base Generation Complete!")
-        print(f"📁 Output directory: {self.output_dir}")
+        print("\n Knowledge Base Generation Complete!")
+        print(f" Output directory: {self.output_dir}")
 
 if __name__ == "__main__":
     generator = ComprehensiveKnowledgeGenerator()

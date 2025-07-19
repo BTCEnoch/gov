@@ -269,7 +269,7 @@ class ComprehensiveLighthouseBuilder:
         tradition_info = self.tradition_structure[tradition_id]
         target_entries = tradition_info["target_entries"]
         
-        print(f"📚 Expanding {tradition_info['display_name']} to {target_entries} entries...")
+        print(f" Expanding {tradition_info['display_name']} to {target_entries} entries...")
         
         # Extract existing concepts
         existing_concepts = existing_data.get("key_concepts", [])
@@ -404,7 +404,7 @@ For advanced practitioners, {name} opens doorways to deeper mysteries and more s
     
     def build_complete_lighthouse(self):
         """Build complete lighthouse with all 26 traditions"""
-        print("🏛️ BUILDING COMPLETE LIGHTHOUSE KNOWLEDGE BASE")
+        print("️ BUILDING COMPLETE LIGHTHOUSE KNOWLEDGE BASE")
         print("=" * 60)
         
         all_entries = []
@@ -412,7 +412,7 @@ For advanced practitioners, {name} opens doorways to deeper mysteries and more s
         
         # Process all 26 traditions
         for tradition_id, tradition_info in self.tradition_structure.items():
-            print(f"\n📚 Processing {tradition_info['display_name']}...")
+            print(f"\n Processing {tradition_info['display_name']}...")
             
             if tradition_id in self.existing_traditions:
                 # Expand existing tradition
@@ -466,8 +466,8 @@ For advanced practitioners, {name} opens doorways to deeper mysteries and more s
             json.dump(master_index, f, indent=2, ensure_ascii=False)
         
         # Print completion summary
-        print(f"\n🌟 COMPLETE LIGHTHOUSE BUILT SUCCESSFULLY!")
-        print(f"📊 Summary:")
+        print(f"\n COMPLETE LIGHTHOUSE BUILT SUCCESSFULLY!")
+        print(f" Summary:")
         print(f"   Total Traditions: {master_index['total_traditions']}")
         print(f"   Total Entries: {master_index['total_entries']:,}")
         print(f"   Target Entries: {master_index['target_entries']:,}")
@@ -550,8 +550,8 @@ if __name__ == "__main__":
     builder = ComprehensiveLighthouseBuilder()
     master_index = builder.build_complete_lighthouse()
     
-    print(f"\n🏛️ LIGHTHOUSE READY FOR ENOCHIAN CYPHERS DEPLOYMENT!")
-    print(f"🎯 Next Steps:")
+    print(f"\n️ LIGHTHOUSE READY FOR ENOCHIAN CYPHERS DEPLOYMENT!")
+    print(f" Next Steps:")
     print(f"   1. Review generated content for accuracy")
     print(f"   2. Integrate with governor personality systems")
     print(f"   3. Connect to story engine for quest generation")

@@ -11,7 +11,7 @@ This directory contains comprehensive architectural documentation for the Enochi
 #### [System Architecture](./system_architecture.md)
 **Complete system overview with architectural layers and component specifications**
 
-- **6-Layer Architecture**: Bitcoin L1 → Lighthouse → Governors → Story Engine → Game Mechanics → UI
+- **6-Layer Architecture**: Bitcoin L1  Lighthouse  Governors  Story Engine  Game Mechanics  UI
 - **Component Diagrams**: Detailed system component relationships
 - **Data Flow Architecture**: Quest generation, player progression, and state management
 - **Performance Specifications**: Response times, scalability targets, and optimization strategies
@@ -25,7 +25,7 @@ graph TB
     L3[Layer 3: Governor Angels<br/>91 Entities/Quest Trees/Reputation]
     L2[Layer 2: Lighthouse Core<br/>26 Traditions/Merkle Sharding/Auth]
     L1[Layer 1: Bitcoin L1<br/>TAP/Trac/Ordinals]
-    
+
     L6 --> L5 --> L4 --> L3 --> L2 --> L1
 ```
 
@@ -51,7 +51,7 @@ graph TB
 #### [Deployment Architecture](./deployment_architecture.md)
 **Deployment strategies, P2P networking, and consensus mechanisms**
 
-- **4-Phase Deployment**: Foundation → Core Systems → Game Mechanics → Production
+- **4-Phase Deployment**: Foundation  Core Systems  Game Mechanics  Production
 - **P2P Network Deployment**: Bootstrap network, scaling strategy, and peer discovery
 - **Consensus Mechanism**: Byzantine fault tolerance and state synchronization
 - **Zero Infrastructure**: P2P-only architecture with no operational costs

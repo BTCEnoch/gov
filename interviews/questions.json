@@ -11,115 +11,214 @@
     {
       "id": 1,
       "text": "What is your Enochian name and Aethyr association?",
-      "tradition_references": ["Enochian", "30 Aethyrs"],
+      "tradition_references": [
+        "Enochian",
+        "30 Aethyrs"
+      ],
       "usage_guidelines": "Establish core identity; generate invocation rituals as quest starters",
       "best_places": "Opening quest: Player inscribes name on-chain via TAP for access",
       "story_purpose": "Grounds in Enochian authenticity; use for hypertoken naming conventions",
-      "authenticity_sources": ["John Dee's Spiritual Diaries", "Liber Scientiae", "30 Aethyrs"]
+      "authenticity_sources": [
+        "John Dee's Spiritual Diaries",
+        "Liber Scientiae",
+        "30 Aethyrs"
+      ]
     },
     {
       "id": 2,
       "text": "What is your title, and what wisdom does it reflect?",
-      "tradition_references": ["Enochian", "Hermetic Qabalah"],
+      "tradition_references": [
+        "Enochian",
+        "Hermetic Qabalah"
+      ],
       "usage_guidelines": "Core storyline foundation: Interpret title into narrative arc",
       "best_places": "Central lore hub: Profile embodiments and quest trees",
       "story_purpose": "Drives all stories; blend with lighthouse for teaching",
-      "authenticity_sources": ["Enochian Hierarchies", "Hermetic Traditions"]
+      "authenticity_sources": [
+        "Enochian Hierarchies",
+        "Hermetic Traditions"
+      ]
     },
     {
       "id": 3,
       "text": "What virtues do you embody, and how do they manifest?",
-      "tradition_references": ["Golden Dawn", "Hermetic Qabalah", "Enochian"],
+      "tradition_references": [
+        "Golden Dawn",
+        "Hermetic Qabalah",
+        "Enochian"
+      ],
       "usage_guidelines": "Define positive traits as unlockable skills; create reward paths",
       "best_places": "Mid-quest rewards: Player earns virtue-based hypertoken traits",
       "story_purpose": "Progression systems; ties to Golden Dawn elemental virtues for balance",
-      "authenticity_sources": ["Golden Dawn Teachings", "Hermetic Virtues", "Sephirotic Correspondences"]
+      "authenticity_sources": [
+        "Golden Dawn Teachings",
+        "Hermetic Virtues",
+        "Sephirotic Correspondences"
+      ]
     },
     {
       "id": 4,
       "text": "What are your shadow aspects, and how can they be integrated?",
-      "tradition_references": ["Chaos Magic", "Jungian Psychology", "Hermetic Alchemy"],
+      "tradition_references": [
+        "Chaos Magic",
+        "Jungian Psychology",
+        "Hermetic Alchemy"
+      ],
       "usage_guidelines": "Introduce conflicts; quests as trials teaching shadow wisdom",
       "best_places": "Branching narratives: Off-chain choices trigger on-chain state changes",
       "story_purpose": "Chaos Magic integration for paradigm shifts in tokenomics",
-      "authenticity_sources": ["Alchemical Shadow Work", "Chaos Magic Paradigms", "Hermetic Integration"]
+      "authenticity_sources": [
+        "Alchemical Shadow Work",
+        "Chaos Magic Paradigms",
+        "Hermetic Integration"
+      ]
     },
     {
       "id": 5,
       "text": "Describe a ritual or practice associated with your domain.",
-      "tradition_references": ["Enochian", "Golden Dawn", "Ceremonial Magic"],
+      "tradition_references": [
+        "Enochian",
+        "Golden Dawn",
+        "Ceremonial Magic"
+      ],
       "usage_guidelines": "Generate interactive mechanics; teach wisdom through player actions",
       "best_places": "Core gameplay loops: Cryptic blockchain rituals",
       "story_purpose": "Quest generators; ensures TAP interactions (token burns as offerings)",
-      "authenticity_sources": ["Enochian Calls", "Golden Dawn Rituals", "Ceremonial Practices"]
+      "authenticity_sources": [
+        "Enochian Calls",
+        "Golden Dawn Rituals",
+        "Ceremonial Practices"
+      ]
     },
     {
       "id": 6,
       "text": "How does your wisdom intersect with [specific lighthouse tradition]?",
-      "tradition_references": ["Variable", "I Ching", "Tarot", "Astrology", "Alchemy"],
+      "tradition_references": [
+        "Variable",
+        "I Ching",
+        "Tarot",
+        "Astrology",
+        "Alchemy"
+      ],
       "usage_guidelines": "Blend traditions for hybrid lore; create cross-knowledge puzzles",
       "best_places": "Dynamic events: Quest riddles merging Enochian with other systems",
       "story_purpose": "Lighthouse mapping; enhances emergent gameplay",
-      "authenticity_sources": ["Cross-Traditional Synthesis", "Lighthouse Knowledge Base"]
+      "authenticity_sources": [
+        "Cross-Traditional Synthesis",
+        "Lighthouse Knowledge Base"
+      ]
     },
     {
       "id": 7,
       "text": "What is a key teaching or parable from your perspective?",
-      "tradition_references": ["Enochian", "Wisdom Traditions", "Mystical Parables"],
+      "tradition_references": [
+        "Enochian",
+        "Wisdom Traditions",
+        "Mystical Parables"
+      ],
       "usage_guidelines": "Craft moral tales as lore snippets; use for cryptic hints",
       "best_places": "Dialogue systems: Governor AI responses in interactions",
       "story_purpose": "Narrative depth; for Thelemic True Will teachings via choices",
-      "authenticity_sources": ["Mystical Teachings", "Enochian Wisdom", "Traditional Parables"]
+      "authenticity_sources": [
+        "Mystical Teachings",
+        "Enochian Wisdom",
+        "Traditional Parables"
+      ]
     },
     {
       "id": 8,
       "text": "How do you guide seekers through challenges?",
-      "tradition_references": ["Enochian", "Mentorship Traditions", "Spiritual Guidance"],
+      "tradition_references": [
+        "Enochian",
+        "Mentorship Traditions",
+        "Spiritual Guidance"
+      ],
       "usage_guidelines": "Design mentorship arcs; generate adaptive hints based on progress",
       "best_places": "Reputation-building quests: Trac-synced guidance",
       "story_purpose": "Player-centric design; autonomous adjustments via tokenomics",
-      "authenticity_sources": ["Spiritual Mentorship", "Enochian Guidance", "Mystical Teaching Methods"]
+      "authenticity_sources": [
+        "Spiritual Mentorship",
+        "Enochian Guidance",
+        "Mystical Teaching Methods"
+      ]
     },
     {
       "id": 9,
       "text": "What artifacts or symbols represent your power?",
-      "tradition_references": ["Sacred Geometry", "Enochian Tablets", "Hermetic Symbols"],
+      "tradition_references": [
+        "Sacred Geometry",
+        "Enochian Tablets",
+        "Hermetic Symbols"
+      ],
       "usage_guidelines": "Create collectible lore items; tie to assets like TAP NFTs",
       "best_places": "Inventory/lore systems: Symbols as evolvable hypertokens",
       "story_purpose": "Sacred Geometry tie-in; economic value through rarity",
-      "authenticity_sources": ["Enochian Tablets", "Sacred Geometric Forms", "Hermetic Symbolism"]
+      "authenticity_sources": [
+        "Enochian Tablets",
+        "Sacred Geometric Forms",
+        "Hermetic Symbolism"
+      ]
     },
     {
       "id": 10,
       "text": "Describe your role in the greater Enochian system.",
-      "tradition_references": ["Enochian", "91 Governors", "30 Aethyrs", "Angelic Hierarchies"],
+      "tradition_references": [
+        "Enochian",
+        "91 Governors",
+        "30 Aethyrs",
+        "Angelic Hierarchies"
+      ],
       "usage_guidelines": "Build interconnected world-building; link governors for multi-quest arcs",
       "best_places": "Guild/epic storylines: Cross-governor alliances via P2P collaboration",
       "story_purpose": "Hierarchy from 91 Governors; scalability for community events",
-      "authenticity_sources": ["Enochian Hierarchies", "Angelic Orders", "Aethyric Structure"]
+      "authenticity_sources": [
+        "Enochian Hierarchies",
+        "Angelic Orders",
+        "Aethyric Structure"
+      ]
     },
     {
       "id": 11,
       "text": "What warnings do you give to overambitious seekers?",
-      "tradition_references": ["Sufism", "Mystical Warnings", "Spiritual Safety"],
+      "tradition_references": [
+        "Sufism",
+        "Mystical Warnings",
+        "Spiritual Safety"
+      ],
       "usage_guidelines": "Introduce risk elements; create failure states with recovery paths",
       "best_places": "High-stakes quests: Warnings as on-chain oracles preventing burns",
       "story_purpose": "Risk management in tokenomics; Sufi mysticism for humility lessons",
-      "authenticity_sources": ["Mystical Warnings", "Sufi Teachings", "Spiritual Safety Protocols"]
+      "authenticity_sources": [
+        "Mystical Warnings",
+        "Sufi Teachings",
+        "Spiritual Safety Protocols"
+      ]
     },
     {
       "id": 12,
       "text": "How can one achieve mastery of your wisdom?",
-      "tradition_references": ["Alchemy", "Mastery Traditions", "Spiritual Attainment"],
+      "tradition_references": [
+        "Alchemy",
+        "Mastery Traditions",
+        "Spiritual Attainment"
+      ],
       "usage_guidelines": "Culminate in endgame content; define ascension mechanics",
       "best_places": "Mastery quests: Final hypertoken evolutions",
       "story_purpose": "Progression curves; Alchemical synthesis of all traditions for permanence",
-      "authenticity_sources": ["Alchemical Mastery", "Spiritual Attainment", "Traditional Mastery Paths"]
+      "authenticity_sources": [
+        "Alchemical Mastery",
+        "Spiritual Attainment",
+        "Traditional Mastery Paths"
+      ]
     }
   ],
   "validation_schema": {
-    "required_fields": ["question_id", "answer", "authenticity_sources"],
-    "authenticity_minimum": 0.90,
+    "required_fields": [
+      "question_id",
+      "answer",
+      "authenticity_sources"
+    ],
+    "authenticity_minimum": 0.9,
     "source_verification": "Cross-reference against primary Enochian sources",
     "tradition_integration": "Must blend Enochian base with at least one lighthouse tradition"
   },

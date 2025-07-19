@@ -57,7 +57,7 @@ class ContentIndexer:
     
     def _build_index(self) -> None:
         """Build complete content index from lighthouse files"""
-        print("🔍 Building lighthouse content index...")
+        print(" Building lighthouse content index...")
         
         # Load master index
         master_index_file = self.lighthouse_path / "lighthouse_master_index.json"
@@ -367,7 +367,7 @@ class ContentIndexer:
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(export_data, f, indent=2, ensure_ascii=False)
         
-        print(f"📁 Index exported to: {filename}")
+        print(f" Index exported to: {filename}")
     
     def _get_timestamp(self) -> str:
         """Get current timestamp"""

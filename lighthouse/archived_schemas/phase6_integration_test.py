@@ -479,17 +479,17 @@ def run_phase6_integration_test():
     results = test.run_comprehensive_test()
     
     print("\n" + "="*60)
-    print("🎯 PHASE 6 INTEGRATION TEST RESULTS")
+    print(" PHASE 6 INTEGRATION TEST RESULTS")
     print("="*60)
     
     summary = results['summary']
-    print(f"📊 Total Tests: {summary['total_tests']}")
+    print(f" Total Tests: {summary['total_tests']}")
     print(f"✅ Passed: {summary['passed_tests']}")
     print(f"❌ Failed: {summary['failed_tests']}")
-    print(f"📈 Success Rate: {summary['success_rate']:.1%}")
-    print(f"🏆 Overall Status: {summary['overall_status']}")
+    print(f" Success Rate: {summary['success_rate']:.1%}")
+    print(f" Overall Status: {summary['overall_status']}")
     
-    print("\n📋 RECOMMENDATIONS:")
+    print("\n RECOMMENDATIONS:")
     for rec in results['recommendations']:
         print(f"• {rec}")
     

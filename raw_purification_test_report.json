@@ -1,0 +1,16 @@
+{
+  "test_purification_timestamp": "2025-07-18T23:47:51.963508",
+  "test_files": [
+    "onchain/comprehensive_integration_data.json",
+    "lighthouse/traditions/lighthouse_master_index.json"
+  ],
+  "test_statistics": {
+    "files_scanned": 0,
+    "files_with_issues": 2,
+    "files_purified": 0,
+    "literal_n_patterns_found": 123,
+    "literal_n_patterns_fixed": 0,
+    "backups_created": 0,
+    "errors": 2
+  }
+}

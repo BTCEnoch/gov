@@ -5,13 +5,13 @@
 The Enochian Cyphers Story Engine is a revolutionary Bitcoin L1-native RPG system that generates authentic mystical narratives through the integration of 26 sacred traditions, 91 Governor Angels, and autonomous quest generation. Built on TAP Protocol and Trac Systems, it provides a fully decentralized gaming experience with zero external dependencies.
 
 ```
-🏛️ THE LIGHTHOUSE (Knowledge Base - 26 Traditions, 2,000+ Entries)
-    ↓ feeds wisdom to ↓
-👑 GOVERNOR ANGELS (91 Unique Entities with Quest Trees)
-    ↓ generate ↓
-🎮 STORY CONTENT (Quests/Events/Narratives/Choices)
-    ↓ delivered through ↓
-🌐 INTERACTIVE EXPERIENCES (WASM/WebGL/PWA)
+ THE LIGHTHOUSE (Knowledge Base - 26 Traditions, 2,000+ Entries)
+     feeds wisdom to
+ GOVERNOR ANGELS (91 Unique Entities with Quest Trees)
+     generate
+ STORY CONTENT (Quests/Events/Narratives/Choices)
+     delivered through
+ INTERACTIVE EXPERIENCES (WASM/WebGL/PWA)
 ```
 
 ## Core Architecture Layers
@@ -134,22 +134,22 @@ The Enochian Cyphers Story Engine is a revolutionary Bitcoin L1-native RPG syste
 ### Code Organization
 ```
 governor_generator/
-├── governor_dossier/         # Single source of truth for all 91 governor profiles
-├── core/                     # Core system components
-│   ├── lighthouse/          # Knowledge base and research
-│   ├── utils/              # Shared utilities
-│   └── schemas/            # Shared data schemas
-├── engines/                 # Processing engines
-│   ├── storyline/          # Storyline generation
-│   ├── mystical_systems/   # Tarot, Kabbalah, etc.
-│   └── trait_generation/   # Governor trait processing
-├── data/                   # Static data and resources
-│   ├── canon/             # Canonical source materials
-│   └── knowledge/         # Processed knowledge base
-└── docs/                   # Documentation
-    ├── api/               # API documentation
-    ├── architecture/      # Architecture guides
-    └── game_design/       # Game design documents
+ governor_dossier/         # Single source of truth for all 91 governor profiles
+ core/                     # Core system components
+    lighthouse/          # Knowledge base and research
+    utils/              # Shared utilities
+    schemas/            # Shared data schemas
+ engines/                 # Processing engines
+    storyline/          # Storyline generation
+    mystical_systems/   # Tarot, Kabbalah, etc.
+    trait_generation/   # Governor trait processing
+ data/                   # Static data and resources
+    canon/             # Canonical source materials
+    knowledge/         # Processed knowledge base
+ docs/                   # Documentation
+     api/               # API documentation
+     architecture/      # Architecture guides
+     game_design/       # Game design documents
 ```
 
 ### Best Practices
@@ -201,4 +201,4 @@ governor_generator/
    - Enhanced interfaces
    - New interaction modes
    - Improved accessibility
-   - Mobile support 
+   - Mobile support

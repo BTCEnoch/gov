@@ -1,0 +1,64 @@
+{
+  "preview_timestamp": "2025-07-18T23:46:56.145919",
+  "files_checked": 322,
+  "files_with_issues": 14,
+  "issues_found": [
+    {
+      "file": "governor_agent_prompts.json",
+      "literal_n_count": 15015
+    },
+    {
+      "file": "governor_ai_embodiments.json",
+      "literal_n_count": 2435
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_001_reference.json",
+      "literal_n_count": 3910
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_002_reference.json",
+      "literal_n_count": 5100
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_003_reference.json",
+      "literal_n_count": 3791
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_004_reference.json",
+      "literal_n_count": 3995
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_005_reference.json",
+      "literal_n_count": 5100
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_006_reference.json",
+      "literal_n_count": 5185
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_007_reference.json",
+      "literal_n_count": 5100
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_008_reference.json",
+      "literal_n_count": 5015
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_009_reference.json",
+      "literal_n_count": 5270
+    },
+    {
+      "file": "lighthouse\\bitcoin_inscriptions\\enochian_lighthouse_010_reference.json",
+      "literal_n_count": 3060
+    },
+    {
+      "file": "lighthouse\\traditions\\lighthouse_master_index.json",
+      "literal_n_count": 3
+    },
+    {
+      "file": "onchain\\comprehensive_integration_data.json",
+      "literal_n_count": 120
+    }
+  ],
+  "total_patterns_found": 63099
+}

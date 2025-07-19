@@ -36,20 +36,20 @@
 # anthropic>=0.7.0
 
 # ARCHITECTURE COMPLIANCE:
-# ✅ Layer 1 (Bitcoin L1): Zero deps, custom TAP/Trac implementations
-# ✅ Layer 2 (Lighthouse): Standard library JSON/file operations
-# ✅ Layer 3 (Governors): Standard library data structures
-# ✅ Layer 4 (Story Engine): Standard library text processing
-# ✅ Layer 5 (Game Mechanics): Standard library algorithms
-# ✅ Layer 6 (UI): WASM compilation target (future Rust implementation)
+#  Layer 1 (Bitcoin L1): Zero deps, custom TAP/Trac implementations
+#  Layer 2 (Lighthouse): Standard library JSON/file operations
+#  Layer 3 (Governors): Standard library data structures
+#  Layer 4 (Story Engine): Standard library text processing
+#  Layer 5 (Game Mechanics): Standard library algorithms
+#  Layer 6 (UI): WASM compilation target (future Rust implementation)
 
 # SACRED CONSTRAINTS MAINTAINED:
-# ✅ Zero external dependencies for core functionality
-# ✅ 26 sacred traditions (immutable)
-# ✅ 91 Governor Angels (immutable)
-# ✅ 6-layer architecture compliance
-# ✅ <1MB Ordinals compliance via compression
-# ✅ TAP Protocol + Trac Systems only for Bitcoin L1
+#  Zero external dependencies for core functionality
+#  26 sacred traditions (immutable)
+#  91 Governor Angels (immutable)
+#  6-layer architecture compliance
+#  <1MB Ordinals compliance via compression
+#  TAP Protocol + Trac Systems only for Bitcoin L1
 
 # SETUP INSTRUCTIONS:
 # 1. Python 3.8+ (standard library sufficient)

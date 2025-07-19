@@ -1,0 +1,16 @@
+{
+  "enhanced_purification_timestamp": "2025-07-18T23:43:36.346574",
+  "purification_time_seconds": 10.938873052597046,
+  "purification_statistics": {
+    "files_processed": 448,
+    "files_purified": 4,
+    "literal_n_fixed": 15,
+    "literal_nn_fixed": 3,
+    "emojis_removed": 0,
+    "unicode_removed": 15,
+    "errors_encountered": 0,
+    "backups_created": 4
+  },
+  "purification_success": true,
+  "total_literal_n_artifacts": 18
+}

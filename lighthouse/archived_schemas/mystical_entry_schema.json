@@ -14,7 +14,7 @@
       "enum": [
         "enochian_magic",
         "i_ching",
-        "hermetic_qabalah", 
+        "hermetic_qabalah",
         "tarot",
         "egyptian_magic",
         "celtic_druidic",
@@ -53,7 +53,14 @@
     },
     "knowledge_type": {
       "type": "string",
-      "enum": ["principle", "practice", "system", "concept", "historical", "practical"]
+      "enum": [
+        "principle",
+        "practice",
+        "system",
+        "concept",
+        "historical",
+        "practical"
+      ]
     },
     "authenticity": {
       "type": "object",
@@ -88,18 +95,37 @@
           "description": "Cultural and geographical context"
         }
       },
-      "required": ["primary_source", "validation_score"]
+      "required": [
+        "primary_source",
+        "validation_score"
+      ]
     },
     "attributes": {
       "type": "object",
       "properties": {
         "elemental_association": {
           "type": "string",
-          "enum": ["fire", "water", "air", "earth", "spirit", "none"]
+          "enum": [
+            "fire",
+            "water",
+            "air",
+            "earth",
+            "spirit",
+            "none"
+          ]
         },
         "planetary_correspondence": {
           "type": "string",
-          "enum": ["sun", "moon", "mercury", "venus", "mars", "jupiter", "saturn", "none"]
+          "enum": [
+            "sun",
+            "moon",
+            "mercury",
+            "venus",
+            "mars",
+            "jupiter",
+            "saturn",
+            "none"
+          ]
         },
         "numerical_value": {
           "type": "integer",
@@ -127,7 +153,14 @@
         },
         "quest_type": {
           "type": "string",
-          "enum": ["meditation", "challenge", "riddle", "practice", "synthesis", "transcendence"]
+          "enum": [
+            "meditation",
+            "challenge",
+            "riddle",
+            "practice",
+            "synthesis",
+            "transcendence"
+          ]
         },
         "energy_cost": {
           "type": "integer",
@@ -162,7 +195,10 @@
           }
         }
       },
-      "required": ["difficulty_tier", "quest_type"]
+      "required": [
+        "difficulty_tier",
+        "quest_type"
+      ]
     },
     "cross_references": {
       "type": "object",
@@ -189,7 +225,12 @@
               },
               "synergy_type": {
                 "type": "string",
-                "enum": ["complementary", "parallel", "synthesis", "contrast"]
+                "enum": [
+                  "complementary",
+                  "parallel",
+                  "synthesis",
+                  "contrast"
+                ]
               },
               "synergy_strength": {
                 "type": "number",
@@ -197,7 +238,11 @@
                 "maximum": 1.0
               }
             },
-            "required": ["tradition", "entry_id", "synergy_type"]
+            "required": [
+              "tradition",
+              "entry_id",
+              "synergy_type"
+            ]
           }
         },
         "governor_associations": {
@@ -245,12 +290,15 @@
           "description": "Gzip compression ratio for Ordinals optimization"
         }
       },
-      "required": ["created_date", "version"]
+      "required": [
+        "created_date",
+        "version"
+      ]
     }
   },
   "required": [
     "id",
-    "tradition", 
+    "tradition",
     "title",
     "summary",
     "full_content",

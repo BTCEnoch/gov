@@ -53,7 +53,7 @@ class LighthouseBuilder:
         entries = []
         entry_counter = 1
         
-        print(f"📚 Building {template.name} knowledge base...")
+        print(f" Building {template.name} knowledge base...")
         
         # Generate core principles
         for principle in template.core_principles:
@@ -258,7 +258,7 @@ For advanced practitioners, {name} opens doorways to deeper mysteries and more s
     
     def build_complete_lighthouse(self) -> Dict[str, Any]:
         """Build complete lighthouse knowledge base for all 26 traditions"""
-        print("🏛️ Building Complete Lighthouse Knowledge Base")
+        print("️ Building Complete Lighthouse Knowledge Base")
         print("=" * 60)
         
         all_entries = []
@@ -303,11 +303,11 @@ For advanced practitioners, {name} opens doorways to deeper mysteries and more s
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(lighthouse_index, f, indent=2, ensure_ascii=False)
         
-        print(f"\n🌟 Complete Lighthouse Built Successfully!")
-        print(f"📊 Total Traditions: {len(tradition_data)}")
-        print(f"📊 Total Entries: {len(all_entries)}")
-        print(f"📊 Inscription Batches: {len(lighthouse_index['inscription_batches'])}")
-        print(f"📁 Output Directory: {self.output_dir}")
+        print(f"\n Complete Lighthouse Built Successfully!")
+        print(f" Total Traditions: {len(tradition_data)}")
+        print(f" Total Entries: {len(all_entries)}")
+        print(f" Inscription Batches: {len(lighthouse_index['inscription_batches'])}")
+        print(f" Output Directory: {self.output_dir}")
         
         return lighthouse_index
     
@@ -347,6 +347,6 @@ if __name__ == "__main__":
     builder = LighthouseBuilder()
     lighthouse_index = builder.build_complete_lighthouse()
     
-    print("\n🏛️ Lighthouse Knowledge Base Ready for Bitcoin Inscription!")
+    print("\n️ Lighthouse Knowledge Base Ready for Bitcoin Inscription!")
     for batch in lighthouse_index['inscription_batches']:
-        print(f"   📦 {batch['batch_id']}: {len(batch['traditions'])} traditions (~{batch['estimated_size']/1000:.0f}KB)")
+        print(f"    {batch['batch_id']}: {len(batch['traditions'])} traditions (~{batch['estimated_size']/1000:.0f}KB)")

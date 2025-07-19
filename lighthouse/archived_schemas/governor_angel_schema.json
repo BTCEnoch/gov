@@ -26,9 +26,36 @@
         "aethyr_name": {
           "type": "string",
           "enum": [
-            "LIL", "ARN", "ZOM", "PAZ", "LIT", "MAZ", "DEO", "ZID", "ZIP", "ZAX",
-            "ICH", "LOE", "ZIM", "UTA", "OXO", "LEA", "TAN", "ZEN", "POP", "KHR",
-            "ASP", "LIN", "TOR", "NIA", "VTI", "DES", "ZAA", "BAG", "RII", "TEX"
+            "LIL",
+            "ARN",
+            "ZOM",
+            "PAZ",
+            "LIT",
+            "MAZ",
+            "DEO",
+            "ZID",
+            "ZIP",
+            "ZAX",
+            "ICH",
+            "LOE",
+            "ZIM",
+            "UTA",
+            "OXO",
+            "LEA",
+            "TAN",
+            "ZEN",
+            "POP",
+            "KHR",
+            "ASP",
+            "LIN",
+            "TOR",
+            "NIA",
+            "VTI",
+            "DES",
+            "ZAA",
+            "BAG",
+            "RII",
+            "TEX"
           ]
         },
         "aethyr_number": {
@@ -38,17 +65,25 @@
         },
         "tier_level": {
           "type": "string",
-          "enum": ["foundation", "development", "mastery", "transcendence"]
+          "enum": [
+            "foundation",
+            "development",
+            "mastery",
+            "transcendence"
+          ]
         }
       },
-      "required": ["aethyr_name", "aethyr_number"]
+      "required": [
+        "aethyr_name",
+        "aethyr_number"
+      ]
     },
     "primary_tradition": {
       "type": "string",
       "enum": [
         "enochian_magic",
         "i_ching",
-        "hermetic_qabalah", 
+        "hermetic_qabalah",
         "tarot",
         "egyptian_magic",
         "celtic_druidic",
@@ -74,10 +109,26 @@
       "items": {
         "type": "string",
         "enum": [
-          "enochian_magic", "i_ching", "hermetic_qabalah", "tarot", "egyptian_magic",
-          "celtic_druidic", "norse_traditions", "taoism", "kuji_kiri", "chaos_magic",
-          "thelema", "sacred_geometry", "quantum_physics", "alchemy", "natal_chart_astrology",
-          "shamanism", "traditional_kabbalah", "sufism", "gnosticism", "greek_mythology"
+          "enochian_magic",
+          "i_ching",
+          "hermetic_qabalah",
+          "tarot",
+          "egyptian_magic",
+          "celtic_druidic",
+          "norse_traditions",
+          "taoism",
+          "kuji_kiri",
+          "chaos_magic",
+          "thelema",
+          "sacred_geometry",
+          "quantum_physics",
+          "alchemy",
+          "natal_chart_astrology",
+          "shamanism",
+          "traditional_kabbalah",
+          "sufism",
+          "gnosticism",
+          "greek_mythology"
         ]
       },
       "maxItems": 3,
@@ -105,7 +156,7 @@
       "type": "string",
       "enum": [
         "direct_instruction",
-        "socratic_questioning", 
+        "socratic_questioning",
         "experiential_learning",
         "symbolic_guidance",
         "paradoxical_teaching",
@@ -145,12 +196,22 @@
               "energy_cost_range": {
                 "type": "object",
                 "properties": {
-                  "min": {"type": "integer", "minimum": 1},
-                  "max": {"type": "integer", "maximum": 25}
+                  "min": {
+                    "type": "integer",
+                    "minimum": 1
+                  },
+                  "max": {
+                    "type": "integer",
+                    "maximum": 25
+                  }
                 }
               }
             },
-            "required": ["level", "reputation_required", "quest_count"]
+            "required": [
+              "level",
+              "reputation_required",
+              "quest_count"
+            ]
           },
           "minItems": 5,
           "maxItems": 10
@@ -161,7 +222,7 @@
             "type": "string",
             "enum": [
               "meditation_practices",
-              "symbolic_interpretation", 
+              "symbolic_interpretation",
               "energy_manipulation",
               "divination_techniques",
               "ritual_performance",
@@ -174,7 +235,11 @@
           "maxItems": 4
         }
       },
-      "required": ["total_quests", "difficulty_progression", "specialization_focus"]
+      "required": [
+        "total_quests",
+        "difficulty_progression",
+        "specialization_focus"
+      ]
     },
     "hypertoken_attributes": {
       "type": "object",
@@ -209,18 +274,37 @@
               },
               "mutation_type": {
                 "type": "string",
-                "enum": ["trait_enhancement", "new_trait_addition", "trait_combination", "rare_variant"]
+                "enum": [
+                  "trait_enhancement",
+                  "new_trait_addition",
+                  "trait_combination",
+                  "rare_variant"
+                ]
               }
             },
-            "required": ["trigger", "mutation_type"]
+            "required": [
+              "trigger",
+              "mutation_type"
+            ]
           }
         },
         "rarity_tier": {
           "type": "string",
-          "enum": ["common", "uncommon", "rare", "epic", "legendary", "mythic"]
+          "enum": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary",
+            "mythic"
+          ]
         }
       },
-      "required": ["base_traits", "evolution_conditions", "rarity_tier"]
+      "required": [
+        "base_traits",
+        "evolution_conditions",
+        "rarity_tier"
+      ]
     },
     "bitcoin_integration": {
       "type": "object",
@@ -268,11 +352,20 @@
           "items": {
             "type": "object",
             "properties": {
-              "tradition_a": {"type": "string"},
-              "tradition_b": {"type": "string"},
+              "tradition_a": {
+                "type": "string"
+              },
+              "tradition_b": {
+                "type": "string"
+              },
               "bridge_type": {
                 "type": "string",
-                "enum": ["philosophical", "practical", "symbolic", "historical"]
+                "enum": [
+                  "philosophical",
+                  "practical",
+                  "symbolic",
+                  "historical"
+                ]
               },
               "synthesis_strength": {
                 "type": "number",
@@ -280,7 +373,11 @@
                 "maximum": 1.0
               }
             },
-            "required": ["tradition_a", "tradition_b", "bridge_type"]
+            "required": [
+              "tradition_a",
+              "tradition_b",
+              "bridge_type"
+            ]
           }
         }
       }
@@ -293,7 +390,7 @@
           "format": "date-time"
         },
         "last_updated": {
-          "type": "string", 
+          "type": "string",
           "format": "date-time"
         },
         "version": {
@@ -309,12 +406,15 @@
           "description": "Whether Enochian attributes have been validated against primary sources"
         }
       },
-      "required": ["created_date", "version"]
+      "required": [
+        "created_date",
+        "version"
+      ]
     }
   },
   "required": [
     "id",
-    "name", 
+    "name",
     "aethyr_association",
     "primary_tradition",
     "core_wisdom",

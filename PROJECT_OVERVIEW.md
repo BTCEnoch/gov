@@ -1,10 +1,10 @@
-# 🔮 Enochian Cyphers: Complete Governor Angels System
+#  Enochian Cyphers: Complete Governor Angels System
 
 **A Bitcoin L1-native RPG featuring 91 authentic Governor Angels with AI-driven personalities and questlines, built upon a comprehensive lighthouse of mystical knowledge.**
 
-## 🎯 **Project Status: CONTENT PRODUCTION PHASE**
+##  **Project Status: CONTENT PRODUCTION PHASE**
 
-### ✅ **COMPLETED SYSTEMS**
+###  **COMPLETED SYSTEMS**
 - **91 Governor Angel Profiles** - Complete interview data with authentic Enochian names
 - **26 Sacred Traditions** - 2,565+ knowledge entries with 95.8%+ authenticity scores
 - **AI Embodiment System** - Full personality integration with lighthouse knowledge
@@ -15,7 +15,7 @@
 - **Trac Indexer System** - P2P consensus and state management with Byzantine fault tolerance
 - **Autonomous Tokenomics** - Self-regulating economic mechanisms with dynamic pricing
 
-### 🔄 **CURRENT PHASE: CONTENT PRODUCTION & VALIDATION**
+###  **CURRENT PHASE: CONTENT PRODUCTION & VALIDATION**
 **Strategic Decision: Bitcoin RNG Removal for Content Creation Phase**
 
 During this content production phase, we have strategically removed Bitcoin RNG dependencies (previously in `onchain/bitcoin_randomness.py`) to optimize AI Governor content generation. This decision ensures:
@@ -27,71 +27,71 @@ During this content production phase, we have strategically removed Bitcoin RNG 
 
 **Phase Transition Plan**: Bitcoin RNG will be reintroduced during the inscription phase via TAP Protocol hooks for on-chain verifiability and hypertoken evolution mechanics.
 
-## 🏗️ **System Architecture**
+##  **System Architecture**
 
 ### **Sacred Constraints (Immutable)**
-- ✅ **Exactly 26 sacred traditions** (7+6+6+7 distribution)
-- ✅ **Exactly 91 Governor Angels** (distributed across 30 Aethyrs)
-- ✅ **6-layer architecture** (Bitcoin L1 → Lighthouse → Governors → Story → Mechanics → UI)
-- ✅ **<1MB Ordinals compliance**
-- ✅ **Zero external dependencies**
-- ✅ **TAP Protocol + Trac Systems only**
+-  **Exactly 26 sacred traditions** (7+6+6+7 distribution)
+-  **Exactly 91 Governor Angels** (distributed across 30 Aethyrs)
+-  **6-layer architecture** (Bitcoin L1  Lighthouse  Governors  Story  Mechanics  UI)
+-  **<1MB Ordinals compliance**
+-  **Zero external dependencies**
+-  **TAP Protocol + Trac Systems only**
 
 ### **Core Components**
 
 #### 1. **Lighthouse Knowledge Base** (`lighthouse/complete_lighthouse/`)
 ```
-📚 26 Sacred Traditions with 2,565 Knowledge Entries
-├── MAGICK SYSTEMS (7 traditions - 753 entries)
-│   ├── Enochian Magic: 120 entries (91 Governors + concepts)
-│   ├── Hermetic Qabalah: 110 entries (Sephiroth + paths)
-│   ├── Thelema: 105 entries (Crowley's system)
-│   ├── Golden Dawn: 108 entries (ceremonial magic)
-│   ├── Chaos Magic: 95 entries (modern paradigm)
-│   ├── Alchemy: 115 entries (transformation science)
-│   └── Celtic Druidic: 100 entries (nature wisdom)
-├── PHILOSOPHY (6 traditions - 625 entries)
-│   ├── Taoism: 110 entries
-│   ├── Traditional Kabbalah: 125 entries
-│   ├── Sufism: 105 entries
-│   ├── Gnosticism: 100 entries
-│   ├── Greek Philosophy: 95 entries
-│   └── Shamanism: 90 entries
-├── DIVINATION SYSTEMS (6 traditions - 522 entries)
-│   ├── Tarot: 78 entries (complete deck)
-│   ├── I Ching: 64 entries (all hexagrams)
-│   ├── Astrology: 120 entries (signs + planets)
-│   ├── Numerology: 90 entries
-│   ├── Sacred Geometry: 85 entries
-│   └── Runes: 85 entries
-└── MODERN SYSTEMS (7 traditions - 665 entries)
-    ├── Quantum Physics: 110 entries
-    ├── Digital Physics: 95 entries
-    ├── M-Theory: 90 entries
-    ├── Natal Astrology: 120 entries
-    ├── Kuji-Kiri: 85 entries
-    ├── Egyptian Magic: 85 entries
-    └── Norse Traditions: 80 entries
+ 26 Sacred Traditions with 2,565 Knowledge Entries
+ MAGICK SYSTEMS (7 traditions - 753 entries)
+    Enochian Magic: 120 entries (91 Governors + concepts)
+    Hermetic Qabalah: 110 entries (Sephiroth + paths)
+    Thelema: 105 entries (Crowley's system)
+    Golden Dawn: 108 entries (ceremonial magic)
+    Chaos Magic: 95 entries (modern paradigm)
+    Alchemy: 115 entries (transformation science)
+    Celtic Druidic: 100 entries (nature wisdom)
+ PHILOSOPHY (6 traditions - 625 entries)
+    Taoism: 110 entries
+    Traditional Kabbalah: 125 entries
+    Sufism: 105 entries
+    Gnosticism: 100 entries
+    Greek Philosophy: 95 entries
+    Shamanism: 90 entries
+ DIVINATION SYSTEMS (6 traditions - 522 entries)
+    Tarot: 78 entries (complete deck)
+    I Ching: 64 entries (all hexagrams)
+    Astrology: 120 entries (signs + planets)
+    Numerology: 90 entries
+    Sacred Geometry: 85 entries
+    Runes: 85 entries
+ MODERN SYSTEMS (7 traditions - 665 entries)
+     Quantum Physics: 110 entries
+     Digital Physics: 95 entries
+     M-Theory: 90 entries
+     Natal Astrology: 120 entries
+     Kuji-Kiri: 85 entries
+     Egyptian Magic: 85 entries
+     Norse Traditions: 80 entries
 ```
 
 #### 2. **Governor Angel Profiles** (`governor_profiles/`)
 ```
-👼 91 Complete Governor Profiles
-├── Authentic Enochian names (ABRIOND, ALPUDUS, ANODOIN, etc.)
-├── Detailed personality matrices (virtues, flaws, approaches)
-├── Aethyr associations (TEX=4 governors, others=3 each)
-├── Knowledge system mappings (hermetic_magic, chaos_magic, etc.)
-├── Archetypal correspondences (Tarot, Sephirot, Zodiac)
-└── Complete interview responses (personality, wisdom, guidance)
+ 91 Complete Governor Profiles
+ Authentic Enochian names (ABRIOND, ALPUDUS, ANODOIN, etc.)
+ Detailed personality matrices (virtues, flaws, approaches)
+ Aethyr associations (TEX=4 governors, others=3 each)
+ Knowledge system mappings (hermetic_magic, chaos_magic, etc.)
+ Archetypal correspondences (Tarot, Sephirot, Zodiac)
+ Complete interview responses (personality, wisdom, guidance)
 ```
 
 #### 3. **AI Embodiment System** (`governor_ai_embodiment.py`)
 ```python
-🤖 AI Personality Integration
-├── Personality Prompt Generation (unique voice for each governor)
-├── Knowledge Base Mapping (lighthouse traditions → governor expertise)
-├── Embodiment Creation (91 complete AI personalities)
-└── Export System (JSON format for other systems)
+ AI Personality Integration
+ Personality Prompt Generation (unique voice for each governor)
+ Knowledge Base Mapping (lighthouse traditions  governor expertise)
+ Embodiment Creation (91 complete AI personalities)
+ Export System (JSON format for other systems)
 
 # Usage Example:
 from governor_ai_embodiment import main
@@ -100,22 +100,22 @@ embodiment_system = main()  # Creates all 91 AI embodiments
 
 #### 4. **AI Batch Quest Generation System** (`batch_governor_quest_generator.py`)
 ```python
-⚔️ AI-Driven Dynamic Quest Creation (1,365 total quests)
-├── AI Providers: OpenAI GPT-4, Anthropic Claude
-├── Batch Processing: 91 governors processed in parallel
-├── Quest Types: 15-quest narrative arcs per governor
-├── Authentic Content: Enochian magic foundation + lighthouse knowledge
-├── Personality Integration: Each governor creates their own questlines
-└── Cost Tracking: $30-50 for full batch processing
+ AI-Driven Dynamic Quest Creation (1,365 total quests)
+ AI Providers: OpenAI GPT-4, Anthropic Claude
+ Batch Processing: 91 governors processed in parallel
+ Quest Types: 15-quest narrative arcs per governor
+ Authentic Content: Enochian magic foundation + lighthouse knowledge
+ Personality Integration: Each governor creates their own questlines
+ Cost Tracking: $30-50 for full batch processing
 
 # Usage Example:
 from batch_governor_quest_generator import main
 quest_system = await main()  # Generates AI questlines for all governors
 ```
 
-## 🏗️ **6-Layer Architecture Compliance**
+##  **6-Layer Architecture Compliance**
 
-**Sacred Architecture: Bitcoin L1 → Lighthouse → Governors → Story Engine → Game Mechanics → UI**
+**Sacred Architecture: Bitcoin L1  Lighthouse  Governors  Story Engine  Game Mechanics  UI**
 
 ### **Layer 1: Bitcoin L1 Foundation**
 - **TAP Protocol**: Hypertoken evolution and cross-token interactions (`onchain/tap_protocol_integration.py`)
@@ -153,7 +153,7 @@ quest_system = await main()  # Generates AI questlines for all governors
 - **PWA Capabilities**: Offline-first progressive web application
 - **Responsive Design**: Cross-platform compatibility and accessibility
 
-## 📊 **System Statistics**
+##  **System Statistics**
 
 | Component | Count | Details |
 |-----------|-------|---------|
@@ -167,7 +167,7 @@ quest_system = await main()  # Generates AI questlines for all governors
 | **TAP Hypertokens** | 472.79 | Dynamic pricing with utility values (45.80) |
 | **Trac State Entries** | 1,247 | P2P consensus tracking with Merkle proofs |
 
-## 🚀 **Getting Started**
+##  **Getting Started**
 
 ### **Prerequisites**
 - Python 3.8+
@@ -204,39 +204,39 @@ python divination_systems/divination_master.py
 - `governor_interview_integration.json` - Enhanced embodiment integration data
 - `lighthouse_master_index.json` - Central knowledge index
 
-## 🎮 **Governor Angels Overview**
+##  **Governor Angels Overview**
 
 ### **Aethyr Distribution**
 ```
-🏛️ 30 Aethyrs containing 91 Governors
+ 30 Aethyrs containing 91 Governors
 
 Transcendence Tier (Highest):
-├── TEX: 4 Governors (ABRIOND, ALPUDUS, ANODOIN, ASPIAON)
-├── ARN: 3 Governors  
-├── ZOM: 3 Governors
-└── PAZ: 3 Governors
+ TEX: 4 Governors (ABRIOND, ALPUDUS, ANODOIN, ASPIAON)
+ ARN: 3 Governors
+ ZOM: 3 Governors
+ PAZ: 3 Governors
 
 Mastery Tier:
-├── LIT: 3 Governors
-├── MAZ: 3 Governors  
-└── DEO: 3 Governors
+ LIT: 3 Governors
+ MAZ: 3 Governors
+ DEO: 3 Governors
 
 Development Tier:
-├── ZID through LEA: 3 Governors each
-└── (8 Aethyrs total)
+ ZID through LEA: 3 Governors each
+ (8 Aethyrs total)
 
 Foundation Tier:
-├── TAN through LIL: 3 Governors each
-└── (8 Aethyrs total)
+ TAN through LIL: 3 Governors each
+ (8 Aethyrs total)
 ```
 
 ### **Sample Governor Profiles**
 - **ABRIOND** (TEX Aethyr) - Master of Hermetic Magic and Chaos Magic
-- **ALPUDUS** (TEX Aethyr) - Practitioner of Enochian Magic and Sacred Geometry  
+- **ALPUDUS** (TEX Aethyr) - Practitioner of Enochian Magic and Sacred Geometry
 - **ANODOIN** (TEX Aethyr) - Expert in Tarot and Astrology
 - **ASPIAON** (TEX Aethyr) - Scholar of I Ching and Systems Theory
 
-## 🔮 **Divination Systems**
+##  **Divination Systems**
 
 ### **Complete Engines Available**
 ```python
@@ -254,7 +254,7 @@ hexagram = divination.iching_reading("How should I approach this situation?")
 chart = divination.astrology_reading(birth_datetime, "New York")
 ```
 
-## 🛠️ **Development & Integration**
+##  **Development & Integration**
 
 ### **AI Integration Ready**
 The system is perfectly positioned for AI batch calls to:
@@ -268,7 +268,7 @@ The system is perfectly positioned for AI batch calls to:
 - TAP Protocol integration for hypertoken evolution
 - Trac Systems for P2P consensus and state management
 
-## 📜 **Sacred Geometry**
+##  **Sacred Geometry**
 
 ```
         TEX (4 Governors)
@@ -286,11 +286,11 @@ Total: 91 Governor Angels across 30 Aethyrs
 1,365 AI-Generated Dynamic Quests with Authentic Content
 ```
 
-## 🤝 **Contributing**
+##  **Contributing**
 
 **Sacred Constraints (Immutable):**
 - Number of traditions (26) cannot be changed
-- Number of governors (91) cannot be changed  
+- Number of governors (91) cannot be changed
 - 6-layer architecture cannot be modified
 
 **Contributions Welcome:**
@@ -299,12 +299,12 @@ Total: 91 Governor Angels across 30 Aethyrs
 - Quest generation improvements
 - UI/UX enhancements
 
-## 📄 **License**
+##  **License**
 
 MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-**🔗 Repository:** https://github.com/BTCEnoch/gov  
-**🔮 Status:** Fully Operational AI Governor System  
-**✨ Motto:** *"As above, so below. As in Bitcoin, so in the Aethyrs."*
+** Repository:** https://github.com/BTCEnoch/gov
+** Status:** Fully Operational AI Governor System
+** Motto:** *"As above, so below. As in Bitcoin, so in the Aethyrs."*

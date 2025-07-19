@@ -192,11 +192,11 @@ class CleanLighthouseBuilder:
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(clean_index, f, indent=2, ensure_ascii=False)
         
-        print(f"\n🌟 Clean Lighthouse Complete!")
-        print(f"📊 Original entries: 2,678 (mostly spam)")
-        print(f"📊 Clean entries: {total_entries} (essential only)")
-        print(f"📊 Spam removed: {((2678 - total_entries) / 2678 * 100):.1f}%")
-        print(f"📁 Output: {self.output_dir}")
+        print(f"\n Clean Lighthouse Complete!")
+        print(f" Original entries: 2,678 (mostly spam)")
+        print(f" Clean entries: {total_entries} (essential only)")
+        print(f" Spam removed: {((2678 - total_entries) / 2678 * 100):.1f}%")
+        print(f" Output: {self.output_dir}")
         
         return clean_index
     
@@ -231,7 +231,7 @@ class CleanLighthouseBuilder:
             ]
         }
         
-        print("\n🔍 SPAM ANALYSIS:")
+        print("\n SPAM ANALYSIS:")
         for category, patterns in spam_patterns.items():
             print(f"\n{category.upper()}:")
             for pattern in patterns:
@@ -248,7 +248,7 @@ if __name__ == "__main__":
     # Create clean lighthouse
     clean_index = builder.create_clean_lighthouse()
     
-    print(f"\n🎯 RECOMMENDATION:")
+    print(f"\n RECOMMENDATION:")
     print(f"   Use the clean lighthouse for actual development")
     print(f"   Original lighthouse was 95%+ spam and template bloat")
     print(f"   Clean version contains only essential, unique knowledge")

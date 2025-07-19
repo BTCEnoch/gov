@@ -26,7 +26,7 @@ class BitcoinInscriptionPrep:
     
     def create_inscription_batches(self) -> List[Dict[str, Any]]:
         """Create optimized inscription batches for Bitcoin L1"""
-        print("📦 Creating Bitcoin Inscription Batches")
+        print(" Creating Bitcoin Inscription Batches")
         print("=" * 40)
         
         batches = []
@@ -69,7 +69,7 @@ class BitcoinInscriptionPrep:
             current_batch["entries"].extend(tradition_data)
             current_batch["total_size"] += tradition_size
             
-            print(f"   📚 Added {tradition_info['name']}: {tradition_info['entry_count']} entries ({tradition_size/1000:.1f}KB)")
+            print(f"    Added {tradition_info['name']}: {tradition_info['entry_count']} entries ({tradition_size/1000:.1f}KB)")
         
         # Finalize last batch
         if current_batch["traditions"]:
@@ -126,7 +126,7 @@ class BitcoinInscriptionPrep:
             "reference_file": str(ref_file)
         })
         
-        print(f"   📦 {batch['batch_id']}: {len(batch['traditions'])} traditions, {batch['total_size']/1000:.1f}KB → {batch['compressed_size']/1000:.1f}KB ({batch['compression_ratio']:.1%} compression)")
+        print(f"    {batch['batch_id']}: {len(batch['traditions'])} traditions, {batch['total_size']/1000:.1f}KB → {batch['compressed_size']/1000:.1f}KB ({batch['compression_ratio']:.1%} compression)")
         
         return batch
     
@@ -176,7 +176,7 @@ class BitcoinInscriptionPrep:
         with open(master_file, 'w', encoding='utf-8') as f:
             json.dump(master_inscription_index, f, indent=2, ensure_ascii=False)
         
-        print(f"\n🏛️ Master Inscription Index created: {master_file}")
+        print(f"\n️ Master Inscription Index created: {master_file}")
         return master_inscription_index
     
     def _create_merkle_tree(self, batches: List[Dict[str, Any]]) -> Dict[str, str]:
@@ -198,7 +198,7 @@ class BitcoinInscriptionPrep:
 # Enochian Cyphers Lighthouse Bitcoin L1 Deployment Script
 # Generated: {datetime.now().isoformat()}
 
-echo "🏛️ Enochian Cyphers Lighthouse Bitcoin L1 Deployment"
+echo "️ Enochian Cyphers Lighthouse Bitcoin L1 Deployment"
 echo "=================================================="
 
 # Deployment Configuration
@@ -207,7 +207,7 @@ INSCRIPTION_PROTOCOL="ordinals"
 TOTAL_BATCHES={master_index['enochian_cyphers_lighthouse']['total_batches']}
 TOTAL_SIZE={master_index['verification']['total_compressed_size']}
 
-echo "📊 Deployment Summary:"
+echo " Deployment Summary:"
 echo "   Total Batches: $TOTAL_BATCHES"
 echo "   Total Size: $(($TOTAL_SIZE / 1000))KB"
 echo "   Total Traditions: {master_index['enochian_cyphers_lighthouse']['total_traditions']}"
@@ -218,7 +218,7 @@ echo "   Total Entries: {master_index['enochian_cyphers_lighthouse']['total_entr
         
         for i, batch in enumerate(master_index["inscription_batches"], 1):
             script_content += f"""
-echo "📦 Deploying Batch {i}/{master_index['enochian_cyphers_lighthouse']['total_batches']}: {batch['batch_id']}"
+echo " Deploying Batch {i}/{master_index['enochian_cyphers_lighthouse']['total_batches']}: {batch['batch_id']}"
 echo "   Traditions: {', '.join(batch['traditions'])}"
 echo "   Size: {batch['compressed_size']/1000:.1f}KB"
 echo "   Hash: {batch['content_hash'][:16]}..."
@@ -229,9 +229,9 @@ echo "   Hash: {batch['content_hash'][:16]}..."
         
         script_content += """
 echo ""
-echo "🌟 Enochian Cyphers Lighthouse Successfully Deployed to Bitcoin L1!"
-echo "🔗 All 26 sacred traditions now permanently preserved on Bitcoin blockchain"
-echo "🚀 Ready for story engine integration and governor system activation"
+echo " Enochian Cyphers Lighthouse Successfully Deployed to Bitcoin L1!"
+echo " All 26 sacred traditions now permanently preserved on Bitcoin blockchain"
+echo " Ready for story engine integration and governor system activation"
 """
         
         script_file = self.inscription_dir / "deploy_to_bitcoin.sh"
@@ -241,12 +241,12 @@ echo "🚀 Ready for story engine integration and governor system activation"
         # Make executable
         os.chmod(script_file, 0o755)
         
-        print(f"🚀 Deployment script created: {script_file}")
+        print(f" Deployment script created: {script_file}")
         return str(script_file)
     
     def prepare_complete_inscription_package(self):
         """Prepare complete Bitcoin inscription package"""
-        print("🏛️ PREPARING COMPLETE BITCOIN INSCRIPTION PACKAGE")
+        print("️ PREPARING COMPLETE BITCOIN INSCRIPTION PACKAGE")
         print("=" * 60)
         
         # Create inscription batches
@@ -259,17 +259,17 @@ echo "🚀 Ready for story engine integration and governor system activation"
         deployment_script = self.generate_deployment_script(master_index)
         
         # Summary
-        print(f"\n🌟 BITCOIN INSCRIPTION PACKAGE COMPLETE!")
-        print(f"📊 Summary:")
-        print(f"   📦 Inscription Batches: {len(batches)}")
-        print(f"   📚 Total Traditions: {master_index['enochian_cyphers_lighthouse']['total_traditions']}")
-        print(f"   📝 Total Entries: {master_index['enochian_cyphers_lighthouse']['total_entries']:,}")
-        print(f"   💾 Total Compressed Size: {master_index['verification']['total_compressed_size']/1000:.1f}KB")
-        print(f"   📈 Average Compression: {master_index['verification']['average_compression']:.1%}")
-        print(f"   📁 Output Directory: {self.inscription_dir}")
-        print(f"   🚀 Deployment Script: {deployment_script}")
+        print(f"\n BITCOIN INSCRIPTION PACKAGE COMPLETE!")
+        print(f" Summary:")
+        print(f"    Inscription Batches: {len(batches)}")
+        print(f"    Total Traditions: {master_index['enochian_cyphers_lighthouse']['total_traditions']}")
+        print(f"    Total Entries: {master_index['enochian_cyphers_lighthouse']['total_entries']:,}")
+        print(f"    Total Compressed Size: {master_index['verification']['total_compressed_size']/1000:.1f}KB")
+        print(f"    Average Compression: {master_index['verification']['average_compression']:.1%}")
+        print(f"    Output Directory: {self.inscription_dir}")
+        print(f"    Deployment Script: {deployment_script}")
         
-        print(f"\n🎯 Next Steps:")
+        print(f"\n Next Steps:")
         print(f"   1. Review inscription batches in {self.inscription_dir}")
         print(f"   2. Test deployment on Bitcoin testnet")
         print(f"   3. Execute deployment script for mainnet")
@@ -287,4 +287,4 @@ if __name__ == "__main__":
     prep = BitcoinInscriptionPrep()
     result = prep.prepare_complete_inscription_package()
     
-    print(f"\n🏛️ Enochian Cyphers Lighthouse is Bitcoin-ready! 🚀")
+    print(f"\n️ Enochian Cyphers Lighthouse is Bitcoin-ready! ")

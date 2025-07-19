@@ -14,7 +14,7 @@ The enhanced TAP Protocol includes strict validation rules to prevent invalid mu
 def _validate_evolution_prerequisites(self, hypertoken, achievement, context):
     """Validate evolution prerequisites before allowing mutation"""
     # Check minimum evolution stage requirements
-    # Validate achievement authenticity (≥80% required)
+    # Validate achievement authenticity (80% required)
     # Check tradition compatibility
     return validation_result
 ```
@@ -101,8 +101,8 @@ context = {
 
 try:
     evolved_token = tap_integrator.evolve_hypertoken(
-        hypertoken, 
-        "tradition_mastery", 
+        hypertoken,
+        "tradition_mastery",
         context
     )
     print(f"Evolution successful: Stage {evolved_token['metadata']['evolution_stage']}")

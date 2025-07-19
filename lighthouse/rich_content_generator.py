@@ -224,19 +224,19 @@ Each Aethyr contains its own unique landscape, inhabitants, and spiritual lesson
     
     def generate_all_rich_content(self):
         """Generate rich content for all available traditions"""
-        print("🏛️ Generating Rich Knowledge Base Content")
+        print("️ Generating Rich Knowledge Base Content")
         print("=" * 50)
         
         all_entries = []
         
         # Generate Golden Dawn content
-        print("📚 Generating Golden Dawn content...")
+        print(" Generating Golden Dawn content...")
         gd_entries = self.generate_golden_dawn_content()
         all_entries.extend(gd_entries)
         print(f"✅ Generated {len(gd_entries)} Golden Dawn entries")
         
         # Generate Enochian Magic content
-        print("📚 Generating Enochian Magic content...")
+        print(" Generating Enochian Magic content...")
         enochian_entries = self.generate_enochian_magic_content()
         all_entries.extend(enochian_entries)
         print(f"✅ Generated {len(enochian_entries)} Enochian Magic entries")
@@ -246,9 +246,9 @@ Each Aethyr contains its own unique landscape, inhabitants, and spiritual lesson
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump([asdict(entry) for entry in all_entries], f, indent=2, ensure_ascii=False)
         
-        print(f"\n🌟 Rich Content Generation Complete!")
-        print(f"📁 Total entries: {len(all_entries)}")
-        print(f"📁 Output file: {output_file}")
+        print(f"\n Rich Content Generation Complete!")
+        print(f" Total entries: {len(all_entries)}")
+        print(f" Output file: {output_file}")
         
         return all_entries
 
@@ -335,7 +335,7 @@ if __name__ == "__main__":
     with open(index_file, 'w', encoding='utf-8') as f:
         json.dump(lighthouse_index, f, indent=2, ensure_ascii=False)
 
-    print(f"🏛️ Lighthouse Master Index created: {index_file}")
-    print(f"📊 Inscription batches: {len(lighthouse_index['inscription_batches'])}")
+    print(f"️ Lighthouse Master Index created: {index_file}")
+    print(f" Inscription batches: {len(lighthouse_index['inscription_batches'])}")
     for batch in lighthouse_index['inscription_batches']:
         print(f"   Batch {batch['batch_id']}: {len(batch['traditions'])} traditions, ~{batch['estimated_size']/1000:.1f}KB")

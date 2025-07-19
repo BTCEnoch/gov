@@ -1,0 +1,17 @@
+{
+  "simple_fix_timestamp": "2025-07-18T23:54:46.686051",
+  "simple_fix_statistics": {
+    "files_processed": 4,
+    "files_fixed": 0,
+    "double_backslashes_fixed": 0,
+    "backups_created": 0,
+    "errors": 0
+  },
+  "fix_success": true,
+  "files_targeted": [
+    "lighthouse/traditions/lighthouse_master_index.json",
+    "lighthouse/archived_schemas/cross_reference_schema.json",
+    "lighthouse/archived_schemas/governor_angel_schema.json",
+    "lighthouse/archived_schemas/mystical_entry_schema.json"
+  ]
+}

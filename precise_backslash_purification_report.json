@@ -1,0 +1,18 @@
+{
+  "precise_purification_timestamp": "2025-07-18T23:54:02.939309",
+  "precise_purification_statistics": {
+    "files_scanned": 329,
+    "files_with_backslash_issues": 11,
+    "files_purified": 0,
+    "double_backslashes_found": 166,
+    "double_backslashes_fixed": 0,
+    "backups_created": 0,
+    "errors": 4
+  },
+  "purification_success": false,
+  "backslash_fixes": {
+    "double_backslashes_found": 166,
+    "double_backslashes_fixed": 0,
+    "fix_success_rate": 0.0
+  }
+}

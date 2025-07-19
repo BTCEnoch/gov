@@ -34,7 +34,7 @@ def check_lighthouse_structure() -> bool:
         "utilities/content_indexer.py"
     ]
     
-    print("🔍 Checking lighthouse structure...")
+    print(" Checking lighthouse structure...")
     
     # Check directories
     for dir_path in required_dirs:
@@ -54,7 +54,7 @@ def check_lighthouse_structure() -> bool:
 
 def validate_lighthouse_content() -> Tuple[bool, Dict]:
     """Validate lighthouse content integrity"""
-    print("📚 Validating lighthouse content...")
+    print(" Validating lighthouse content...")
     
     master_index_file = Path("lighthouse/complete_lighthouse/lighthouse_master_index.json")
     
@@ -71,8 +71,8 @@ def validate_lighthouse_content() -> Tuple[bool, Dict]:
         traditions = master_index.get("traditions", {})
         
         print(f"✅ Master index loaded successfully")
-        print(f"   📊 Total traditions: {total_traditions}")
-        print(f"   📚 Total entries: {total_entries}")
+        print(f"    Total traditions: {total_traditions}")
+        print(f"    Total entries: {total_entries}")
         
         # Validate tradition files
         missing_files = []
@@ -95,7 +95,7 @@ def validate_lighthouse_content() -> Tuple[bool, Dict]:
 
 def test_divination_systems() -> bool:
     """Test divination systems functionality"""
-    print("🔮 Testing divination systems...")
+    print(" Testing divination systems...")
     
     try:
         # Test imports
@@ -129,7 +129,7 @@ def test_divination_systems() -> bool:
 
 def test_content_indexer() -> bool:
     """Test content indexing system"""
-    print("🗂️ Testing content indexer...")
+    print("️ Testing content indexer...")
     
     try:
         sys.path.append(str(Path.cwd()))
@@ -138,8 +138,8 @@ def test_content_indexer() -> bool:
         
         indexer = ContentIndexer("lighthouse/complete_lighthouse")
         print(f"✅ Content indexer initialized")
-        print(f"   📚 Indexed {len(indexer.content_index)} entries")
-        print(f"   🏛️ Mapped {len(indexer.tradition_maps)} traditions")
+        print(f"    Indexed {len(indexer.content_index)} entries")
+        print(f"   ️ Mapped {len(indexer.tradition_maps)} traditions")
         
         # Test search functionality
         results = indexer.search("tarot", limit=3)
@@ -153,7 +153,7 @@ def test_content_indexer() -> bool:
 
 def generate_system_report() -> Dict:
     """Generate comprehensive system report"""
-    print("📋 Generating system report...")
+    print(" Generating system report...")
     
     report = {
         "lighthouse_version": "4.0.0-complete",
@@ -211,7 +211,7 @@ def generate_system_report() -> Dict:
 
 def main():
     """Main setup and validation routine"""
-    print("🏛️ Enochian Cyphers Lighthouse Setup & Validation")
+    print("️ Enochian Cyphers Lighthouse Setup & Validation")
     print("=" * 60)
     
     # Check Python version
@@ -243,20 +243,20 @@ def main():
     report = generate_system_report()
     
     print("\n" + "=" * 60)
-    print("🎉 LIGHTHOUSE SETUP COMPLETE")
+    print(" LIGHTHOUSE SETUP COMPLETE")
     print("=" * 60)
     print(f"✅ All systems operational")
-    print(f"📊 {report['content_stats'].get('total_traditions', 0)} traditions with {report['content_stats'].get('total_entries', 0)} entries")
-    print(f"🔮 Divination systems ready")
-    print(f"🗂️ Content indexing operational")
-    print(f"📚 Documentation available")
+    print(f" {report['content_stats'].get('total_traditions', 0)} traditions with {report['content_stats'].get('total_entries', 0)} entries")
+    print(f" Divination systems ready")
+    print(f"️ Content indexing operational")
+    print(f" Documentation available")
     
-    print("\n🚀 Ready for integration with:")
+    print("\n Ready for integration with:")
     print("   - Governor Angels (personality and decision systems)")
     print("   - Story Engine (quest generation and narrative)")
     print("   - Bitcoin L1 (inscription deployment)")
     
-    print(f"\n💡 Recommendations:")
+    print(f"\n Recommendations:")
     for rec in report["recommendations"]:
         print(f"   - {rec}")
     
@@ -264,7 +264,7 @@ def main():
     with open("lighthouse_setup_report.json", 'w', encoding='utf-8') as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
     
-    print(f"\n📁 Setup report saved to: lighthouse_setup_report.json")
+    print(f"\n Setup report saved to: lighthouse_setup_report.json")
 
 if __name__ == "__main__":
     main()

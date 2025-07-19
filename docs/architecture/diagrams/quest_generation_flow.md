@@ -16,7 +16,7 @@ graph TB
         QT[Quest Tokens] --> QS[Quest States]
         WT[Wisdom Tokens] --> WS[Wisdom States]
         AT[Artifact Tokens] --> AS[Artifact States]
-        
+
         QS --> |"Transitions"| QST[State Transitions]
         WS --> |"Accumulates"| WST[Wisdom Progress]
         AS --> |"Evolves"| AST[Artifact Evolution]
@@ -28,7 +28,7 @@ graph TB
         TD --> |"Guides"| QG
         VA --> |"Enhances"| QG
         PU --> |"Selects"| QG
-        
+
         QG --> |"Creates"| QT
         QG --> |"Grants"| WT
         QG --> |"Rewards"| AT
@@ -46,10 +46,14 @@ graph TB
 ```mermaid
 stateDiagram-v2
     [*] --> QUEST_INACTIVE: Creation
-    QUEST_INACTIVE --> QUEST_ACTIVE: Start Quest\n(Rep ≥ 0)
-    QUEST_ACTIVE --> QUEST_COMPLETED: Complete\n(100% Progress)
-    QUEST_ACTIVE --> QUEST_FAILED: Fail\n(No Attempts Left)
-    QUEST_FAILED --> QUEST_INACTIVE: Reset\n(Governor Permission)
+    QUEST_INACTIVE --> QUEST_ACTIVE: Start Quest
+(Rep  0)
+    QUEST_ACTIVE --> QUEST_COMPLETED: Complete
+(100% Progress)
+    QUEST_ACTIVE --> QUEST_FAILED: Fail
+(No Attempts Left)
+    QUEST_FAILED --> QUEST_INACTIVE: Reset
+(Governor Permission)
     QUEST_COMPLETED --> [*]: End Quest
 
     state QUEST_ACTIVE {
@@ -67,4 +71,4 @@ stateDiagram-v2
         REWARD_PENDING --> REWARDS_GRANTED: Grant Rewards
         REWARDS_GRANTED --> [*]: Finalize
     }
-``` 
+```
