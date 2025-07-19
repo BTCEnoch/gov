@@ -302,7 +302,7 @@ enochian-cyphers/
 ├── 📁 lighthouse/                    # Complete knowledge base
 │   ├── complete_lighthouse/          # 26 traditions, 2,565 entries
 │   ├── citations/                    # Enhanced source citations
-│   ├── schemas/                      # Data validation schemas
+│   ├── archived_schemas/             # Archived unused schemas (preserved)
 │   ├── bitcoin_inscriptions/         # Ordinals-ready content
 │   ├── core/                         # Core sacred architecture systems
 │   │   ├── aethyr_mapping_system.py  # Sacred Governor-Aethyr mappings
