@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Enochian Cyphers - Bitcoin L1-native RPG with 26 Sacred Traditions">
+    <title>Enochian Cyphers - Sacred Bitcoin L1 RPG</title>
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1a1a2e">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/sacred-ui.css">
+    
+    <!-- Preload critical resources -->
+    <link rel="preload" href="wasm/enochian_core.wasm" as="fetch" type="application/wasm" crossorigin>
+</head>
+<body>
+    <!-- Sacred Loading Screen -->
+    <div id="sacred-loader" class="sacred-loader">
+        <div class="enochian-sigil">
+            <div class="sigil-ring outer"></div>
+            <div class="sigil-ring middle"></div>
+            <div class="sigil-ring inner"></div>
+            <div class="sacred-text">OLANI HOATH OL</div>
+        </div>
+        <div class="loading-progress">
+            <div class="progress-bar"></div>
+            <div class="loading-text">Invoking Sacred Architecture...</div>
+        </div>
+    </div>
+
+    <!-- Main Application Container -->
+    <div id="app" class="app-container" style="display: none;">
+        <!-- Header Navigation -->
+        <header class="sacred-header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <h1 class="sacred-title">Enochian Cyphers</h1>
+                    <span class="subtitle">Bitcoin L1 Sacred RPG</span>
+                </div>
+                <nav class="main-nav">
+                    <button class="nav-btn" data-view="lighthouse">Lighthouse</button>
+                    <button class="nav-btn" data-view="governors">Governors</button>
+                    <button class="nav-btn" data-view="quests">Quests</button>
+                    <button class="nav-btn" data-view="divination">Divination</button>
+                    <button class="nav-btn" data-view="bitcoin">Bitcoin L1</button>
+                </nav>
+                <div class="connection-status">
+                    <span id="p2p-status" class="status-indicator offline">P2P</span>
+                    <span id="bitcoin-status" class="status-indicator offline">₿</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Lighthouse View -->
+            <section id="lighthouse-view" class="content-view active">
+                <div class="view-header">
+                    <h2>Sacred Lighthouse</h2>
+                    <p>26 Sacred Traditions • 2,678 Entries • 60% Enochian Primacy</p>
+                </div>
+                <div class="tradition-grid">
+                    <!-- Tradition cards will be populated by JavaScript -->
+                </div>
+                <div class="knowledge-search">
+                    <input type="text" id="knowledge-search" placeholder="Search sacred knowledge...">
+                    <div id="search-results" class="search-results"></div>
+                </div>
+            </section>
+
+            <!-- Governors View -->
+            <section id="governors-view" class="content-view">
+                <div class="view-header">
+                    <h2>Governor Angels</h2>
+                    <p>91 Entities • 30 Aethyrs • Autonomous AI Personalities</p>
+                </div>
+                <div class="aethyr-map">
+                    <!-- Aethyr visualization will be rendered here -->
+                    <canvas id="aethyr-canvas" width="800" height="600"></canvas>
+                </div>
+                <div class="governor-list">
+                    <!-- Governor cards will be populated by JavaScript -->
+                </div>
+            </section>
+
+            <!-- Quests View -->
+            <section id="quests-view" class="content-view">
+                <div class="view-header">
+                    <h2>Sacred Quests</h2>
+                    <p>Dynamic Generation • Mystical Integration • Bitcoin L1 Rewards</p>
+                </div>
+                <div class="quest-generator">
+                    <button id="generate-quest" class="sacred-btn primary">Generate Sacred Quest</button>
+                    <div class="quest-filters">
+                        <select id="tradition-filter">
+                            <option value="">All Traditions</option>
+                            <!-- Options populated by JavaScript -->
+                        </select>
+                        <select id="difficulty-filter">
+                            <option value="">All Difficulties</option>
+                            <option value="novice">Novice</option>
+                            <option value="adept">Adept</option>
+                            <option value="master">Master</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="active-quests" class="quest-list">
+                    <!-- Active quests will be displayed here -->
+                </div>
+            </section>
+
+            <!-- Divination View -->
+            <section id="divination-view" class="content-view">
+                <div class="view-header">
+                    <h2>Divination Systems</h2>
+                    <p>Tarot • I Ching • Astrology • Sacred Geometry</p>
+                </div>
+                <div class="divination-tools">
+                    <div class="tool-card" data-tool="tarot">
+                        <h3>Tarot Reading</h3>
+                        <p>78-card Rider-Waite system</p>
+                        <button class="tool-btn">Draw Cards</button>
+                    </div>
+                    <div class="tool-card" data-tool="iching">
+                        <h3>I Ching Oracle</h3>
+                        <p>64 Hexagrams of wisdom</p>
+                        <button class="tool-btn">Cast Hexagram</button>
+                    </div>
+                    <div class="tool-card" data-tool="astrology">
+                        <h3>Astrology Chart</h3>
+                        <p>Planetary influences</p>
+                        <button class="tool-btn">Generate Chart</button>
+                    </div>
+                </div>
+                <div id="divination-result" class="divination-result">
+                    <!-- Divination results displayed here -->
+                </div>
+            </section>
+
+            <!-- Bitcoin L1 View -->
+            <section id="bitcoin-view" class="content-view">
+                <div class="view-header">
+                    <h2>Bitcoin L1 Integration</h2>
+                    <p>TAP Protocol • Trac Systems • Ordinals • Autonomous Economics</p>
+                </div>
+                <div class="bitcoin-dashboard">
+                    <div class="stat-card">
+                        <h3>Hypertoken Balance</h3>
+                        <div id="token-balance" class="stat-value">0</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Authenticity Score</h3>
+                        <div id="auth-score" class="stat-value">0%</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Quest Rewards</h3>
+                        <div id="quest-rewards" class="stat-value">0 sats</div>
+                    </div>
+                </div>
+                <div class="inscription-tools">
+                    <button id="inscribe-quest" class="sacred-btn secondary">Inscribe Quest to Bitcoin</button>
+                    <button id="verify-authenticity" class="sacred-btn secondary">Verify Authenticity</button>
+                </div>
+                <div id="inscription-history" class="inscription-list">
+                    <!-- Bitcoin inscriptions displayed here -->
+                </div>
+            </section>
+        </main>
+
+        <!-- Sacred Footer -->
+        <footer class="sacred-footer">
+            <div class="footer-content">
+                <div class="sacred-stats">
+                    <span>Traditions: <span id="tradition-count">26</span></span>
+                    <span>Governors: <span id="governor-count">91</span></span>
+                    <span>Quests: <span id="quest-count">0</span></span>
+                </div>
+                <div class="version-info">
+                    <span>Sacred Codex v4.0.0</span>
+                    <span>Bitcoin L1 Native</span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Error Modal -->
+    <div id="error-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <h3>Sacred Error</h3>
+            <p id="error-message"></p>
+            <button id="close-error" class="sacred-btn">Close</button>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/wasm-loader.js"></script>
+    <script src="js/sacred-core.js"></script>
+    <script src="js/lighthouse-ui.js"></script>
+    <script src="js/governors-ui.js"></script>
+    <script src="js/quests-ui.js"></script>
+    <script src="js/divination-ui.js"></script>
+    <script src="js/bitcoin-ui.js"></script>
+    <script src="js/app.js"></script>
+
+    <!-- Service Worker Registration -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(registration => console.log('SW registered:', registration))
+                .catch(error => console.log('SW registration failed:', error));
+        }
+    </script>
+</body>
+</html>

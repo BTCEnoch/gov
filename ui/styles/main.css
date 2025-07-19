@@ -1,0 +1,424 @@
+/* Enochian Cyphers - Sacred UI Styles */
+/* Zero external dependencies - Pure CSS implementation */
+
+:root {
+  /* Sacred Color Palette */
+  --sacred-primary: #1a1a2e;
+  --sacred-secondary: #16213e;
+  --sacred-accent: #e94560;
+  --sacred-gold: #f5b041;
+  --sacred-silver: #d5dbdb;
+  --sacred-dark: #0f0f1e;
+  --sacred-light: #f8f9fa;
+  
+  /* Enochian Colors */
+  --enochian-purple: #6c5ce7;
+  --enochian-blue: #74b9ff;
+  --enochian-green: #00b894;
+  
+  /* Typography */
+  --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --font-sacred: 'Times New Roman', serif;
+  
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-xxl: 3rem;
+  
+  /* Borders */
+  --border-radius: 8px;
+  --border-sacred: 2px solid var(--sacred-gold);
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.2);
+  --shadow-sacred: 0 0 20px rgba(245, 176, 65, 0.3);
+}
+
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-primary);
+  background: linear-gradient(135deg, var(--sacred-dark) 0%, var(--sacred-primary) 100%);
+  color: var(--sacred-light);
+  line-height: 1.6;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Sacred Loading Screen */
+.sacred-loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: var(--sacred-dark);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.enochian-sigil {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin-bottom: var(--spacing-xl);
+}
+
+.sigil-ring {
+  position: absolute;
+  border: 2px solid var(--sacred-gold);
+  border-radius: 50%;
+  animation: rotate 3s linear infinite;
+}
+
+.sigil-ring.outer {
+  width: 200px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  border-color: var(--enochian-purple);
+}
+
+.sigil-ring.middle {
+  width: 140px;
+  height: 140px;
+  top: 30px;
+  left: 30px;
+  border-color: var(--sacred-gold);
+  animation-direction: reverse;
+  animation-duration: 2s;
+}
+
+.sigil-ring.inner {
+  width: 80px;
+  height: 80px;
+  top: 60px;
+  left: 60px;
+  border-color: var(--enochian-blue);
+  animation-duration: 1.5s;
+}
+
+.sacred-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: var(--font-sacred);
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--sacred-gold);
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.loading-progress {
+  width: 300px;
+  text-align: center;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 4px;
+  background: var(--sacred-secondary);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-bottom: var(--spacing-md);
+}
+
+.progress-bar::before {
+  content: '';
+  display: block;
+  width: 30%;
+  height: 100%;
+  background: linear-gradient(90deg, var(--enochian-purple), var(--sacred-gold));
+  animation: progress 2s ease-in-out infinite;
+}
+
+.loading-text {
+  color: var(--sacred-silver);
+  font-size: 1rem;
+}
+
+/* Animations */
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes progress {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(333%); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+/* App Container */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* Header */
+.sacred-header {
+  background: rgba(26, 26, 46, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--sacred-gold);
+  padding: var(--spacing-md) 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.sacred-title {
+  font-family: var(--font-sacred);
+  font-size: 1.8rem;
+  color: var(--sacred-gold);
+  margin: 0;
+  text-shadow: 0 0 10px rgba(245, 176, 65, 0.5);
+}
+
+.subtitle {
+  font-size: 0.9rem;
+  color: var(--sacred-silver);
+  margin-top: -0.2rem;
+}
+
+.main-nav {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.nav-btn {
+  background: transparent;
+  border: 1px solid var(--sacred-gold);
+  color: var(--sacred-gold);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.nav-btn:hover,
+.nav-btn.active {
+  background: var(--sacred-gold);
+  color: var(--sacred-dark);
+  box-shadow: var(--shadow-sacred);
+}
+
+.connection-status {
+  display: flex;
+  gap: var(--spacing-sm);
+}
+
+.status-indicator {
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius);
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.status-indicator.online {
+  background: var(--enochian-green);
+  color: white;
+}
+
+.status-indicator.offline {
+  background: var(--sacred-accent);
+  color: white;
+}
+
+/* Main Content */
+.main-content {
+  flex: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-xl) var(--spacing-md);
+  width: 100%;
+}
+
+.content-view {
+  display: none;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.content-view.active {
+  display: block;
+}
+
+.view-header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.view-header h2 {
+  font-family: var(--font-sacred);
+  font-size: 2.5rem;
+  color: var(--sacred-gold);
+  margin-bottom: var(--spacing-sm);
+  text-shadow: 0 0 15px rgba(245, 176, 65, 0.4);
+}
+
+.view-header p {
+  color: var(--sacred-silver);
+  font-size: 1.1rem;
+}
+
+/* Sacred Buttons */
+.sacred-btn {
+  background: linear-gradient(135deg, var(--enochian-purple), var(--sacred-gold));
+  border: none;
+  color: white;
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: var(--shadow-md);
+}
+
+.sacred-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.sacred-btn.secondary {
+  background: transparent;
+  border: 2px solid var(--sacred-gold);
+  color: var(--sacred-gold);
+}
+
+.sacred-btn.secondary:hover {
+  background: var(--sacred-gold);
+  color: var(--sacred-dark);
+}
+
+/* Footer */
+.sacred-footer {
+  background: var(--sacred-dark);
+  border-top: 1px solid var(--sacred-gold);
+  padding: var(--spacing-lg) 0;
+  margin-top: auto;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sacred-stats {
+  display: flex;
+  gap: var(--spacing-lg);
+  color: var(--sacred-silver);
+  font-size: 0.9rem;
+}
+
+.version-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  color: var(--sacred-silver);
+  font-size: 0.8rem;
+}
+
+/* Modal */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000;
+}
+
+.modal-content {
+  background: var(--sacred-primary);
+  border: var(--border-sacred);
+  border-radius: var(--border-radius);
+  padding: var(--spacing-xl);
+  max-width: 500px;
+  text-align: center;
+}
+
+.modal-content h3 {
+  color: var(--sacred-gold);
+  margin-bottom: var(--spacing-md);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    gap: var(--spacing-md);
+  }
+  
+  .main-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .footer-content {
+    flex-direction: column;
+    gap: var(--spacing-md);
+    text-align: center;
+  }
+  
+  .sacred-stats {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+  }
+}
