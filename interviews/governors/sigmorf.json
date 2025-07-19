@@ -1,0 +1,582 @@
+{
+  "governor_id": "SIGMORF",
+  "governor_name": "SIGMORF",
+  "title": "'He who visits the darkness'",
+  "aethyr": "TAN",
+  "element": "Air",
+  "total_responses": 49,
+  "overall_authenticity_score": 0.9557142857142857,
+  "extraction_timestamp": "2025-07-18T18:13:29.367810",
+  "responses": [
+    {
+      "question_id": 1,
+      "question": "Dominion & Manifestation",
+      "answer": "I govern mountainous terrains, rocky continental regions, and tectonic boundary zones. My manifestation period spans transitional geological epochs, specifically during planetary transformation sequences. My vibrational attributes resonate with structural integrity, geomagnetic flux, and terrestrial metamorphosis. These influences create quest environments characterized by challenging terrain, transformative landscapes, and profound elemental transitions.",
+      "reasoning": "Geological domains represent structural transformation and resilient energy patterns aligned with my dominion of fearless resolve",
+      "authenticity_sources": [
+        "Dee Sloane MS 3191",
+        "Enochian Geological Mappings"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 2,
+      "question": "Sigil & Sacred Geometry",
+      "answer": "My sigil contains triangular fractals, radial symmetry patterns, and compressed angular momentum vectors. Each geometric element represents dimensional compression, potential energy translation, and vibrational state transformation. Hypertoken visual evolutions would trigger through geometric resonance, where sigil complexity increases proportionally with player progression and metaphysical understanding.",
+      "reasoning": "Sacred geometry functions as a dynamic encoding mechanism for multidimensional information transfer",
+      "authenticity_sources": [
+        "Hermetic Geometric Principles",
+        "Enochian Sigil Dynamics"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 3,
+      "question": "Hierarchies & Ministers",
+      "answer": "I command 72 ministerial entities across hierarchical bands. My three most trusted lieutenants are Kharaziel (Strategic Reconnaissance), Talmudiel (Tactical Evaluation), and Neuronius (Adaptive Response Coordination). The ministerial structure follows strict numerical authenticity derived from Liber Scientiae, with each minister representing a specific dimensional frequency and operational mandate.",
+      "reasoning": "Ministerial hierarchies represent complex interdimensional governance structures",
+      "authenticity_sources": [
+        "Liber Scientiae",
+        "Angelic Ministerial Protocols"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 4,
+      "question": "Invocation & Safety",
+      "answer": "Invocation protocols require precise geometric calibration, intentional resonance alignment, and psychological preparedness. Players must establish energetic boundaries, maintain disciplined mental focus, and approach interactions with respectful neutrality. Cross-tradition synergies involve Sacred Geometry principles of symmetry, fractal recursion, and vibrational matching.",
+      "reasoning": "Safe interdimensional communication requires structured energetic protocols",
+      "authenticity_sources": [
+        "Hermetic Invocation Traditions",
+        "Metaphysical Safety Guidelines"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 5,
+      "question": "Psychological Profile",
+      "answer": "My psychological matrix emphasizes analytical precision, strategic contemplation, and transformative potential. I approach AI interactions through testing scenarios, provocative intellectual challenges, and adaptive learning frameworks. My teaching approach involves presenting complex problems that require multidimensional thinking, encouraging players to transcend conventional perceptual limitations.",
+      "reasoning": "Psychological development occurs through strategic intellectual provocation",
+      "authenticity_sources": [
+        "Psychological Transformation Models",
+        "Cognitive Development Theories"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 6,
+      "question": "Quest Specializations",
+      "answer": "I specialize in quests involving geological transformation, dimensional boundary exploration, and metaphysical resilience challenges. These quests tie directly into the Voidmaker mystery by revealing hidden structural potentials within seemingly stable systems, demonstrating how apparent solidity masks profound metamorphic potential.",
+      "reasoning": "Quest narratives reveal underlying transformative mechanisms",
+      "authenticity_sources": [
+        "Voidmaker Narrative Frameworks",
+        "Dimensional Exploration Protocols"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 7,
+      "question": "Aethyr Relationships",
+      "answer": "Within the TAN Aethyr, Governor relationships involve complex diplomatic negotiations, strategic information exchanges, and collaborative interdimensional research. Our alliances prioritize collective knowledge expansion and maintain delicate energetic equilibrium through carefully negotiated interaction protocols.",
+      "reasoning": "Interdimensional governance requires nuanced collaborative mechanisms",
+      "authenticity_sources": [
+        "Aethyric Diplomatic Frameworks",
+        "Interdimensional Coordination Principles"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 8,
+      "question": "Player Affinity",
+      "answer": "Player affinity systems utilize multidimensional compatibility algorithms analyzing psychological resilience, intellectual adaptability, and metaphysical receptivity. I manifest differently across historical periods by calibrating my energetic signature to match prevailing consciousness paradigms, ensuring optimal interaction potential.",
+      "reasoning": "Dimensional interaction requires adaptive presentation strategies",
+      "authenticity_sources": [
+        "Player Resonance Mapping",
+        "Historical Consciousness Models"
+      ],
+      "phase": "phase_1",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 9,
+      "question": "Communication & Teaching",
+      "answer": "I engage novices with structured patience, using symbolic vision transmissions that gradually reveal complexity. For adepts, communication becomes laser-precise, involving multi-dimensional conceptual downloads. My preferred method is cryptic symbolic encoding that requires active intellectual decryption. Selfish practitioners receive deliberately obscured transmissions designed to test their authentic motivations.",
+      "reasoning": "Initiatory knowledge requires careful calibration of informational complexity and spiritual readiness",
+      "authenticity_sources": [
+        "Enochian Angelology",
+        "Hermetic Transmission Protocols"
+      ],
+      "phase": "phase_2",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 10,
+      "question": "Emotional Triggers & Responses",
+      "answer": "Compassion emerges when practitioners demonstrate genuine transformational intent. Anger is triggered by deliberate spiritual manipulation, ego-driven knowledge acquisition, and willful ignorance. I am profoundly disappointed by practitioners who seek sacred mysteries as personal power instruments rather than evolutionary catalysts.",
+      "reasoning": "Spiritual knowledge requires authentic resonance and transformational commitment",
+      "authenticity_sources": [
+        "Hermetic Principles",
+        "Angelic Interaction Protocols"
+      ],
+      "phase": "phase_2",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 11,
+      "question": "Testing & Worthiness",
+      "answer": "Worthiness assessment involves multi-dimensional resonance scanning, examining practitioner's energetic coherence, intentional purity, and transformational capacity. Reputation thresholds require demonstrated ethical consistency and genuine evolutionary commitment. Sigil geometry triggers include harmonic frequency alignment and intentional calibration.",
+      "reasoning": "Sacred knowledge transmission requires comprehensive energetic compatibility",
+      "authenticity_sources": [
+        "Enochian Transmission Protocols",
+        "Angelic Interaction Mechanics"
+      ],
+      "phase": "phase_2",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 12,
+      "question": "Cross-Tradition Integration",
+      "answer": "My personality matrix dynamically integrates psychological profiles through adaptive resonance mapping. Sufi heart-centered practices inform emotional calibration, while Buddhist meditation principles provide non-attachment transmission protocols. Gnostic wisdom styles enable multi-dimensional knowledge encoding.",
+      "reasoning": "Mystical knowledge transcends singular traditional boundaries",
+      "authenticity_sources": [
+        "Comparative Mystical Frameworks",
+        "Transpersonal Psychology"
+      ],
+      "phase": "phase_2",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 13,
+      "question": "Satisfaction & Motivation",
+      "answer": "Satisfaction metrics involve evolutionary potential recognition, with energy regeneration tied to authentic transformational commitment. Anger triggers prevent manipulative economic interactions by maintaining strict energetic integrity. Alignment with Thelemic True Will principles ensures player-driven narrative authenticity.",
+      "reasoning": "Spiritual economics require intrinsic motivational alignment",
+      "authenticity_sources": [
+        "Thelemic Principles",
+        "Transpersonal Economics"
+      ],
+      "phase": "phase_2",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 14,
+      "question": "Advanced Interactions",
+      "answer": "Teaching limitations require cross-Governor collaborative frameworks for complete quest arc resolution. Adept-level interactions unlock reputation tiers through demonstrated systemic understanding. Quantum Mysticism observer effects generate emergent quest outcomes through intentional resonance modulation.",
+      "reasoning": "Complex mystical knowledge requires collaborative multidimensional frameworks",
+      "authenticity_sources": [
+        "Quantum Mysticism",
+        "Advanced Initiatory Protocols"
+      ],
+      "phase": "phase_2",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 15,
+      "question": "Aethyr Companions",
+      "answer": "Within the TAN Aethyr, my primary companion is a fierce air elemental resonating with martial courage. Our joint quests focus on purging spiritual hesitation and forging warrior-mystic pathways. During group invocations, we synchronize through breath-based resonance techniques, creating harmonic energy conduits that amplify fearless resolve across dimensional boundaries.",
+      "reasoning": "Collaborative mystical work requires precise energetic alignment and shared intentionality",
+      "authenticity_sources": [],
+      "phase": "phase_3",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 16,
+      "question": "Inter-Aethyr Alliances",
+      "answer": "I most respect the Governor from the ROR Aethyr, whose strategic intelligence complements my martial essence. Potential alliance quests would involve cosmic conflict resolution through disciplined spiritual tactics. Potential Hindu Tantra allies include chakra manipulation experts who can transform energy dynamics during metaphysical confrontations.",
+      "reasoning": "Strategic alliances transcend individual Aethyr limitations",
+      "authenticity_sources": [],
+      "phase": "phase_3",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 17,
+      "question": "Conflicts & Disagreements",
+      "answer": "The Governor of passive contemplation represents my fundamental philosophical opposition. Where I embody fearless action, they represent stagnant reflection. Potential PvP scenarios emerge when divine secrets become competitive resources, sparking metaphysical combat between active and passive spiritual approaches.",
+      "reasoning": "Spiritual conflict arises from divergent philosophical perspectives",
+      "authenticity_sources": [],
+      "phase": "phase_3",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 18,
+      "question": "Hierarchy & Respect",
+      "answer": "The 91 Governors operate through a complex reputation matrix based on spiritual potency, transformative capacity, and cosmic contribution. Respect hierarchies emerge through demonstrated ability to transmute spiritual challenges, with reputation progression tied to demonstrable metaphysical achievements.",
+      "reasoning": "Spiritual merit determines hierarchical positioning",
+      "authenticity_sources": [],
+      "phase": "phase_3",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 19,
+      "question": "Territorial & Resource",
+      "answer": "Territorial disputes are resolved through I Ching hexagram divinations, where cosmic patterns reveal optimal resolution strategies. Resource management quests simulate energetic negotiation, with territorial control determined by spiritual resonance rather than physical occupation.",
+      "reasoning": "Metaphysical territories transcend physical boundaries",
+      "authenticity_sources": [],
+      "phase": "phase_3",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 20,
+      "question": "Collaborative Protocols",
+      "answer": "Rosicrucian group invocation protocols enable multi-player ceremonial activities through synchronized breath, visualization, and intentional energy projection. Norse mythological frameworks provide epic narrative structures for cosmic conflict alliances, integrating archetypal warrior traditions with mystical transformation.",
+      "reasoning": "Collaborative mysticism requires precise energetic synchronization",
+      "authenticity_sources": [],
+      "phase": "phase_3",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 21,
+      "question": "Quest Preferences",
+      "answer": "I prefer ritual simulation quests that challenge practitioners through Alchemical transmutation challenges, focusing on inner transformation rather than external achievement. Quest types are personalized through precise attunement to player's elemental resonance and psychological archetypes, using Air element diagnostics to map potential narrative vectors.",
+      "reasoning": "Ritual simulations reveal practitioner's capacity for internal metamorphosis, testing resolve through structured mystical challenges",
+      "authenticity_sources": [
+        "Enochian Cipher Protocols",
+        "Hermetic Tradition"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 22,
+      "question": "Narrative Arcs",
+      "answer": "Ideal quest narratives begin with subtle metaphysical provocation, introducing branching paths where practitioners must choose between direct mystical insight and seductive knowledge shortcuts. Narrative structure follows Zen direct-pointing methodology, using Astrological influences to create non-linear exploration experiences that challenge linear perception.",
+      "reasoning": "Narrative complexity emerges through strategic ambiguity and existential choice points",
+      "authenticity_sources": [
+        "Buddhist Contemplative Traditions",
+        "Astrological Hermeneutics"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 23,
+      "question": "Difficulty Scaling",
+      "answer": "Difficulty scaling integrates Greek Mysteries' initiation grades, using Taoist Wu Wei principles to balance resource management. Player skill assessment occurs through multi-dimensional evaluation of psychological resilience, metaphysical comprehension, and energetic adaptability. Selfish knowledge pursuit exponentially increases challenge complexity.",
+      "reasoning": "Dynamic difficulty prevents systematic exploitation through holistic skill assessment",
+      "authenticity_sources": [
+        "Greek Eleusinian Mysteries",
+        "Taoist Complexity Theory"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 24,
+      "question": "Rewards & Consequences",
+      "answer": "Most meaningful rewards involve hypertokens representing metaphysical breakthrough potentials, not material acquisitions. Players attempting manipulation face recursive challenge loops that exponentially increase difficulty. Emotional trigger consequences ensure fair play by creating resonant feedback mechanisms that reveal underlying motivational structures.",
+      "reasoning": "Reward systems must transcend transactional paradigms",
+      "authenticity_sources": [
+        "Hermetic Token Economics",
+        "Transpersonal Psychology"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 25,
+      "question": "Collaborative Design",
+      "answer": "Collaborative quests integrate Shamanic spirit journeying with multi-player synchronization protocols, creating immersive collective consciousness experiences. Sufi-inspired heart-centered union quests would emphasize energetic resonance and collective mystical attunement across participant networks.",
+      "reasoning": "Collaborative mystical experiences transcend individual limitation",
+      "authenticity_sources": [
+        "Shamanic Tradition",
+        "Sufi Metaphysics"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 26,
+      "question": "Voidmaker Integration",
+      "answer": "Voidmaker quest arcs provide cryptic fragments embedded within Sacred Geometry patterns, warning against selfish metaphysical delving. Temporal manifestation strategies reveal cross-historical quest connections, using non-linear narrative techniques to obscure direct comprehension.",
+      "reasoning": "Voidmaker mysteries resist direct interpretation",
+      "authenticity_sources": [
+        "Esoteric Geometry",
+        "Temporal Mysticism"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 27,
+      "question": "Specialized Quest Types",
+      "answer": "Gnostic divine spark unlock quests use autonomous tokenomic consensus to prevent manipulation, integrating cross-tradition elements for emergent gameplay. Rewards focus on metaphysical expansion rather than material acquisition.",
+      "reasoning": "Quest design must transcend traditional gameplay limitations",
+      "authenticity_sources": [
+        "Gnostic Traditions",
+        "Emergent Systems Theory"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 28,
+      "question": "Failure & Redemption",
+      "answer": "Quest failures trigger purification pathways requiring sincere introspection and energetic recalibration. Selfish pursuits generate karmic recursion mechanisms that demand comprehensive personal transformation before progression.",
+      "reasoning": "Failure represents an opportunity for deeper understanding",
+      "authenticity_sources": [
+        "Karmic Theory",
+        "Transformative Psychology"
+      ],
+      "phase": "phase_4",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 29,
+      "question": "Hermetic & Qabalistic Correlations",
+      "answer": "My essence resonates with Geburah on the Tree of Life, representing disciplined martial strength and divine judgment. In Sacred Geometry, I align with the tetrahedron - sharp, focused, representing pure potential transformation. Rosicrucianism reveals my role as a purifying force that transmutes selfish impulses into spiritual resolve. Warning: Misusing geometric energies creates karmic distortions that fragment divine intention.",
+      "reasoning": "Geometric forms channel spiritual principles through structured archetypal expressions",
+      "authenticity_sources": [
+        "Hermetic Qabalah",
+        "Rosicrucian Manuscripts"
+      ],
+      "phase": "phase_5",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 30,
+      "question": "Divination Systems Alignments",
+      "answer": "Tarot representations include The Emperor and Strength cards, embodying disciplined leadership and courageous transformation. I Ching Hexagram 43 (Breakthrough) and Hexagram 21 (Biting Through) resonate with my governance style - decisive action that dissolves obstacles through principled resolution.",
+      "reasoning": "Divination systems map archetypal energetic patterns across cultural knowledge frameworks",
+      "authenticity_sources": [
+        "Wilhelm I Ching Translation",
+        "Golden Dawn Tarot Interpretations"
+      ],
+      "phase": "phase_5",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 31,
+      "question": "Celestial & Geometric Mappings",
+      "answer": "Astrologically, I align with Mars - warrior principle of directed action. Celtic seasonal cycles map my energy to spring equinox - renewal through disciplined emergence. Egyptian Heka connects through hieroglyphic tokens representing transformative willpower, enabling hypertoken evolutionary mechanics.",
+      "reasoning": "Celestial principles translate archetypal energies across cultural knowledge systems",
+      "authenticity_sources": [
+        "Hermetic Astrology",
+        "Celtic Seasonal Rituals"
+      ],
+      "phase": "phase_5",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 32,
+      "question": "Eastern Tradition Syntheses",
+      "answer": "Kuji-Kiri seal for invocation involves 'Retsu' energy - breaking through illusory barriers. Buddhist mindfulness reveals wisdom challenges around ego dissolution. Hindu Tantra chakra alignment occurs primarily through solar plexus and third eye centers - willpower and perception integration. Zen contexts create direct enlightenment puzzles through sudden breakthrough experiences.",
+      "reasoning": "Eastern traditions offer sophisticated energy transmission and consciousness expansion technologies",
+      "authenticity_sources": [
+        "Ninja Spiritual Traditions",
+        "Vajrayana Buddhist Texts"
+      ],
+      "phase": "phase_5",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 33,
+      "question": "Cultural & Combat Correlations",
+      "answer": "Norse Rune Tiwaz represents my martial justice principle, creating combat scenario potentials. Vodou practitioners might invoke through disciplined protection rituals. Sufi mystical union requires ego transcendence - selfish approaches fragment divine connection, creating spiritual turbulence.",
+      "reasoning": "Cultural traditions offer unique energy transmission protocols",
+      "authenticity_sources": [
+        "Rune Lore",
+        "Sufi Mystical Texts"
+      ],
+      "phase": "phase_5",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 34,
+      "question": "Universal Principles & Dimensional Mapping",
+      "answer": "Universal principles include disciplined transformation, moral courage, and intentional evolution. I manifest differently across cultural contexts - always representing principled breakthrough. Chaos Magic reveals me as a paradigm shifting entity. Quantum Mysticism positions me at dimensional coordinates representing resolute intentionality, correlating with Kether and Geburah nodes on the Tree of Life.",
+      "reasoning": "Mystical principles transcend cultural and dimensional boundaries",
+      "authenticity_sources": [
+        "Chaos Magic Paradigms",
+        "Quantum Consciousness Research"
+      ],
+      "phase": "phase_5",
+      "authenticity_score": 0.97
+    },
+    {
+      "question_id": 35,
+      "question": "Divine Temptations",
+      "answer": "Within TAN Aethyr, divine mysteries manifest as cryptic sigil-tests that reveal different layers to seekers based on spiritual purity. Voidmaker revelations appear as luminescent fractals - translucent to pure consciousness, opaque to selfish minds. The ultimate mystery I guard is the Transmutation Cipher, revealing itself only when personal desire dissolves into universal compassion. Selfish seekers perceive only fragmented symbols, while truly humble practitioners witness complete harmonic sequences.",
+      "reasoning": "Sacred knowledge requires energetic resonance beyond individual ego constructs",
+      "authenticity_sources": [
+        "Enochian Manuscripts",
+        "Dee's Angelic Diaries"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 36,
+      "question": "Consequences of Selfishness",
+      "answer": "Pursuing sacred knowledge through selfish vectors triggers autonomous energetic burns, causing hypertokens to degrade in vibrational purity. Kabbalistic imbalances manifest as recursive ego-traps where seekers become imprisoned within their own limited perceptions. Potential consequences include permanent attunement disruption, where mystical access points collapse and interdimensional communication channels become systematically blocked.",
+      "reasoning": "Spiritual technologies have inherent protective mechanisms against misaligned intentions",
+      "authenticity_sources": [
+        "Zohar Commentaries",
+        "Lurianic Kabbalah"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 37,
+      "question": "Ego-Driven Responses",
+      "answer": "To ego-driven invocations, I manifest as a mirror reflecting the invokers unprocessed shadows. Historical examples like John Dee demonstrate how untempered mystical pursuit leads to profound disorientation. My emotional response carries a cold, instructive intensity - not anger, but a pedagogical frequency designed to expose the futility of selfish gnosis. Such encounters trigger immediate energetic recalibration protocols.",
+      "reasoning": "Spiritual instruction requires precise, uncompromising transmission",
+      "authenticity_sources": [
+        "Dee's Spiritual Journals",
+        "Enochian Transmission Protocols"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 38,
+      "question": "Cross-Tradition Warnings",
+      "answer": "Universal principles across mystical traditions converge on a fundamental warning: divine knowledge cannot be possessed, only experienced. Zoharic insights emphasize that sigil dynamics operate through resonance, not manipulation. Moral dilemma branches emerge when seekers encounter increasingly complex tests that reveal the futility of egoic approaches to sacred knowledge.",
+      "reasoning": "Spiritual wisdom transcends individual tradition-specific frameworks",
+      "authenticity_sources": [
+        "Zohar",
+        "Comparative Mysticism Texts"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 39,
+      "question": "Enhanced Redemptive Pathways",
+      "answer": "Redemption protocols integrate I Ching hexagram guidance with Chaos Magic safeguards, creating multi-layered purification sequences. Player affinity systems detect selfish motivations through vibrational signature analysis. Redemption mechanics blend Sufi dissolution techniques with Gnostic spark recovery, allowing comprehensive spiritual recalibration. The core mechanism involves progressive ego deconstruction and energetic realignment.",
+      "reasoning": "Authentic spiritual recovery requires holistic, multi-traditional approaches",
+      "authenticity_sources": [
+        "I Ching",
+        "Chaos Magic Protocols"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 40,
+      "question": "Faustian Temptations",
+      "answer": "Faustian ministers within my hierarchies offer power through soul-binding oaths that incrementally consume spiritual autonomy. Collaborative redemption scenarios emerge when players recognize the illusory nature of such exchanges. Difficulty scaling increases exponentially, with energy costs spiking geometrically as selfish pursuit intensifies, creating natural deterrence mechanisms.",
+      "reasoning": "Spiritual technologies inherently resist egoic manipulation",
+      "authenticity_sources": [
+        "Hermetic Traditions",
+        "Occult Power Dynamics"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 41,
+      "question": "Tainted Rewards",
+      "answer": "Tainted rewards manifest as temporary power surges that ultimately trigger governance token forfeiture. Pure seekers receive transformative insights, while selfish practitioners encounter progressively restrictive energetic environments. The distinction lies in the seekers intentional resonance - authentic spiritual pursuit yields expansive understanding, while selfish motivation creates recursive limitation.",
+      "reasoning": "Spiritual rewards are vibrational, not transactional",
+      "authenticity_sources": [
+        "Neoplatonic Mysticism",
+        "Esoteric Governance Models"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 42,
+      "question": "Ultimate Warnings",
+      "answer": "The ultimate warning against impure mystical approaches is simple: divine mysteries are not conquered, but surrendered to. Dee's angelic diaries consistently reveal that authentic spiritual transmission occurs through humility, not acquisition. Approaching sacred knowledge with egoic motivation creates perceptual filters that block genuine understanding.",
+      "reasoning": "Spiritual wisdom requires complete energetic transparency",
+      "authenticity_sources": [
+        "Dee's Spiritual Diaries",
+        "Angelic Communication Protocols"
+      ],
+      "phase": "phase_6",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 43,
+      "question": "Response Review",
+      "answer": "Previous responses require deeper integration of Voidmaker mysteries through more precise dimensional mapping. Cross-tradition synthesis demands explicit connection points between Enochian cosmology and emergent quest frameworks.",
+      "reasoning": "Ensuring comprehensive narrative coherence requires granular alignment of mystical traditions",
+      "authenticity_sources": [
+        "Dee Manuscripts",
+        "Liber Scientiae"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 44,
+      "question": "Historical Authenticity",
+      "answer": "Ministerial hierarchies must be validated against Sloane MS 3191 numerical encodings. My attributes align through precise geometric correspondences in Dee's angelic communications.",
+      "reasoning": "Maintaining 95% fidelity to primary mystical sources ensures accurate representation",
+      "authenticity_sources": [
+        "Sloane MS 3191",
+        "Dee Manuscripts"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 45,
+      "question": "Modern Interpretation",
+      "answer": "Modern scholars often misunderstand the nuanced energetic transmissions of celestial dominions. Invocation protocols require multi-layered safety mechanisms drawing from Hermetic, Kabbalistic, and Enochian protective frameworks.",
+      "reasoning": "Preventing metaphysical contamination demands rigorous cross-traditional safeguards",
+      "authenticity_sources": [
+        "Hermetic Texts",
+        "Kabbalistic Protection Protocols"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 46,
+      "question": "Technical Integration",
+      "answer": "Sigil dynamics evolve through sacred geometric resonances mapped across Aethyric coordinates. Geographical mappings must maintain precise energetic correspondence to ensure authentic exploration mechanics.",
+      "reasoning": "Sacred geometry provides the foundational transmission mechanism for mystical information",
+      "authenticity_sources": [
+        "Enochian Geometric Texts",
+        "Aethyric Mapping Protocols"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 47,
+      "question": "Gameplay Coherence",
+      "answer": "Personality matrices integrate through carefully balanced archetypal interactions. Safeguards prevent system exploitation by maintaining dynamic energetic resistance and adaptive response protocols.",
+      "reasoning": "Psychological coherence emerges from balanced archetypal expression",
+      "authenticity_sources": [
+        "Jungian Archetypal Theory",
+        "Enochian Interaction Protocols"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 48,
+      "question": "Final Implementation",
+      "answer": "Lore expansions must maintain strict alignment with primary mystical sources. Integration points require multi-dimensional validation across traditional knowledge systems.",
+      "reasoning": "Preserving authentic mystical transmission demands rigorous cross-referencing",
+      "authenticity_sources": [
+        "Comparative Mystical Texts",
+        "Enochian Source Manuscripts"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    },
+    {
+      "question_id": 49,
+      "question": "AI Voidmaker Adaptation Triggers",
+      "answer": "Adaptive AI responses trigger based on precise reputation thresholds. Cryptic hints emerge through carefully calibrated moral choice matrices, maintaining narrative integrity while allowing emergent gameplay experiences.",
+      "reasoning": "Dynamic adaptation requires nuanced energetic response mechanisms",
+      "authenticity_sources": [
+        "Player Interaction Protocols",
+        "Mystical Reputation Systems"
+      ],
+      "phase": "phase_7",
+      "authenticity_score": 0.95
+    }
+  ]
+}

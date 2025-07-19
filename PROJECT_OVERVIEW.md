@@ -8,7 +8,7 @@
 - **91 Governor Angel Profiles** - Complete interview data with authentic Enochian names
 - **26 Sacred Traditions** - 2,565+ knowledge entries with 85%+ authenticity scores  
 - **AI Embodiment System** - Full personality integration with lighthouse knowledge
-- **Quest Generation Engine** - 9,126 generated quests (75-125 per governor)
+- **AI Quest Generation Engine** - 1,365 AI-generated dynamic quests (15 per governor)
 - **Divination Systems** - Complete Tarot, I Ching, and Astrology engines
 - **Content Indexing** - Full-text search and cross-reference mapping
 
@@ -83,18 +83,19 @@ from governor_ai_embodiment import main
 embodiment_system = main()  # Creates all 91 AI embodiments
 ```
 
-#### 4. **Quest Generation System** (`governor_quest_generator.py`)
+#### 4. **AI Batch Quest Generation System** (`batch_governor_quest_generator.py`)
 ```python
-⚔️ Dynamic Quest Creation (9,126 total quests)
-├── Quest Types: meditation, ritual, study, divination, service, creation, teaching, mastery
-├── Difficulty Scaling: 1-30 based on Aethyr tier and progression
-├── Authentic Content: Incorporates lighthouse knowledge entries
-├── Personality Flavoring: Each quest reflects governor's unique voice
-└── Export System: Complete quest trees with metadata
+⚔️ AI-Driven Dynamic Quest Creation (1,365 total quests)
+├── AI Providers: OpenAI GPT-4, Anthropic Claude
+├── Batch Processing: 91 governors processed in parallel
+├── Quest Types: 15-quest narrative arcs per governor
+├── Authentic Content: Enochian magic foundation + lighthouse knowledge
+├── Personality Integration: Each governor creates their own questlines
+└── Cost Tracking: $30-50 for full batch processing
 
 # Usage Example:
-from governor_quest_generator import main
-quest_system = main()  # Generates all quest trees
+from batch_governor_quest_generator import main
+quest_system = await main()  # Generates AI questlines for all governors
 ```
 
 ## 📊 **System Statistics**
@@ -104,7 +105,7 @@ quest_system = main()  # Generates all quest trees
 | **Governor Angels** | 91 | Authentic Enochian names, complete personalities |
 | **Sacred Traditions** | 26 | 7+6+6+7 distribution (immutable) |
 | **Knowledge Entries** | 2,565 | 300-800 words each, 85%+ authenticity |
-| **Generated Quests** | 9,126 | 75-125 per governor, 8 quest types |
+| **AI-Generated Quests** | 1,365 | 15 per governor via AI batch processing |
 | **Aethyrs** | 30 | TEX (4 governors), others (3 each) |
 | **Divination Systems** | 3 | Tarot (78 cards), I Ching (64 hexagrams), Astrology |
 
@@ -123,8 +124,15 @@ cd gov
 # Generate AI embodiments (loads all 91 governor profiles + lighthouse)
 python governor_ai_embodiment.py
 
-# Generate quest trees (creates 9,126 quests)
-python governor_quest_generator.py
+# Generate AI agent prompts (creates personality prompts for all 91 governors)
+python governor_agent_prompt_generator.py
+
+# Generate dynamic questlines (creates 1,365 AI-generated quests)
+python batch_governor_quest_generator.py
+
+# Extract and integrate governor interview data (4,453 responses)
+python interviews/interview_extractor.py
+python governor_interview_integration.py
 
 # Use divination systems
 python divination_systems/divination_master.py
@@ -132,7 +140,10 @@ python divination_systems/divination_master.py
 
 ### **Output Files**
 - `governor_ai_embodiments.json` - 91 complete AI personalities
-- `governor_quest_trees.json` - 9,126 generated quests with metadata
+- `governor_agent_prompts.json` - AI personality prompts for batch processing
+- `generated_questlines/` - 1,365 AI-generated dynamic quests
+- `interviews/governors/` - 4,453 isolated interview responses (91 governors)
+- `governor_interview_integration.json` - Enhanced embodiment integration data
 - `lighthouse_master_index.json` - Central knowledge index
 
 ## 🎮 **Governor Angels Overview**
@@ -214,7 +225,7 @@ VTI(3)  ZAA(3)   RII(3)  LIL(3)
 
 Total: 91 Governor Angels across 30 Aethyrs
 26 Sacred Traditions with 2,565+ Knowledge Entries
-9,126 Generated Quests with Authentic Content
+1,365 AI-Generated Dynamic Quests with Authentic Content
 ```
 
 ## 🤝 **Contributing**
