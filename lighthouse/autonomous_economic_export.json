@@ -1,0 +1,183 @@
+{
+  "export_timestamp": "2025-07-18T22:26:06.197379",
+  "system_summary": {
+    "economic_parameters": {
+      "base_price_sats": 4.72,
+      "authenticity_multiplier_max": 2.0,
+      "enochian_bonus_multiplier": 1.8,
+      "rarity_multiplier_max": 4.0,
+      "liquidity_pool_fee": 0.1,
+      "burn_rate": 0.05,
+      "staking_reward_rate": 0.15,
+      "price_stability_threshold": 0.2,
+      "market_maker_spread": 0.02
+    },
+    "market_state": {
+      "total_market_cap": 200003.79666880635,
+      "total_volume_24h": 18.983344031697335,
+      "average_authenticity": 0.95,
+      "price_volatility": 0.42027322902059416,
+      "liquidity_ratio": 5267.875784552266,
+      "active_pools": 1,
+      "timestamp": "2025-07-18T22:26:06.197379"
+    },
+    "transaction_metrics": {
+      "total_transactions": 6,
+      "total_volume_sats": 19.268094192172796,
+      "total_fees_collected": 2.847501604754601,
+      "average_authenticity": 0.9166666666666666,
+      "high_authenticity_transactions": 2,
+      "high_auth_percentage": 33.33333333333333
+    },
+    "price_metrics": {
+      "average_price": 6.327781343899113,
+      "maximum_price": 11.05213306143692,
+      "minimum_price": 3.3970125573341092,
+      "price_volatility": 0.42027322902059416
+    },
+    "liquidity_pools": {
+      "ENOCHIAN_MAIN_POOL": {
+        "pool_id": "ENOCHIAN_MAIN_POOL",
+        "total_liquidity_sats": 100001.89833440317,
+        "quest_token_reserve": 10557.719906745062,
+        "btc_reserve": 97377.58621854776,
+        "price_per_token": 9.223353818691066,
+        "volume_24h": 18.983344031697335,
+        "fees_collected": 1.6135842426942737,
+        "last_update": "2025-07-18T22:26:06.197379"
+      }
+    },
+    "system_health": {
+      "liquidity_adequate": true,
+      "price_stable": false,
+      "authenticity_high": true,
+      "volume_healthy": false
+    }
+  },
+  "transaction_history": [
+    {
+      "tx_id": "PURCHASE_1752902766_5531",
+      "tx_type": "purchase",
+      "quest_id": "ECON_TEST_001",
+      "amount_sats": 11.05213306143692,
+      "authenticity_score": 0.98,
+      "price_multiplier": 1.3000000000000003,
+      "fees_paid": 1.6578199592155383,
+      "timestamp": "2025-07-18T22:26:06.196378",
+      "block_height": 850000
+    },
+    {
+      "tx_id": "PURCHASE_1752902766_1690",
+      "tx_type": "purchase",
+      "quest_id": "ECON_TEST_002",
+      "amount_sats": 4.534198412926307,
+      "authenticity_score": 0.92,
+      "price_multiplier": 0.96,
+      "fees_paid": 0.6801297619389461,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "block_height": 850001
+    },
+    {
+      "tx_id": "PURCHASE_1752902766_7141",
+      "tx_type": "purchase",
+      "quest_id": "ECON_TEST_003",
+      "amount_sats": 3.3970125573341092,
+      "authenticity_score": 0.87,
+      "price_multiplier": 0.935,
+      "fees_paid": 0.5095518836001164,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "block_height": 850002
+    },
+    {
+      "tx_id": "REWARD_1752902766_2652",
+      "tx_type": "reward",
+      "quest_id": null,
+      "amount_sats": 0.08560526976319209,
+      "authenticity_score": 0.95,
+      "price_multiplier": 1.0,
+      "fees_paid": 0.0,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "block_height": 0
+    },
+    {
+      "tx_id": "REWARD_1752902766_4699",
+      "tx_type": "reward",
+      "quest_id": null,
+      "amount_sats": 0.040549864624669946,
+      "authenticity_score": 0.9,
+      "price_multiplier": 1.0,
+      "fees_paid": 0.0,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "block_height": 0
+    },
+    {
+      "tx_id": "REWARD_1752902766_3756",
+      "tx_type": "reward",
+      "quest_id": null,
+      "amount_sats": 0.15859502608759798,
+      "authenticity_score": 0.88,
+      "price_multiplier": 1.0,
+      "fees_paid": 0.0,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "block_height": 0
+    }
+  ],
+  "price_history": [
+    {
+      "quest_id": "ECON_TEST_001",
+      "base_price": 4.72,
+      "authenticity_multiplier": 1.3000000000000003,
+      "enochian_bonus": 1.8,
+      "rarity_multiplier": 1.3,
+      "final_price": 11.05213306143692,
+      "timestamp": "2025-07-18T22:26:06.196378",
+      "market_conditions": {
+        "demand_multiplier": 0.7697414907005955,
+        "liquidity_adjustment": 1.0,
+        "volatility_factor": 0.0
+      }
+    },
+    {
+      "quest_id": "ECON_TEST_002",
+      "base_price": 4.72,
+      "authenticity_multiplier": 0.96,
+      "enochian_bonus": 1.0,
+      "rarity_multiplier": 1.3,
+      "final_price": 4.534198412926307,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "market_conditions": {
+        "demand_multiplier": 0.7697414907005955,
+        "liquidity_adjustment": 0.9999977895733877,
+        "volatility_factor": 0.0
+      }
+    },
+    {
+      "quest_id": "ECON_TEST_003",
+      "base_price": 4.72,
+      "authenticity_multiplier": 0.935,
+      "enochian_bonus": 1.0,
+      "rarity_multiplier": 1.0,
+      "final_price": 3.3970125573341092,
+      "timestamp": "2025-07-18T22:26:06.197379",
+      "market_conditions": {
+        "demand_multiplier": 0.7697414907005955,
+        "liquidity_adjustment": 0.9999968827337051,
+        "volatility_factor": 0.5897444965852771
+      }
+    }
+  ],
+  "expert_compliance": {
+    "authenticity_based_pricing": true,
+    "liquidity_pool_management": true,
+    "p2p_synchronization_ready": true,
+    "autonomous_mechanisms": true,
+    "economic_incentives": true,
+    "fraud_prevention": true
+  },
+  "deployment_status": {
+    "production_ready": true,
+    "bitcoin_l1_compatible": true,
+    "trac_integration": true,
+    "tap_protocol_ready": true
+  }
+}

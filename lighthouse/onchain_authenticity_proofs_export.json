@@ -1,0 +1,228 @@
+{
+  "export_timestamp": "2025-07-18T22:23:50.674734",
+  "system_info": {
+    "total_batches": 1,
+    "total_validations": 1,
+    "authenticity_thresholds": {
+      "excellent": 0.95,
+      "good": 0.9,
+      "acceptable": 0.85,
+      "poor": 0.8
+    }
+  },
+  "authenticity_batches": [
+    {
+      "batch_id": "TEST_GOVERNOR_AUTH_BATCH_1752902630",
+      "governor_name": "TEST_GOVERNOR",
+      "quest_count": 10,
+      "average_authenticity": 1.0,
+      "high_authenticity_count": 10,
+      "merkle_root": "e53c7ecfde1a5a80922f365caf8291ff197f1dd5b6937fe800de41698f72d6e7",
+      "proofs": [
+        {
+          "quest_id": "MOCK_QUEST_000",
+          "authenticity_score": 1.0,
+          "content_hash": "cf80394fd8a7c5a7bcb557eed846114d619447f093be9c979154ee5dd58d450d",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "24c4bcd64dfe3b24ccf3934e0b935b8a1f30a89a6c979147c2644f7106b56525",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_001",
+          "authenticity_score": 1.0,
+          "content_hash": "9f35573c60c58109163e6f3e15c76e06e16841d6b5495ef09ef01e0a2d450b23",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "8f72e3d99fed55dae1754c248eb95625712458b831b8e9d4e41afdd1170ec7e5",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_002",
+          "authenticity_score": 1.0,
+          "content_hash": "a276648d71603b4f9d88ccf80e973b641d48e056c837c9f9c68248f6507a8f36",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "719bdfd1aa95618ae236f66f1d124b2c1dbda4488ff8c153a31c9c908adfe870",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_003",
+          "authenticity_score": 1.0,
+          "content_hash": "56d0d872837f8d0638edfe62e73c308005654208327024bd1aba786887f3e3f1",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "f0bfb65d2be95682393a8aed6d2549f8a2e0e954bc130724179667084d6ce984",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_004",
+          "authenticity_score": 1.0,
+          "content_hash": "ef2fe5804d1e76eec0a61170554834bc2ff89125c7a0ac3c47b2e1f7ed65b576",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "14724ecdb56db56bfd816c72666f715c9b2e11989d41225d1727ca3a0dac0a43",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_005",
+          "authenticity_score": 1.0,
+          "content_hash": "f5d9fc4dfe30715801cb840631268cfd191986b66b1508f913133a25c0b05c12",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "63e0b6492447fb9c42bf8a2f7abcd701435a530047c8901c6b0a0805f39f1341",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_006",
+          "authenticity_score": 1.0,
+          "content_hash": "9cf0f192bf2dac75afae1311bb71316ad1dd477eeba7040fcca1291880f768be",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "04fa72401808b05c413d717b36835a5608d159b479f469812a944c54b131b5f1",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_007",
+          "authenticity_score": 1.0,
+          "content_hash": "3ad3fe67d13a7c9ee4abf4701e5801c6cb9c3b6d0a86c2324d3dfece263f7590",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "da7859d9b37bb6e53c23019ee9f140773d026ac5a4a6419e343b278f3ca4f3f4",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_008",
+          "authenticity_score": 1.0,
+          "content_hash": "e198ad4eab84388b0fc80da57a5d71ff2b4442d0829654802af8d17837411111",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "615d1b2cd116b4165e9cf203e3a8d3f101d9f7a46c4d72ab8a863d06fc1ddb21",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        },
+        {
+          "quest_id": "MOCK_QUEST_009",
+          "authenticity_score": 1.0,
+          "content_hash": "d4c4f5e919f8c873bd0d1781969722497c946a16eb4c9bb9a4317410e8691526",
+          "source_hashes": [
+            "f807398e3e1f7cb6c375335381d519ecb28c3354b444d49ba1b370dce5f3dd37",
+            "7d5ef13132305d7a042d7de45100acb1efaa677db20af20ea739fd7ab43ca0cd"
+          ],
+          "tradition_weights": {
+            "Enochian": 1.3,
+            "Hermetic_Qabalah": 1.2
+          },
+          "enochian_weight": 0.06,
+          "proof_hash": "f4701640f29b38bdb3a56d2de6acfb2db219d333f37cd4ee954630456cf778ac",
+          "timestamp": "2025-07-18T22:23:50.674734",
+          "merkle_path": [],
+          "block_height": 850000
+        }
+      ],
+      "batch_hash": "5f06347f7f40f1e44707d5c7a4321639f906e0e7a4242513000dd2b943fe63d1",
+      "creation_timestamp": "2025-07-18T22:23:50.674734",
+      "trac_entry_id": "TRAC_5f06347f7f40f1e4"
+    }
+  ],
+  "validation_history": [
+    {
+      "validation_id": "VALIDATION_1752902630",
+      "batch_id": "TEST_GOVERNOR_AUTH_BATCH_1752902630",
+      "merkle_root_verified": false,
+      "authenticity_threshold_met": true,
+      "fraud_detected": false,
+      "validation_timestamp": "2025-07-18T22:23:50.674734",
+      "validator_signature": "f5aa001fdfb708581d0fc1c44008f3aa2725e9961ea69715f7c5b2dcac9ad3b4"
+    }
+  ],
+  "merkle_roots": {
+    "TEST_GOVERNOR_AUTH_BATCH_1752902630": "e53c7ecfde1a5a80922f365caf8291ff197f1dd5b6937fe800de41698f72d6e7"
+  },
+  "trac_integration": {
+    "ready_for_inscription": true,
+    "compression_ready": true,
+    "fraud_protection": true,
+    "immutable_storage": true
+  }
+}
