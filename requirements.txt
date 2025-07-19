@@ -1,29 +1,37 @@
-# Enochian Cyphers Lighthouse Requirements
-# Core Python libraries for the lighthouse system
+# Enochian Cyphers Governor Angels System
+# Python dependencies for AI embodiment and batch quest generation
+
+# AI API Integration (REQUIRED for batch processing)
+openai>=1.0.0
+anthropic>=0.7.0
+requests>=2.28.0
 
 # Data handling and processing
 json5>=0.9.6
 pathlib2>=2.3.7
+pandas>=1.5.0
+numpy>=1.21.0
 
 # Date and time handling
 python-dateutil>=2.8.2
 
-# Optional: Enhanced JSON handling
+# Enhanced JSON handling
 ujson>=5.4.0
 
-# Optional: Performance improvements
-numpy>=1.21.0
-
-# Optional: Advanced text processing
+# Advanced text processing
 regex>=2022.7.9
 
-# Development and testing (optional)
+# Environment management
+python-dotenv>=1.0.0
+
+# Development and testing
 pytest>=7.1.0
 pytest-cov>=3.0.0
+pytest-asyncio>=0.21.0
 
-# Documentation (optional)
+# Documentation
 markdown>=3.4.0
 
-# Note: The lighthouse system is designed to work with Python 3.8+ standard library
-# Most functionality requires only built-in modules for maximum compatibility
-# Additional packages listed above are optional enhancements
+# Note: Core lighthouse system works with Python 3.8+ standard library
+# AI batch processing requires OpenAI/Anthropic API access
+# Additional packages enhance functionality and performance
