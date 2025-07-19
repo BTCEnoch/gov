@@ -1,0 +1,138 @@
+{
+  "tap_protocol_version": "1.0.0",
+  "enochian_cyphers_inscriptions": {
+    "total_batches": 11,
+    "total_entries": 2565,
+    "total_compressed_size": 181987,
+    "average_compression_ratio": 0.02259915043551569,
+    "ordinals_compliant": true,
+    "created_timestamp": "2025-07-18T20:26:46.426728"
+  },
+  "batches": [
+    {
+      "batch_id": "enochian_tap_batch_001",
+      "batch_number": 1,
+      "traditions": [
+        "traditional_kabbalah",
+        "enochian_magic"
+      ],
+      "entry_count": 245,
+      "compressed_size": 25509,
+      "metadata_hash": "7f74e63a880a8a14"
+    },
+    {
+      "batch_id": "enochian_tap_batch_002",
+      "batch_number": 2,
+      "traditions": [
+        "quantum_physics",
+        "alchemy"
+      ],
+      "entry_count": 225,
+      "compressed_size": 14142,
+      "metadata_hash": "e574d5f442825a73"
+    },
+    {
+      "batch_id": "enochian_tap_batch_003",
+      "batch_number": 3,
+      "traditions": [
+        "golden_dawn",
+        "digital_physics"
+      ],
+      "entry_count": 213,
+      "compressed_size": 13596,
+      "metadata_hash": "a8c09a07271ef5c7"
+    },
+    {
+      "batch_id": "enochian_tap_batch_004",
+      "batch_number": 4,
+      "traditions": [
+        "taoism",
+        "astrology"
+      ],
+      "entry_count": 230,
+      "compressed_size": 17796,
+      "metadata_hash": "8eda55393628aa60"
+    },
+    {
+      "batch_id": "enochian_tap_batch_005",
+      "batch_number": 5,
+      "traditions": [
+        "natal_astrology",
+        "thelema"
+      ],
+      "entry_count": 205,
+      "compressed_size": 13177,
+      "metadata_hash": "3ba0ae5959873566"
+    },
+    {
+      "batch_id": "enochian_tap_batch_006",
+      "batch_number": 6,
+      "traditions": [
+        "celtic_druidic",
+        "sufism"
+      ],
+      "entry_count": 205,
+      "compressed_size": 13153,
+      "metadata_hash": "7fd9a3b678b4f4b2"
+    },
+    {
+      "batch_id": "enochian_tap_batch_007",
+      "batch_number": 7,
+      "traditions": [
+        "gnosticism",
+        "greek_philosophy"
+      ],
+      "entry_count": 195,
+      "compressed_size": 12707,
+      "metadata_hash": "36dd40c3314c943d"
+    },
+    {
+      "batch_id": "enochian_tap_batch_008",
+      "batch_number": 8,
+      "traditions": [
+        "m_theory",
+        "sacred_geometry",
+        "hermetic_qabalah"
+      ],
+      "entry_count": 305,
+      "compressed_size": 21123,
+      "metadata_hash": "4813a4b4f947424e"
+    },
+    {
+      "batch_id": "enochian_tap_batch_009",
+      "batch_number": 9,
+      "traditions": [
+        "chaos_magic",
+        "norse_traditions",
+        "shamanism"
+      ],
+      "entry_count": 275,
+      "compressed_size": 16650,
+      "metadata_hash": "22b7ed4a6afad018"
+    },
+    {
+      "batch_id": "enochian_tap_batch_010",
+      "batch_number": 10,
+      "traditions": [
+        "egyptian_magic",
+        "numerology",
+        "greek_mythology"
+      ],
+      "entry_count": 250,
+      "compressed_size": 15518,
+      "metadata_hash": "80730cca96821538"
+    },
+    {
+      "batch_id": "enochian_tap_batch_011",
+      "batch_number": 11,
+      "traditions": [
+        "kuji_kiri",
+        "i_ching",
+        "tarot"
+      ],
+      "entry_count": 217,
+      "compressed_size": 18616,
+      "metadata_hash": "83962809cc5653be"
+    }
+  ]
+}

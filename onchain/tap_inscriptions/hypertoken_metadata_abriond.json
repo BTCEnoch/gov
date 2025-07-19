@@ -1,0 +1,24 @@
+{
+  "token_id": "b2450b04c537c342",
+  "governor_name": "ABRIOND",
+  "tradition_affinities": {},
+  "wisdom_level": 1,
+  "evolution_stage": "nascent",
+  "mutation_triggers": [
+    "quest_completion",
+    "wisdom_synthesis",
+    "tradition_mastery"
+  ],
+  "cross_token_interactions": [
+    "governor_collaboration",
+    "tradition_synthesis",
+    "aethyr_resonance"
+  ],
+  "authenticity_score": 0.95,
+  "source_citations": [
+    "John Dee's Angelic Conversations",
+    "Liber Loagaeth",
+    "Enochian Cyphers Lighthouse"
+  ],
+  "inscription_batch_ref": "enochian_tap_batch_001"
+}

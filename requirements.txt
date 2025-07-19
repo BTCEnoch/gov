@@ -1,37 +1,59 @@
-# Enochian Cyphers Governor Angels System
-# Python dependencies for AI embodiment and batch quest generation
+# Enochian Cyphers: Zero External Dependencies Architecture
+#
+# SACRED CONSTRAINT: Zero external dependencies for core functionality
+# All core systems implemented using Python 3.8+ standard library only
+#
+# Core Python Standard Library Modules Used:
+# - json: Data serialization and configuration management
+# - os, pathlib: File system operations and path handling
+# - logging: Comprehensive logging and debugging
+# - datetime: Timestamp and temporal operations
+# - hashlib: Cryptographic hashing for IDs and verification
+# - random: Deterministic seeded randomness (replaces Bitcoin RNG in content phase)
+# - re: Regular expressions for text processing
+# - typing: Type hints and annotations
+# - dataclasses: Structured data containers
+# - asyncio: Asynchronous operations for batch processing
+# - collections: Advanced data structures
+# - itertools: Functional programming utilities
+# - base64: Encoding for Bitcoin inscription preparation
+# - gzip: Compression for Ordinals compliance (<1MB)
+# - sqlite3: Local database operations (no external DB)
+# - urllib: HTTP operations for future API integrations
+# - threading: Concurrent processing capabilities
+# - multiprocessing: Parallel execution for 91 Governor processing
 
-# AI API Integration (REQUIRED for batch processing)
-openai>=1.0.0
-anthropic>=0.7.0
-requests>=2.28.0
+# OPTIONAL DEPENDENCIES (Development/Testing Only):
+# Uncomment only if needed for development - core system works without these
 
-# Data handling and processing
-json5>=0.9.6
-pathlib2>=2.3.7
-pandas>=1.5.0
-numpy>=1.21.0
+# Testing Framework (Development Only)
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
+# pytest-asyncio>=0.21.0
 
-# Date and time handling
-python-dateutil>=2.8.2
+# AI API Integration (Optional - for enhanced quest generation)
+# openai>=1.0.0
+# anthropic>=0.7.0
 
-# Enhanced JSON handling
-ujson>=5.4.0
+# ARCHITECTURE COMPLIANCE:
+# ✅ Layer 1 (Bitcoin L1): Zero deps, custom TAP/Trac implementations
+# ✅ Layer 2 (Lighthouse): Standard library JSON/file operations
+# ✅ Layer 3 (Governors): Standard library data structures
+# ✅ Layer 4 (Story Engine): Standard library text processing
+# ✅ Layer 5 (Game Mechanics): Standard library algorithms
+# ✅ Layer 6 (UI): WASM compilation target (future Rust implementation)
 
-# Advanced text processing
-regex>=2022.7.9
+# SACRED CONSTRAINTS MAINTAINED:
+# ✅ Zero external dependencies for core functionality
+# ✅ 26 sacred traditions (immutable)
+# ✅ 91 Governor Angels (immutable)
+# ✅ 6-layer architecture compliance
+# ✅ <1MB Ordinals compliance via compression
+# ✅ TAP Protocol + Trac Systems only for Bitcoin L1
 
-# Environment management
-python-dotenv>=1.0.0
-
-# Development and testing
-pytest>=7.1.0
-pytest-cov>=3.0.0
-pytest-asyncio>=0.21.0
-
-# Documentation
-markdown>=3.4.0
-
-# Note: Core lighthouse system works with Python 3.8+ standard library
-# AI batch processing requires OpenAI/Anthropic API access
-# Additional packages enhance functionality and performance
+# SETUP INSTRUCTIONS:
+# 1. Python 3.8+ (standard library sufficient)
+# 2. Git for version control
+# 3. No package installation required for core functionality
+# 4. Optional: AI API keys for enhanced quest generation
+# 5. Ready for Bitcoin L1 deployment with custom implementations
