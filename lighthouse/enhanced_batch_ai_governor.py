@@ -130,7 +130,7 @@ class EnhancedBatchAIGovernor:
     
     def _load_aethyr_mappings(self):
         """Load Aethyr mappings for governor specializations"""
-        mappings_file = Path("governor_profiles/aethyr_mappings.json")
+        mappings_file = Path("lighthouse/core/aethyr_mappings.json")
         if mappings_file.exists():
             try:
                 with open(mappings_file, 'r', encoding='utf-8') as f:

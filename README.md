@@ -88,7 +88,7 @@ python validation/content_metrics_validator.py
 python tests/test_comprehensive_validation.py
 
 # Generate Governor-Aethyr mappings
-python governor_profiles/aethyr_mapping_system.py
+python lighthouse/core/aethyr_mapping_system.py
 
 # Test TAP Protocol inscription system
 python onchain/tap_inscriber.py
@@ -102,7 +102,7 @@ python divination_systems/divination_master.py
 - `governor_agent_prompts.json` - AI personality prompts for batch processing
 - `generated_questlines/` - 9,126+ AI-generated dynamic quests with metadata
 - `lighthouse_master_index.json` - Central index of all mystical knowledge
-- `governor_profiles/aethyr_mappings.json` - Complete Governor-Aethyr mapping system
+- `lighthouse/core/aethyr_mappings.json` - Complete Governor-Aethyr mapping system
 - `onchain/tap_inscriptions/` - TAP Protocol inscription batches for Bitcoin L1
 - `validation/reports/` - Comprehensive validation and authenticity reports
 - `tests/comprehensive_test_report.json` - Complete test suite results
@@ -304,10 +304,11 @@ enochian-cyphers/
 │   ├── citations/                    # Enhanced source citations
 │   ├── schemas/                      # Data validation schemas
 │   ├── bitcoin_inscriptions/         # Ordinals-ready content
+│   ├── core/                         # Core sacred architecture systems
+│   │   ├── aethyr_mapping_system.py  # Sacred Governor-Aethyr mappings
+│   │   └── aethyr_mappings.json      # Complete mapping data
 │   └── source_citation_system.py     # Primary source validation
 ├── 📁 governor_profiles/             # 91 complete governor interviews
-│   ├── aethyr_mapping_system.py      # Sacred Governor-Aethyr mappings
-│   └── aethyr_mappings.json          # Complete mapping data
 ├── 📁 onchain/                       # Bitcoin L1 integration
 │   ├── tap_inscriber.py              # TAP Protocol compression & batching
 │   ├── tap_inscriptions/             # Inscription batches for Bitcoin L1

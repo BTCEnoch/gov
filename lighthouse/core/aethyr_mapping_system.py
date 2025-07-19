@@ -55,7 +55,7 @@ class AethyrMappingSystem:
     
     def __init__(self, governor_profiles_dir: str = "governor_profiles"):
         self.governor_profiles_dir = Path(governor_profiles_dir)
-        self.mapping_file = self.governor_profiles_dir / "aethyr_mappings.json"
+        self.mapping_file = Path("lighthouse/core/aethyr_mappings.json")
         
         # Sacred Aethyr hierarchy (30 Aethyrs as per Enochian tradition)
         self.sacred_aethyrs = [
