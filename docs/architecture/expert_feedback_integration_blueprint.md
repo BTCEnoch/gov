@@ -62,17 +62,17 @@ impl NarrativeGenerator {
     
     #[wasm_bindgen]
     pub fn generate_quest_narrative(
-        &self, 
-        gov_id: u32, 
+        &self,
+        gov_id: u32,
         player_traits: &str,
-        bitcoin_entropy: &str
+        quest_seed: u32
     ) -> String {
         // Fetch Governor profile and Aethyr data
         let governor = &self.governor_profiles[&gov_id];
         let aethyr = self.lighthouse_db.get_aethyr_data(governor.aethyr_id);
-        
+
         // Generate I Ching hexagram for branching
-        let hexagram = self.i_ching_engine.generate_from_entropy(bitcoin_entropy);
+        let hexagram = self.i_ching_engine.generate_from_seed(quest_seed);
         
         // Create narrative with authentic mystical integration
         let base_narrative = self.create_base_story(governor, &aethyr);

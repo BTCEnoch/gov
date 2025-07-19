@@ -130,7 +130,7 @@ Expert provides specific benchmarks:
 #### B. Bitcoin L1 Optimization
 - **Ordinal Compliance**: Implement <1MB per inscription with compression
 - **Batch Processing**: Group assets by Aethyr for efficient inscription
-- **Deterministic Generation**: Use Bitcoin entropy for reproducible assets
+- **Deterministic Generation**: Use seeded randomness for reproducible assets
 
 ### **Phase 3: Cross-Tradition Validation (Week 5)**
 

@@ -11,7 +11,7 @@ All critical implementation tasks identified through expert feedback cross-analy
 **Location**: `/core/story-engine/`
 
 #### A. Core Components Implemented
-- **`narrative_generator.rs`** - WASM-based procedural narrative generation with Bitcoin entropy
+- **`narrative_generator.rs`** - WASM-based procedural narrative generation with seeded randomness
 - **`branching_logic.rs`** - I Ching hexagram-based quest progression system
 - **`governor_integration.rs`** - Governor personality adaptation and relationship management
 - **`wasm_bindings/lib.rs`** - Unified WASM API for browser integration
@@ -158,7 +158,7 @@ All critical implementation tasks identified through expert feedback cross-analy
 - **Sacred Wisdom Integration**: Authentic mystical content at scale
 - **Autonomous Economics**: Self-regulating token economy
 - **Cross-Tradition Synthesis**: Mathematical validation of mystical combinations
-- **Deterministic Generation**: Reproducible content using Bitcoin entropy
+- **Deterministic Generation**: Reproducible content using seeded randomness
 
 The Enochian Cyphers system now represents a complete, production-ready Bitcoin L1-native RPG with unprecedented integration of authentic mystical wisdom, advanced economic systems, and cutting-edge P2P technology. All expert-identified gaps have been resolved, and the system is ready for Bitcoin mainnet deployment.
 

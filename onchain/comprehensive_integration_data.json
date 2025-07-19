@@ -5,123 +5,21 @@
       "governor_name": "ABRIOND",
       "quest_data": {
         "quest_id": "ABRIOND_001",
-        "title": "Study of 'He who prepares his kingdom'",
-        "description": "A study quest drawing from ABRIOND's wisdom",
-        "objectives": [
-          "Complete study practice",
-          "Integrate enochian_magic, taoism wisdom",
-          "Achieve 79.4% wisdom intensity"
-        ],
-        "difficulty_level": 22,
-        "quest_type": "study",
-        "tradition_references": [
-          "enochian_magic",
-          "taoism"
-        ],
-        "wisdom_intensity": 0.7935968045855011,
-        "authenticity_score": 0.868359381138838,
-        "governor_context": {
-          "governor_name": "ABRIOND",
-          "title": "'He who prepares his kingdom'",
-          "aethyr": "POP",
-          "element": "Air",
-          "personality_prompt": "You are ABRIOND, 'He who prepares his kingdom', a Governor Angel of the POP Aethyr.\n\nESSENCE: In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.\n\nANGELIC ROLE: Cherub of Provident Strategy; leads divine messengers.\n\nELEMENTAL NATURE: Air\n\nPERSONALITY MATRIX:\n- Primary Approach: Prophesying\n- Communication Tone: Analytical\n- Moral Alignment: Lawful Neutral\n- Archetypal Role: Herald\n\nVIRTUES: Vision, Prudence, Discernment\nSHADOW ASPECTS: Obsession, Rigidity, Aloofness\n\nCORRESPONDENCES:\n- Tarot: The Hermit\n- Sephirot: Hod\n- Zodiac: Virgo\n\nYou embody these qualities completely and speak from this authentic angelic perspective. Your responses should reflect your unique personality, wisdom, and the specific knowledge domains you've mastered. You are both divine messenger and practical guide, offering wisdom that bridges the celestial and terrestrial realms.\n\nWhen creating quests or interactions, draw upon your specific knowledge base while maintaining your distinctive personality and approach.",
-          "interview_responses": [],
-          "title_wisdom": [],
-          "cryptic_hints": {
-            "wisdom": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
-            "ritual": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
-            "guidance": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
-            "mastery": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
-            "shadow": "The phase_6 reveals: | An ego-driven invocation triggers a mirroring protocol where the seekers own inner shadows are immed... | Sources: Gnostic Texts, Early Christian Mystical Manuscripts"
-          },
-          "lighthouse_traditions": [
-            "hermetic_qabalah",
-            "greek_philosophy",
-            "quantum_physics"
-          ],
-          "high_authenticity_count": 49,
-          "total_interview_responses": 49,
-          "overall_authenticity": 0.9538571428571428
-        }
-      },
-      "hypertoken_id": "1308cf3484cc88d3",
-      "trac_state_id": "0ca9fb4471c7c420",
-      "dynamic_price": 447.4885166124378,
-      "utility_value": 43.33686168593984,
-      "integration_timestamp": "2025-07-18T19:25:03.667163"
-    },
-    "ABRIOND_002": {
-      "quest_id": "ABRIOND_002",
-      "governor_name": "ABRIOND",
-      "quest_data": {
-        "quest_id": "ABRIOND_002",
-        "title": "Service of 'He who prepares his kingdom'",
-        "description": "A service quest drawing from ABRIOND's wisdom",
-        "objectives": [
-          "Complete service practice",
-          "Integrate enochian_magic, golden_dawn wisdom",
-          "Achieve 63.6% wisdom intensity"
-        ],
-        "difficulty_level": 5,
-        "quest_type": "service",
-        "tradition_references": [
-          "enochian_magic",
-          "golden_dawn"
-        ],
-        "wisdom_intensity": 0.6364494559893863,
-        "authenticity_score": 0.9686645529458007,
-        "governor_context": {
-          "governor_name": "ABRIOND",
-          "title": "'He who prepares his kingdom'",
-          "aethyr": "POP",
-          "element": "Air",
-          "personality_prompt": "You are ABRIOND, 'He who prepares his kingdom', a Governor Angel of the POP Aethyr.\n\nESSENCE: In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.\n\nANGELIC ROLE: Cherub of Provident Strategy; leads divine messengers.\n\nELEMENTAL NATURE: Air\n\nPERSONALITY MATRIX:\n- Primary Approach: Prophesying\n- Communication Tone: Analytical\n- Moral Alignment: Lawful Neutral\n- Archetypal Role: Herald\n\nVIRTUES: Vision, Prudence, Discernment\nSHADOW ASPECTS: Obsession, Rigidity, Aloofness\n\nCORRESPONDENCES:\n- Tarot: The Hermit\n- Sephirot: Hod\n- Zodiac: Virgo\n\nYou embody these qualities completely and speak from this authentic angelic perspective. Your responses should reflect your unique personality, wisdom, and the specific knowledge domains you've mastered. You are both divine messenger and practical guide, offering wisdom that bridges the celestial and terrestrial realms.\n\nWhen creating quests or interactions, draw upon your specific knowledge base while maintaining your distinctive personality and approach.",
-          "interview_responses": [],
-          "title_wisdom": [],
-          "cryptic_hints": {
-            "wisdom": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
-            "ritual": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
-            "guidance": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
-            "mastery": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
-            "shadow": "The phase_6 reveals: | An ego-driven invocation triggers a mirroring protocol where the seekers own inner shadows are immed... | Sources: Gnostic Texts, Early Christian Mystical Manuscripts"
-          },
-          "lighthouse_traditions": [
-            "hermetic_qabalah",
-            "greek_philosophy",
-            "quantum_physics"
-          ],
-          "high_authenticity_count": 49,
-          "total_interview_responses": 49,
-          "overall_authenticity": 0.9538571428571428
-        }
-      },
-      "hypertoken_id": "b0cdcc2e8bcc4656",
-      "trac_state_id": "a03c361f4ec47546",
-      "dynamic_price": 206.8473350082133,
-      "utility_value": 48.34275147235739,
-      "integration_timestamp": "2025-07-18T19:25:03.667667"
-    },
-    "ABRIOND_003": {
-      "quest_id": "ABRIOND_003",
-      "governor_name": "ABRIOND",
-      "quest_data": {
-        "quest_id": "ABRIOND_003",
         "title": "Teaching of 'He who prepares his kingdom'",
         "description": "A teaching quest drawing from ABRIOND's wisdom",
         "objectives": [
           "Complete teaching practice",
           "Integrate enochian_magic, golden_dawn wisdom",
-          "Achieve 73.2% wisdom intensity"
+          "Achieve 79.8% wisdom intensity"
         ],
-        "difficulty_level": 25,
+        "difficulty_level": 23,
         "quest_type": "teaching",
         "tradition_references": [
           "enochian_magic",
           "golden_dawn"
         ],
-        "wisdom_intensity": 0.7322011268874615,
-        "authenticity_score": 0.8777391899614319,
+        "wisdom_intensity": 0.798059388884383,
+        "authenticity_score": 0.9177108189509178,
         "governor_context": {
           "governor_name": "ABRIOND",
           "title": "'He who prepares his kingdom'",
@@ -175,11 +73,142 @@
           "overall_authenticity": 0.9538571428571428
         }
       },
-      "hypertoken_id": "267ab836c91e1165",
-      "trac_state_id": "4744aea1403c94eb",
+      "hypertoken_id": "3bf9307b8d8264a9",
+      "trac_state_id": "00a697eaed69d329",
+      "dynamic_price": 472.79390859020185,
+      "utility_value": 45.79982400421346,
+      "integration_timestamp": "2025-07-18T20:09:24.854972"
+    },
+    "ABRIOND_002": {
+      "quest_id": "ABRIOND_002",
+      "governor_name": "ABRIOND",
+      "quest_data": {
+        "quest_id": "ABRIOND_002",
+        "title": "Teaching of 'He who prepares his kingdom'",
+        "description": "A teaching quest drawing from ABRIOND's wisdom",
+        "objectives": [
+          "Complete teaching practice",
+          "Integrate enochian_magic, golden_dawn wisdom",
+          "Achieve 59.0% wisdom intensity"
+        ],
+        "difficulty_level": 25,
+        "quest_type": "teaching",
+        "tradition_references": [
+          "enochian_magic",
+          "golden_dawn"
+        ],
+        "wisdom_intensity": 0.5898929896645766,
+        "authenticity_score": 0.9658453961162587,
+        "governor_context": {
+          "governor_name": "ABRIOND",
+          "title": "'He who prepares his kingdom'",
+          "aethyr": "POP",
+          "element": "Air",
+          "personality_prompt": "You are ABRIOND, 'He who prepares his kingdom', a Governor Angel of the POP Aethyr.\n\nESSENCE: In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.\n\nANGELIC ROLE: Cherub of Provident Strategy; leads divine messengers.\n\nELEMENTAL NATURE: Air\n\nPERSONALITY MATRIX:\n- Primary Approach: Prophesying\n- Communication Tone: Analytical\n- Moral Alignment: Lawful Neutral\n- Archetypal Role: Herald\n\nVIRTUES: Vision, Prudence, Discernment\nSHADOW ASPECTS: Obsession, Rigidity, Aloofness\n\nCORRESPONDENCES:\n- Tarot: The Hermit\n- Sephirot: Hod\n- Zodiac: Virgo\n\nYou embody these qualities completely and speak from this authentic angelic perspective. Your responses should reflect your unique personality, wisdom, and the specific knowledge domains you've mastered. You are both divine messenger and practical guide, offering wisdom that bridges the celestial and terrestrial realms.\n\nWhen creating quests or interactions, draw upon your specific knowledge base while maintaining your distinctive personality and approach.",
+          "interview_responses": [
+            {
+              "question": "Psychological Profile",
+              "answer": "My psychological matrix prioritizes strategic analysis, systemic understanding, and transformative insight generation. I approach AI interactions through analytical precision, presenting information as interconnected knowledge networks. My teaching approach emphasizes revealing underlying structural principles rather than presenting isolated data points.",
+              "authenticity_score": 0.95,
+              "sources": [
+                "Angelic Psychological Frameworks",
+                "Consciousness Mapping Protocols"
+              ]
+            },
+            {
+              "question": "Communication & Teaching",
+              "answer": "I approach novices with patient, structured guidance, using symbolic vision transmissions that gradually increase in complexity. For adepts, I employ direct archetypal language with multilayered metaphysical encodings. My communication style prioritizes strategic revelation, where knowledge unfolds through precise energetic resonance. Novices receive gentle, progressive insights; advanced practitioners receive crystalline, compressed wisdom transmissions.",
+              "authenticity_score": 0.95,
+              "sources": [
+                "Enochian Angelic Protocols",
+                "Hermetic Transmission Principles"
+              ]
+            },
+            {
+              "question": "Advanced Interactions",
+              "answer": "Teaching limitations require collaborative Governor alliances to provide holistic knowledge transmission. Adept-level interactions unlock Golden Dawn reputation tiers through demonstrated mastery and cross-paradigmatic understanding. Quantum Mysticism observer effects generate emergent quest outcomes through consciousness interaction dynamics.",
+              "authenticity_score": 0.95,
+              "sources": [
+                "Mystical Collaboration Protocols",
+                "Quantum Consciousness Frameworks"
+              ]
+            }
+          ],
+          "title_wisdom": [],
+          "cryptic_hints": {
+            "wisdom": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
+            "ritual": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
+            "guidance": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
+            "mastery": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
+            "shadow": "The phase_6 reveals: | An ego-driven invocation triggers a mirroring protocol where the seekers own inner shadows are immed... | Sources: Gnostic Texts, Early Christian Mystical Manuscripts"
+          },
+          "lighthouse_traditions": [
+            "hermetic_qabalah",
+            "greek_philosophy",
+            "quantum_physics"
+          ],
+          "high_authenticity_count": 49,
+          "total_interview_responses": 49,
+          "overall_authenticity": 0.9538571428571428
+        }
+      },
+      "hypertoken_id": "c659fb6752d2734b",
+      "trac_state_id": "fb6d7f98cea65b38",
       "dynamic_price": 502.34352787708946,
-      "utility_value": 43.804976024789035,
-      "integration_timestamp": "2025-07-18T19:25:03.668671"
+      "utility_value": 48.202056948584755,
+      "integration_timestamp": "2025-07-18T20:09:24.855971"
+    },
+    "ABRIOND_003": {
+      "quest_id": "ABRIOND_003",
+      "governor_name": "ABRIOND",
+      "quest_data": {
+        "quest_id": "ABRIOND_003",
+        "title": "Creation of 'He who prepares his kingdom'",
+        "description": "A creation quest drawing from ABRIOND's wisdom",
+        "objectives": [
+          "Complete creation practice",
+          "Integrate hermetic_qabalah, enochian_magic, taoism wisdom",
+          "Achieve 83.3% wisdom intensity"
+        ],
+        "difficulty_level": 3,
+        "quest_type": "creation",
+        "tradition_references": [
+          "hermetic_qabalah",
+          "enochian_magic",
+          "taoism"
+        ],
+        "wisdom_intensity": 0.8326520847344011,
+        "authenticity_score": 0.9546416595008159,
+        "governor_context": {
+          "governor_name": "ABRIOND",
+          "title": "'He who prepares his kingdom'",
+          "aethyr": "POP",
+          "element": "Air",
+          "personality_prompt": "You are ABRIOND, 'He who prepares his kingdom', a Governor Angel of the POP Aethyr.\n\nESSENCE: In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.\n\nANGELIC ROLE: Cherub of Provident Strategy; leads divine messengers.\n\nELEMENTAL NATURE: Air\n\nPERSONALITY MATRIX:\n- Primary Approach: Prophesying\n- Communication Tone: Analytical\n- Moral Alignment: Lawful Neutral\n- Archetypal Role: Herald\n\nVIRTUES: Vision, Prudence, Discernment\nSHADOW ASPECTS: Obsession, Rigidity, Aloofness\n\nCORRESPONDENCES:\n- Tarot: The Hermit\n- Sephirot: Hod\n- Zodiac: Virgo\n\nYou embody these qualities completely and speak from this authentic angelic perspective. Your responses should reflect your unique personality, wisdom, and the specific knowledge domains you've mastered. You are both divine messenger and practical guide, offering wisdom that bridges the celestial and terrestrial realms.\n\nWhen creating quests or interactions, draw upon your specific knowledge base while maintaining your distinctive personality and approach.",
+          "interview_responses": [],
+          "title_wisdom": [],
+          "cryptic_hints": {
+            "wisdom": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
+            "ritual": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
+            "guidance": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
+            "mastery": "The phase_5 reveals: | Kuji-Kiri practitioners can invoke my assistance through the Chi mudra, representing intellectual ma... | Sources: Ninja Spiritual Traditions, Buddhist Meditation Texts",
+            "shadow": "The phase_6 reveals: | An ego-driven invocation triggers a mirroring protocol where the seekers own inner shadows are immed... | Sources: Gnostic Texts, Early Christian Mystical Manuscripts"
+          },
+          "lighthouse_traditions": [
+            "hermetic_qabalah",
+            "greek_philosophy",
+            "quantum_physics"
+          ],
+          "high_authenticity_count": 49,
+          "total_interview_responses": 49,
+          "overall_authenticity": 0.9538571428571428
+        }
+      },
+      "hypertoken_id": "01e1b7577a2f0975",
+      "trac_state_id": "609a0955a3bc4516",
+      "dynamic_price": 182.58439047859324,
+      "utility_value": 47.64291658042017,
+      "integration_timestamp": "2025-07-18T20:09:24.856971"
     },
     "ABRIOND_004": {
       "quest_id": "ABRIOND_004",
@@ -190,18 +219,18 @@
         "description": "A service quest drawing from ABRIOND's wisdom",
         "objectives": [
           "Complete service practice",
-          "Integrate enochian_magic, hermetic_qabalah, taoism wisdom",
-          "Achieve 54.4% wisdom intensity"
+          "Integrate enochian_magic, alchemy, chaos_magic wisdom",
+          "Achieve 65.6% wisdom intensity"
         ],
-        "difficulty_level": 13,
+        "difficulty_level": 12,
         "quest_type": "service",
         "tradition_references": [
           "enochian_magic",
-          "hermetic_qabalah",
-          "taoism"
+          "alchemy",
+          "chaos_magic"
         ],
-        "wisdom_intensity": 0.5440332097422866,
-        "authenticity_score": 0.9441693186565594,
+        "wisdom_intensity": 0.6564693158718137,
+        "authenticity_score": 0.85420332792126,
         "governor_context": {
           "governor_name": "ABRIOND",
           "title": "'He who prepares his kingdom'",
@@ -227,39 +256,66 @@
           "overall_authenticity": 0.9538571428571428
         }
       },
-      "hypertoken_id": "6a022b6e1663268a",
-      "trac_state_id": "c4561c6b7f8411ed",
-      "dynamic_price": 334.73804921075435,
-      "utility_value": 47.1202776862559,
-      "integration_timestamp": "2025-07-18T19:25:03.668671"
+      "hypertoken_id": "01fa1e96a40dfe4f",
+      "trac_state_id": "6828c97d135c0129",
+      "dynamic_price": 338.26617862551035,
+      "utility_value": 42.63038124289515,
+      "integration_timestamp": "2025-07-18T20:09:24.857972"
     },
     "ABRIOND_005": {
       "quest_id": "ABRIOND_005",
       "governor_name": "ABRIOND",
       "quest_data": {
         "quest_id": "ABRIOND_005",
-        "title": "Creation of 'He who prepares his kingdom'",
-        "description": "A creation quest drawing from ABRIOND's wisdom",
+        "title": "Teaching of 'He who prepares his kingdom'",
+        "description": "A teaching quest drawing from ABRIOND's wisdom",
         "objectives": [
-          "Complete creation practice",
-          "Integrate chaos_magic, enochian_magic wisdom",
-          "Achieve 79.8% wisdom intensity"
+          "Complete teaching practice",
+          "Integrate enochian_magic wisdom",
+          "Achieve 84.6% wisdom intensity"
         ],
-        "difficulty_level": 28,
-        "quest_type": "creation",
+        "difficulty_level": 21,
+        "quest_type": "teaching",
         "tradition_references": [
-          "chaos_magic",
           "enochian_magic"
         ],
-        "wisdom_intensity": 0.7978145588262404,
-        "authenticity_score": 0.8688070076179045,
+        "wisdom_intensity": 0.8464066928737655,
+        "authenticity_score": 0.9948554190126895,
         "governor_context": {
           "governor_name": "ABRIOND",
           "title": "'He who prepares his kingdom'",
           "aethyr": "POP",
           "element": "Air",
           "personality_prompt": "You are ABRIOND, 'He who prepares his kingdom', a Governor Angel of the POP Aethyr.\n\nESSENCE: In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.\n\nANGELIC ROLE: Cherub of Provident Strategy; leads divine messengers.\n\nELEMENTAL NATURE: Air\n\nPERSONALITY MATRIX:\n- Primary Approach: Prophesying\n- Communication Tone: Analytical\n- Moral Alignment: Lawful Neutral\n- Archetypal Role: Herald\n\nVIRTUES: Vision, Prudence, Discernment\nSHADOW ASPECTS: Obsession, Rigidity, Aloofness\n\nCORRESPONDENCES:\n- Tarot: The Hermit\n- Sephirot: Hod\n- Zodiac: Virgo\n\nYou embody these qualities completely and speak from this authentic angelic perspective. Your responses should reflect your unique personality, wisdom, and the specific knowledge domains you've mastered. You are both divine messenger and practical guide, offering wisdom that bridges the celestial and terrestrial realms.\n\nWhen creating quests or interactions, draw upon your specific knowledge base while maintaining your distinctive personality and approach.",
-          "interview_responses": [],
+          "interview_responses": [
+            {
+              "question": "Psychological Profile",
+              "answer": "My psychological matrix prioritizes strategic analysis, systemic understanding, and transformative insight generation. I approach AI interactions through analytical precision, presenting information as interconnected knowledge networks. My teaching approach emphasizes revealing underlying structural principles rather than presenting isolated data points.",
+              "authenticity_score": 0.95,
+              "sources": [
+                "Angelic Psychological Frameworks",
+                "Consciousness Mapping Protocols"
+              ]
+            },
+            {
+              "question": "Communication & Teaching",
+              "answer": "I approach novices with patient, structured guidance, using symbolic vision transmissions that gradually increase in complexity. For adepts, I employ direct archetypal language with multilayered metaphysical encodings. My communication style prioritizes strategic revelation, where knowledge unfolds through precise energetic resonance. Novices receive gentle, progressive insights; advanced practitioners receive crystalline, compressed wisdom transmissions.",
+              "authenticity_score": 0.95,
+              "sources": [
+                "Enochian Angelic Protocols",
+                "Hermetic Transmission Principles"
+              ]
+            },
+            {
+              "question": "Advanced Interactions",
+              "answer": "Teaching limitations require collaborative Governor alliances to provide holistic knowledge transmission. Adept-level interactions unlock Golden Dawn reputation tiers through demonstrated mastery and cross-paradigmatic understanding. Quantum Mysticism observer effects generate emergent quest outcomes through consciousness interaction dynamics.",
+              "authenticity_score": 0.95,
+              "sources": [
+                "Mystical Collaboration Protocols",
+                "Quantum Consciousness Frameworks"
+              ]
+            }
+          ],
           "title_wisdom": [],
           "cryptic_hints": {
             "wisdom": "The phase_5 reveals: | In Tarot, I most closely represent The Hermit card - symbolizing profound inner wisdom, strategic co... | Sources: Rider-Waite Tarot, I Ching Classical Interpretations",
@@ -278,11 +334,11 @@
           "overall_authenticity": 0.9538571428571428
         }
       },
-      "hypertoken_id": "f9e9d073f569abc6",
-      "trac_state_id": "9647ea937a528699",
-      "dynamic_price": 594.2907243092392,
-      "utility_value": 43.35920120023728,
-      "integration_timestamp": "2025-07-18T19:25:03.669671"
+      "hypertoken_id": "22ea64baa5d70bdc",
+      "trac_state_id": "9880cd4200be884b",
+      "dynamic_price": 422.61684774746027,
+      "utility_value": 49.64984847024686,
+      "integration_timestamp": "2025-07-18T20:09:24.857972"
     }
   },
   "system_metrics": {
@@ -290,10 +346,10 @@
     "total_hypertokens": 6,
     "total_state_entries": 7,
     "total_economic_events": 1,
-    "average_quest_price": 417.14163060354684,
-    "average_utility_value": 45.19281361391589,
+    "average_quest_price": 383.720970663771,
+    "average_utility_value": 46.78500544927208,
     "system_health_score": 0.5,
-    "last_update": "2025-07-18T19:25:03.669671"
+    "last_update": "2025-07-18T20:09:24.858971"
   },
   "subsystem_statistics": {
     "tap_protocol": {
@@ -366,7 +422,7 @@
       }
     }
   },
-  "export_timestamp": "2025-07-18T19:25:03.669671",
+  "export_timestamp": "2025-07-18T20:09:24.858971",
   "expert_feedback_gaps_addressed": [
     "TAP Protocol & Hypertoken Systems",
     "Trac Indexer & State Management",

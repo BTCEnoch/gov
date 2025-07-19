@@ -487,7 +487,7 @@ graph TB
 - **Autonomous Supply Governor**: `/core/governance/autonomous_governance.rs`
 - **Self-Governing Token Evolution**: `/core/onchain/tap_integration.rs`
 - **Autonomous Quest Difficulty**: `/engines/storyline_generation/core/quest_generator.rs`
-- **Deterministic Randomness**: Bitcoin block hashes for I Ching hexagram generation
+- **Deterministic Generation**: Standard seeded randomness for I Ching hexagram generation
 
 ---
 
