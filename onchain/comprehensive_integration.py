@@ -28,7 +28,6 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from tap_protocol_integration import TAPProtocolIntegrator, TAPHypertoken
-from bitcoin_randomness import BitcoinRandomnessGenerator
 from trac_indexer_integration import TracIndexerIntegration
 from autonomous_tokenomics import AutonomousTokenomics
 
@@ -47,7 +46,6 @@ class ComprehensiveQuest:
     governor_name: str
     quest_data: Dict[str, Any]
     hypertoken: TAPHypertoken
-    randomness_seed: int
     trac_state_id: str
     dynamic_price: float
     utility_value: float
@@ -71,7 +69,6 @@ class ComprehensiveIntegration:
     def __init__(self):
         # Initialize all subsystems
         self.tap_integrator = TAPProtocolIntegrator()
-        self.btc_randomness = BitcoinRandomnessGenerator()
         self.trac_indexer = TracIndexerIntegration()
         self.tokenomics = AutonomousTokenomics()
         self.interview_integration = GovernorInterviewIntegration()
@@ -81,16 +78,51 @@ class ComprehensiveIntegration:
         self.system_metrics = None
         
         logger.info("Comprehensive integration system initialized")
-    
-    def create_comprehensive_quest(self, governor_name: str, quest_index: int, 
-                                 block_height: int = 850000) -> ComprehensiveQuest:
+
+    def _generate_quest_parameters(self, governor_name: str, quest_index: int) -> Dict[str, Any]:
+        """Generate quest parameters using standard randomness"""
+        import random
+
+        # Set seed for reproducible results based on governor and quest
+        seed = hash(f"{governor_name}_{quest_index}") % (2**32)
+        random.seed(seed)
+
+        # Quest difficulty (1-30 based on Aethyr tier)
+        difficulty = random.randint(1, 30)
+
+        # Quest type selection
+        quest_types = ['meditation', 'ritual', 'study', 'divination', 'service', 'creation', 'teaching', 'mastery']
+        quest_type = random.choice(quest_types)
+
+        # Tradition integration (1-3 traditions)
+        traditions = ['enochian_magic', 'hermetic_qabalah', 'golden_dawn', 'chaos_magic', 'alchemy', 'taoism']
+        tradition_count = random.randint(1, 3)
+        selected_traditions = random.sample(traditions, tradition_count)
+
+        # Ensure Enochian is always included
+        if 'enochian_magic' not in selected_traditions:
+            selected_traditions[0] = 'enochian_magic'
+
+        # Wisdom focus intensity
+        wisdom_intensity = random.uniform(0.5, 1.0)
+
+        # Authenticity score (high baseline with small variation)
+        authenticity_score = random.uniform(0.85, 1.0)
+
+        return {
+            'difficulty_level': difficulty,
+            'quest_type': quest_type,
+            'tradition_references': selected_traditions,
+            'wisdom_intensity': wisdom_intensity,
+            'authenticity_score': authenticity_score
+        }
+
+    def create_comprehensive_quest(self, governor_name: str, quest_index: int) -> ComprehensiveQuest:
         """Create a comprehensive quest with all on-chain integrations"""
         logger.info(f"Creating comprehensive quest for {governor_name}[{quest_index}]")
         
-        # 1. Generate deterministic quest parameters using Bitcoin randomness
-        quest_params = self.btc_randomness.generate_quest_parameters(
-            governor_name, quest_index, block_height
-        )
+        # 1. Generate quest parameters using standard randomness
+        quest_params = self._generate_quest_parameters(governor_name, quest_index)
         
         # 2. Get interview-based context for authentic content
         quest_context = self.interview_integration.get_quest_generation_context(
@@ -112,8 +144,7 @@ class ComprehensiveIntegration:
             'tradition_references': quest_params['tradition_references'],
             'wisdom_intensity': quest_params['wisdom_intensity'],
             'authenticity_score': quest_params['authenticity_score'],
-            'governor_context': quest_context,
-            'randomness_source': quest_params['randomness_source']
+            'governor_context': quest_context
         }
         
         # 4. Create TAP hypertoken
@@ -140,13 +171,11 @@ class ComprehensiveIntegration:
         state_data = {
             'quest_id': quest_data['quest_id'],
             'hypertoken_id': hypertoken.token_id,
-            'creation_block': block_height,
             'initial_price': dynamic_price,
-            'utility_value': utility_value,
-            'randomness_seed': quest_params['randomness_source']['base_seed']
+            'utility_value': utility_value
         }
         trac_entry = self.trac_indexer.create_state_entry(
-            governor_name, 'quest_creation', state_data, block_height
+            governor_name, 'quest_creation', state_data
         )
         
         # 8. Create comprehensive quest
@@ -155,7 +184,6 @@ class ComprehensiveIntegration:
             governor_name=governor_name,
             quest_data=quest_data,
             hypertoken=hypertoken,
-            randomness_seed=quest_params['randomness_source']['base_seed'],
             trac_state_id=trac_entry.entry_id,
             dynamic_price=dynamic_price,
             utility_value=utility_value,
@@ -227,14 +255,13 @@ class ComprehensiveIntegration:
         logger.info(f"Quest completion processed: {len(results)} system updates")
         return results
     
-    def create_governor_questline(self, governor_name: str, questline_size: int = 15, 
-                                block_height: int = 850000) -> List[ComprehensiveQuest]:
+    def create_governor_questline(self, governor_name: str, questline_size: int = 15) -> List[ComprehensiveQuest]:
         """Create complete questline for a governor"""
         logger.info(f"Creating questline for {governor_name}: {questline_size} quests")
-        
+
         questline = []
         for i in range(1, questline_size + 1):
-            quest = self.create_comprehensive_quest(governor_name, i, block_height)
+            quest = self.create_comprehensive_quest(governor_name, i)
             questline.append(quest)
         
         logger.info(f"Created questline for {governor_name}: {len(questline)} quests")
@@ -313,7 +340,6 @@ class ComprehensiveIntegration:
                     'governor_name': quest.governor_name,
                     'quest_data': quest.quest_data,
                     'hypertoken_id': quest.hypertoken.token_id,
-                    'randomness_seed': quest.randomness_seed,
                     'trac_state_id': quest.trac_state_id,
                     'dynamic_price': quest.dynamic_price,
                     'utility_value': quest.utility_value,
@@ -324,14 +350,12 @@ class ComprehensiveIntegration:
             'system_metrics': asdict(metrics),
             'subsystem_statistics': {
                 'tap_protocol': self.tap_integrator.get_hypertoken_statistics(),
-                'bitcoin_randomness': {'deterministic_validation': True},
                 'trac_indexer': self.trac_indexer.get_trac_statistics(),
                 'autonomous_tokenomics': self.tokenomics.get_tokenomics_statistics()
             },
             'export_timestamp': datetime.now().isoformat(),
             'expert_feedback_gaps_addressed': [
                 'TAP Protocol & Hypertoken Systems',
-                'Bitcoin L1 Randomness Integration',
                 'Trac Indexer & State Management',
                 'Autonomous Tokenomics & Market Balancing'
             ]
@@ -354,7 +378,7 @@ def main():
     integration = ComprehensiveIntegration()
     
     # Test single quest creation
-    quest = integration.create_comprehensive_quest('ABRIOND', 1, 850000)
+    quest = integration.create_comprehensive_quest('ABRIOND', 1)
     
     # Test quest completion
     completion_data = {

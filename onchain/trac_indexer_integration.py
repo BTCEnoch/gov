@@ -91,8 +91,7 @@ class TracIndexerIntegration:
             'divination_result': 'Divination system outputs and interpretations'
         }
     
-    def create_state_entry(self, governor_name: str, state_type: str, state_data: Dict[str, Any], 
-                          block_height: int = 850000) -> StateEntry:
+    def create_state_entry(self, governor_name: str, state_type: str, state_data: Dict[str, Any]) -> StateEntry:
         """Create a new state entry for Trac indexing"""
         logger.info(f"Creating state entry: {state_type} for {governor_name}")
         
@@ -105,16 +104,17 @@ class TracIndexerIntegration:
         merkle_hash = hashlib.sha256(merkle_data.encode()).hexdigest()
         
         # Generate signature (simplified - in production would use cryptographic signing)
-        signature_data = f"{entry_id}_{merkle_hash}_{block_height}"
+        timestamp = datetime.now().isoformat()
+        signature_data = f"{entry_id}_{merkle_hash}_{timestamp}"
         signature = hashlib.sha256(signature_data.encode()).hexdigest()[:32]
-        
+
         state_entry = StateEntry(
             entry_id=entry_id,
             governor_name=governor_name,
             state_type=state_type,
             state_data=state_data,
-            timestamp=datetime.now().isoformat(),
-            block_height=block_height,
+            timestamp=timestamp,
+            block_height=0,  # Not using block height for now
             merkle_hash=merkle_hash,
             signature=signature
         )
