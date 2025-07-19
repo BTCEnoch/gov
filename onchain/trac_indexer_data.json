@@ -1,0 +1,206 @@
+{
+  "state_entries": {
+    "91f12cccb23a1cfb": {
+      "entry_id": "91f12cccb23a1cfb",
+      "governor_name": "ABRIOND",
+      "state_type": "quest_progress",
+      "state_data": {
+        "quest_id": "QUEST_001",
+        "progress_percentage": 75,
+        "completed_objectives": [
+          "meditation",
+          "vision_recording"
+        ],
+        "wisdom_gained": 3,
+        "completion_status": "in_progress",
+        "player_id": "player_001",
+        "sync_timestamp": "2025-07-18T18:59:49.318261"
+      },
+      "timestamp": "2025-07-18T18:59:49.318261",
+      "block_height": 850000,
+      "merkle_hash": "21ceb1f0f5c98d9f9709b65ac3d7d1d560cee6d593c6b25f8a4e9bb3367d8b73",
+      "signature": "45c65c29764337e9d16caedffa1189fa"
+    },
+    "2d139df685256fa8": {
+      "entry_id": "2d139df685256fa8",
+      "governor_name": "ABRIOND",
+      "state_type": "embodiment_update",
+      "state_data": {
+        "embodiment_version": "1.1",
+        "personality_updates": {
+          "wisdom_level": 5
+        },
+        "knowledge_additions": [
+          "strategic_foresight"
+        ],
+        "trait_modifications": {},
+        "update_reason": "player_interaction",
+        "sync_timestamp": "2025-07-18T18:59:49.318261"
+      },
+      "timestamp": "2025-07-18T18:59:49.318261",
+      "block_height": 850000,
+      "merkle_hash": "9065f66bdce85607f2a86331258729f80bcc65e7e83a7f3f99a67aef4356788d",
+      "signature": "4aad194990ec08fd5ef68a3c01f89fe7"
+    },
+    "b2515746cf4ce2c9": {
+      "entry_id": "b2515746cf4ce2c9",
+      "governor_name": "ABRIOND",
+      "state_type": "wisdom_attainment",
+      "state_data": {
+        "player_id": "player_001",
+        "wisdom_type": "strategic",
+        "wisdom_level": 3,
+        "attainment_method": "quest_completion",
+        "verification_hash": "hash_12345",
+        "sync_timestamp": "2025-07-18T18:59:49.318261"
+      },
+      "timestamp": "2025-07-18T18:59:49.318261",
+      "block_height": 850000,
+      "merkle_hash": "cc00f7a9cb90f1596cf9f717f617dcae3c3a86340c922c0c7c64075cf74bdf6b",
+      "signature": "eee1e93285b6293c1d42874f0956cf5c"
+    }
+  },
+  "state_conflicts": {},
+  "merkle_trees": {
+    "959b5bcc190e9adc": {
+      "index_id": "959b5bcc190e9adc",
+      "root_hash": "d7acf0d668fca00503dd20f6b03c9cf8d5858778fb853ddb055755d814f80925",
+      "total_entries": 3,
+      "last_update": "2025-07-18T18:59:49.319264",
+      "block_height": 850000,
+      "merkle_tree": {
+        "leaf_0": {
+          "node_id": "leaf_0",
+          "parent_id": null,
+          "left_child": null,
+          "right_child": null,
+          "hash_value": "21ceb1f0f5c98d9f9709b65ac3d7d1d560cee6d593c6b25f8a4e9bb3367d8b73",
+          "data": {
+            "entry_id": "91f12cccb23a1cfb",
+            "governor_name": "ABRIOND",
+            "state_type": "quest_progress",
+            "state_data": {
+              "quest_id": "QUEST_001",
+              "progress_percentage": 75,
+              "completed_objectives": [
+                "meditation",
+                "vision_recording"
+              ],
+              "wisdom_gained": 3,
+              "completion_status": "in_progress",
+              "player_id": "player_001",
+              "sync_timestamp": "2025-07-18T18:59:49.318261"
+            },
+            "timestamp": "2025-07-18T18:59:49.318261",
+            "block_height": 850000,
+            "merkle_hash": "21ceb1f0f5c98d9f9709b65ac3d7d1d560cee6d593c6b25f8a4e9bb3367d8b73",
+            "signature": "45c65c29764337e9d16caedffa1189fa"
+          },
+          "level": 0
+        },
+        "leaf_1": {
+          "node_id": "leaf_1",
+          "parent_id": null,
+          "left_child": null,
+          "right_child": null,
+          "hash_value": "9065f66bdce85607f2a86331258729f80bcc65e7e83a7f3f99a67aef4356788d",
+          "data": {
+            "entry_id": "2d139df685256fa8",
+            "governor_name": "ABRIOND",
+            "state_type": "embodiment_update",
+            "state_data": {
+              "embodiment_version": "1.1",
+              "personality_updates": {
+                "wisdom_level": 5
+              },
+              "knowledge_additions": [
+                "strategic_foresight"
+              ],
+              "trait_modifications": {},
+              "update_reason": "player_interaction",
+              "sync_timestamp": "2025-07-18T18:59:49.318261"
+            },
+            "timestamp": "2025-07-18T18:59:49.318261",
+            "block_height": 850000,
+            "merkle_hash": "9065f66bdce85607f2a86331258729f80bcc65e7e83a7f3f99a67aef4356788d",
+            "signature": "4aad194990ec08fd5ef68a3c01f89fe7"
+          },
+          "level": 0
+        },
+        "leaf_2": {
+          "node_id": "leaf_2",
+          "parent_id": null,
+          "left_child": null,
+          "right_child": null,
+          "hash_value": "cc00f7a9cb90f1596cf9f717f617dcae3c3a86340c922c0c7c64075cf74bdf6b",
+          "data": {
+            "entry_id": "b2515746cf4ce2c9",
+            "governor_name": "ABRIOND",
+            "state_type": "wisdom_attainment",
+            "state_data": {
+              "player_id": "player_001",
+              "wisdom_type": "strategic",
+              "wisdom_level": 3,
+              "attainment_method": "quest_completion",
+              "verification_hash": "hash_12345",
+              "sync_timestamp": "2025-07-18T18:59:49.318261"
+            },
+            "timestamp": "2025-07-18T18:59:49.318261",
+            "block_height": 850000,
+            "merkle_hash": "cc00f7a9cb90f1596cf9f717f617dcae3c3a86340c922c0c7c64075cf74bdf6b",
+            "signature": "eee1e93285b6293c1d42874f0956cf5c"
+          },
+          "level": 0
+        },
+        "node_1_0": {
+          "node_id": "node_1_0",
+          "parent_id": null,
+          "left_child": "leaf_0",
+          "right_child": "leaf_1",
+          "hash_value": "a751958a51ff1416d45a745c2b81436a9edab529743e6abb545ff472b81e07ff",
+          "data": null,
+          "level": 1
+        },
+        "node_1_1": {
+          "node_id": "node_1_1",
+          "parent_id": null,
+          "left_child": "leaf_2",
+          "right_child": "node_0_3",
+          "hash_value": "f1694e85d3307d6f5d1f498c44fd4516bf2a5ede84b490b77bdc302af894c55b",
+          "data": null,
+          "level": 1
+        },
+        "node_2_0": {
+          "node_id": "node_2_0",
+          "parent_id": null,
+          "left_child": "node_1_0",
+          "right_child": "node_1_1",
+          "hash_value": "d7acf0d668fca00503dd20f6b03c9cf8d5858778fb853ddb055755d814f80925",
+          "data": null,
+          "level": 2
+        }
+      }
+    }
+  },
+  "statistics": {
+    "total_state_entries": 3,
+    "total_conflicts": 0,
+    "resolved_conflicts": 0,
+    "pending_conflicts": 0,
+    "state_type_distribution": {
+      "quest_progress": 1,
+      "embodiment_update": 1,
+      "wisdom_attainment": 1
+    },
+    "merkle_trees_built": 1,
+    "consensus_threshold": 0.67,
+    "supported_state_types": [
+      "quest_progress",
+      "embodiment_update",
+      "wisdom_attainment",
+      "hypertoken_evolution",
+      "divination_result"
+    ]
+  },
+  "export_timestamp": "2025-07-18T18:59:49.321264"
+}

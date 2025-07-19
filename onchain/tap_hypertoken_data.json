@@ -1,0 +1,105 @@
+{
+  "hypertokens": {
+    "3eb6523931d4897f": {
+      "token_id": "3eb6523931d4897f",
+      "governor_name": "ABRIOND",
+      "quest_id": "ABRIOND_001",
+      "quest_title": "Strategic Vision Meditation",
+      "wisdom_level": 9,
+      "evolution_stage": "apprentice",
+      "traits": {
+        "wisdom": [
+          "analytical",
+          "prophetic",
+          "strategic"
+        ],
+        "tradition": [
+          "enochian"
+        ],
+        "governor": "ABRIOND",
+        "creation_method": "quest_generation",
+        "virtue": [
+          "prudence"
+        ],
+        "wisdom_level": 9,
+        "evolution_count": 1
+      },
+      "metadata": {
+        "aethyr": "unknown",
+        "difficulty": 5,
+        "tradition_references": [
+          "enochian_magic",
+          "hermetic_qabalah"
+        ],
+        "authenticity_score": 0.95
+      },
+      "inscription_data": "eJxVUMFKAzEQ/ZWQs4eKeNlbtYIFbaFKLyJhmsw2I9lkm8yuVPHfnWxLUcgh8/Ly3pv3rQ8DFjbkdKPnd5vlerUws9m1vtJMHFDQF87AuCertlQoRfWMjhhYrsJyWGymfpoavcARQ+pVn1PvkeUPxUJ7z4p9TsPeK4gQjvIAQXUXHSWnHXjIqPpUCu0oEBMW0U+7D7RMowzNmz5bo2pTVjcz1VEceOJt0Kbsqg2iGqegFZ5Xuy+RBWbMAr1f6U8qLnWGQfLwvwVFFU9xIbq/UfuMdtIUSYzJeoJoKI7Jwnnzc3fq9eFpff+otuvtclVLzCCJhWIytpgx2tMiF5EOxFiIHnNXCzMH2EEAX4M6aluyQ+CjCbVY3dz+/ALfEJr0",
+      "creation_timestamp": "2025-07-18T18:59:40.252290",
+      "last_mutation": "2025-07-18T18:59:40.252290"
+    }
+  },
+  "evolution_history": {
+    "3eb6523931d4897f": [
+      {
+        "token_id": "3eb6523931d4897f",
+        "evolution_type": "mastery_advancement",
+        "trigger_event": "quest_completion",
+        "old_traits": {
+          "wisdom": [
+            "analytical",
+            "prophetic",
+            "strategic"
+          ],
+          "tradition": [
+            "enochian"
+          ],
+          "governor": "ABRIOND",
+          "creation_method": "quest_generation"
+        },
+        "new_traits": {
+          "wisdom": [
+            "analytical",
+            "prophetic",
+            "strategic"
+          ],
+          "tradition": [
+            "enochian"
+          ],
+          "governor": "ABRIOND",
+          "creation_method": "quest_generation",
+          "virtue": [
+            "prudence"
+          ],
+          "wisdom_level": 9,
+          "evolution_count": 1
+        },
+        "wisdom_gained": 8,
+        "mutation_timestamp": "2025-07-18T18:59:40.252290",
+        "validation_hash": "92b4094ae012391b0b5f76bb93bf1c61de815dccba9d5b573a229ea7e6f510be"
+      }
+    ]
+  },
+  "statistics": {
+    "total_hypertokens": 1,
+    "total_evolutions": 1,
+    "stage_distribution": {
+      "apprentice": 1
+    },
+    "average_wisdom_level": 9.0,
+    "evolution_stages": [
+      "initiate",
+      "apprentice",
+      "adept",
+      "master",
+      "transcendent"
+    ],
+    "trait_categories": [
+      "wisdom",
+      "virtue",
+      "element",
+      "tradition",
+      "power"
+    ]
+  },
+  "export_timestamp": "2025-07-18T18:59:40.252290"
+}
