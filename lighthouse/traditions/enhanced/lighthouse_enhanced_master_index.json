@@ -150,10 +150,10 @@
       {
         "tradition_id": "astrology",
         "tradition_name": "Astrology",
-        "file": "astrology_enhanced.json",
-        "size_kb": 2.16,
-        "status": "enhanced",
-        "key_concepts": ["Planetary Aspects", "Houses", "Transits", "Cosmic Timing"]
+        "file": "../astrology.json",
+        "size_kb": 13.8,
+        "status": "consolidated",
+        "key_concepts": ["Zodiac Signs", "Planets", "Houses", "Aspects", "Transits", "Natal Charts"]
       },
       {
         "tradition_id": "natal_astrology",
