@@ -1,20 +1,19 @@
 Enochian Cyphers JSON Linebreak Cleanup Report
 ==================================================
 
-Cleanup completed at: 2025-07-26T11:11:48.430540
+Cleanup completed at: 2025-07-26T11:15:32.584082
 Purpose: Fix \n\n linebreak issues in JSON files
 
 Cleanup Log:
 --------------------
-[11:11:46] Starting JSON linebreak cleanup...
-[11:11:46] Created backup directory: json_cleanup_backups
-[11:11:46] Found 233 JSON files to scan
-[11:11:48] 📁 Backed up comprehensive_integration_data.json to comprehensive_integration_data.json_20250726_111148.bak
-[11:11:48] ✅ Cleaned linebreaks in onchain\comprehensive_integration_data.json
-[11:11:48] 📁 Backed up governor_agent_prompts.json to governor_agent_prompts.json_20250726_111148.bak
-[11:11:48] ✅ Cleaned linebreaks in governor_agent_prompts.json
-[11:11:48] 📁 Backed up governor_ai_embodiments.json to governor_ai_embodiments.json_20250726_111148.bak
-[11:11:48] ✅ Cleaned linebreaks in governor_ai_embodiments.json
+[11:15:32] Starting JSON linebreak cleanup...
+[11:15:32] Found 233 JSON files to scan
+[11:15:32] 📁 Backed up comprehensive_integration_data.json to comprehensive_integration_data.json_20250726_111532.bak
+[11:15:32] ✅ Cleaned linebreaks in onchain\comprehensive_integration_data.json
+[11:15:32] 📁 Backed up governor_agent_prompts.json to governor_agent_prompts.json_20250726_111532.bak
+[11:15:32] ✅ Cleaned linebreaks in governor_agent_prompts.json
+[11:15:32] 📁 Backed up governor_ai_embodiments.json to governor_ai_embodiments.json_20250726_111532.bak
+[11:15:32] ✅ Cleaned linebreaks in governor_ai_embodiments.json
 
 Cleaned Files (3):
 --------------------

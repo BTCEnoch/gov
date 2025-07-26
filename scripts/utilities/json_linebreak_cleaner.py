@@ -69,21 +69,29 @@ class JSONLinebreakCleaner:
         return json_files
     
     def needs_linebreak_cleanup(self, content: str) -> bool:
-        """Check if content contains \n\n that should be converted to linebreaks"""
-        # Look for literal \n\n strings (not actual newlines)
-        return "\\n\\n" in content or "\\n" in content
+        """Check if content contains \n that should be converted to linebreaks"""
+        # Look for literal \n strings in JSON content (not actual newlines)
+        # Check for \n in quoted strings specifically
+        import re
+        # Look for \n inside quoted strings
+        pattern = r'"[^"]*\\n[^"]*"'
+        return bool(re.search(pattern, content))
     
     def clean_linebreaks_in_string(self, text: str) -> str:
-        """Convert \n\n and \n to actual linebreaks in a string"""
+        """Convert \n and \n\n to actual linebreaks in a string"""
         if not isinstance(text, str):
             return text
-            
-        # Convert literal \n\n to actual double linebreaks
+
+        # Only process if it contains literal \n sequences
+        if "\\n" not in text:
+            return text
+
+        # Convert literal \n\n to actual double linebreaks first
         text = text.replace("\\n\\n", "\n\n")
-        
-        # Convert literal \n to actual linebreaks (but not if it's already a real newline)
+
+        # Convert remaining literal \n to actual linebreaks
         text = text.replace("\\n", "\n")
-        
+
         return text
     
     def clean_json_object(self, obj: Union[Dict, List, str, Any]) -> Union[Dict, List, str, Any]:
