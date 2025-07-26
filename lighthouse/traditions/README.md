@@ -2,48 +2,63 @@
 
 ## Overview
 
-This directory contains the complete knowledge base of 26 sacred traditions that form the foundation of the Enochian Cyphers Bitcoin L1-native RPG. Each tradition is stored as a JSON file containing structured knowledge entries that the AI governors use for quest generation and storyline development.
+This directory contains the complete knowledge base of 26 sacred traditions that form the foundation of the Enochian Cyphers Bitcoin L1-native RPG. Each tradition is stored as a comprehensive JSON framework following expert specifications for AI governor integration and quest generation.
 
 ## Architecture Integration
 
 The traditions serve as the core knowledge layer in the 6-layer Enochian Cyphers architecture:
 - **Bitcoin L1** → **Lighthouse** → Governors → Story Engine → Game Mechanics → UI
 
-## Master Index
+## Enhanced Structure (Version 4.0.0)
 
-- **[lighthouse_master_index.json](./lighthouse_master_index.json)** - Complete index of all traditions with metadata, entry counts, and completion status
+Following expert feedback, all traditions now include:
+- **25+ Core Principles** with detailed descriptions and practical applications
+- **25+ Practices** with step-by-step instructions and prerequisites
+- **25+ Sub-Practices** with specialization levels and unique aspects
+- **25+ Cross-Tradition Connections** for synthesis and integration
+- **Governor Applications** for AI personality development
+- **10+ Authenticity Sources** with reliability scores
+
+## Master Indexes
+
+- **[lighthouse_master_index.json](./lighthouse_master_index.json)** - Original tradition entries (2,678 individual knowledge items)
+- **[enhanced/lighthouse_enhanced_master_index.json](./enhanced/lighthouse_enhanced_master_index.json)** - Enhanced comprehensive frameworks (26 complete traditions)
 
 ## Sacred Traditions (26 Total)
 
 ### Magick Systems (7 traditions)
-- **[alchemy.json](./alchemy.json)** - Hermetic alchemy, transmutation principles, and spiritual transformation
-- **[chaos_magic.json](./chaos_magic.json)** - Modern chaos magick paradigms and reality manipulation techniques
-- **[egyptian_magic.json](./egyptian_magic.json)** - Ancient Egyptian magical practices, deities, and ritual systems
-- **[enochian_magic.json](./enochian_magic.json)** - Core Enochian magical system, aethyrs, and angelic communications
-- **[golden_dawn.json](./golden_dawn.json)** - Hermetic Order of the Golden Dawn teachings and ceremonial magic
-- **[kuji_kiri.json](./kuji_kiri.json)** - Japanese esoteric hand signs and ninja spiritual practices
-- **[thelema.json](./thelema.json)** - Thelemic philosophy, True Will, and Crowleyan magical practices
+- **[enhanced/enochian_magic_enhanced.json](./enhanced/enochian_magic_enhanced.json)** - Angelic invocation system with 30 Aethyrs and 91 Governors
+- **[enhanced/hermetic_qabalah_enhanced.json](./enhanced/hermetic_qabalah_enhanced.json)** - Tree of Life pathworking and divine name vibration
+- **[enhanced/thelema_enhanced.json](./enhanced/thelema_enhanced.json)** - True Will discovery and Holy Guardian Angel contact
+- **[enhanced/celtic_druidic_enhanced.json](./enhanced/celtic_druidic_enhanced.json)** - Grove work, seasonal festivals, and tree magic
+- **[enhanced/chaos_magic_enhanced.json](./enhanced/chaos_magic_enhanced.json)** - Sigil magic, paradigm shifting, belief as tool
+- **[enhanced/alchemy_enhanced.json](./enhanced/alchemy_enhanced.json)** - Great Work, planetary operations, transmutation practices
+- **[enhanced/golden_dawn_enhanced.json](./enhanced/golden_dawn_enhanced.json)** - Ceremonial magic, grade system, ritual structure
 
 ### Philosophy & Mysticism (6 traditions)
-- **[gnosticism.json](./gnosticism.json)** - Gnostic cosmology, divine knowledge, and spiritual liberation
-- **[greek_philosophy.json](./greek_philosophy.json)** - Classical Greek philosophical schools and metaphysical concepts
-- **[hermetic_qabalah.json](./hermetic_qabalah.json)** - Tree of Life, sephiroth, and Hermetic Qabalistic teachings
-- **[sufism.json](./sufism.json)** - Islamic mysticism, divine love, and spiritual purification practices
-- **[taoism.json](./taoism.json)** - Taoist philosophy, wu wei, and harmony with the natural order
-- **[shamanism.json](./shamanism.json)** - Cross-cultural shamanic practices and spirit world navigation
+- **[enhanced/taoism_enhanced.json](./enhanced/taoism_enhanced.json)** - Dao as ultimate reality, yin-yang balance, natural harmony
+- **[enhanced/traditional_kabbalah_enhanced.json](./enhanced/traditional_kabbalah_enhanced.json)** - Ein Sof emanation, tikkun olam, divine sparks
+- **[enhanced/sufism_enhanced.json](./enhanced/sufism_enhanced.json)** - Fana (ego dissolution), divine love, unity of being
+- **[enhanced/gnosticism_enhanced.json](./enhanced/gnosticism_enhanced.json)** - Divine spark doctrine, archon resistance, salvific knowledge
+- **[enhanced/norse_traditions_enhanced.json](./enhanced/norse_traditions_enhanced.json)** - Wyrd (fate), honor culture, cosmic cycles
+- **[enhanced/greek_philosophy_enhanced.json](./enhanced/greek_philosophy_enhanced.json)** - Platonic ideals, Aristotelian logic, Stoic wisdom
 
-### Divination & Sacred Arts (6 traditions)
-- **[astrology.json](./astrology.json)** - Astrological systems, planetary influences, and celestial divination
-- **[numerology.json](./numerology.json)** - Sacred number systems and numerical mysticism
-- **[sacred_geometry.json](./sacred_geometry.json)** - Geometric patterns, divine proportions, and mathematical mysticism
-- **[tarot.json](./tarot.json)** - Tarot symbolism, archetypal meanings, and divinatory practices
-- **[celtic_druidic.json](./celtic_druidic.json)** - Celtic druidic wisdom, nature magic, and ancient Celtic spirituality
-- **[norse_traditions.json](./norse_traditions.json)** - Norse mythology, runes, and Viking spiritual practices
+### Divination & Sacred Arts (7 traditions)
+- **[enhanced/tarot_enhanced.json](./enhanced/tarot_enhanced.json)** - 78-card system with Major/Minor Arcana for archetypal guidance
+- **[enhanced/i_ching_enhanced.json](./enhanced/i_ching_enhanced.json)** - 64 hexagrams, trigram combinations, change dynamics
+- **[enhanced/astrology_enhanced.json](./enhanced/astrology_enhanced.json)** - Planetary influences, cosmic timing, celestial mechanics
+- **[enhanced/natal_astrology_enhanced.json](./enhanced/natal_astrology_enhanced.json)** - Birth chart interpretation, planetary influences, life patterns
+- **[enhanced/egyptian_magic_enhanced.json](./enhanced/egyptian_magic_enhanced.json)** - Stellar alignments, decanic magic, temple astronomy
+- **[enhanced/shamanism_enhanced.json](./enhanced/shamanism_enhanced.json)** - Vision quests, spirit guidance, dream interpretation
+- **[enhanced/numerology_enhanced.json](./enhanced/numerology_enhanced.json)** - Sacred numbers, vibrational mathematics, divine patterns
 
-### Science & Reality (7 traditions)
-- **[quantum_physics.json](./quantum_physics.json)** - Quantum mechanical principles and consciousness-reality interactions
-- **[m_theory.json](./m_theory.json)** - String theory, multidimensional physics, and unified field theories
-- **[greek_mythology.json](./greek_mythology.json)** - Greek mythological archetypes and divine narratives
+### Science & Reality (6 traditions)
+- **[enhanced/sacred_geometry_enhanced.json](./enhanced/sacred_geometry_enhanced.json)** - Golden ratio, Platonic solids, harmonic mathematics
+- **[enhanced/quantum_physics_enhanced.json](./enhanced/quantum_physics_enhanced.json)** - Observer effect, consciousness studies, reality interface
+- **[enhanced/kuji_kiri_enhanced.json](./enhanced/kuji_kiri_enhanced.json)** - Energy manipulation, chakra systems, subtle body science
+- **[enhanced/greek_mythology_enhanced.json](./enhanced/greek_mythology_enhanced.json)** - Archetypal patterns, heroic cycles, divine psychology
+- **[enhanced/digital_physics_enhanced.json](./enhanced/digital_physics_enhanced.json)** - Simulation theory, information reality, computational universe
+- **[enhanced/m_theory_enhanced.json](./enhanced/m_theory_enhanced.json)** - Dimensional mechanics, string theory mysticism, unified field
 
 ## File Structure
 

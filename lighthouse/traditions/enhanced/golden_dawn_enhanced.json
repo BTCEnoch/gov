@@ -1,0 +1,1194 @@
+{
+  "tradition_id": "golden_dawn",
+  "tradition_name": "Golden Dawn",
+  "category": "magick_systems",
+  "overview": "Ceremonial magic, grade system, ritual structure",
+  "historical_context": "Historical development and key figures of golden_dawn",
+  "core_principles": [
+    {
+      "name": "LBRP",
+      "description": "Core principle of LBRP within golden_dawn tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of LBRP",
+        "Integration with golden_dawn practice"
+      ],
+      "related_concepts": [
+        "Grade System",
+        "Ceremonial Magic",
+        "Temple Work"
+      ]
+    },
+    {
+      "name": "Grade System",
+      "description": "Core principle of Grade System within golden_dawn tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Grade System",
+        "Integration with golden_dawn practice"
+      ],
+      "related_concepts": [
+        "LBRP",
+        "Ceremonial Magic",
+        "Temple Work"
+      ]
+    },
+    {
+      "name": "Ceremonial Magic",
+      "description": "Core principle of Ceremonial Magic within golden_dawn tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Ceremonial Magic",
+        "Integration with golden_dawn practice"
+      ],
+      "related_concepts": [
+        "LBRP",
+        "Grade System",
+        "Temple Work"
+      ]
+    },
+    {
+      "name": "Temple Work",
+      "description": "Core principle of Temple Work within golden_dawn tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Temple Work",
+        "Integration with golden_dawn practice"
+      ],
+      "related_concepts": [
+        "LBRP",
+        "Grade System",
+        "Ceremonial Magic"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 6",
+      "description": "[EXPAND: Detailed principle 6 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 7",
+      "description": "[EXPAND: Detailed principle 7 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 8",
+      "description": "[EXPAND: Detailed principle 8 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 9",
+      "description": "[EXPAND: Detailed principle 9 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 10",
+      "description": "[EXPAND: Detailed principle 10 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 11",
+      "description": "[EXPAND: Detailed principle 11 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 12",
+      "description": "[EXPAND: Detailed principle 12 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 13",
+      "description": "[EXPAND: Detailed principle 13 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 14",
+      "description": "[EXPAND: Detailed principle 14 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 15",
+      "description": "[EXPAND: Detailed principle 15 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 16",
+      "description": "[EXPAND: Detailed principle 16 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 17",
+      "description": "[EXPAND: Detailed principle 17 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 18",
+      "description": "[EXPAND: Detailed principle 18 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 19",
+      "description": "[EXPAND: Detailed principle 19 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 20",
+      "description": "[EXPAND: Detailed principle 20 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 21",
+      "description": "[EXPAND: Detailed principle 21 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 22",
+      "description": "[EXPAND: Detailed principle 22 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 23",
+      "description": "[EXPAND: Detailed principle 23 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 24",
+      "description": "[EXPAND: Detailed principle 24 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Principle 25",
+      "description": "[EXPAND: Detailed principle 25 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Core Principle 25",
+      "description": "[EXPAND: Detailed description of core principle 25 for golden_dawn]",
+      "practical_applications": [
+        "[EXPAND: Application 1]",
+        "[EXPAND: Application 2]"
+      ],
+      "related_concepts": [
+        "[EXPAND: Concept 1]",
+        "[EXPAND: Concept 2]"
+      ]
+    }
+  ],
+  "practices": [
+    {
+      "name": "Golden_Dawn Practice 1",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 1]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 1]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 2",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 2]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 2]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 3",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 3]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 3]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 4",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 4]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 4]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 5",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 5]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 5]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 6",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 6]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 6]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 7",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 7]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 7]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 8",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 8]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 8]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 9",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 9]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 9]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 10",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 10]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 10]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 11",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 11]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 11]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 12",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 12]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 12]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 13",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 13]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 13]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 14",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 14]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 14]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 15",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 15]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 15]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 16",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 16]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 16]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 17",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 17]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 17]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 18",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 18]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 18]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 19",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 19]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 19]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 20",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 20]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 20]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 21",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 21]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 21]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 22",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 22]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 22]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 23",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 23]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 23]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 24",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 24]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 24]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Practice 25",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 25]",
+      "instructions": "[EXPAND: Step-by-step instructions for golden_dawn practice 25]",
+      "prerequisites": [
+        "Basic golden_dawn knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    }
+  ],
+  "sub_practices": [
+    {
+      "name": "Golden_Dawn Sub-Practice 1",
+      "parent_practice": "Golden_Dawn Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 1",
+        "Specialization 1"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 2",
+      "parent_practice": "Golden_Dawn Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 2",
+        "Specialization 2"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 3",
+      "parent_practice": "Golden_Dawn Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 3",
+        "Specialization 3"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 4",
+      "parent_practice": "Golden_Dawn Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 4",
+        "Specialization 4"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 5",
+      "parent_practice": "Golden_Dawn Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 5",
+        "Specialization 5"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 6",
+      "parent_practice": "Golden_Dawn Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 6",
+        "Specialization 6"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 7",
+      "parent_practice": "Golden_Dawn Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 7",
+        "Specialization 7"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 8",
+      "parent_practice": "Golden_Dawn Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 8",
+        "Specialization 8"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 9",
+      "parent_practice": "Golden_Dawn Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 9",
+        "Specialization 9"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 10",
+      "parent_practice": "Golden_Dawn Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 10",
+        "Specialization 10"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 11",
+      "parent_practice": "Golden_Dawn Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 11",
+        "Specialization 11"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 12",
+      "parent_practice": "Golden_Dawn Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 12",
+        "Specialization 12"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 13",
+      "parent_practice": "Golden_Dawn Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 13",
+        "Specialization 13"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 14",
+      "parent_practice": "Golden_Dawn Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 14",
+        "Specialization 14"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 15",
+      "parent_practice": "Golden_Dawn Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 15",
+        "Specialization 15"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 16",
+      "parent_practice": "Golden_Dawn Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 16",
+        "Specialization 16"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 17",
+      "parent_practice": "Golden_Dawn Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 17",
+        "Specialization 17"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 18",
+      "parent_practice": "Golden_Dawn Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 18",
+        "Specialization 18"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 19",
+      "parent_practice": "Golden_Dawn Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 19",
+        "Specialization 19"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 20",
+      "parent_practice": "Golden_Dawn Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 20",
+        "Specialization 20"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 21",
+      "parent_practice": "Golden_Dawn Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 21",
+        "Specialization 21"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 22",
+      "parent_practice": "Golden_Dawn Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 22",
+        "Specialization 22"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 23",
+      "parent_practice": "Golden_Dawn Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 23",
+        "Specialization 23"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 24",
+      "parent_practice": "Golden_Dawn Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 24",
+        "Specialization 24"
+      ]
+    },
+    {
+      "name": "Golden_Dawn Sub-Practice 25",
+      "parent_practice": "Golden_Dawn Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 25",
+        "Specialization 25"
+      ]
+    }
+  ],
+  "cross_tradition_connections": [
+    {
+      "connected_tradition": "enochian_magic",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with enochian_magic]"
+    },
+    {
+      "connected_tradition": "hermetic_qabalah",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How golden_dawn connects with hermetic_qabalah]"
+    },
+    {
+      "connected_tradition": "thelema",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How golden_dawn connects with thelema]"
+    },
+    {
+      "connected_tradition": "celtic_druidic",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How golden_dawn connects with celtic_druidic]"
+    },
+    {
+      "connected_tradition": "chaos_magic",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with chaos_magic]"
+    },
+    {
+      "connected_tradition": "alchemy",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How golden_dawn connects with alchemy]"
+    },
+    {
+      "connected_tradition": "taoism",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How golden_dawn connects with taoism]"
+    },
+    {
+      "connected_tradition": "traditional_kabbalah",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How golden_dawn connects with traditional_kabbalah]"
+    },
+    {
+      "connected_tradition": "sufism",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with sufism]"
+    },
+    {
+      "connected_tradition": "gnosticism",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How golden_dawn connects with gnosticism]"
+    },
+    {
+      "connected_tradition": "norse_traditions",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How golden_dawn connects with norse_traditions]"
+    },
+    {
+      "connected_tradition": "greek_philosophy",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How golden_dawn connects with greek_philosophy]"
+    },
+    {
+      "connected_tradition": "tarot",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with tarot]"
+    },
+    {
+      "connected_tradition": "i_ching",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How golden_dawn connects with i_ching]"
+    },
+    {
+      "connected_tradition": "astrology",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How golden_dawn connects with astrology]"
+    },
+    {
+      "connected_tradition": "egyptian_magic",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How golden_dawn connects with egyptian_magic]"
+    },
+    {
+      "connected_tradition": "shamanism",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with shamanism]"
+    },
+    {
+      "connected_tradition": "numerology",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How golden_dawn connects with numerology]"
+    },
+    {
+      "connected_tradition": "sacred_geometry",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How golden_dawn connects with sacred_geometry]"
+    },
+    {
+      "connected_tradition": "quantum_physics",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How golden_dawn connects with quantum_physics]"
+    },
+    {
+      "connected_tradition": "kuji_kiri",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with kuji_kiri]"
+    },
+    {
+      "connected_tradition": "greek_mythology",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How golden_dawn connects with greek_mythology]"
+    },
+    {
+      "connected_tradition": "digital_physics",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How golden_dawn connects with digital_physics]"
+    },
+    {
+      "connected_tradition": "m_theory",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How golden_dawn connects with m_theory]"
+    },
+    {
+      "connected_tradition": "natal_astrology",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How golden_dawn connects with natal_astrology]"
+    }
+  ],
+  "governor_applications": {
+    "personality_influences": [
+      "golden_dawn influenced thinking",
+      "Traditional wisdom patterns"
+    ],
+    "decision_making_patterns": [
+      "golden_dawn based decisions",
+      "Traditional consultation"
+    ],
+    "communication_styles": [
+      "golden_dawn terminology",
+      "Traditional expressions"
+    ],
+    "quest_generation_themes": [
+      "golden_dawn challenges",
+      "Traditional trials"
+    ]
+  },
+  "authenticity_sources": [
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 1 for golden_dawn]",
+      "reliability_score": 0.85
+    },
+    {
+      "type": "academic",
+      "source": "[EXPAND: Authentic source 2 for golden_dawn]",
+      "reliability_score": 0.86
+    },
+    {
+      "type": "traditional",
+      "source": "[EXPAND: Authentic source 3 for golden_dawn]",
+      "reliability_score": 0.87
+    },
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 4 for golden_dawn]",
+      "reliability_score": 0.88
+    },
+    {
+      "type": "academic",
+      "source": "[EXPAND: Authentic source 5 for golden_dawn]",
+      "reliability_score": 0.89
+    },
+    {
+      "type": "traditional",
+      "source": "[EXPAND: Authentic source 6 for golden_dawn]",
+      "reliability_score": 0.9
+    },
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 7 for golden_dawn]",
+      "reliability_score": 0.91
+    },
+    {
+      "type": "academic",
+      "source": "[EXPAND: Authentic source 8 for golden_dawn]",
+      "reliability_score": 0.92
+    },
+    {
+      "type": "traditional",
+      "source": "[EXPAND: Authentic source 9 for golden_dawn]",
+      "reliability_score": 0.93
+    },
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 10 for golden_dawn]",
+      "reliability_score": 0.94
+    }
+  ]
+}

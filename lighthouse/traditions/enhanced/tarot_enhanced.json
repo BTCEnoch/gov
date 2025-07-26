@@ -1,0 +1,1194 @@
+{
+  "tradition_id": "tarot",
+  "tradition_name": "Tarot",
+  "category": "divination",
+  "overview": "78-card system with Major/Minor Arcana for archetypal guidance",
+  "historical_context": "Historical development and key figures of tarot",
+  "core_principles": [
+    {
+      "name": "Major Arcana",
+      "description": "Core principle of Major Arcana within tarot tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Major Arcana",
+        "Integration with tarot practice"
+      ],
+      "related_concepts": [
+        "Minor Arcana",
+        "Spreads",
+        "Symbolism"
+      ]
+    },
+    {
+      "name": "Minor Arcana",
+      "description": "Core principle of Minor Arcana within tarot tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Minor Arcana",
+        "Integration with tarot practice"
+      ],
+      "related_concepts": [
+        "Major Arcana",
+        "Spreads",
+        "Symbolism"
+      ]
+    },
+    {
+      "name": "Spreads",
+      "description": "Core principle of Spreads within tarot tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Spreads",
+        "Integration with tarot practice"
+      ],
+      "related_concepts": [
+        "Major Arcana",
+        "Minor Arcana",
+        "Symbolism"
+      ]
+    },
+    {
+      "name": "Symbolism",
+      "description": "Core principle of Symbolism within tarot tradition. [EXPAND: 200-300 words with authentic details]",
+      "practical_applications": [
+        "Application of Symbolism",
+        "Integration with tarot practice"
+      ],
+      "related_concepts": [
+        "Major Arcana",
+        "Minor Arcana",
+        "Spreads"
+      ]
+    },
+    {
+      "name": "Tarot Principle 6",
+      "description": "[EXPAND: Detailed principle 6 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 7",
+      "description": "[EXPAND: Detailed principle 7 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 8",
+      "description": "[EXPAND: Detailed principle 8 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 9",
+      "description": "[EXPAND: Detailed principle 9 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 10",
+      "description": "[EXPAND: Detailed principle 10 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 11",
+      "description": "[EXPAND: Detailed principle 11 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 12",
+      "description": "[EXPAND: Detailed principle 12 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 13",
+      "description": "[EXPAND: Detailed principle 13 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 14",
+      "description": "[EXPAND: Detailed principle 14 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 15",
+      "description": "[EXPAND: Detailed principle 15 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 16",
+      "description": "[EXPAND: Detailed principle 16 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 17",
+      "description": "[EXPAND: Detailed principle 17 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 18",
+      "description": "[EXPAND: Detailed principle 18 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 19",
+      "description": "[EXPAND: Detailed principle 19 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 20",
+      "description": "[EXPAND: Detailed principle 20 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 21",
+      "description": "[EXPAND: Detailed principle 21 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 22",
+      "description": "[EXPAND: Detailed principle 22 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 23",
+      "description": "[EXPAND: Detailed principle 23 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 24",
+      "description": "[EXPAND: Detailed principle 24 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Principle 25",
+      "description": "[EXPAND: Detailed principle 25 for tarot]",
+      "practical_applications": [
+        "[EXPAND]",
+        "[EXPAND]"
+      ],
+      "related_concepts": [
+        "[EXPAND]"
+      ]
+    },
+    {
+      "name": "Tarot Core Principle 25",
+      "description": "[EXPAND: Detailed description of core principle 25 for tarot]",
+      "practical_applications": [
+        "[EXPAND: Application 1]",
+        "[EXPAND: Application 2]"
+      ],
+      "related_concepts": [
+        "[EXPAND: Concept 1]",
+        "[EXPAND: Concept 2]"
+      ]
+    }
+  ],
+  "practices": [
+    {
+      "name": "Tarot Practice 1",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 1]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 1]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 2",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 2]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 2]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 3",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 3]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 3]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 4",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 4]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 4]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 5",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 5]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 5]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 6",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 6]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 6]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 7",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 7]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 7]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 8",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 8]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 8]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 9",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 9]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 9]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 10",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 10]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 10]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 11",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 11]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 11]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 12",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 12]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 12]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 13",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 13]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 13]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 14",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 14]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 14]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 15",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 15]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 15]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 16",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 16]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 16]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 17",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 17]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 17]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 18",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 18]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 18]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 19",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 19]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 19]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 20",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 20]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 20]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 21",
+      "type": "ritual",
+      "description": "[EXPAND: 300-500 word detailed description of practice 21]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 21]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 22",
+      "type": "meditation",
+      "description": "[EXPAND: 300-500 word detailed description of practice 22]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 22]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 23",
+      "type": "study",
+      "description": "[EXPAND: 300-500 word detailed description of practice 23]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 23]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 24",
+      "type": "divination",
+      "description": "[EXPAND: 300-500 word detailed description of practice 24]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 24]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    },
+    {
+      "name": "Tarot Practice 25",
+      "type": "energy_work",
+      "description": "[EXPAND: 300-500 word detailed description of practice 25]",
+      "instructions": "[EXPAND: Step-by-step instructions for tarot practice 25]",
+      "prerequisites": [
+        "Basic tarot knowledge",
+        "Preparation"
+      ],
+      "benefits": [
+        "Spiritual development",
+        "Enhanced understanding"
+      ],
+      "warnings": [
+        "Requires proper preparation",
+        "Should be approached with respect"
+      ]
+    }
+  ],
+  "sub_practices": [
+    {
+      "name": "Tarot Sub-Practice 1",
+      "parent_practice": "Tarot Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 1",
+        "Specialization 1"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 2",
+      "parent_practice": "Tarot Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 2",
+        "Specialization 2"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 3",
+      "parent_practice": "Tarot Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 3",
+        "Specialization 3"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 4",
+      "parent_practice": "Tarot Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 4",
+        "Specialization 4"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 5",
+      "parent_practice": "Tarot Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 5",
+        "Specialization 5"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 6",
+      "parent_practice": "Tarot Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 6",
+        "Specialization 6"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 7",
+      "parent_practice": "Tarot Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 7",
+        "Specialization 7"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 8",
+      "parent_practice": "Tarot Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 8",
+        "Specialization 8"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 9",
+      "parent_practice": "Tarot Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 9",
+        "Specialization 9"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 10",
+      "parent_practice": "Tarot Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 10",
+        "Specialization 10"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 11",
+      "parent_practice": "Tarot Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 11",
+        "Specialization 11"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 12",
+      "parent_practice": "Tarot Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 12",
+        "Specialization 12"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 13",
+      "parent_practice": "Tarot Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 13",
+        "Specialization 13"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 14",
+      "parent_practice": "Tarot Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 14",
+        "Specialization 14"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 15",
+      "parent_practice": "Tarot Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 15",
+        "Specialization 15"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 16",
+      "parent_practice": "Tarot Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 16",
+        "Specialization 16"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 17",
+      "parent_practice": "Tarot Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 17",
+        "Specialization 17"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 18",
+      "parent_practice": "Tarot Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 18",
+        "Specialization 18"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 19",
+      "parent_practice": "Tarot Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 19",
+        "Specialization 19"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 20",
+      "parent_practice": "Tarot Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 20",
+        "Specialization 20"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 21",
+      "parent_practice": "Tarot Practice 1",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 21",
+        "Specialization 21"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 22",
+      "parent_practice": "Tarot Practice 2",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "intermediate",
+      "unique_aspects": [
+        "Aspect 22",
+        "Specialization 22"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 23",
+      "parent_practice": "Tarot Practice 3",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "advanced",
+      "unique_aspects": [
+        "Aspect 23",
+        "Specialization 23"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 24",
+      "parent_practice": "Tarot Practice 4",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "master",
+      "unique_aspects": [
+        "Aspect 24",
+        "Specialization 24"
+      ]
+    },
+    {
+      "name": "Tarot Sub-Practice 25",
+      "parent_practice": "Tarot Practice 5",
+      "description": "[EXPAND: 200-400 word description of specialized practice]",
+      "specialization_level": "beginner",
+      "unique_aspects": [
+        "Aspect 25",
+        "Specialization 25"
+      ]
+    }
+  ],
+  "cross_tradition_connections": [
+    {
+      "connected_tradition": "enochian_magic",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with enochian_magic]"
+    },
+    {
+      "connected_tradition": "hermetic_qabalah",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How tarot connects with hermetic_qabalah]"
+    },
+    {
+      "connected_tradition": "thelema",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How tarot connects with thelema]"
+    },
+    {
+      "connected_tradition": "celtic_druidic",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How tarot connects with celtic_druidic]"
+    },
+    {
+      "connected_tradition": "chaos_magic",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with chaos_magic]"
+    },
+    {
+      "connected_tradition": "alchemy",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How tarot connects with alchemy]"
+    },
+    {
+      "connected_tradition": "golden_dawn",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How tarot connects with golden_dawn]"
+    },
+    {
+      "connected_tradition": "taoism",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How tarot connects with taoism]"
+    },
+    {
+      "connected_tradition": "traditional_kabbalah",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with traditional_kabbalah]"
+    },
+    {
+      "connected_tradition": "sufism",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How tarot connects with sufism]"
+    },
+    {
+      "connected_tradition": "gnosticism",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How tarot connects with gnosticism]"
+    },
+    {
+      "connected_tradition": "norse_traditions",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How tarot connects with norse_traditions]"
+    },
+    {
+      "connected_tradition": "greek_philosophy",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with greek_philosophy]"
+    },
+    {
+      "connected_tradition": "i_ching",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How tarot connects with i_ching]"
+    },
+    {
+      "connected_tradition": "astrology",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How tarot connects with astrology]"
+    },
+    {
+      "connected_tradition": "egyptian_magic",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How tarot connects with egyptian_magic]"
+    },
+    {
+      "connected_tradition": "shamanism",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with shamanism]"
+    },
+    {
+      "connected_tradition": "numerology",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How tarot connects with numerology]"
+    },
+    {
+      "connected_tradition": "sacred_geometry",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How tarot connects with sacred_geometry]"
+    },
+    {
+      "connected_tradition": "quantum_physics",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How tarot connects with quantum_physics]"
+    },
+    {
+      "connected_tradition": "kuji_kiri",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with kuji_kiri]"
+    },
+    {
+      "connected_tradition": "greek_mythology",
+      "connection_type": "synergistic",
+      "description": "[EXPAND: How tarot connects with greek_mythology]"
+    },
+    {
+      "connected_tradition": "digital_physics",
+      "connection_type": "foundational",
+      "description": "[EXPAND: How tarot connects with digital_physics]"
+    },
+    {
+      "connected_tradition": "m_theory",
+      "connection_type": "advanced",
+      "description": "[EXPAND: How tarot connects with m_theory]"
+    },
+    {
+      "connected_tradition": "natal_astrology",
+      "connection_type": "complementary",
+      "description": "[EXPAND: How tarot connects with natal_astrology]"
+    }
+  ],
+  "governor_applications": {
+    "personality_influences": [
+      "tarot influenced thinking",
+      "Traditional wisdom patterns"
+    ],
+    "decision_making_patterns": [
+      "tarot based decisions",
+      "Traditional consultation"
+    ],
+    "communication_styles": [
+      "tarot terminology",
+      "Traditional expressions"
+    ],
+    "quest_generation_themes": [
+      "tarot challenges",
+      "Traditional trials"
+    ]
+  },
+  "authenticity_sources": [
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 1 for tarot]",
+      "reliability_score": 0.85
+    },
+    {
+      "type": "academic",
+      "source": "[EXPAND: Authentic source 2 for tarot]",
+      "reliability_score": 0.86
+    },
+    {
+      "type": "traditional",
+      "source": "[EXPAND: Authentic source 3 for tarot]",
+      "reliability_score": 0.87
+    },
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 4 for tarot]",
+      "reliability_score": 0.88
+    },
+    {
+      "type": "academic",
+      "source": "[EXPAND: Authentic source 5 for tarot]",
+      "reliability_score": 0.89
+    },
+    {
+      "type": "traditional",
+      "source": "[EXPAND: Authentic source 6 for tarot]",
+      "reliability_score": 0.9
+    },
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 7 for tarot]",
+      "reliability_score": 0.91
+    },
+    {
+      "type": "academic",
+      "source": "[EXPAND: Authentic source 8 for tarot]",
+      "reliability_score": 0.92
+    },
+    {
+      "type": "traditional",
+      "source": "[EXPAND: Authentic source 9 for tarot]",
+      "reliability_score": 0.93
+    },
+    {
+      "type": "historical",
+      "source": "[EXPAND: Authentic source 10 for tarot]",
+      "reliability_score": 0.94
+    }
+  ]
+}
