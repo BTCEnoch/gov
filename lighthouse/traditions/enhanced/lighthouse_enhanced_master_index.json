@@ -50,10 +50,10 @@
       {
         "tradition_id": "celtic_druidic",
         "tradition_name": "Celtic Druidic",
-        "file": "celtic_druidic_enhanced.json",
-        "size_kb": 2.17,
-        "status": "enhanced",
-        "key_concepts": ["Awen", "Sacred Groves", "Ogham", "Seasonal Cycles"]
+        "file": "../celtic_druidic.json",
+        "size_kb": 14.2,
+        "status": "consolidated",
+        "key_concepts": ["Harmony with Nature", "Immortality of Soul", "Oral Tradition", "Triads", "Sacred Groves", "Seasonal Festivals"]
       },
       {
         "tradition_id": "chaos_magic",
