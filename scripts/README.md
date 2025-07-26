@@ -261,6 +261,13 @@ scripts/
 **Output**: Market validation reports
 **Description**: Economic validation system that ensures market mechanisms are balanced and sustainable for long-term operation.
 
+### `json_linebreak_cleaner.py` ✨ NEW
+**Purpose**: Fixes \n\n linebreak issues in JSON files across the project
+**Usage**: `python scripts/utilities/json_linebreak_cleaner.py`
+**Dependencies**: Python 3.8+, JSON files
+**Output**: Cleaned JSON files with proper linebreaks, backup files, cleanup report
+**Description**: Scans all JSON files in the project and converts literal \n\n strings to actual linebreaks for proper formatting while preserving JSON structure.
+
 ## 🧪 Validation Scripts (`validation/`)
 
 ### `content_metrics_validator.py`
