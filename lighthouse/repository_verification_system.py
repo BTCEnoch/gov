@@ -124,7 +124,18 @@ class RepositoryVerificationSystem:
                 performance_metrics = quest_data.get('performance_metrics', {})
                 
                 metrics.quest_generation_capacity = production_summary.get('total_quests_generated', 0)
-                metrics.authenticity_score = float(production_summary.get('authenticity_achievement', '0.0').replace('%', '')) / 100
+                # Parse authenticity score - it's already a decimal (0.993 = 99.3%)
+                authenticity_raw = production_summary.get('authenticity_achievement', '0.0')
+                if isinstance(authenticity_raw, str):
+                    if '%' in authenticity_raw:
+                        # If it's a percentage string like "99.3%", convert to decimal
+                        metrics.authenticity_score = float(authenticity_raw.replace('%', '')) / 100
+                    else:
+                        # If it's already a decimal string like "0.993", use directly
+                        metrics.authenticity_score = float(authenticity_raw)
+                else:
+                    # If it's already a number
+                    metrics.authenticity_score = float(authenticity_raw)
                 metrics.generation_speed = performance_metrics.get('quests_per_second', 0.0)
                 metrics.governor_success_rate = performance_metrics.get('success_rate_percentage', 0.0) / 100
                 

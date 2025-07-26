@@ -1,0 +1,4862 @@
+[
+  {
+    "id": "kuji_kiri_001",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 1",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 1",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 1",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 1"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 1",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 1",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "e8c497cc69988c04"
+  },
+  {
+    "id": "kuji_kiri_002",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 2",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 2",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 2",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 2"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 2",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 2",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "1d5060d8d303b611"
+  },
+  {
+    "id": "kuji_kiri_003",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 3",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 3",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 3",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 3"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 3",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 3",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "3b03dd9f969cc2a5"
+  },
+  {
+    "id": "kuji_kiri_004",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 4",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 4",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 4",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 4"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 4",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 4",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "5cc6f0643c9954fe"
+  },
+  {
+    "id": "kuji_kiri_005",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 5",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 5",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 5",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 5"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 5",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 5",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "8d61e05116cc204e"
+  },
+  {
+    "id": "kuji_kiri_006",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 6",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 6",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 6",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 6"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 6",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 6",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "636833c60e86b445"
+  },
+  {
+    "id": "kuji_kiri_007",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 7",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 7",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 7",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 7"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 7",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 7",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "b9467a33f233e7a8"
+  },
+  {
+    "id": "kuji_kiri_008",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 8",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 8",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 8",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 8"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 8",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 8",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "8d62c9b99e5c8507"
+  },
+  {
+    "id": "kuji_kiri_009",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 9",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 9",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 9",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 9"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 9",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 9",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "fab6a2ff593efda9"
+  },
+  {
+    "id": "kuji_kiri_010",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 10",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 10",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 10",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 10"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 10",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 10",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ba3623dacf698aa5"
+  },
+  {
+    "id": "kuji_kiri_011",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 11",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 11",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 11",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 11"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 11",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 11",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "6f90210567352b72"
+  },
+  {
+    "id": "kuji_kiri_012",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 12",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 12",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 12",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 12"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 12",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 12",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "4146f17b1ac66b23"
+  },
+  {
+    "id": "kuji_kiri_013",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 13",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 13",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 13",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 13"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 13",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 13",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ebac8781606c2e8d"
+  },
+  {
+    "id": "kuji_kiri_014",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 14",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 14",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 14",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 14"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 14",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 14",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "71ea643e2ca0be63"
+  },
+  {
+    "id": "kuji_kiri_015",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 15",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 15",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 15",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 15"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 15",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 15",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "71aa0bb490ba4807"
+  },
+  {
+    "id": "kuji_kiri_016",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 16",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 16",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 16",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 16"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 16",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 16",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "62181da011b98a78"
+  },
+  {
+    "id": "kuji_kiri_017",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 17",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 17",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 17",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 17"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 17",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 17",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "37e035d33f04028b"
+  },
+  {
+    "id": "kuji_kiri_018",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 18",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 18",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 18",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 18"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 18",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 18",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "f840ffd8e8c47a80"
+  },
+  {
+    "id": "kuji_kiri_019",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 19",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 19",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 19",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 19"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 19",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 19",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "93d9f06265273b74"
+  },
+  {
+    "id": "kuji_kiri_020",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 20",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 20",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 20",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 20"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 20",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 20",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "abaa17d8372da105"
+  },
+  {
+    "id": "kuji_kiri_021",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 21",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 21",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 21",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 21"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 21",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 21",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "cba68112f48dc752"
+  },
+  {
+    "id": "kuji_kiri_022",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 22",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 22",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 22",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 22"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 22",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 22",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ff284c386454e573"
+  },
+  {
+    "id": "kuji_kiri_023",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 23",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 23",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 23",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 23"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 23",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 23",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "b04bb2081041ecbe"
+  },
+  {
+    "id": "kuji_kiri_024",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 24",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 24",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 24",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 24"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 24",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 24",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "b14af61fcd2987e6"
+  },
+  {
+    "id": "kuji_kiri_025",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 25",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 25",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 25",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 25"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 25",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 25",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9128d99947f89fa8"
+  },
+  {
+    "id": "kuji_kiri_026",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 26",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 26",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 26",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 26"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 26",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 26",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "a6634bd9aa8b5b70"
+  },
+  {
+    "id": "kuji_kiri_027",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 27",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 27",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 27",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 27"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 27",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 27",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "3e0bc55db21b34ca"
+  },
+  {
+    "id": "kuji_kiri_028",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 28",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 28",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 28",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 28"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 28",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 28",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "71f8071ad149b10d"
+  },
+  {
+    "id": "kuji_kiri_029",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 29",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 29",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 29",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 29"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 29",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 29",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9d4a09b3d93fd5f8"
+  },
+  {
+    "id": "kuji_kiri_030",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 30",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 30",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 30",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 30"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 30",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 30",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "a09b34fc4533ce2f"
+  },
+  {
+    "id": "kuji_kiri_031",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 31",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 31",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 31",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 31"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 31",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 31",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "4ba5f64c8e7c1353"
+  },
+  {
+    "id": "kuji_kiri_032",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 32",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 32",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 32",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 32"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 32",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 32",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "aa5c223e0f49d44a"
+  },
+  {
+    "id": "kuji_kiri_033",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 33",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 33",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 33",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 33"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 33",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 33",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "0a2fae15f5f51f32"
+  },
+  {
+    "id": "kuji_kiri_034",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 34",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 34",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 34",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 34"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 34",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 34",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "423eefe291b0e9b1"
+  },
+  {
+    "id": "kuji_kiri_035",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 35",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 35",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 35",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 35"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 35",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 35",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "bfb7a6841d6947a5"
+  },
+  {
+    "id": "kuji_kiri_036",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 36",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 36",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 36",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 36"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 36",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 36",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "df210fd4a6d5fb78"
+  },
+  {
+    "id": "kuji_kiri_037",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 37",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 37",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 37",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 37"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 37",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 37",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "e143bba693d76f68"
+  },
+  {
+    "id": "kuji_kiri_038",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 38",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 38",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 38",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 38"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 38",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 38",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "7e180b4cfe15736e"
+  },
+  {
+    "id": "kuji_kiri_039",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 39",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 39",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 39",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 39"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 39",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 39",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "63ac09e191a70200"
+  },
+  {
+    "id": "kuji_kiri_040",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 40",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 40",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 40",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 40"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 40",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 40",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "3b37c28a1266173e"
+  },
+  {
+    "id": "kuji_kiri_041",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 41",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 41",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 41",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 41"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 41",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 41",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "1488fee69777409d"
+  },
+  {
+    "id": "kuji_kiri_042",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 42",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 42",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 42",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 42"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 42",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 42",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "e393b8cbdde78285"
+  },
+  {
+    "id": "kuji_kiri_043",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 43",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 43",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 43",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 43"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 43",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 43",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "965f898ea3e042eb"
+  },
+  {
+    "id": "kuji_kiri_044",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 44",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 44",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 44",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 44"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 44",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 44",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9638face2c153c7c"
+  },
+  {
+    "id": "kuji_kiri_045",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 45",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 45",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 45",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 45"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 45",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 45",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "eb66c31c3306143e"
+  },
+  {
+    "id": "kuji_kiri_046",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 46",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 46",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 46",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 46"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 46",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 46",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ca10b2907bb47df0"
+  },
+  {
+    "id": "kuji_kiri_047",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 47",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 47",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 47",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 47"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 47",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 47",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "6e985568cf235c7b"
+  },
+  {
+    "id": "kuji_kiri_048",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 48",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 48",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 48",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 48"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 48",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 48",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "50aa5eb1d970fc9b"
+  },
+  {
+    "id": "kuji_kiri_049",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 49",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 49",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 49",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 49"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 49",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 49",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "f33fcee26fbd9291"
+  },
+  {
+    "id": "kuji_kiri_050",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 50",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 50",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 50",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 50"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 50",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 50",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ff284ad8bd6fdac4"
+  },
+  {
+    "id": "kuji_kiri_051",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 51",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 51",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 51",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 51"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 51",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 51",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "38176af805237ba9"
+  },
+  {
+    "id": "kuji_kiri_052",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 52",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 52",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 52",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 52"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 52",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 52",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "b6f2009a495f5bf7"
+  },
+  {
+    "id": "kuji_kiri_053",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 53",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 53",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 53",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 53"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 53",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 53",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "df88ec32f549ff80"
+  },
+  {
+    "id": "kuji_kiri_054",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 54",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 54",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 54",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 54"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 54",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 54",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "d6943e77d4929dfd"
+  },
+  {
+    "id": "kuji_kiri_055",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 55",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 55",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 55",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 55"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 55",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 55",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "20b6a827e000d6cc"
+  },
+  {
+    "id": "kuji_kiri_056",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 56",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 56",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 56",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 56"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 56",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 56",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "a996caa2c9c23108"
+  },
+  {
+    "id": "kuji_kiri_057",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 57",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 57",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 57",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 57"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 57",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 57",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9a4cc08ab6728f57"
+  },
+  {
+    "id": "kuji_kiri_058",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 58",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 58",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 58",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 58"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 58",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 58",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "97ee085d1acf60f7"
+  },
+  {
+    "id": "kuji_kiri_059",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 59",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 59",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 59",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 59"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 59",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 59",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "688ef21349a6eca6"
+  },
+  {
+    "id": "kuji_kiri_060",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 60",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 60",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 60",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 60"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 60",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 60",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "4d725e7c648c1b1f"
+  },
+  {
+    "id": "kuji_kiri_061",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 61",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 61",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 61",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 61"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 61",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 61",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "33b945d3ac52cc70"
+  },
+  {
+    "id": "kuji_kiri_062",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 62",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 62",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 62",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 62"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 62",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 62",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "bfacbbdb20bb04d3"
+  },
+  {
+    "id": "kuji_kiri_063",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 63",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 63",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 63",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 63"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 63",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 63",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "fa88607eccfef567"
+  },
+  {
+    "id": "kuji_kiri_064",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 64",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 64",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 64",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 64"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 64",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 64",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "664de1fb2484b0d2"
+  },
+  {
+    "id": "kuji_kiri_065",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 65",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 65",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 65",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 65"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 65",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 65",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9458e93d29218299"
+  },
+  {
+    "id": "kuji_kiri_066",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 66",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 66",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 66",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 66"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 66",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 66",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "5b6bba57e2509062"
+  },
+  {
+    "id": "kuji_kiri_067",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 67",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 67",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 67",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 67"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 67",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 67",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "75396b605da88d7c"
+  },
+  {
+    "id": "kuji_kiri_068",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 68",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 68",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 68",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 68"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 68",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 68",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9e9fbbbc8ff497fd"
+  },
+  {
+    "id": "kuji_kiri_069",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 69",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 69",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 69",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 69"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 69",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 69",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9ed1a2bde610162d"
+  },
+  {
+    "id": "kuji_kiri_070",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 70",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 70",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 70",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 70"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 70",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 70",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ab72a877bdd191cb"
+  },
+  {
+    "id": "kuji_kiri_071",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 71",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 71",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 71",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 71"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 71",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 71",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "4eec8ae3fe40c07d"
+  },
+  {
+    "id": "kuji_kiri_072",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 72",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 72",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 72",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 72"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 72",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 72",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "5c65d37530c2a9f2"
+  },
+  {
+    "id": "kuji_kiri_073",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 73",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 73",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 73",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 73"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 73",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 73",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "a5cfe4cbf74945de"
+  },
+  {
+    "id": "kuji_kiri_074",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 74",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 74",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 74",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 74"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 74",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 74",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "bf9d0f1e52d80591"
+  },
+  {
+    "id": "kuji_kiri_075",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 75",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 75",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 75",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 75"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 75",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 75",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "2607d0b48e4502c3"
+  },
+  {
+    "id": "kuji_kiri_076",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 76",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 76",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 76",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 76"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 76",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 76",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "3ef1876d0e302c6b"
+  },
+  {
+    "id": "kuji_kiri_077",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 77",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 77",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 77",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 77"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 77",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 77",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "6794a7dff42ad7fa"
+  },
+  {
+    "id": "kuji_kiri_078",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 78",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 78",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 78",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 78"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 78",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 78",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "599cffc4b47e7f89"
+  },
+  {
+    "id": "kuji_kiri_079",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 79",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 79",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 79",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 79"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 79",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 79",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9deb179ec30e5cc2"
+  },
+  {
+    "id": "kuji_kiri_080",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 80",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 80",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 80",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 80"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 80",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 80",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "75f086dc0a29e374"
+  },
+  {
+    "id": "kuji_kiri_081",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 81",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 81",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 81",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 81"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 81",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 81",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9a1683587e709e17"
+  },
+  {
+    "id": "kuji_kiri_082",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 82",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 82",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 82",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 82"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 82",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 82",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "123e66e7821297c6"
+  },
+  {
+    "id": "kuji_kiri_083",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 83",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 83",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 83",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 83"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 83",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 83",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "c2b6450cfc469107"
+  },
+  {
+    "id": "kuji_kiri_084",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 84",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 84",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 84",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 84"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 84",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 84",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "0022b41b518d7e98"
+  },
+  {
+    "id": "kuji_kiri_085",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Core Principle 85",
+    "category": "concept",
+    "summary": "Essential core principle within Kuji-Kiri tradition.",
+    "description": "This core principle represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Core Principle 85",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Core Principle 85",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Core Principle 85"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Core Principle 85",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Core Principle 85",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "0d3e3a38508da941"
+  },
+  {
+    "id": "kuji_kiri_086",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Practice 86",
+    "category": "practice",
+    "summary": "Essential practice within Kuji-Kiri tradition.",
+    "description": "This practice represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Practice 86",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Practice 86",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Practice 86"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Practice 86",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Practice 86",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "8a2927b489a7f199"
+  },
+  {
+    "id": "kuji_kiri_087",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Symbol 87",
+    "category": "symbol",
+    "summary": "Essential symbol within Kuji-Kiri tradition.",
+    "description": "This symbol represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Symbol 87",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Symbol 87",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Symbol 87"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Symbol 87",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Symbol 87",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "8d31781d71cb6422"
+  },
+  {
+    "id": "kuji_kiri_088",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Tool 88",
+    "category": "tool",
+    "summary": "Essential tool within Kuji-Kiri tradition.",
+    "description": "This tool represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Tool 88",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Tool 88",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Tool 88"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Tool 88",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Tool 88",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "ccccee1bee0562ce"
+  },
+  {
+    "id": "kuji_kiri_089",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Technique 89",
+    "category": "practice",
+    "summary": "Essential technique within Kuji-Kiri tradition.",
+    "description": "This technique represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Technique 89",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Technique 89",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Technique 89"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Technique 89",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Technique 89",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "9dcf2a740b7a52f7"
+  },
+  {
+    "id": "kuji_kiri_090",
+    "tradition": "kuji_kiri",
+    "name": "Kuji-Kiri Meditation 90",
+    "category": "practice",
+    "summary": "Essential meditation within Kuji-Kiri tradition.",
+    "description": "This meditation represents an important aspect of Kuji-Kiri practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Kuji-Kiri tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Kuji-Kiri Meditation 90",
+      "Integration with Kuji-Kiri practice"
+    ],
+    "cross_references": [
+      "hermetic_qabalah",
+      "sacred_geometry"
+    ],
+    "prerequisites": [
+      "Basic Kuji-Kiri knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Kuji-Kiri",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Kuji-Kiri sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Kuji-Kiri Meditation 90",
+      "decision_making": "Guides decisions via Kuji-Kiri principles",
+      "quest_generation": "Creates quests based on Kuji-Kiri Meditation 90"
+    },
+    "story_engine_hooks": [
+      "kuji_kiri_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Kuji-Kiri Meditation 90",
+        "Apply Kuji-Kiri principles"
+      ],
+      "practice_exercises": [
+        "Study Kuji-Kiri Meditation 90",
+        "Practice Kuji-Kiri techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.380041",
+    "merkle_hash": "5546a0c81efafb39"
+  }
+]

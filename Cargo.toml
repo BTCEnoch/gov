@@ -1,0 +1,216 @@
+[package]
+name = "enochian-cyphers"
+version = "0.1.0"
+edition = "2021"
+description = "Enochian Cyphers - Bitcoin L1-native RPG with 6-layer sacred architecture"
+license = "MIT"
+repository = "https://github.com/BTCEnoch/gov"
+authors = ["Enochian Cyphers Team"]
+keywords = ["bitcoin", "rpg", "enochian", "mystical", "wasm"]
+categories = ["games", "cryptography", "wasm"]
+build = "build.rs"
+
+[lib]
+name = "enochian_cyphers"
+crate-type = ["cdylib", "rlib"]
+
+[[bin]]
+name = "enochian-server"
+path = "src/bin/server.rs"
+required-features = ["server"]
+
+[[bin]]
+name = "enochian-cli"
+path = "src/bin/cli.rs"
+required-features = ["cli"]
+
+[features]
+default = ["wasm", "story-engine", "lighthouse"]
+wasm = ["wasm-bindgen", "web-sys", "js-sys", "console_error_panic_hook"]
+server = ["tokio", "axum", "tower", "tower-http"]
+cli = ["clap", "tokio"]
+story-engine = []
+lighthouse = []
+tap-protocol = ["bitcoin", "secp256k1"]
+trac-indexer = ["libp2p", "tokio"]
+full-node = ["server", "tap-protocol", "trac-indexer"]
+
+[dependencies]
+# Core dependencies (zero external network dependencies)
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+uuid = { version = "1.0", features = ["v4", "serde"] }
+thiserror = "1.0"
+anyhow = "1.0"
+log = "0.4"
+env_logger = "0.10"
+
+# Cryptography (for authenticity and Bitcoin integration)
+sha2 = "0.10"
+hmac = "0.12"
+rand = "0.8"
+hex = "0.4"
+
+# WASM dependencies
+wasm-bindgen = { version = "0.2", optional = true }
+js-sys = { version = "0.3", optional = true }
+console_error_panic_hook = { version = "0.1", optional = true }
+
+[dependencies.web-sys]
+version = "0.3"
+optional = true
+features = [
+  "console",
+  "Document",
+  "Element",
+  "HtmlElement",
+  "Window",
+  "Storage",
+  "LocalStorage",
+  "SessionStorage",
+  "Location",
+  "History",
+  "Navigator",
+  "Performance",
+  "Worker",
+  "MessageEvent",
+  "MessagePort",
+  "BroadcastChannel",
+  "WebSocket",
+  "Blob",
+  "File",
+  "FileReader",
+  "Response",
+  "Request",
+  "Headers",
+  "AbortController",
+  "AbortSignal",
+]
+
+# Server dependencies
+tokio = { version = "1.0", features = ["full"], optional = true }
+axum = { version = "0.7", optional = true }
+tower = { version = "0.4", optional = true }
+tower-http = { version = "0.5", features = ["cors", "fs"], optional = true }
+
+# CLI dependencies
+clap = { version = "4.0", features = ["derive"], optional = true }
+
+# Bitcoin integration
+bitcoin = { version = "0.31", optional = true }
+secp256k1 = { version = "0.28", optional = true }
+
+# P2P networking
+libp2p = { version = "0.53", optional = true }
+
+[build-dependencies]
+chrono = "0.4"
+
+[dev-dependencies]
+tokio-test = "0.4"
+wasm-bindgen-test = "0.3"
+criterion = "0.5"
+
+[profile.release]
+# Optimize for size and performance (Ordinals compliance)
+opt-level = "s"          # Optimize for size
+lto = true               # Link-time optimization
+codegen-units = 1        # Single codegen unit for better optimization
+panic = "abort"          # Smaller binary size
+strip = true             # Strip symbols
+
+[profile.release.package."*"]
+opt-level = "s"
+
+[profile.dev]
+# Development optimizations
+opt-level = 0
+debug = true
+overflow-checks = true
+
+[profile.test]
+opt-level = 1
+debug = true
+
+[package.metadata.wasm-pack.profile.release]
+# WASM-specific optimizations
+wasm-opt = ["-Oz", "--enable-mutable-globals", "--enable-sign-ext"]
+
+[package.metadata.docs.rs]
+features = ["full-node"]
+rustdoc-args = ["--cfg", "docsrs"]
+
+# Workspace configuration
+[workspace]
+members = [
+    "story-engine",
+    "lighthouse",
+    "onchain",
+    "ui",
+    "tests",
+]
+
+[workspace.dependencies]
+# Shared workspace dependencies
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.0", features = ["full"] }
+anyhow = "1.0"
+thiserror = "1.0"
+
+# Sacred architecture validation
+[[test]]
+name = "sacred_constraints"
+path = "tests/sacred_constraints.rs"
+required-features = ["full-node"]
+
+[[test]]
+name = "authenticity_validation"
+path = "tests/authenticity_validation.rs"
+
+[[test]]
+name = "wasm_integration"
+path = "tests/wasm_integration.rs"
+required-features = ["wasm"]
+
+[[bench]]
+name = "quest_generation"
+harness = false
+required-features = ["story-engine"]
+
+[[bench]]
+name = "authenticity_scoring"
+harness = false
+
+# Custom metadata for Enochian Cyphers
+[package.metadata.enochian]
+sacred_architecture_version = "6-layer-v1.0"
+tradition_count = 26
+governor_count = 91
+aethyr_count = 30
+authenticity_threshold = 0.95
+ordinals_size_limit = 1048576  # 1MB
+enochian_weighting = 0.6
+
+# Build scripts and automation
+[package.metadata.scripts]
+build-wasm = "wasm-pack build --target web --out-dir pkg"
+build-wasm-node = "wasm-pack build --target nodejs --out-dir pkg-node"
+build-server = "cargo build --release --features server"
+build-all = "cargo build --release --features full-node"
+test-all = "cargo test --all-features"
+test-wasm = "wasm-pack test --headless --firefox"
+validate-sacred = "cargo test sacred_constraints"
+validate-authenticity = "cargo test authenticity_validation"
+optimize-size = "wasm-opt -Oz pkg/enochian_cyphers_bg.wasm -o pkg/enochian_cyphers_bg.wasm"
+
+# Documentation configuration
+[package.metadata.docs]
+features = ["full-node"]
+default-target = "x86_64-unknown-linux-gnu"
+targets = ["wasm32-unknown-unknown"]
+
+# Security and audit configuration
+[package.metadata.audit]
+ignore = []

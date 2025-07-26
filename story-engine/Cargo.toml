@@ -1,0 +1,40 @@
+[package]
+name = "enochian-story-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Enochian Cyphers Story Engine - WASM-compatible narrative generation with authentic mystical integration"
+license = "MIT"
+repository = "https://github.com/BTCEnoch/gov"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+console_error_panic_hook = "0.1"
+js-sys = "0.3"
+
+[dependencies.web-sys]
+version = "0.3"
+features = [
+  "console",
+  "Document",
+  "Element",
+  "HtmlElement",
+  "Window",
+  "Storage",
+  "LocalStorage",
+]
+
+[profile.release]
+# Optimize for size and performance
+opt-level = "s"
+lto = true
+codegen-units = 1
+panic = "abort"
+
+[package.metadata.wasm-pack.profile.release]
+# WASM-specific optimizations
+wasm-opt = ["-Oz", "--enable-mutable-globals"]

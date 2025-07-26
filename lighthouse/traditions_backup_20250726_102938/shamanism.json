@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "shamanism_001",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 1",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 1",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 1",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 1"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 1",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 1",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "8f961310e8ccde5b"
+  },
+  {
+    "id": "shamanism_002",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 2",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 2",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 2",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 2"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 2",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 2",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "ccf6f268da7aa1d1"
+  },
+  {
+    "id": "shamanism_003",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 3",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 3",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 3",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 3"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 3",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 3",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "d2cd6fb7ca54e1b1"
+  },
+  {
+    "id": "shamanism_004",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 4",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 4",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 4",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 4"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 4",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 4",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "4c89d0491e7cef6c"
+  },
+  {
+    "id": "shamanism_005",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 5",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 5",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 5",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 5"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 5",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 5",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "9026c0ad4b6aee31"
+  },
+  {
+    "id": "shamanism_006",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 6",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 6",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 6",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 6"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 6",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 6",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "15ef124d60e2ecb3"
+  },
+  {
+    "id": "shamanism_007",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 7",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 7",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 7",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 7"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 7",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 7",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "e1c4f8c112b2bbb4"
+  },
+  {
+    "id": "shamanism_008",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 8",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 8",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 8",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 8"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 8",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 8",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "af8254d5fc9ec980"
+  },
+  {
+    "id": "shamanism_009",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 9",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 9",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 9",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 9"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 9",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 9",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c08770e1ebe5c566"
+  },
+  {
+    "id": "shamanism_010",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 10",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 10",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 10",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 10"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 10",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 10",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c6b0b8696a827544"
+  },
+  {
+    "id": "shamanism_011",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 11",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 11",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 11",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 11"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 11",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 11",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "669b85f1125bf813"
+  },
+  {
+    "id": "shamanism_012",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 12",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 12",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 12",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 12"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 12",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 12",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "fb0f7593abf7ced1"
+  },
+  {
+    "id": "shamanism_013",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 13",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 13",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 13",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 13"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 13",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 13",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "072456e60fa0c3c4"
+  },
+  {
+    "id": "shamanism_014",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 14",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 14",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 14",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 14"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 14",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 14",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "42a1cedc783c3298"
+  },
+  {
+    "id": "shamanism_015",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 15",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 15",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 15",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 15"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 15",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 15",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "02047f310b810aca"
+  },
+  {
+    "id": "shamanism_016",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 16",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 16",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 16",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 16"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 16",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 16",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c1c9491b673e8d95"
+  },
+  {
+    "id": "shamanism_017",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 17",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 17",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 17",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 17"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 17",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 17",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "9fb6c51667025971"
+  },
+  {
+    "id": "shamanism_018",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 18",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 18",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 18",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 18"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 18",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 18",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "94e1fa9a157635a7"
+  },
+  {
+    "id": "shamanism_019",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 19",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 19",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 19",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 19"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 19",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 19",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "1f2d26ee92318d82"
+  },
+  {
+    "id": "shamanism_020",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 20",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 20",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 20",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 20"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 20",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 20",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "22c42791d2a95e66"
+  },
+  {
+    "id": "shamanism_021",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 21",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 21",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 21",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 21"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 21",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 21",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "b35b17a2da71c8aa"
+  },
+  {
+    "id": "shamanism_022",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 22",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 22",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 22",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 22"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 22",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 22",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "b4d169ca0e9f032f"
+  },
+  {
+    "id": "shamanism_023",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 23",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 23",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 23",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 23"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 23",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 23",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "6b620b8f5475e4bc"
+  },
+  {
+    "id": "shamanism_024",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 24",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 24",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 24",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 24"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 24",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 24",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "0a7723b735ef0661"
+  },
+  {
+    "id": "shamanism_025",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 25",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 25",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 25",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 25"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 25",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 25",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7c641eeed1b79561"
+  },
+  {
+    "id": "shamanism_026",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 26",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 26",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 26",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 26"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 26",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 26",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "8680d5655f651e8b"
+  },
+  {
+    "id": "shamanism_027",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 27",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 27",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 27",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 27"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 27",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 27",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "ee82e719abab2629"
+  },
+  {
+    "id": "shamanism_028",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 28",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 28",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 28",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 28"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 28",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 28",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "99bb2ffb6db5b8c7"
+  },
+  {
+    "id": "shamanism_029",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 29",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 29",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 29",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 29"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 29",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 29",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "f260f5eb49d7a1ab"
+  },
+  {
+    "id": "shamanism_030",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 30",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 30",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 30",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 30"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 30",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 30",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "3e7c24b516105da5"
+  },
+  {
+    "id": "shamanism_031",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 31",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 31",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 31",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 31"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 31",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 31",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "d472a2fc273c4f0e"
+  },
+  {
+    "id": "shamanism_032",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 32",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 32",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 32",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 32"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 32",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 32",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "9e03cc5b7b7758db"
+  },
+  {
+    "id": "shamanism_033",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 33",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 33",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 33",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 33"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 33",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 33",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "e2967e0e027d9bd7"
+  },
+  {
+    "id": "shamanism_034",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 34",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 34",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 34",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 34"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 34",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 34",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "9d82a2ff942de668"
+  },
+  {
+    "id": "shamanism_035",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 35",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 35",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 35",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 35"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 35",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 35",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "421eb98dff1edcc1"
+  },
+  {
+    "id": "shamanism_036",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 36",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 36",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 36",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 36"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 36",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 36",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "22a230ab8c5a51dc"
+  },
+  {
+    "id": "shamanism_037",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 37",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 37",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 37",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 37"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 37",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 37",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "d4f395dff7be5533"
+  },
+  {
+    "id": "shamanism_038",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 38",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 38",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 38",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 38"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 38",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 38",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7655f336bfaffbf3"
+  },
+  {
+    "id": "shamanism_039",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 39",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 39",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 39",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 39"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 39",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 39",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "6692b839a3b40b49"
+  },
+  {
+    "id": "shamanism_040",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 40",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 40",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 40",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 40"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 40",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 40",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "5350ce42046cfaaa"
+  },
+  {
+    "id": "shamanism_041",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 41",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 41",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 41",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 41"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 41",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 41",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "728051d0d9a1721c"
+  },
+  {
+    "id": "shamanism_042",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 42",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 42",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 42",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 42"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 42",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 42",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7a35f5151f6cf0bd"
+  },
+  {
+    "id": "shamanism_043",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 43",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 43",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 43",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 43"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 43",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 43",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7197c3264c9bc4d0"
+  },
+  {
+    "id": "shamanism_044",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 44",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 44",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 44",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 44"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 44",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 44",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "1bf2c701a2b1809c"
+  },
+  {
+    "id": "shamanism_045",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 45",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 45",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 45",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 45"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 45",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 45",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "8f81b7bc77532fb4"
+  },
+  {
+    "id": "shamanism_046",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 46",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 46",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 46",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 46"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 46",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 46",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c5647b379f010b2b"
+  },
+  {
+    "id": "shamanism_047",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 47",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 47",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 47",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 47"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 47",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 47",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c93f1a6052c887b6"
+  },
+  {
+    "id": "shamanism_048",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 48",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 48",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 48",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 48"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 48",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 48",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "9b2d35d0b5ed9e0b"
+  },
+  {
+    "id": "shamanism_049",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 49",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 49",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 49",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 49"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 49",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 49",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7e75617d660060d8"
+  },
+  {
+    "id": "shamanism_050",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 50",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 50",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 50",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 50"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 50",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 50",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "fe06f03fe15d77db"
+  },
+  {
+    "id": "shamanism_051",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 51",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 51",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 51",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 51"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 51",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 51",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "34bb9448133b5109"
+  },
+  {
+    "id": "shamanism_052",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 52",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 52",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 52",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 52"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 52",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 52",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "5a9d8c4cfd0019e8"
+  },
+  {
+    "id": "shamanism_053",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 53",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 53",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 53",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 53"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 53",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 53",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "a78b199fd90ee4a6"
+  },
+  {
+    "id": "shamanism_054",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 54",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 54",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 54",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 54"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 54",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 54",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "2bf699b7f8a74fcf"
+  },
+  {
+    "id": "shamanism_055",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 55",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 55",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 55",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 55"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 55",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 55",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "bc7ed705b48cb9ac"
+  },
+  {
+    "id": "shamanism_056",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 56",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 56",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 56",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 56"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 56",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 56",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "a4ee36fb8130e580"
+  },
+  {
+    "id": "shamanism_057",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 57",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 57",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 57",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 57"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 57",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 57",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "d9c934b8a4875bb9"
+  },
+  {
+    "id": "shamanism_058",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 58",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 58",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 58",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 58"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 58",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 58",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "411396a57e1afca0"
+  },
+  {
+    "id": "shamanism_059",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 59",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 59",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 59",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 59"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 59",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 59",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "f9848af1a393c3c1"
+  },
+  {
+    "id": "shamanism_060",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 60",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 60",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 60",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 60"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 60",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 60",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "fcee2bf0f85a91b1"
+  },
+  {
+    "id": "shamanism_061",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 61",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 61",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 61",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 61"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 61",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 61",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "f270c5034e62db00"
+  },
+  {
+    "id": "shamanism_062",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 62",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 62",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 62",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 62"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 62",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 62",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "e121aba0550f88e3"
+  },
+  {
+    "id": "shamanism_063",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 63",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 63",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 63",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 63"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 63",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 63",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "ee96f3e28cf04270"
+  },
+  {
+    "id": "shamanism_064",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 64",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 64",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 64",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 64"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 64",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 64",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "1c6b3e9ea0042fbd"
+  },
+  {
+    "id": "shamanism_065",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 65",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 65",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 65",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 65"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 65",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 65",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "a5389d22fc76fa7e"
+  },
+  {
+    "id": "shamanism_066",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 66",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 66",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 66",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 66"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 66",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 66",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "e135b93f7499324e"
+  },
+  {
+    "id": "shamanism_067",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 67",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 67",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 67",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 67"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 67",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 67",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "450f55aff0321ffa"
+  },
+  {
+    "id": "shamanism_068",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 68",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 68",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 68",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 68"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 68",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 68",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "810165d02988f386"
+  },
+  {
+    "id": "shamanism_069",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 69",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 69",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 69",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 69"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 69",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 69",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "0486761ed77e8b98"
+  },
+  {
+    "id": "shamanism_070",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 70",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 70",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 70",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 70"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 70",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 70",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "797450d6d9593322"
+  },
+  {
+    "id": "shamanism_071",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 71",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 71",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 71",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 71"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 71",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 71",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "975ef2806fda846b"
+  },
+  {
+    "id": "shamanism_072",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 72",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 72",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 72",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 72"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 72",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 72",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7d13cb90cae3199b"
+  },
+  {
+    "id": "shamanism_073",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 73",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 73",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 73",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 73"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 73",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 73",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "4f7f94dcc6e3d8ef"
+  },
+  {
+    "id": "shamanism_074",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 74",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 74",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 74",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 74"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 74",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 74",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "a1467b8a90b040d9"
+  },
+  {
+    "id": "shamanism_075",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 75",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 75",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 75",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 75"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 75",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 75",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "5b8b3d1c0a45584f"
+  },
+  {
+    "id": "shamanism_076",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 76",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 76",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 76",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 76"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 76",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 76",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c2458cb39ec66dca"
+  },
+  {
+    "id": "shamanism_077",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 77",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 77",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 77",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 77"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 77",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 77",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "a47db6a0916f8645"
+  },
+  {
+    "id": "shamanism_078",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 78",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 78",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 78",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 78"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 78",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 78",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "8c41a7ea38f06011"
+  },
+  {
+    "id": "shamanism_079",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 79",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 79",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 79",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 79"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 79",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 79",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "38095939b716bbf6"
+  },
+  {
+    "id": "shamanism_080",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 80",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 80",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 80",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 80"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 80",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 80",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "a1129786dd1bdfbc"
+  },
+  {
+    "id": "shamanism_081",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 81",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 81",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 81",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 81"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 81",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 81",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "331af09ab6db15e1"
+  },
+  {
+    "id": "shamanism_082",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 82",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 82",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 82",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 82"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 82",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 82",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "c68c76286606e16c"
+  },
+  {
+    "id": "shamanism_083",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 83",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 83",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 83",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 83"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 83",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 83",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "f1f2f214e09b6b55"
+  },
+  {
+    "id": "shamanism_084",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 84",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 84",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 84",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 84"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 84",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 84",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "e36c68844ab731c9"
+  },
+  {
+    "id": "shamanism_085",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 85",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 85",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 85",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 85"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 85",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 85",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "8d481df1ee72aa24"
+  },
+  {
+    "id": "shamanism_086",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 86",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 86",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 86",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 86"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 86",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 86",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "e83c5bd9ac6e5f78"
+  },
+  {
+    "id": "shamanism_087",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 87",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 87",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 87",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 87"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 87",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 87",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "063a8153a943a028"
+  },
+  {
+    "id": "shamanism_088",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 88",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 88",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 88",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 88"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 88",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 88",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "7e0ee765ff2faaaf"
+  },
+  {
+    "id": "shamanism_089",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 89",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 89",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 89",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 89"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 89",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 89",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "4541355152ca7bf5"
+  },
+  {
+    "id": "shamanism_090",
+    "tradition": "shamanism",
+    "name": "Shamanism Meditation 90",
+    "category": "practice",
+    "summary": "Essential meditation within Shamanism tradition.",
+    "description": "This meditation represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Meditation 90",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Meditation 90",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Meditation 90"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Meditation 90",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Meditation 90",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "fdaf5612aacd4250"
+  },
+  {
+    "id": "shamanism_091",
+    "tradition": "shamanism",
+    "name": "Shamanism Core Principle 91",
+    "category": "concept",
+    "summary": "Essential core principle within Shamanism tradition.",
+    "description": "This core principle represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Core Principle 91",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Core Principle 91",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Core Principle 91"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "concept_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Core Principle 91",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Core Principle 91",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "9c3db0466e2c2ff9"
+  },
+  {
+    "id": "shamanism_092",
+    "tradition": "shamanism",
+    "name": "Shamanism Practice 92",
+    "category": "practice",
+    "summary": "Essential practice within Shamanism tradition.",
+    "description": "This practice represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Practice 92",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Practice 92",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Practice 92"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Practice 92",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Practice 92",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "edc23b01a9351ab0"
+  },
+  {
+    "id": "shamanism_093",
+    "tradition": "shamanism",
+    "name": "Shamanism Symbol 93",
+    "category": "symbol",
+    "summary": "Essential symbol within Shamanism tradition.",
+    "description": "This symbol represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Symbol 93",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Symbol 93",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Symbol 93"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "symbol_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Symbol 93",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Symbol 93",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "b75ac9bbe510b1aa"
+  },
+  {
+    "id": "shamanism_094",
+    "tradition": "shamanism",
+    "name": "Shamanism Tool 94",
+    "category": "tool",
+    "summary": "Essential tool within Shamanism tradition.",
+    "description": "This tool represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Tool 94",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Tool 94",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Tool 94"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "tool_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Tool 94",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Tool 94",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "6e4ceb7592712ed3"
+  },
+  {
+    "id": "shamanism_095",
+    "tradition": "shamanism",
+    "name": "Shamanism Technique 95",
+    "category": "practice",
+    "summary": "Essential technique within Shamanism tradition.",
+    "description": "This technique represents an important aspect of Shamanism practice and understanding. It provides practitioners with specific knowledge and techniques that have been developed and refined through authentic traditional sources and experienced practitioners.",
+    "historical_context": "Developed within the Shamanism tradition through centuries of practice.",
+    "practical_applications": [
+      "Application of Shamanism Technique 95",
+      "Integration with Shamanism practice"
+    ],
+    "cross_references": [
+      "celtic_druidic",
+      "norse_traditions"
+    ],
+    "prerequisites": [
+      "Basic Shamanism knowledge"
+    ],
+    "benefits": [
+      "Enhanced understanding of Shamanism",
+      "Spiritual development"
+    ],
+    "warnings": [
+      "Requires proper preparation",
+      "Should be approached with respect"
+    ],
+    "difficulty_level": "intermediate",
+    "authenticity_score": 0.9,
+    "sources": [
+      "Traditional Shamanism sources"
+    ],
+    "governor_applications": {
+      "personality_influence": "Influences through Shamanism Technique 95",
+      "decision_making": "Guides decisions via Shamanism principles",
+      "quest_generation": "Creates quests based on Shamanism Technique 95"
+    },
+    "story_engine_hooks": [
+      "shamanism_content",
+      "practice_based_narrative"
+    ],
+    "player_education": {
+      "learning_objectives": [
+        "Understand Shamanism Technique 95",
+        "Apply Shamanism principles"
+      ],
+      "practice_exercises": [
+        "Study Shamanism Technique 95",
+        "Practice Shamanism techniques"
+      ]
+    },
+    "created_date": "2025-07-18T10:31:09.315639",
+    "merkle_hash": "5b22725e66092d80"
+  }
+]
