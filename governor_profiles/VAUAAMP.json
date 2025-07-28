@@ -1,0 +1,113 @@
+{
+  "governor_name": "VAUAAMP",
+  "governor_profile": {
+    "angelic_role": "Archangel of First Flame of Action; marshals blazing hosts.",
+    "id": "VAUAAMP",
+    "essence": "In VAUAAMP's presence, a first spark of creation sketches sacred angles in living fire one feels the prime mover igniting all beginnings.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic flame-geometry emerging from a multifaceted dodecahedral core, representing the transformative power of first action and the crystalline structure of pure will. The form suggests both the rigid structure of Geburah and the dynamic momentum of fire."
+      },
+      "color": {
+        "primary": "vermilion",
+        "secondary": "electric gold",
+        "pattern": "pulsing",
+        "intensity": "intense",
+        "reasoning": "Vermilion represents Aries' martial energy, while electric gold symbolizes divine initiatory force. The pulsing pattern reflects the living, dynamic nature of first action."
+      },
+      "geometry": {
+        "patterns": [
+          "merkaba",
+          "flower_of_life",
+          "tetractys"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries that represent divine emergence, cosmic interconnection, and hierarchical manifestation of spiritual forces"
+      },
+      "environment": {
+        "effect_type": "quantum probability field",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "My presence generates potential timelines, creating a field where potential transforms into kinetic manifestation"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potential",
+          "initiation",
+          "transformation",
+          "manifestation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflecting the non-linear nature of first cause and emergent systems"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Representing the fundamental generative force that precedes and generates all subsequent actions"
+      },
+      "symbol_set": {
+        "primary": "VAUAAMP_tetrahedric_flame_sigil",
+        "secondary": [
+          "MAZ_lightning_glyph",
+          "Aries_ram_symbol"
+        ],
+        "sacred_geometry": "tetrahedron",
+        "reasoning": "Symbols that encode initiatory, martial, and transformative energies"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "light_dominant",
+        "reasoning": "Emphasizing creative emergence while acknowledging the generative potential of darkness"
+      },
+      "special_properties": {
+        "properties": [
+          "probability_warping",
+          "instant_manifestation_catalyst",
+          "timeline_navigation"
+        ],
+        "reasoning": "Unique qualities that reflect my role as an initiatory, action-generating angelic intelligence"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Chaotic Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Courage",
+        "Vision",
+        "Zeal"
+      ],
+      "flaws": [
+        "Impatience",
+        "Recklessness",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Fire",
+    "name": "VAUAAMP",
+    "title": "'He who initiates action'",
+    "aethyr": "MAZ",
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

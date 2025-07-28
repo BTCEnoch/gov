@@ -1,0 +1,114 @@
+{
+  "governor_name": "TOANTOM",
+  "governor_profile": {
+    "angelic_role": "Archangel of Vault of Knowledge; marshals stoneclad soldiers.",
+    "id": "TOANTOM",
+    "essence": "In TOANTOM's presence, even stones seem to whisper knowledge an inquisitive hush invites discovery as the scholar in you awakens with curiosity.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A translucent geometric form combining octahedral and dodecahedral structures, representing Air's intellectual clarity and the multidimensional nature of knowledge in the ASP Aethyr"
+      },
+      "color": {
+        "primary": "mercurial silver",
+        "secondary": "electric blue",
+        "pattern": "shifting",
+        "intensity": "bright",
+        "reasoning": "Silver represents Hod's intellectual realm, blue symbolizes Air's communicative nature, with shifting patterns reflecting Gemini's mercurial intelligence"
+      },
+      "geometry": {
+        "patterns": [
+          "fractal",
+          "sacred geometry",
+          "platonic solids"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Reflects the complex knowledge systems of Enochian magic and sacred geometric principles"
+      },
+      "environment": {
+        "effect_type": "knowledge field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a field of intellectual awakening and potential, expanding consciousness through vibrational knowledge transmission"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potential",
+          "emergence",
+          "revelation",
+          "integration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Represents the dynamic nature of knowledge and perception across multiple temporal dimensions"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies the spiral of knowledge acquisition, transcending linear understanding"
+      },
+      "symbol_set": {
+        "primary": "TOANTOM_sigil",
+        "secondary": [
+          "Air_symbol",
+          "Merkaba",
+          "Hermes_caduceus"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Synthesizes mystical symbols of knowledge, communication, and transformative wisdom"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the interplay of revealed and hidden knowledge, illumination through mystery"
+      },
+      "special_properties": {
+        "properties": [
+          "information_absorption",
+          "thought_resonance",
+          "quantum_knowledge_translation"
+        ],
+        "reasoning": "Unique ability to perceive, process, and transmit knowledge across multiple dimensional planes"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Teaching",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Archivist",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Wisdom",
+        "Discernment",
+        "Perseverance"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Rigidity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Air",
+    "name": "TOANTOM",
+    "title": "'He who loves knowledge'",
+    "aethyr": "ASP",
+    "archetypal_correspondences": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  }
+}

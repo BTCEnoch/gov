@@ -1,0 +1,113 @@
+{
+  "governor_name": "VASTRIM",
+  "governor_profile": {
+    "angelic_role": "Principality of Radiant Mercy; leads mountain wardens.",
+    "id": "VASTRIM",
+    "essence": "As VASTRIM approaches, kindness spreads like a soft light anger and hurt melt away in the glow of compassion, and a benevolent forgiveness fills the air.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A geometric mountain-like form emerging from living stone, representing Earth element and mountain warden archetype. Crystalline structure symbolizes both strength and internal transformation, with fractal edges that shift between solid and translucent states."
+      },
+      "color": {
+        "primary": "emerald green",
+        "secondary": "golden amber",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Emerald green represents Earth's healing energy, connected to Tiphareth's life-force. Golden amber signifies Leo's solar power and mercy's radiant quality, creating a dynamic interplay of growth and illumination."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "merkaba",
+          "flower_of_life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structure reflects sacred geometry's perfect symmetry, Merkaba represents interdimensional travel, Flower of Life suggests interconnected consciousness"
+      },
+      "environment": {
+        "effect_type": "compassion field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a protective sphere where emotional wounds are naturally healed, mirroring mountain's protective, transformative landscape"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "activation",
+          "transmission",
+          "integration"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Spiral time represents non-linear spiritual growth, with phases reflecting mercy's progressive healing process"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "strong",
+        "reasoning": "Earth energy expressed through spiraling motion, suggesting dynamic yet grounded transformative power"
+      },
+      "symbol_set": {
+        "primary": "VASTRIM_sigil",
+        "secondary": [
+          "RII_glyph",
+          "mountain_rune"
+        ],
+        "sacred_geometry": "flower_of_life",
+        "reasoning": "Integrates personal angelic signature with elemental and dimensional markers"
+      },
+      "light_shadow": {
+        "light_aspect": "radiant",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Represents merciful compassion that acknowledges both illumination and necessary shadow integration"
+      },
+      "special_properties": {
+        "properties": [
+          "emotional_resonance_amplification",
+          "karmic_healing_transmission",
+          "protective_transmutation"
+        ],
+        "reasoning": "Embodies Governor Angel's capacity to transform suffering through compassionate presence"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Protector",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Merciful",
+      "virtues": [
+        "Compassion",
+        "Kindness",
+        "Empathy"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Worry",
+        "Passivity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "sufism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Earth",
+    "name": "VASTRIM",
+    "title": "'He who is merciful'",
+    "aethyr": "RII",
+    "archetypal_correspondences": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  }
+}

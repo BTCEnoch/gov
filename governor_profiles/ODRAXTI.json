@@ -1,0 +1,113 @@
+{
+  "governor_name": "ODRAXTI",
+  "governor_profile": {
+    "angelic_role": "Archangel of Star of the East; marshals granite-hewn wardens.",
+    "id": "ODRAXTI",
+    "essence": "In ODRAXTI's presence, the morning of insight dawns a guiding Eastern star that cuts through confusion with the sharp logic of truth.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multi-faceted geometric form emerging from granite-like substance, representing Earth's elemental solidity and the crystalline structure of divine wisdom. The form shifts between angular precision and organic fluidity, symbolizing the Governor Angel's ability to translate cosmic principles into manifest reality."
+      },
+      "color": {
+        "primary": "deep sage green",
+        "secondary": "bronze",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Sage green represents Earth's elemental nature and growth; bronze signifies wisdom and enduring strength. The shifting pattern reflects the dynamic intelligence of RII Aethyr and Sagittarian transformative energy."
+      },
+      "geometry": {
+        "patterns": [
+          "dodecahedron",
+          "merkaba",
+          "flower of life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries representing cosmic order, divine transmission, and interconnected consciousness. The dodecahedron connects to divine intelligence, merkaba symbolizes light vehicle transformation."
+      },
+      "environment": {
+        "effect_type": "geological resonance",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Presence causes subtle ground vibrations, stone formations subtly realigning, revealing hidden geometric patterns beneath surface reality"
+      },
+      "time_variations": {
+        "cycle": "celestial",
+        "phases": [
+          "dawn",
+          "solstice",
+          "equinox",
+          "meridian"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Aligned with astronomical cycles, representing cosmic timing and eternal wisdom beyond linear perception"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Earth element expressed through spiraling kundalini-like energy, representing knowledge rising from foundational structures"
+      },
+      "symbol_set": {
+        "primary": "ODRAXTI_sigil",
+        "secondary": [
+          "compass_rose",
+          "eastern_star_glyph"
+        ],
+        "sacred_geometry": "vesica_piscis",
+        "reasoning": "Sigil represents direct angelic transmission, compass rose symbolizes directional wisdom, eastern star represents herald archetype"
+      },
+      "light_shadow": {
+        "light_aspect": "brilliant",
+        "shadow_aspect": "depth",
+        "balance": "balanced",
+        "reasoning": "Illumination emerging from profound mystery, representing wisdom's dual nature of revelation and concealment"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_information_transmission",
+          "geological_memory_recall",
+          "dimensional_perception_expansion"
+        ],
+        "reasoning": "Abilities derived from elemental Earth connection and governor angel status, allowing multidimensional knowledge transfer"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "astrology",
+      "philosophies": "taoism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Earth",
+    "name": "ODRAXTI",
+    "title": "'He who opens up the east'",
+    "aethyr": "RII",
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

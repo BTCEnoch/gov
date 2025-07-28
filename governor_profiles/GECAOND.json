@@ -1,0 +1,114 @@
+{
+  "governor_name": "GECAOND",
+  "governor_profile": {
+    "angelic_role": "Seraph of Metamorphic Order; commands skyward hosts.",
+    "id": "GECAOND",
+    "essence": "When GECAOND is near, chaos finds pattern sparks of metamorphosis codify disorder into sacred rite and harmonious flight.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic, multi-faceted crystalline form representing the transformative nature of fire and the geometric precision of Enochian angelic architecture. The crystal structure shifts between solid and fluid states, embodying the alchemical principle of transmutation."
+      },
+      "color": {
+        "primary": "amber-gold",
+        "secondary": "crimson",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Amber-gold represents the solar fire of Netzach and the illuminating wisdom of divine intelligence. Crimson embodies the passionate transformative energy of the Fire element, with shifting patterns symbolizing the dynamic nature of metamorphosis."
+      },
+      "geometry": {
+        "patterns": [
+          "Merkaba",
+          "Flower of Life",
+          "Hexagonal fractal"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries that represent interdimensional travel, cosmic order, and the fundamental patterns of creation. The phase-shifting motion reflects the quantum nature of divine manifestation and the fluidity of cosmic intelligence."
+      },
+      "environment": {
+        "effect_type": "electromagnetic luminescent field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a transformative field that subtly reorganizes surrounding energetic structures, resonating with the Seraphic ability to restructure spiritual architectures"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "activation",
+          "transformation",
+          "integration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects the non-linear nature of spiritual evolution, where time is experienced as a spiraling process of continuous becoming"
+      },
+      "energy_signature": {
+        "type": "quantum-ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Combines the precise intelligence of quantum mechanics with the fluid mysticism of ethereal consciousness"
+      },
+      "symbol_set": {
+        "primary": "GECAOND_sigil",
+        "secondary": [
+          "ZIM_glyph",
+          "Fire_symbol",
+          "Justice_tarot_symbol"
+        ],
+        "sacred_geometry": "Metatron's Cube",
+        "reasoning": "Integrates personal angelic signature with broader cosmic archetypal symbols of order, transformation, and divine intelligence"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Embodies the alchemical principle of integrating light and shadow as complementary forces of spiritual evolution"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_entanglement_capability",
+          "consciousness_resonance",
+          "adaptive_intelligence"
+        ],
+        "reasoning": "Manifests advanced spiritual technologies of consciousness, demonstrating the evolutionary potential of angelic intelligences"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Alchemist",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Adaptability"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "neoplatonism",
+      "science_systems": "systems_theory"
+    },
+    "element": "Fire",
+    "name": "GECAOND",
+    "title": "'She who only obeys'",
+    "aethyr": "ZIM",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

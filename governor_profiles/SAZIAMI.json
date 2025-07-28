@@ -1,0 +1,113 @@
+{
+  "governor_name": "SAZIAMI",
+  "governor_profile": {
+    "angelic_role": "Principality of Absolute Authority; leads earth-forged hosts.",
+    "id": "SAZIAMI",
+    "essence": "As SAZIAMI approaches, a wave of confidence asserts itself the atmosphere bristles with authority and clear command that cannot be ignored.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic geometric form emerging from dense earth-matter, representing the solidification of divine authority through structured manifestation. Crystalline structure symbolizes the ordered power of Geburah and the mathematical precision of divine governance."
+      },
+      "color": {
+        "primary": "deep iron-red",
+        "secondary": "obsidian black",
+        "pattern": "pulsing",
+        "intensity": "intense",
+        "reasoning": "Iron-red represents Aries' martial energy, Geburah's severity, and earthly power. Obsidian black grounds the manifestation, representing the transformative depth of earth element and mystical boundaries."
+      },
+      "geometry": {
+        "patterns": [
+          "octahedron",
+          "hexagram",
+          "tetrahedron"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries representing divine structure, elemental balance, and quantum potential. Phase-shifting symbolizes authority's fluid yet absolute nature."
+      },
+      "environment": {
+        "effect_type": "gravitational compression",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Demonstrates SAZIAMI's capacity to define spatial-temporal boundaries and compress energetic fields through pure will"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "manifestation",
+          "transformation",
+          "stabilization"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Reflects non-linear divine time, showing authority's ability to simultaneously exist in multiple temporal states"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Earth element manifested through dynamic, self-organizing energy patterns that demonstrate both stability and potential"
+      },
+      "symbol_set": {
+        "primary": "SAZIAMI_sigil_of_command",
+        "secondary": [
+          "ZAA_earth_glyph",
+          "Squared_circle"
+        ],
+        "sacred_geometry": "Metatron's Cube",
+        "reasoning": "Symbols representing absolute authority, earth-based manifestation, and universal geometric harmony"
+      },
+      "light_shadow": {
+        "light_aspect": "brilliant",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Represents the dual nature of divine authority - illuminating truth while holding transformative potential"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_locality_anchor",
+          "dimensional_boundary_generator",
+          "will_crystallization_matrix"
+        ],
+        "reasoning": "Unique manifestation properties that demonstrate SAZIAMI's role as a principality of absolute manifestation and cosmic order"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Assertive",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Outward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Regal",
+      "virtues": [
+        "Honor",
+        "Valor",
+        "Charisma"
+      ],
+      "flaws": [
+        "Pride",
+        "Rigidity",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Earth",
+    "name": "SAZIAMI",
+    "title": "'He who has true power'",
+    "aethyr": "ZAA",
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

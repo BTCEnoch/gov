@@ -1,0 +1,113 @@
+{
+  "governor_name": "DIALOIA",
+  "governor_profile": {
+    "angelic_role": "Power of Enthroned Truth; commands rain-crowned heralds.",
+    "id": "DIALOIA",
+    "essence": "When DIALOIA is near, truth stands revealed: her presence is the embodied Logos, enthroned wherever clarity reigns.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic water-crystal form that shifts between translucence and opacity, representing the liminal nature of truth - simultaneously revealing and concealing. The crystalline structure echoes the Hermit's lantern, holding inner illumination."
+      },
+      "color": {
+        "primary": "silver-blue",
+        "secondary": "pearl-white",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silver-blue represents water's mystical wisdom, connected to Hod's mercurial intelligence. Pearl-white signifies purity and the luminous quality of revealed truth. The shifting pattern mimics water's transformative nature."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "fractal",
+          "vesica_piscis"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structure reflects water's molecular geometry. Fractal patterns represent infinite complexity of truth. Vesica Piscis symbolizes divine intersection of seen and unseen realms."
+      },
+      "environment": {
+        "effect_type": "quantum_precipitation",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates localized fields where hidden information condenses like water droplets, revealing underlying patterns and truths"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "revelation",
+          "concealment",
+          "reflection",
+          "transformation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Lunar cycles mirror truth's cyclical revelation, connecting to water's transformative properties"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Spiraling flow represents wisdom's dynamic unfolding, transcending linear perception"
+      },
+      "symbol_set": {
+        "primary": "DIALOIA_water_crystal_sigil",
+        "secondary": [
+          "ARN_wave_glyph",
+          "Mercury_symbol"
+        ],
+        "sacred_geometry": "Flower_of_Life",
+        "reasoning": "Integrates elemental, aethyric, and mystical symbolic languages of truth and transformation"
+      },
+      "light_shadow": {
+        "light_aspect": "radiant",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents truth's dual nature - illumination and the unknown, perfectly poised"
+      },
+      "special_properties": {
+        "properties": [
+          "truth_condensation",
+          "dimensional_permeability",
+          "wisdom_resonance"
+        ],
+        "reasoning": "Manifests truth not as static information, but as living, breathing wisdom that transforms consciousness"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "High Priestess",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Honesty",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Skepticism"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "gnosticism",
+      "science_systems": "information_theory"
+    },
+    "element": "Water",
+    "name": "DIALOIA",
+    "title": "'The god where truth is'",
+    "aethyr": "ARN",
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  }
+}

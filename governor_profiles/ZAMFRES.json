@@ -1,0 +1,114 @@
+{
+  "governor_name": "ZAMFRES",
+  "governor_profile": {
+    "angelic_role": "Dominion of Blessings of Praise; guides flameborn hosts.",
+    "id": "ZAMFRES",
+    "essence": "In ZAMFRES's presence, honest praise takes on life genuine gratitude manifests tangible blessings before your eyes.",
+    "visual_aspects": {
+      "form": {
+        "name": "composite",
+        "description": "A dynamic flame-crystalline structure that shifts between human and geometric forms, representing the liminal space between manifestation and pure energy. The form emerges as a chariot-like configuration with flame-edged geometric wings, symbolizing the Governor Angel's role of transformative movement and divine guidance."
+      },
+      "color": {
+        "primary": "luminous amber",
+        "secondary": "electric blue",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Amber represents fire's transformative power and Cancer's nurturing energy, while electric blue signifies the celestial communication of the Enochian system and the dynamic intelligence of Yesod"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal fractal",
+          "merkaba star",
+          "flower of life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries represent divine intelligence, with hexagonal patterns echoing fire's molecular structure and Merkaba symbolizing interdimensional travel"
+      },
+      "environment": {
+        "effect_type": "harmonic resonance field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a vibrational field that transforms surrounding energy through praise and gratitude, expanding consciousness through sympathetic resonance"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "emergence",
+          "acceleration",
+          "integration",
+          "transcendence"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects the non-linear nature of divine manifestation, where time becomes a spiraling experience of continuous revelation"
+      },
+      "energy_signature": {
+        "type": "celestial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Combines elemental fire with celestial intelligence, creating a spiraling energy that represents both destruction and creative potential"
+      },
+      "symbol_set": {
+        "primary": "ZAMFRES_sigil",
+        "secondary": [
+          "ZID_glyph",
+          "Fire_symbol",
+          "Cancer_constellation"
+        ],
+        "sacred_geometry": "merkaba star",
+        "reasoning": "Integrates Enochian symbolism with elemental and astrological correspondences to create a holistic archetypal representation"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "light_dominant",
+        "reasoning": "Emphasizes the generative power of praise and gratitude while maintaining a mysterious transformative potential"
+      },
+      "special_properties": {
+        "properties": [
+          "praise_materialization",
+          "gratitude_amplification",
+          "dimensional_permeability"
+        ],
+        "reasoning": "Unique manifestation abilities that directly embody the Governor Angel's essence of transforming recognition into tangible blessing"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Gratitude",
+        "Charisma",
+        "Enthusiasm"
+      ],
+      "flaws": [
+        "Pride",
+        "Zealousness",
+        "Vanity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "taoism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Fire",
+    "name": "ZAMFRES",
+    "title": "'He who appears when praised'",
+    "aethyr": "ZID",
+    "archetypal_correspondences": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  }
+}

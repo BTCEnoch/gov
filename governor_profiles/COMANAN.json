@@ -1,0 +1,113 @@
+{
+  "governor_name": "COMANAN",
+  "governor_profile": {
+    "angelic_role": "Cherub of Mystic Manifestation; leads earth-forged guardians.",
+    "id": "COMANAN",
+    "essence": "In COMANAN's presence, seeds of possibility stir to life drawing spirit into leaf and legend in a quiet alchemy of growth.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multifaceted prismatic form that shifts between solid geometric structure and fluid ethereal essence, representing the liminal space between manifestation and potential in ZAX Aethyr"
+      },
+      "color": {
+        "primary": "deep indigo",
+        "secondary": "silver-white",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Indigo represents spiritual intuition and ZAX's threshold between manifest and unmanifest realms; silver-white signifies pure spirit and transformative potential"
+      },
+      "geometry": {
+        "patterns": [
+          "merkaba",
+          "flower_of_life",
+          "vesica_piscis"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries representing spiritual transformation, interconnectedness, and quantum potentiality"
+      },
+      "environment": {
+        "effect_type": "quantum probability field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Generating fields of potential manifestation that subtly influence surrounding energetic matrices"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potentiality",
+          "emergence",
+          "stabilization",
+          "dissolution"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflecting the non-linear nature of spirit and manifestation processes"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Capturing the fundamental generative force of creation and transformation"
+      },
+      "symbol_set": {
+        "primary": "COMANAN_sigil",
+        "secondary": [
+          "ZAX_glyph",
+          "Spirit_symbol"
+        ],
+        "sacred_geometry": "dodecahedron",
+        "reasoning": "Dodecahedron represents spiritual alchemy and divine intelligence"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Embodying the mystical principle of unity between illumination and mysterious potentiality"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_entanglement",
+          "probability_manipulation",
+          "consciousness_interference"
+        ],
+        "reasoning": "Reflecting governor angel capabilities of subtle energetic guidance and manifestation"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Gentle",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Alchemist",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Patience",
+        "Vision",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Yearning",
+        "Rigidity",
+        "Melancholy"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Spirit",
+    "name": "COMANAN",
+    "title": "'He who knows how to manifest'",
+    "aethyr": "ZAX",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "governor_name": "RONOOMB",
+  "governor_profile": {
+    "angelic_role": "Dominion of Hearth of Generosity; guides iron-winged legionaries.",
+    "id": "RONOOMB",
+    "essence": "As RONOOMB approaches, a comforting warmth enfolds the space generosity and support flow freely, urging everyone to give and care for one another.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multi-faceted earthen crystalline structure that shifts between solid geometry and organic flow, representing the transformative nature of becoming. Inspired by the Merkaba and Flower of Life sacred geometries, embodying both stability and potential for change."
+      },
+      "color": {
+        "primary": "deep emerald green",
+        "secondary": "bronze",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Emerald green represents Earth element and Taurus, while bronze symbolizes generosity and the iron-winged legionary essence. The shifting quality reflects the dynamic process of becoming."
+      },
+      "geometry": {
+        "patterns": [
+          "dodecahedron",
+          "fractal matrix",
+          "spiral"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Dodecahedron represents divine intelligence, fractal matrix shows infinite potential, spiral symbolizes growth and transformation from Hermetic and Taoist traditions"
+      },
+      "environment": {
+        "effect_type": "generative resonance field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a nurturing field that encourages personal growth and collective support"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "emergence",
+          "manifestation",
+          "integration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects the quantum and mystical understanding of non-linear time and continuous becoming"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "intense",
+        "reasoning": "Embodies Earth element's grounding power with transformative spiral energy"
+      },
+      "symbol_set": {
+        "primary": "RONOOMB_sigil",
+        "secondary": [
+          "Earth_pentacle",
+          "Taurus_glyph"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Integrated symbols representing protection, earthly manifestation, and generative potential"
+      },
+      "light_shadow": {
+        "light_aspect": "radiant",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Represents the generative process of emergence from darkness into light"
+      },
+      "special_properties": {
+        "properties": [
+          "adaptive resonance",
+          "empathetic field generation",
+          "potential crystallization"
+        ],
+        "reasoning": "Embodies the protective and generative essence of RONOOMB's angelic nature"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Protector",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Benevolent",
+      "virtues": [
+        "Generosity",
+        "Empathy",
+        "Kindness"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Worry",
+        "Yearning"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "taoism",
+      "science_systems": "complexity_science"
+    },
+    "element": "Earth",
+    "name": "RONOOMB",
+    "title": "'He who protects the process of becoming'",
+    "aethyr": "TOR",
+    "archetypal_correspondences": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

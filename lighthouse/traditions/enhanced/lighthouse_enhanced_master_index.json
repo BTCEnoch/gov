@@ -26,18 +26,18 @@
       {
         "tradition_id": "enochian_magic",
         "tradition_name": "Enochian Magic",
-        "file": "enochian_magic_enhanced.json",
-        "size_kb": 2.17,
-        "status": "enhanced",
-        "key_concepts": ["Aethyrs", "Governors", "Watchtowers", "Angelic Language"]
+        "file": "../enochian_magic.json",
+        "size_kb": 13.2,
+        "status": "consolidated",
+        "key_concepts": ["Angelic Communication", "Enochian Language", "Elemental Structure", "Thirty Aethyrs", "91 Governors", "Sigils and Tables", "Transformative Vision"]
       },
       {
         "tradition_id": "hermetic_qabalah",
         "tradition_name": "Hermetic Qabalah",
-        "file": "hermetic_qabalah_enhanced.json",
-        "size_kb": 2.16,
-        "status": "enhanced",
-        "key_concepts": ["Sephiroth", "Paths", "Divine Names", "Tree of Life"]
+        "file": "../hermetic_qabalah.json",
+        "size_kb": 18.2,
+        "status": "consolidated",
+        "key_concepts": ["Tree of Life Structure", "Divine Emanations", "Four Worlds", "Correspondences", "Balance of Polarities", "Pathworking"]
       },
       {
         "tradition_id": "thelema",
@@ -58,10 +58,10 @@
       {
         "tradition_id": "chaos_magic",
         "tradition_name": "Chaos Magic",
-        "file": "chaos_magic_enhanced.json",
-        "size_kb": 2.16,
-        "status": "enhanced",
-        "key_concepts": ["Sigils", "Paradigm Shifting", "Gnosis", "Belief Systems"]
+        "file": "../chaos_magic.json",
+        "size_kb": 12.5,
+        "status": "consolidated",
+        "key_concepts": ["Belief as Tool", "Paradigm Shifting", "Gnosis", "Results-Oriented Pragmatism", "Sigil Magic", "Servitor Creation", "Nothing is True Everything is Permitted"]
       },
       {
         "tradition_id": "alchemy",
@@ -74,10 +74,10 @@
       {
         "tradition_id": "golden_dawn",
         "tradition_name": "Golden Dawn",
-        "file": "golden_dawn_enhanced.json",
-        "size_kb": 2.17,
-        "status": "enhanced",
-        "key_concepts": ["LBRP", "Grade System", "Ceremonial Magic", "Temple Work"]
+        "file": "../golden_dawn.json",
+        "size_kb": 16.4,
+        "status": "consolidated",
+        "key_concepts": ["Hierarchical Initiation", "Hermetic Qabalah", "Elemental Magic", "Theurgy", "LBRP", "Tree of Life"]
       }
     ],
     "philosophy": [
@@ -108,10 +108,10 @@
       {
         "tradition_id": "gnosticism",
         "tradition_name": "Gnosticism",
-        "file": "gnosticism_enhanced.json",
-        "size_kb": 2.15,
-        "status": "enhanced",
-        "key_concepts": ["Divine Spark", "Archons", "Gnosis", "Pleroma"]
+        "file": "../gnosticism.json",
+        "size_kb": 15.9,
+        "status": "consolidated",
+        "key_concepts": ["Gnosis as Salvation", "Dualism", "Divine Spark", "Demiurge", "Pleroma", "Orthodox Rejection"]
       },
       {
         "tradition_id": "norse_traditions",
@@ -124,10 +124,10 @@
       {
         "tradition_id": "greek_philosophy",
         "tradition_name": "Greek Philosophy",
-        "file": "greek_philosophy_enhanced.json",
-        "size_kb": 2.17,
-        "status": "enhanced",
-        "key_concepts": ["Platonic Forms", "Logos", "Virtue Ethics", "Dialectic"]
+        "file": "../greek_philosophy.json",
+        "size_kb": 16.4,
+        "status": "consolidated",
+        "key_concepts": ["Rational Inquiry", "Ethics and Virtue", "Metaphysics of Being", "Epistemology", "Dialectical Method", "Eudaimonia"]
       }
     ],
     "divination_systems": [
@@ -166,10 +166,10 @@
       {
         "tradition_id": "egyptian_magic",
         "tradition_name": "Egyptian Magic",
-        "file": "egyptian_magic_enhanced.json",
-        "size_kb": 2.16,
-        "status": "enhanced",
-        "key_concepts": ["Heka", "Neteru", "Ma'at", "Stellar Magic"]
+        "file": "../egyptian_magic.json",
+        "size_kb": 15.8,
+        "status": "consolidated",
+        "key_concepts": ["Heka as Primordial Force", "Power of Words and Names", "Sympathetic Magic", "Maintenance of Ma'at", "Invocation of Deities", "Amulets and Protective Magic", "Integration with Medicine and Religion"]
       },
       {
         "tradition_id": "shamanism",
@@ -216,18 +216,18 @@
       {
         "tradition_id": "greek_mythology",
         "tradition_name": "Greek Mythology",
-        "file": "greek_mythology_enhanced.json",
-        "size_kb": 2.17,
-        "status": "enhanced",
-        "key_concepts": ["Hero's Journey", "Archetypes", "Divine Psychology", "Mythic Patterns"]
+        "file": "../greek_mythology.json",
+        "size_kb": 16.2,
+        "status": "consolidated",
+        "key_concepts": ["Anthropomorphism", "Etiological Narratives", "Heroism and Hubris", "Fate and Free Will", "Divine Psychology", "Mythic Patterns"]
       },
       {
         "tradition_id": "digital_physics",
         "tradition_name": "Digital Physics",
-        "file": "digital_physics_enhanced.json",
-        "size_kb": 2.16,
-        "status": "enhanced",
-        "key_concepts": ["Simulation Theory", "Information Theory", "Digital Reality", "Computational Universe"]
+        "file": "../digital_physics.json",
+        "size_kb": 14.2,
+        "status": "consolidated",
+        "key_concepts": ["Universe as Computation", "It from Bit", "Discrete Space-Time", "Computability of Physics", "Information Conservation", "Cellular Automata", "Simulation Hypothesis"]
       },
       {
         "tradition_id": "m_theory",

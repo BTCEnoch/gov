@@ -1,0 +1,113 @@
+{
+  "governor_name": "ASPIAON",
+  "governor_profile": {
+    "angelic_role": "Throne of Inner Judgement; commands 7,777 flameborn heralds.",
+    "id": "ASPIAON",
+    "essence": "When ASPIAON stands before you, rightful order asserts itself motives are tested in a fiery tribunal of truth.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic, multi-faceted obsidian crystal form that shifts between solid geometry and liquid flame, representing the transformative judgment of Fire element and the liminal nature of DEO Aethyr"
+      },
+      "color": {
+        "primary": "scorching crimson",
+        "secondary": "deep obsidian black",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Crimson represents Geburah's fierce judgment, while black symbolizes the void of transformation; shifting pattern reflects the dynamic nature of inner truth"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "merkaba",
+          "flower_of_life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries representing cosmic order, divine judgment, and interconnected consciousness"
+      },
+      "environment": {
+        "effect_type": "quantum probability field",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Creates a field where potential realities are tested and truth emerges through energetic filtration"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "judgment",
+          "transformation",
+          "revelation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects the non-linear nature of inner truth and karmic assessment"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Pure archetypal energy that penetrates illusion and reveals essential nature"
+      },
+      "symbol_set": {
+        "primary": "ASPIAON_flame_sigil",
+        "secondary": [
+          "Death_tarot_glyph",
+          "Fire_alchemical_symbol"
+        ],
+        "sacred_geometry": "Merkaba",
+        "reasoning": "Symbols of transformation, judgment, and multidimensional consciousness"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "void",
+        "balance": "balanced",
+        "reasoning": "Represents the integration of illumination and mystery, judgment and compassion"
+      },
+      "special_properties": {
+        "properties": [
+          "truth_resonance",
+          "quantum_discernment",
+          "karmic_filtration"
+        ],
+        "reasoning": "Ability to dissolve illusion, reveal core motivations, and catalyze spiritual evolution"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Stern",
+      "virtues": [
+        "Discernment",
+        "Justice",
+        "Integrity"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "tarot",
+      "philosophies": "gnosticism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Fire",
+    "name": "ASPIAON",
+    "title": "'She who precedes inner truth'",
+    "aethyr": "DEO",
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

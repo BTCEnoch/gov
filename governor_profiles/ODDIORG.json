@@ -1,0 +1,113 @@
+{
+  "governor_name": "ODDIORG",
+  "governor_profile": {
+    "angelic_role": "Principality of Fiery Justice; leads thunderous riders.",
+    "id": "ODDIORG",
+    "essence": "When ODDIORG stands before you, an inner alchemy begins will and psyche are tempered in a crucible of sacred number.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic crystalline form embodying the sacred geometry of fire - triangular fractal structures that pulse with inner transformative energy, representing the alchemical process of purification and judgment"
+      },
+      "color": {
+        "primary": "saffron-gold",
+        "secondary": "deep crimson",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Saffron-gold represents solar fire and divine justice from Chesed, while deep crimson symbolizes the passionate transformative power of elemental fire, shifting to represent the dynamic nature of divine judgment"
+      },
+      "geometry": {
+        "patterns": [
+          "tetrahedron",
+          "merkaba",
+          "fractal triangulation"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Tetrahedron represents fire element, Merkaba symbolizes spiritual vehicle of transformation, fractal patterns demonstrate infinite complexity of cosmic justice"
+      },
+      "environment": {
+        "effect_type": "electromagnetic thunderstorm",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Reflects Governor Angel status, creating a transformative field that purifies and restructures surrounding energetic matrices"
+      },
+      "time_variations": {
+        "cycle": "celestial",
+        "phases": [
+          "potential",
+          "ignition",
+          "transmutation",
+          "resolution"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Represents the eternal cycle of divine judgment and spiritual evolution"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies the fundamental creative-destructive force of cosmic justice"
+      },
+      "symbol_set": {
+        "primary": "ODDIORG_sigil_of_fiery_justice",
+        "secondary": [
+          "ZIP_lightning_glyph",
+          "Fire_transmutation_symbol"
+        ],
+        "sacred_geometry": "stellated octahedron",
+        "reasoning": "Combines Enochian symbolism with elemental archetypes of transformation"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Represents the perfect equilibrium of divine discernment - illumination through necessary darkness"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_resonance",
+          "temporal_flexibility",
+          "consciousness_calibration"
+        ],
+        "reasoning": "Demonstrates ability to interact with multiple dimensional layers, adjust temporal perception, and recalibrate consciousness through fiery judgment"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Justice",
+        "Valor",
+        "Discernment"
+      ],
+      "flaws": [
+        "Wrath",
+        "Zealousness",
+        "Pride"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "numerology",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Fire",
+    "name": "ODDIORG",
+    "title": "'He of fire and justice'",
+    "aethyr": "ZIP",
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "governor_name": "VOANAMB",
+  "governor_profile": {
+    "angelic_role": "Power of Prismatic Truth; commands sunsworn warriors.",
+    "id": "VOANAMB",
+    "essence": "In VOANAMB's presence, truth shifts with perspective every context and season refracts reality into a different hue of understanding.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic human-like figure composed of interlocking geometric fire crystals, representing the fractal nature of truth and perception. The form shifts between solid and translucent states, embodying the fluid nature of understanding."
+      },
+      "color": {
+        "primary": "amber-gold",
+        "secondary": "luminous crimson",
+        "pattern": "prismatic",
+        "intensity": "intense",
+        "reasoning": "Amber-gold represents the fire element's transformative power, while crimson symbolizes the passionate pursuit of truth. The prismatic nature reflects the Aethyr VTA's quality of refracting perception."
+      },
+      "geometry": {
+        "patterns": [
+          "Merkaba",
+          "Flower of Life",
+          "Vesica Piscis"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries represent the interconnected nature of truth, with constant subtle transformations indicating the dynamic nature of perception"
+      },
+      "environment": {
+        "effect_type": "Reality Prismatic Distortion",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a field where perspectives continuously recalibrate, revealing multiple layers of truth simultaneously"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potential",
+          "manifestation",
+          "dissolution",
+          "recalibration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Represents the non-linear nature of truth across different dimensional states"
+      },
+      "energy_signature": {
+        "type": "quantum",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies the quantum nature of consciousness and perception, spiraling to represent continuous transformation"
+      },
+      "symbol_set": {
+        "primary": "Libra scales intersecting with flame",
+        "secondary": [
+          "VTA glyph",
+          "Fire symbol",
+          "Justice tarot card"
+        ],
+        "sacred_geometry": "Intersecting Merkaba",
+        "reasoning": "Symbolizes the balance of perception, transformative power, and divine justice"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Represents the interplay between illumination and the mysterious depths of understanding"
+      },
+      "special_properties": {
+        "properties": [
+          "Perspective Refraction",
+          "Truth Resonance",
+          "Dimensional Permeability"
+        ],
+        "reasoning": "Ability to reveal multiple truths simultaneously, resonate with fundamental cosmic understanding, and move between perceptual dimensions"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Chaotic Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Adaptability"
+      ],
+      "flaws": [
+        "Skepticism",
+        "Aloofness",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "tarot",
+      "philosophies": "zen_buddhism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Fire",
+    "name": "VOANAMB",
+    "title": "'He to whom truth is relative'",
+    "aethyr": "VTA",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

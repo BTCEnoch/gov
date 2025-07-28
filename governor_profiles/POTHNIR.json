@@ -1,0 +1,114 @@
+{
+  "governor_name": "POTHNIR",
+  "governor_profile": {
+    "angelic_role": "Throne of Threefold Time; marshals tideborn guardians.",
+    "id": "POTHNIR",
+    "essence": "In POTHNIR's presence, vision spans threefold time past, present, and future refract together into a single, balanced ray.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid_crystalline",
+        "description": "A translucent, multi-layered form that shifts between liquid water and prismatic crystal structures, representing the liminal space between material and ethereal realms"
+      },
+      "color": {
+        "primary": "deep_aquamarine",
+        "secondary": "silver_moonlight",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Aquamarine represents water's wisdom and Netzach's transformative energy, while silver reflects the lunar cycles of time and divine reflection"
+      },
+      "geometry": {
+        "patterns": [
+          "vesica_piscis",
+          "merkaba_star",
+          "flower_of_life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries that represent divine interconnection, dimensional transitions, and the multifaceted nature of perception"
+      },
+      "environment": {
+        "effect_type": "temporal_rippling",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates waves of perceptual shifts, expanding consciousness beyond linear time constraints"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "past_reflection",
+          "present_embodiment",
+          "future_potential",
+          "eternal_now"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Represents the threefold nature of time as a spiraling, interconnected experience"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies the fluid dynamic of wisdom that moves beyond fixed perceptions"
+      },
+      "symbol_set": {
+        "primary": "POTHNIR_sigil",
+        "secondary": [
+          "PAZ_glyph",
+          "Water_symbol",
+          "Justice_scales"
+        ],
+        "sacred_geometry": "dodecahedron",
+        "reasoning": "Symbols representing divine judgment, fluid wisdom, and multidimensional perception"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the equal importance of illumination and the unknown in true wisdom"
+      },
+      "special_properties": {
+        "properties": [
+          "time_perception_manipulation",
+          "consciousness_refraction",
+          "intuitive_knowledge_transmission"
+        ],
+        "reasoning": "Unique manifestation of an oracle angel that can dissolve perceptual boundaries"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Cryptic",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Vision",
+        "Discernment",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Obsession",
+        "Rigidity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "astrology",
+      "philosophies": "kabbalah",
+      "science_systems": "systems_theory"
+    },
+    "element": "Water",
+    "name": "POTHNIR",
+    "title": "'Son of the three fold throne'",
+    "aethyr": "PAZ",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

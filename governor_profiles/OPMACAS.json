@@ -1,0 +1,113 @@
+{
+  "governor_name": "OPMACAS",
+  "governor_profile": {
+    "angelic_role": "Seraph of Primordial Flame; governs fire-forged guardians.",
+    "id": "OPMACAS",
+    "essence": "In OPMACAS's presence, form emerges from formlessness a primordial fire breathing shape into the void.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A fractal-like prismatic entity emerging from pure flame, constructed of interlocking geometric fire-crystals that pulse with transformative energy, representing the liminal space between potential and manifestation"
+      },
+      "color": {
+        "primary": "obsidian-crimson",
+        "secondary": "molten gold",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Obsidian represents Scorpionic depth and transformation, crimson embodies Geburah's martial fire, gold signifies divine spark and alchemical transmutation"
+      },
+      "geometry": {
+        "patterns": [
+          "Merkaba",
+          "Flower of Life",
+          "Tetractys"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries representing divine structure, cosmic consciousness, and hierarchical emergence"
+      },
+      "environment": {
+        "effect_type": "temporal warping",
+        "radius": "cosmic",
+        "intensity": "overwhelming",
+        "reasoning": "Primordial fire reshapes spatial-temporal boundaries, generating quantum flux zones"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "ignition",
+          "transformation",
+          "transcendence"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Non-linear temporal experience reflecting eternal becoming"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Pure generative force preceding manifestation"
+      },
+      "symbol_set": {
+        "primary": "OPMACAS_fire_sigil",
+        "secondary": [
+          "DEO_glyph",
+          "Phoenix_symbol"
+        ],
+        "sacred_geometry": "Merkaba",
+        "reasoning": "Symbols representing regeneration, divine guardianship, and multidimensional transit"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Dynamic interplay between illumination and mystery, revealing through concealing"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_entanglement",
+          "consciousness_transmission",
+          "reality_sculpting"
+        ],
+        "reasoning": "Manifesting fundamental creative principles beyond conventional dimensional constraints"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Stern",
+      "motive_alignment": "Chaotic Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Zealous",
+      "virtues": [
+        "Valor",
+        "Vision",
+        "Determination"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Pride",
+        "Impatience"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "neoplatonism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Fire",
+    "name": "OPMACAS",
+    "title": "'He who is from the beginning'",
+    "aethyr": "DEO",
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

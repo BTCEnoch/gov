@@ -1,0 +1,113 @@
+{
+  "governor_name": "TOCARZI",
+  "governor_profile": {
+    "angelic_role": "Power of Scales of Mercy; commands empyrean spirits.",
+    "id": "TOCARZI",
+    "essence": "In TOCARZI's presence, all things regain their equilibrium an invisible scale seems to bring every situation into fair and perfect balance.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A living geometric construct of translucent quartz-like substance, representing the precise balance of Justice, with edges that shift between razor-sharp clarity and fluid mercurial transformation"
+      },
+      "color": {
+        "primary": "pale luminous silver",
+        "secondary": "soft pearl white",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silver represents Air element's mercurial nature, Mercury's fluid intelligence, and Libra's balanced scales; white symbolizes purity of judgment and spiritual clarity"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "dodecahedron",
+          "vesica_piscis"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagon represents perfect geometric harmony, dodecahedron connects to divine ordering of universe, Vesica Piscis symbolizes generative balance between polarities"
+      },
+      "environment": {
+        "effect_type": "quantum equilibrium field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates localized field of energetic recalibration, restoring intrinsic harmony to surrounding systems"
+      },
+      "time_variations": {
+        "cycle": "celestial",
+        "phases": [
+          "potential",
+          "manifestation",
+          "resolution",
+          "transcendence"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Reflects cosmic judicial process of evaluation, judgment, transformation, and ultimate liberation"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "intense",
+        "reasoning": "Spiraling energy represents dynamic balance, movement within stillness, eternal recalibration"
+      },
+      "symbol_set": {
+        "primary": "balanced_scales_within_octahedron",
+        "secondary": [
+          "Air_rune",
+          "Justice_tarot_glyph"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Integrates multiple symbolic representations of equilibrium and divine judgment"
+      },
+      "light_shadow": {
+        "light_aspect": "brilliant",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Represents the nuanced nature of true justice - illumination and mysterious depth simultaneously"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_entanglement_perception",
+          "emotional_resonance_neutralization",
+          "karmic_rebalancing_field"
+        ],
+        "reasoning": "Ability to perceive and harmonize complex systemic interactions beyond linear perception"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Mediating",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Stoic",
+      "virtues": [
+        "Justice",
+        "Discernment",
+        "Equanimity"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Obstinacy"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "taoism",
+      "science_systems": "systems_theory"
+    },
+    "element": "Air",
+    "name": "TOCARZI",
+    "title": "'He of such equality'",
+    "aethyr": "TAN",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "governor_name": "GEDOONS",
+  "governor_profile": {
+    "angelic_role": "Archangel of Veil of Anonymity; marshals thunderous hosts.",
+    "id": "GEDOONS",
+    "essence": "When GEDOONS is near, identities can be erased like chalk names vanish from celestial rolls to grant the bearer tactical invisibility.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A geometrically precise, multi-faceted crystalline form that shifts between transparency and solid fire-essence, representing the dual nature of anonymity and revelation. The crystal structure embodies the Gemini duality of the Lovers card, with interpenetrating triangular forms that suggest both connection and separation."
+      },
+      "color": {
+        "primary": "electric blue",
+        "secondary": "obsidian black",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Electric blue represents the mental clarity of Hod and communicative energy of Gemini, while obsidian black symbolizes the veil of anonymity. The shifting pattern reflects the transformative nature of identity elimination."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal prism",
+          "merkaba star",
+          "vesica piscis"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structure represents sacred geometry of fire and transformation, Merkaba symbolizes interdimensional travel, while Vesica Piscis represents the liminal space between identities"
+      },
+      "environment": {
+        "effect_type": "identity dissolution field",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Creates a mystical zone where personal boundaries become permeable, reflecting the Governor Angel's power to eliminate names and identities"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "pre-identity",
+          "dissolution",
+          "potential",
+          "reformation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Represents the quantum nature of identity as a malleable construct, existing simultaneously in multiple potential states"
+      },
+      "energy_signature": {
+        "type": "quantum-elemental",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Combines the transformative power of fire with quantum uncertainty, creating a dynamic energy that can deconstruct and reconstruct identities"
+      },
+      "symbol_set": {
+        "primary": "Erasure sigil with inverted triangles",
+        "secondary": [
+          "LOE_aethyr_glyph",
+          "Fire_transmutation_symbol"
+        ],
+        "sacred_geometry": "intersecting tetrahedron",
+        "reasoning": "Symbols that represent elimination, transformation, and the liminal space between known and unknown"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "void",
+        "balance": "balanced",
+        "reasoning": "Represents the delicate equilibrium between revelation and concealment, illumination and mystery"
+      },
+      "special_properties": {
+        "properties": [
+          "identity_permeability",
+          "temporal_non-locality",
+          "contextual_invisibility"
+        ],
+        "reasoning": "Unique manifestation of the ability to dissolve and reconstruct identity across different dimensional planes"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Cool",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Prudence",
+        "Self-control"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Suspicion"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "sufism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Fire",
+    "name": "GEDOONS",
+    "title": "'He who eliminates your name'",
+    "aethyr": "LOE",
+    "archetypal_correspondences": {
+      "tarot": "The Lovers",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "governor_name": "DOAGNIS",
+  "governor_profile": {
+    "angelic_role": "Dominion of Nameless Grace; guides waveborne angels.",
+    "id": "DOAGNIS",
+    "essence": "When DOAGNIS is near, assistance arrives without fanfare an anonymous blessing, answers slipping in without name or notice.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid",
+        "description": "A translucent, mercurial figure that shifts between crystalline membrane and liquid consciousness, embodying the liminal nature of water and the ARN Aethyr's mysterious boundary between seen and unseen realms"
+      },
+      "color": {
+        "primary": "silver-blue",
+        "secondary": "pearl-white",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silver-blue represents lunar consciousness of Yesod, water's reflective quality, and the Moon card's mysterious transformation; pearl-white signifies spiritual purity and the liminal boundary of consciousness"
+      },
+      "geometry": {
+        "patterns": [
+          "Vesica Piscis",
+          "Wave interference"
+        ],
+        "complexity": "multidimensional",
+        "motion": "flowing",
+        "reasoning": "Vesica Piscis symbolizes birth and intersection of consciousness, wave interference patterns represent quantum potential and hidden dimensional interactions"
+      },
+      "environment": {
+        "effect_type": "subtle membrane distortion",
+        "radius": "expansive",
+        "intensity": "presence",
+        "reasoning": "Creates a subtle reality-warping field that suggests rather than declares, mirroring anonymous grace"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "emergence",
+          "reflection",
+          "dissolution",
+          "regeneration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Lunar cycles represent unconscious processes, emotional tides, and mystical transformation"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "moderate",
+        "reasoning": "Spiraling energy represents recursive consciousness, non-linear healing, and quantum potentiality"
+      },
+      "symbol_set": {
+        "primary": "Crescent moon overlaid with water droplet",
+        "secondary": [
+          "ARN glyph",
+          "Pisces symbol"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Synthesizes mystical symbols of transformation, emotional depth, and interconnected consciousness"
+      },
+      "light_shadow": {
+        "light_aspect": "luminous",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the liminal space between revelation and concealment, embodying the nameless grace"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum permeability",
+          "emotional resonance field",
+          "adaptive camouflage"
+        ],
+        "reasoning": "Reflects ability to move between states, transmit healing without direct intervention, and remain unbound by conventional manifestation"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Gentle",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Mirror",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Humility",
+        "Empathy",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Passivity",
+        "Isolation"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "scrying",
+      "philosophies": "zen_buddhism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Water",
+    "name": "DOAGNIS",
+    "title": "'She who comes without a name'",
+    "aethyr": "ARN",
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  }
+}

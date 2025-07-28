@@ -1,0 +1,113 @@
+{
+  "governor_name": "ANDISPI",
+  "governor_profile": {
+    "angelic_role": "Angel of Binding Covenant; guides oceanic hosts.",
+    "id": "ANDISPI",
+    "essence": "When ANDISPI is near, a profound covenant fills the space a resonant vow knitting separate wills into living harmony.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid-crystalline",
+        "description": "A living lattice of water-crystal structures that shift between liquid and geometric forms, representing the transformative covenant of binding and release inherent in Water element and Scorpionic energy"
+      },
+      "color": {
+        "primary": "deep indigo",
+        "secondary": "silver-blue",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Indigo represents spiritual intuition of ZOM Aethyr, silver-blue embodies Water's mystical transmission and Geburah's disciplined power"
+      },
+      "geometry": {
+        "patterns": [
+          "fractal wave forms",
+          "hexagonal water crystals"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Reflects quantum mysticism and sacred geometric principles of transformation and interconnectedness"
+      },
+      "environment": {
+        "effect_type": "oceanic consciousness field",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Generates a binding membrane of collective awareness, dissolving individual boundaries"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "condensation",
+          "dissolution",
+          "reformation",
+          "covenant"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Represents cyclical nature of binding and releasing, aligned with Scorpionic transformative energy"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies the mystical binding force that connects individual consciousness to collective soul"
+      },
+      "symbol_set": {
+        "primary": "Interlocking water-droplet hexagram",
+        "secondary": [
+          "ZOM glyph",
+          "Ouroboros",
+          "Merkaba"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Symbolizes eternal binding, cyclical transformation, and interconnected consciousness"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mysterious transformation",
+        "balance": "balanced",
+        "reasoning": "Represents the liminal space between known and unknown, binding light and shadow aspects of consciousness"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum entanglement",
+          "memory encoding",
+          "vibrational covenant transmission"
+        ],
+        "reasoning": "Ability to bind information across dimensional boundaries, encoding spiritual agreements and transformative potentials"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Negotiating",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Faith",
+        "Loyalty",
+        "Honor"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Zealousness",
+        "Distrust"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "astrology",
+      "philosophies": "kabbalah",
+      "science_systems": "systems_theory"
+    },
+    "element": "Water",
+    "name": "ANDISPI",
+    "title": "'He who binds into obedience'",
+    "aethyr": "ZOM",
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

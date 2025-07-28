@@ -1,0 +1,114 @@
+{
+  "governor_name": "ORANCIR",
+  "governor_profile": {
+    "angelic_role": "Principality of Unity of the Spheres; leads terra-bound stewards.",
+    "id": "ORANCIR",
+    "essence": "In ORANCIR's presence, the above and below unite in harmony a holistic balance is struck, as if all aspects of existence integrate into one complete whole.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline-organic",
+        "description": "A multidimensional lattice that simultaneously represents both rigid structure and fluid transformation, embodying the Earth element's solidity and the NIA Aethyr's integrative nature. The form shifts between geometric precision and organic flow, symbolizing the unity of structured matter and living intelligence."
+      },
+      "color": {
+        "primary": "deep forest green",
+        "secondary": "amber gold",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Green represents Earth's fertility and growth, while amber gold symbolizes the divine wisdom of Chesed (mercy) and the solar intelligence of Sagittarius. The shifting pattern reflects the dynamic balance between stability and transformation."
+      },
+      "geometry": {
+        "patterns": [
+          "merkaba",
+          "flower_of_life",
+          "dodecahedron"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Merkaba represents interdimensional travel, Flower of Life symbolizes creation's fundamental pattern, and dodecahedron connects to cosmic intelligence and quantum potential"
+      },
+      "environment": {
+        "effect_type": "quantum resonance field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a harmonic field that integrates multiple dimensional realities, allowing transformation through unified consciousness"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "emergence",
+          "integration",
+          "transcendence",
+          "renewal"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects non-linear time perception, showing how past, present, and future coexist in a dynamic quantum matrix"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies the fundamental creative force that weaves through all manifestation, representing the Governor Angel's role of unifying cosmic intelligence"
+      },
+      "symbol_set": {
+        "primary": "ORANCIR_sigil",
+        "secondary": [
+          "NIA_glyph",
+          "Earth_symbol",
+          "Sagittarius_arrow"
+        ],
+        "sacred_geometry": "icosahedron",
+        "reasoning": "Combines elemental, astrological, and angelic symbolic representations to create a holistic energetic signature"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Represents the mystical principle of light emerging from darkness, showing how potential is born from mystery"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_coherence",
+          "dimensional_bridging",
+          "consciousness_amplification"
+        ],
+        "reasoning": "Demonstrates the ability to integrate multiple realities, transmit higher wisdom, and expand perceptual boundaries"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Teaching",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Weaver",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Wisdom",
+        "Balance",
+        "Vision"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Zealousness",
+        "Rigidity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Earth",
+    "name": "ORANCIR",
+    "title": "'He who is above and below'",
+    "aethyr": "NIA",
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

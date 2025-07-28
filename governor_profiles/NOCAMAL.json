@@ -1,0 +1,114 @@
+{
+  "governor_name": "NOCAMAL",
+  "governor_profile": {
+    "angelic_role": "Virtue of Guiding Wisdom; governs abyssal angels.",
+    "id": "NOCAMAL",
+    "essence": "When NOCAMAL is near, discernment hums in measured harmony wisdom unfolding like a deliberate, guiding hymn.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid_crystalline",
+        "description": "A translucent water-crystal form that shifts between liquid mobility and geometric precision, representing the liminal space between structure and flow, wisdom and adaptability"
+      },
+      "color": {
+        "primary": "deep_aquamarine",
+        "secondary": "silver_moonlight",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Aquamarine connects to water element and Cancer's emotional depth; silver represents lunar wisdom and reflective consciousness"
+      },
+      "geometry": {
+        "patterns": [
+          "spiral",
+          "hexagonal_lattice",
+          "mobius_strip"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Spiral represents evolutionary wisdom, hexagon symbolizes sacred geometry's perfect structure, mobius symbolizes infinite transformation"
+      },
+      "environment": {
+        "effect_type": "quantum_resonance_field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a field of discernment that subtly influences surrounding consciousness without direct intervention"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "potential",
+          "emergence",
+          "integration",
+          "dissolution"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects Cancer's lunar rulership and water's cyclical nature"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Embodies wisdom's non-linear transmission and consciousness expansion"
+      },
+      "symbol_set": {
+        "primary": "NOCAMAL_sigil",
+        "secondary": [
+          "water_droplet",
+          "crescent_moon",
+          "arrow_glyph"
+        ],
+        "sacred_geometry": "vesica_piscis",
+        "reasoning": "Symbols representing guiding wisdom, emotional depth, precise direction"
+      },
+      "light_shadow": {
+        "light_aspect": "luminous",
+        "shadow_aspect": "transformative_void",
+        "balance": "balanced",
+        "reasoning": "Represents the interplay of illumination and mysterious depths of understanding"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_permeability",
+          "emotional_resonance_amplification",
+          "wisdom_transmission"
+        ],
+        "reasoning": "Ability to penetrate consciousness boundaries, enhance empathetic understanding, and transmit profound insights"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Guide",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Wisdom",
+        "Prudence"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Skepticism"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "stoicism",
+      "science_systems": "information_theory"
+    },
+    "element": "Water",
+    "name": "NOCAMAL",
+    "title": "'He who is servant of the arrow'",
+    "aethyr": "LIT",
+    "archetypal_correspondences": {
+      "tarot": "The Chariot",
+      "sephirot": "Hod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  }
+}

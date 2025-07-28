@@ -1,0 +1,112 @@
+{
+  "governor_name": "ADVORPT",
+  "governor_profile": {
+    "angelic_role": "Throne of Silent Vigil; marshals tideborn heralds.",
+    "id": "ADVORPT",
+    "essence": "In ADVORPT's presence, an unseen sentinel seems to be watching quietly a patient, observant hush that safeguards each secret and respects every boundary.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid_crystalline",
+        "description": "A translucent water-crystal form that shifts between solid and liquid states, representing the liminal threshold between manifestation and potential. Virgo's analytical precision meets water's adaptive nature."
+      },
+      "color": {
+        "primary": "silvery_blue",
+        "secondary": "pearl_white",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silvery blue represents water's mystical depth and Hod's mercurial intelligence; pearl white symbolizes hidden wisdom and the reflective quality of silent observation"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal_matrix",
+          "fractal_water_crystal"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structures echo sacred water crystals, fractal patterns represent infinite knowledge containment"
+      },
+      "environment": {
+        "effect_type": "quantum_membrane",
+        "radius": "expansive",
+        "intensity": "presence",
+        "reasoning": "Creates a permeable energetic boundary that observes without disturbing, like a silent witness"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "potential",
+          "observation",
+          "reflection",
+          "transformation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Lunar cycles represent unconscious wisdom and cyclical knowing"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "subtle",
+        "reasoning": "Spiraling energy mimics water's natural movement and consciousness's non-linear progression"
+      },
+      "symbol_set": {
+        "primary": "inverted_chalice_with_hidden_eye",
+        "secondary": [
+          "water_droplet_rune",
+          "TEX_aethyr_glyph"
+        ],
+        "sacred_geometry": "vesica_piscis",
+        "reasoning": "Symbols representing hidden perception, mystical containment, and liminal awareness"
+      },
+      "light_shadow": {
+        "light_aspect": "luminous",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the perfect equilibrium between revealed and concealed knowledge"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_permeability",
+          "memory_encoding",
+          "silent_transmission"
+        ],
+        "reasoning": "Ability to absorb, reflect, and transmit information without active intervention"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Cryptic",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Guardian",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Mindfulness",
+        "Patience"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Passivity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "scrying",
+      "philosophies": "zen_buddhism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Water",
+    "name": "ADVORPT",
+    "title": "'She who silently watches'",
+    "aethyr": "TEX",
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  }
+}

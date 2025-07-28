@@ -1,0 +1,113 @@
+{
+  "governor_name": "SOAGEEL",
+  "governor_profile": {
+    "angelic_role": "Angel of Fount of Benevolence; guides granite-hewn hosts.",
+    "id": "SOAGEEL",
+    "essence": "As SOAGEEL approaches, a comforting warmth enfolds the space generosity and support flow freely, urging everyone to give and care for one another.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A living geometric form emerging from bedrock, representing Earth's fundamental structure and SOAGEEL's protective essence. Translucent granite-like crystalline body with fractal edges suggesting infinite generative potential."
+      },
+      "color": {
+        "primary": "deep emerald green",
+        "secondary": "bronze",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Emerald connects to Netzach's fertility and Earth's generative power. Bronze represents divine strength and protective metallic resonance. Shifting pattern symbolizes compassion's fluid nature."
+      },
+      "geometry": {
+        "patterns": [
+          "Flower of Life",
+          "Platonic solids",
+          "Merkaba"
+        ],
+        "complexity": "multidimensional",
+        "motion": "rotating",
+        "reasoning": "Sacred geometries represent cosmic harmonization, structural integrity, and transformative potential inherent in Earth element"
+      },
+      "environment": {
+        "effect_type": "generative sanctuary",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates protective field that nurtures and supports surrounding energetic ecosystem"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "emergence",
+          "stabilization",
+          "expansion",
+          "integration"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Reflects Taurean stability combined with evolutionary potential"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "strong",
+        "reasoning": "Earth energy manifests as grounded, persistent, nurturing force"
+      },
+      "symbol_set": {
+        "primary": "SOAGEEL_sigil",
+        "secondary": [
+          "Earth_pentagram",
+          "Taurus_glyph"
+        ],
+        "sacred_geometry": "Seed of Life",
+        "reasoning": "Symbols representing generative protection and earthly manifestation"
+      },
+      "light_shadow": {
+        "light_aspect": "radiant",
+        "shadow_aspect": "transformative depth",
+        "balance": "balanced",
+        "reasoning": "Illuminates through compassionate understanding, transforms through profound empathy"
+      },
+      "special_properties": {
+        "properties": [
+          "self-regenerating boundary",
+          "empathetic resonance field",
+          "adaptive protection matrix"
+        ],
+        "reasoning": "Embodies protective function through intelligent, responsive energetic architecture"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Protector",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Benevolent",
+      "virtues": [
+        "Generosity",
+        "Compassion",
+        "Kindness"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Worry",
+        "Yearning"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "taoism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Earth",
+    "name": "SOAGEEL",
+    "title": "'He who helps the most'",
+    "aethyr": "NIA",
+    "archetypal_correspondences": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

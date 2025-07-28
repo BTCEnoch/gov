@@ -1,0 +1,113 @@
+{
+  "governor_name": "SIGMORF",
+  "governor_profile": {
+    "angelic_role": "Dominion of Fearless Resolve; guides celestial hosts.",
+    "id": "SIGMORF",
+    "essence": "In SIGMORF's presence, fear melts away in steady flame a fearless aura that forges fearless resolve and lights introspection with strength.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic angular form emerging from geometric air-currents, representing the mathematical precision of Geburah and the warrior-like structure of Aries, with fractal edges that continuously reconfigure like wind-sculpted crystal"
+      },
+      "color": {
+        "primary": "electric blue",
+        "secondary": "silver-white",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Electric blue represents Air's intellectual clarity and TAN Aethyr's transformative energy, while silver-white signifies angelic purity and divine masculine principle"
+      },
+      "geometry": {
+        "patterns": [
+          "tetrahedron",
+          "octahedron",
+          "stellated polyhedron"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Platonic solids representing elemental Air, with dynamic transformative geometry symbolizing constant spiritual evolution"
+      },
+      "environment": {
+        "effect_type": "electromagnetic resonance field",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Dominion-level presence that reconfigures surrounding energetic matrices"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potential",
+          "manifestation",
+          "dissolution",
+          "reemergence"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflecting Air's mercurial nature and quantum indeterminacy"
+      },
+      "energy_signature": {
+        "type": "celestial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Angelic energy expressing through helical quantum dynamics"
+      },
+      "symbol_set": {
+        "primary": "Tetractys triangle",
+        "secondary": [
+          "Runic Thurisaz",
+          "Air elemental sigil"
+        ],
+        "sacred_geometry": "Star tetrahedron",
+        "reasoning": "Pythagorean sacred geometry representing divine intelligence and transformative power"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Embodying both illumination and the fertile darkness of potential"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_state_manipulation",
+          "consciousness_recalibration",
+          "fear_transmission_nullification"
+        ],
+        "reasoning": "Direct angelic capabilities of resolving psychological and energetic limitations"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Provocateur",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Courage",
+        "Fortitude",
+        "Valor"
+      ],
+      "flaws": [
+        "Intensity",
+        "Zealousness",
+        "Aloofness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "scrying",
+      "philosophies": "gnosticism",
+      "science_systems": "quantum_physics"
+    },
+    "element": "Air",
+    "name": "SIGMORF",
+    "title": "'He who visits the darkness'",
+    "aethyr": "TAN",
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

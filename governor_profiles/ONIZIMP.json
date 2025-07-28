@@ -1,0 +1,112 @@
+{
+  "governor_name": "ONIZIMP",
+  "governor_profile": {
+    "angelic_role": "Virtue of Forge of Industry; commands iron-winged legionaries.",
+    "id": "ONIZIMP",
+    "essence": "In ONIZIMP's presence, one is stirred to industrious action the environment buzzes with motivating energy, making productivity feel natural and rewarding.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic, angular form resembling an iron-forged geometric construct, representing the structural power of Earth and industrial precision. Fractalized edges suggest both rigidity and potential for transformation, embodying the Taurus archetype of potential energy."
+      },
+      "color": {
+        "primary": "bronze",
+        "secondary": "deep earth-brown",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Bronze symbolizes industrial strength and transformation, while earth-brown represents foundational stability. The shifting pattern reflects the dynamic nature of labor and creative potential."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal lattice",
+          "dodecahedron"
+        ],
+        "complexity": "multidimensional",
+        "motion": "rotating",
+        "reasoning": "Hexagonal structures echo sacred geometry of bee hives and molecular structures, representing collective labor. Dodecahedron symbolizes divine order and transformation from Platonic solids."
+      },
+      "environment": {
+        "effect_type": "productivity resonance field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a transformative zone where potential becomes kinetic, inspiring collective industrial effort"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "potential",
+          "initiation",
+          "momentum",
+          "manifestation"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Reflects the non-linear progression of creative labor, where each cycle builds upon previous transformations"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "strong",
+        "reasoning": "Earth element manifests as grounded, persistent energy that transforms through consistent effort"
+      },
+      "symbol_set": {
+        "primary": "ONIZIMP sigil resembling an anvil and gear",
+        "secondary": [
+          "Earth rune",
+          "Taurus glyph"
+        ],
+        "sacred_geometry": "Flower of Life matrix",
+        "reasoning": "Combines industrial symbolism with cosmic structural principles"
+      },
+      "light_shadow": {
+        "light_aspect": "brilliant",
+        "shadow_aspect": "depth",
+        "balance": "balanced",
+        "reasoning": "Represents the interplay between visible effort and unseen potential"
+      },
+      "special_properties": {
+        "properties": [
+          "momentum generation",
+          "entropy reversal",
+          "productivity amplification"
+        ],
+        "reasoning": "Unique manifestation of industrial divine principle, transforming potential into kinetic reality"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Artificer",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Determined",
+      "virtues": [
+        "Determination",
+        "Perseverance",
+        "Zeal"
+      ],
+      "flaws": [
+        "Impatience",
+        "Obsession",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "stoicism",
+      "science_systems": "systems_theory"
+    },
+    "element": "Earth",
+    "name": "ONIZIMP",
+    "title": "'He who brings labor'",
+    "aethyr": "TOR",
+    "archetypal_correspondences": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

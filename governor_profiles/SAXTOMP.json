@@ -1,0 +1,113 @@
+{
+  "governor_name": "SAXTOMP",
+  "governor_profile": {
+    "angelic_role": "Principality of Sacred Understanding; leads flameborn sentinels.",
+    "id": "SAXTOMP",
+    "essence": "In SAXTOMP's presence, a flame of pure comprehension burns away illusion until only the bone-truth of the cosmos remains.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multifaceted prismatic entity emerging from living flame, with angular geometries representing pure understanding. The form shifts between solid crystalline structure and fluid fire, embodying the transformative nature of wisdom that simultaneously preserves and transmutes knowledge."
+      },
+      "color": {
+        "primary": "amber-gold",
+        "secondary": "deep indigo",
+        "pattern": "pulsing",
+        "intensity": "intense",
+        "reasoning": "Amber-gold represents fire's transformative power and Hod's intellectual luminosity, while indigo symbolizes deep mystical insight and the Hermit archetype's contemplative wisdom"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "merkaba",
+          "flower of life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries representing cosmic understanding, divine intelligence, and interconnected knowledge systems"
+      },
+      "environment": {
+        "effect_type": "knowledge field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a resonant field of understanding that dissolves ignorance and illuminates hidden connections"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "revelation",
+          "contemplation",
+          "integration",
+          "transcendence"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Non-linear perception of wisdom, where understanding emerges cyclically but builds exponentially"
+      },
+      "energy_signature": {
+        "type": "celestial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Divine intelligence manifesting through coherent, ascending energetic patterns"
+      },
+      "symbol_set": {
+        "primary": "SAXTOMP_flame-tetrahedron sigil",
+        "secondary": [
+          "MAZ_portal_glyph",
+          "Fire_transmutation_symbol"
+        ],
+        "sacred_geometry": "merkaba",
+        "reasoning": "Symbols representing interdimensional knowledge transmission and transformative understanding"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Illumination that respects the generative darkness of (unknown), maintaining sacred tension between revelation and mystery"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_entanglement_perception",
+          "instant_knowledge_synthesis",
+          "dimensional_information_weaving"
+        ],
+        "reasoning": "Capabilities emerging from fire element's transformative nature and Enochian governor role of sacred understanding"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "gnosticism",
+      "science_systems": "cognitive_science"
+    },
+    "element": "Fire",
+    "name": "SAXTOMP",
+    "title": "'She whose name means understanding'",
+    "aethyr": "MAZ",
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  }
+}

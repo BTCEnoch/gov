@@ -1,0 +1,113 @@
+{
+  "governor_name": "OMAGRAP",
+  "governor_profile": {
+    "angelic_role": "Throne of Lunar Reflection; marshals ethereal choristers.",
+    "id": "OMAGRAP",
+    "essence": "When OMAGRAP is invoked, intuition moves in gentle cycles the atmosphere invites deep reflection as patterns repeat like comforting lunar phases.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid",
+        "description": "A translucent, mercurial form that shifts between crystalline lunar geometries and organic wave-like movements, representing the liminal space between perception and mystery"
+      },
+      "color": {
+        "primary": "silvery-blue",
+        "secondary": "deep indigo",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silvery-blue represents lunar consciousness, indigo reflects the depth of POP Aethyr's mystical insight, with shifting patterns mirroring the fluid nature of intuition and Air element's transformative qualities"
+      },
+      "geometry": {
+        "patterns": [
+          "crescent",
+          "wave",
+          "fractal spiral"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Crescent symbolizes lunar knowledge, wave represents Air's fluidity, fractal spiral indicates infinite recursive wisdom of Chesed and mystical understanding"
+      },
+      "environment": {
+        "effect_type": "ethereal mist condensing into geometric knowledge patterns",
+        "radius": "expansive",
+        "intensity": "presence",
+        "reasoning": "Demonstrates the pervasive nature of intuitive wisdom, expanding consciousness beyond immediate perception"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "reflection",
+          "revelation",
+          "dissolution",
+          "reconstruction"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Embodies cyclical nature of wisdom, mirroring lunar phases and psychological transformation"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "strong",
+        "reasoning": "Spiraling energy represents continuous learning and spiritual evolution, characteristic of Air element's intellectual dynamism"
+      },
+      "symbol_set": {
+        "primary": "Crescent moon overlaid with complex Air rune",
+        "secondary": [
+          "Water droplet",
+          "Spiral glyph"
+        ],
+        "sacred_geometry": "Vesica Piscis",
+        "reasoning": "Symbols representing liminal knowledge, transformation, and the intersection of different dimensional perspectives"
+      },
+      "light_shadow": {
+        "light_aspect": "radiant",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the delicate interplay between illumination and the unknown, core to mystical understanding"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_permeability",
+          "intuitive_resonance",
+          "memory_translation"
+        ],
+        "reasoning": "Abilities that transcend linear perception, allowing direct transmission of wisdom beyond conventional communication"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Reflective",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Patience",
+        "Mindfulness",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Isolation",
+        "Passivity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "taoism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Air",
+    "name": "OMAGRAP",
+    "title": "'He of lunar knowledge'",
+    "aethyr": "POP",
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

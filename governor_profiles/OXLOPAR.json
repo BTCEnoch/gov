@@ -1,0 +1,113 @@
+{
+  "governor_name": "OXLOPAR",
+  "governor_profile": {
+    "angelic_role": "Throne of Providential Grasp; marshals mountain wardens.",
+    "id": "OXLOPAR",
+    "essence": "As OXLOPAR approaches, a protective hold grips the environment like an invisible hand preventing any straying, it is both sheltering and unyieldingly firm.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multi-faceted geometric form resembling an obsidian mountain shard, representing Earth's elemental strength and the mountain wardens' unyielding nature. The crystalline structure suggests both transformation (Death card correspondence) and structural integrity."
+      },
+      "color": {
+        "primary": "deep obsidian black",
+        "secondary": "slate gray with emerald green veining",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Black represents Geburah's power and severity, emerald green symbolizes Earth's generative power, slate gray reflects mountain stone and disciplined protection"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "fractal",
+          "sacred mountain"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal patterns mirror Earth's crystal structures, fractal nature represents infinite protective complexity"
+      },
+      "environment": {
+        "effect_type": "geological stabilization",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Manifests as subtle tectonic pressure, creating boundaries and preventing chaotic movement"
+      },
+      "time_variations": {
+        "cycle": "geological",
+        "phases": [
+          "crystallization",
+          "compression",
+          "transformation",
+          "stabilization"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Reflects mountain's slow, immense transformative power across cosmic timescales"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "intense",
+        "reasoning": "Earth energy manifests as a contained, spiraling force of potential and restraint"
+      },
+      "symbol_set": {
+        "primary": "OXLOPAR_obsidian_mountain_sigil",
+        "secondary": [
+          "BAG_mountain_glyph",
+          "Earth_hexagonal_symbol"
+        ],
+        "sacred_geometry": "Merkaba within mountain crystal",
+        "reasoning": "Combines protective mountain symbolism with interdimensional transformation"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "shadow_dominant",
+        "reasoning": "Reflects Death card's liminal nature between destruction and regeneration"
+      },
+      "special_properties": {
+        "properties": [
+          "geological_memory_storage",
+          "boundary_enforcement",
+          "potential_energy_compression"
+        ],
+        "reasoning": "Embodies mountain warden's role of protection, memory preservation, and potential transformation"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Fortitude",
+        "Prudence",
+        "Trustworthiness"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Obstinacy",
+        "Suspicion"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "geomancy",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Earth",
+    "name": "OXLOPAR",
+    "title": "'He who has them in his hands'",
+    "aethyr": "BAG",
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

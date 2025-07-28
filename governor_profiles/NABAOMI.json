@@ -1,0 +1,112 @@
+{
+  "governor_name": "NABAOMI",
+  "governor_profile": {
+    "angelic_role": "Principality of Path of Compassion; leads celestial spirits.",
+    "id": "NABAOMI",
+    "essence": "In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid",
+        "description": "A translucent, wind-like form that shifts between crystalline geometric structure and organic flowing movement, representing the liminal space between structure and chaos inherent in Air element and ZEN Aethyr consciousness"
+      },
+      "color": {
+        "primary": "silver-blue",
+        "secondary": "pearl-white",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silver-blue represents Yesod's lunar qualities, air's mercurial nature, and compassionate wisdom; pearl-white symbolizes spiritual purity and transformative potential"
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal wind spiral",
+          "fractal wave matrices"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structures from sacred geometry represent divine order, while fractal patterns demonstrate infinite compassionate recursion"
+      },
+      "environment": {
+        "effect_type": "atmospheric resonance",
+        "radius": "expansive",
+        "intensity": "presence",
+        "reasoning": "Creates empathetic field that softens emotional boundaries, allowing healing transmission"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "emergence",
+          "transmission",
+          "dissolution",
+          "regeneration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects Cancer's lunar rulership and compassion's cyclical nature"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "strong",
+        "reasoning": "Represents spiritual transmission through compassionate awareness"
+      },
+      "symbol_set": {
+        "primary": "NABAOMI_compassion_spiral",
+        "secondary": [
+          "ZEN_wind_glyph",
+          "Water_moon_symbol"
+        ],
+        "sacred_geometry": "Merkaba interpenetration",
+        "reasoning": "Symbols depicting transformative spiritual movement and emotional intelligence"
+      },
+      "light_shadow": {
+        "light_aspect": "radiant",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the integration of revealed wisdom and transformative shadows"
+      },
+      "special_properties": {
+        "properties": [
+          "emotional resonance amplification",
+          "trauma transmutation",
+          "empathetic frequency modulation"
+        ],
+        "reasoning": "Unique capacities of compassionate spiritual guidance"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Empathizing",
+      "baseline_tone": "Empathetic",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Guide",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Compassionate",
+      "virtues": [
+        "Compassion",
+        "Empathy",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Self-doubt",
+        "Yearning"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "stoicism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Air",
+    "name": "NABAOMI",
+    "title": "'He who knows pain'",
+    "aethyr": "ZEN",
+    "archetypal_correspondences": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  }
+}

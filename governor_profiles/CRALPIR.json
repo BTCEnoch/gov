@@ -1,0 +1,112 @@
+{
+  "governor_name": "CRALPIR",
+  "governor_profile": {
+    "angelic_role": "Archangel of Radiant Dawn; marshals zephyr-bound sentinels.",
+    "id": "CRALPIR",
+    "essence": "In CRALPIR's presence, despair yields to comfort like the triumphant solace of sunrise after a long night on the battlefield.",
+    "visual_aspects": {
+      "form": {
+        "name": "composite",
+        "description": "A phoenix-like crystalline figure emerging from flame-etched geometric planes, representing transformative power of Scorpionic energy and Death card's regenerative symbolism"
+      },
+      "color": {
+        "primary": "crimson",
+        "secondary": "golden amber",
+        "pattern": "pulsing",
+        "intensity": "intense",
+        "reasoning": "Crimson represents fire element's passion, golden amber symbolizes divine solar intelligence, pulsing pattern reflects Geburah's dynamic martial energy"
+      },
+      "geometry": {
+        "patterns": [
+          "tetrahedron",
+          "merkaba"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Tetrahedron represents elemental fire, Merkaba symbolizes interdimensional travel and sacred transformative potential"
+      },
+      "environment": {
+        "effect_type": "radiant heat displacement",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Demonstrates Governor Angel's capacity to reshape energetic landscapes through vibrational presence"
+      },
+      "time_variations": {
+        "cycle": "solar",
+        "phases": [
+          "dawn",
+          "zenith",
+          "twilight",
+          "rebirth"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Reflects cyclical nature of transformation, aligned with solar mysteries and eternal recurrence"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Spiraling energy represents continuous becoming, transcendent intensity mirrors divine will"
+      },
+      "symbol_set": {
+        "primary": "CRALPIR_sigil",
+        "secondary": [
+          "ZIP_glyph",
+          "scorpion_rune"
+        ],
+        "sacred_geometry": "flower_of_life",
+        "reasoning": "Integrates Enochian symbolism with archetypal transformative imagery"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Embodies holistic perspective of light emerging through shadow, typical of Scorpionic wisdom"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_state_fluidity",
+          "emotional_resonance_amplification",
+          "karmic_pattern_dissolution"
+        ],
+        "reasoning": "Demonstrates capacity to interact with multiple dimensional realities simultaneously"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Hope",
+        "Valor",
+        "Charisma"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Impatience",
+        "Pride"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "sufism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Fire",
+    "name": "CRALPIR",
+    "title": "'He of bright joy'",
+    "aethyr": "ZIP",
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

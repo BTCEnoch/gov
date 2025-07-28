@@ -1,0 +1,114 @@
+{
+  "governor_name": "TABITOM",
+  "governor_profile": {
+    "angelic_role": "Throne of Sacred Flame; marshals oak-crowned hosts.",
+    "id": "TABITOM",
+    "essence": "When TABITOM is near, a paradoxical sunlight fills the air a spirit-fire that neither burns nor dims, but wholly transmutes.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multifaceted prismatic form emerging from oak-wood crystalline structure, representing the intersection of spirit (fire) and earthly wisdom. The crystalline nature reflects the Governor Angel's role of transmutation and sacred vision."
+      },
+      "color": {
+        "primary": "saffron-gold",
+        "secondary": "deep indigo",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Saffron represents spiritual fire and Sagittarian expansiveness; indigo symbolizes deep vision and spiritual insight. The shifting pattern reflects the dynamic nature of ZAX Aethyr's transformative energy."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "merkaba",
+          "flower of life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structure represents perfect spiritual geometry, Merkaba symbolizes light vehicle transformation, Flower of Life indicates cosmic interconnectedness"
+      },
+      "environment": {
+        "effect_type": "luminous quantum field",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Demonstrates the Governor's ability to generate transformative spiritual spaces that reconfigure immediate reality"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "emergence",
+          "resonance",
+          "transmission",
+          "dissolution"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflects non-linear spiritual time, showing continuous becoming rather than fixed states"
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Captures the elemental spirit nature, moving beyond traditional energy manifestations"
+      },
+      "symbol_set": {
+        "primary": "TABITOM_sigil",
+        "secondary": [
+          "ZAX_glyph",
+          "Spirit_symbol",
+          "Sagittarius_arrow"
+        ],
+        "sacred_geometry": "Star tetrahedron",
+        "reasoning": "Integrates personal sigil with cosmic archetypal symbols, representing multilayered spiritual communication"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Represents the dynamic interplay between revelation and mystery, illumination and depth"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_permeability",
+          "consciousness_amplification",
+          "temporal_recursion"
+        ],
+        "reasoning": "Demonstrates the Governor's capacity to interact with consciousness beyond standard dimensional limitations"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Stern",
+      "motive_alignment": "Chaotic Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Valor",
+        "Vision",
+        "Zeal"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Impatience",
+        "Pride"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "tarot",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "complexity_science"
+    },
+    "element": "Spirit",
+    "name": "TABITOM",
+    "title": "'He who is like fire'",
+    "aethyr": "ZAX",
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

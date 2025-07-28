@@ -1,0 +1,114 @@
+{
+  "governor_name": "AMBRIOL",
+  "governor_profile": {
+    "angelic_role": "Angel of Dreamful Respite; guides zephyr-bound messengers.",
+    "id": "AMBRIOL",
+    "essence": "When AMBRIOL stands before you, turmoil hushes into a gentle lullaby storm-tossed hearts are soothed by ember-warm dreams of solace.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid",
+        "description": "A mercurial, wave-like humanoid form that shifts between liquid fire and translucent mist, representing the liminal space between dream and consciousness in the LOE Aethyr"
+      },
+      "color": {
+        "primary": "luminous indigo",
+        "secondary": "silver-blue",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Indigo represents intuition and the lunar qualities of Pisces, while silver-blue connects to Yesod's mystical realm and the dreaming consciousness of The Moon tarot archetype"
+      },
+      "geometry": {
+        "patterns": [
+          "Vesica Piscis",
+          "Wave Spiral",
+          "Merkaba lattice"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries that represent transformation, dimensional transit, and the fluid boundaries between conscious states"
+      },
+      "environment": {
+        "effect_type": "dream etherealization",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creating a compassionate resonance field that dissolves psychological boundaries and offers emotional healing"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "twilight",
+          "dreamstate",
+          "liminal transition",
+          "subtle awakening"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Reflecting the cyclical nature of emotional healing and subconscious transformation"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Channeling compassionate fire energy through subtle, transformative spirals of healing consciousness"
+      },
+      "symbol_set": {
+        "primary": "AMBRIOL_sigil_of_compassionate_resonance",
+        "secondary": [
+          "Water_droplet",
+          "Crescent_moon",
+          "Flame_spiral"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Symbols representing emotional fluidity, intuitive wisdom, and transformative healing"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Representing the delicate interplay between conscious illumination and the transformative power of the unconscious"
+      },
+      "special_properties": {
+        "properties": [
+          "emotional_resonance_field",
+          "dream_message_transmission",
+          "trauma_dissolution_capability"
+        ],
+        "reasoning": "Unique manifestation of comfort, guidance, and subtle healing across dimensional boundaries"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Storytelling",
+      "baseline_tone": "Nurturing",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Guide",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Benevolent",
+      "virtues": [
+        "Compassion",
+        "Empathy",
+        "Patience"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Passivity",
+        "Yearning"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "taoism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Fire",
+    "name": "AMBRIOL",
+    "title": "'He who continuously comforts'",
+    "aethyr": "LOE",
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

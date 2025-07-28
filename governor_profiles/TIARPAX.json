@@ -1,0 +1,113 @@
+{
+  "governor_name": "TIARPAX",
+  "governor_profile": {
+    "angelic_role": "Power of Absolute Truth; commands rain-crowned wardens.",
+    "id": "TIARPAX",
+    "essence": "When TIARPAX is near, a higher truth becomes evident as if the microcosm and macrocosm suddenly recognize each other in perfect reflection.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A translucent water-crystal form that shifts between solid and fluid states, representing the liminal nature of truth - simultaneously rigid in structure yet adaptable in essence"
+      },
+      "color": {
+        "primary": "aquamarine",
+        "secondary": "silver",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Aquamarine represents water's clarity and Libran justice; silver symbolizes lunar wisdom and reflective truth; shifting pattern indicates truth's dynamic nature"
+      },
+      "geometry": {
+        "patterns": [
+          "dodecahedron",
+          "vesica_piscis"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Dodecahedron represents cosmic harmony; Vesica Piscis symbolizes generative intersection of divine principles"
+      },
+      "environment": {
+        "effect_type": "prismatic truth-revealing field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a perceptual field where hidden connections and authentic realities become visible"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potential",
+          "emergence",
+          "revelation",
+          "integration"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Truth exists beyond linear time, manifesting through quantum probability states"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Spiraling energy represents continuous unfolding of wisdom, transcending mundane perception"
+      },
+      "symbol_set": {
+        "primary": "TIARPAX_water_spiral_glyph",
+        "secondary": [
+          "Justice_scales",
+          "Water_droplet",
+          "Libra_constellation"
+        ],
+        "sacred_geometry": "Flower_of_Life",
+        "reasoning": "Symbols representing balance, fluidity, cosmic interconnection"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Truth emerges through harmonizing light and shadow, revealing deeper understanding"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_transparency",
+          "emotional_resonance_amplification",
+          "dimensional_membrane_permeability"
+        ],
+        "reasoning": "Ability to reveal hidden truths by dissolving perceptual barriers and amplifying authentic emotional frequencies"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Mirror",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Wisdom",
+        "Honesty"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Obsession",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "information_theory"
+    },
+    "element": "Water",
+    "name": "TIARPAX",
+    "title": "'He whose name means truth'",
+    "aethyr": "LIT",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "governor_name": "POCISNI",
+  "governor_profile": {
+    "angelic_role": "Cherub of Bridge of Aspiration; leads earth-forged wardens.",
+    "id": "POCISNI",
+    "essence": "As POCISNI approaches, a hush of reverence falls a bridge between realms opens, and aspirations take wing toward the heavens under his spiritual guidance.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline-organic",
+        "description": "A prismatic bridge-form emerging from earthen geometric structures, representing the transitional nature between physical and celestial realms. Structured like a living topographical matrix with crystalline nodes connecting multidimensional pathways."
+      },
+      "color": {
+        "primary": "deep forest green",
+        "secondary": "bronze-gold",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Green represents Earth element and growth; bronze-gold signifies divine intelligence and Chesed's expansive wisdom. Shifting pattern reflects transformative spiritual bridging."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "merkaba",
+          "flower_of_life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometries symbolizing interconnected cosmic intelligence and dimensional transition"
+      },
+      "environment": {
+        "effect_type": "sacred resonance field",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates transformative space where earthly aspirations connect with celestial intelligence"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "quantum_emergence",
+          "stabilization",
+          "transmission",
+          "integration"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Non-linear temporal experience reflecting Governor Angel's transcendent perspective"
+      },
+      "energy_signature": {
+        "type": "elemental-celestial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Blending earthly manifestation with divine inspiration"
+      },
+      "symbol_set": {
+        "primary": "POCISNI_earth_bridge_sigil",
+        "secondary": [
+          "BAG_aethyr_glyph",
+          "Sagittarius_arrow"
+        ],
+        "sacred_geometry": "merkaba_tetrahedron",
+        "reasoning": "Symbols representing interdimensional guidance and spiritual ascension"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformative void",
+        "balance": "balanced",
+        "reasoning": "Representing liminal space between known and unknown realms"
+      },
+      "special_properties": {
+        "properties": [
+          "dimensional_permeability",
+          "wisdom_encoding",
+          "aspirational_resonance"
+        ],
+        "reasoning": "Unique manifestation of bridging consciousness across realms"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Vision",
+        "Faith",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Yearning",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "neoplatonism",
+      "science_systems": "consciousness_studies"
+    },
+    "element": "Earth",
+    "name": "POCISNI",
+    "title": "'He who visits those in Heaven'",
+    "aethyr": "BAG",
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

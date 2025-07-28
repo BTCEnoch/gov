@@ -1,0 +1,114 @@
+{
+  "governor_name": "SOCHIAL",
+  "governor_profile": {
+    "angelic_role": "Throne of Cathartic Flame; marshals heavenly choristers.",
+    "id": "SOCHIAL",
+    "essence": "In SOCHIAL's presence, stagnation combusts into change her radical energy ignites a cathartic blaze that frees and renews the spirit.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic, multi-faceted geometric form that shifts between solid and translucent states, embodying the transformative nature of Air and the cathartic flame of liberation"
+      },
+      "color": {
+        "primary": "electric blue",
+        "secondary": "silver-white",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Electric blue represents Air's intellectual and revolutionary energy, while silver-white symbolizes the purifying fire of transformation, drawing from Hermetic and Theosophical color correspondences"
+      },
+      "geometry": {
+        "patterns": [
+          "fractal tetrahedron",
+          "merkaba star",
+          "flower of life"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Sacred geometric forms representing dimensional transitions, spiritual ascension, and the dynamic nature of consciousness"
+      },
+      "environment": {
+        "effect_type": "atmospheric ionization",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Generating a field of energetic transformation that dissolves static patterns and catalyzes spiritual renewal"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "potential",
+          "ignition",
+          "dissolution",
+          "rebirth"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Embodying the non-linear nature of spiritual transformation and quantum probability states"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Representing the cyclical nature of liberation and the spiraling path of spiritual evolution"
+      },
+      "symbol_set": {
+        "primary": "SOCHIAL_sigil",
+        "secondary": [
+          "LEA_glyph",
+          "Air_symbol",
+          "Phoenix_icon"
+        ],
+        "sacred_geometry": "Merkaba",
+        "reasoning": "Symbols of transition, rebirth, and multidimensional consciousness"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "balanced",
+        "reasoning": "Representing the alchemical process of illumination through shadow integration"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum_permeability",
+          "emotional_combustion",
+          "memory_transmutation"
+        ],
+        "reasoning": "Ability to dissolve energetic boundaries, catalyze emotional release, and transform historical limitations"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Provoking",
+      "baseline_tone": "Passionate",
+      "motive_alignment": "Chaotic Good",
+      "role_archetype": "Liberator",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Courage",
+        "Vision",
+        "Zeal"
+      ],
+      "flaws": [
+        "Impatience",
+        "Recklessness",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "chaos_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "gnosticism",
+      "science_systems": "complexity_science"
+    },
+    "element": "Air",
+    "name": "SOCHIAL",
+    "title": "'He who burns up the past'",
+    "aethyr": "LEA",
+    "archetypal_correspondences": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  }
+}

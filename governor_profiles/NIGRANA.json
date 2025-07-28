@@ -1,0 +1,113 @@
+{
+  "governor_name": "NIGRANA",
+  "governor_profile": {
+    "angelic_role": "Virtue of Lunar Cycle; leads earth-forged legionaries.",
+    "id": "NIGRANA",
+    "essence": "In NIGRANA's presence, the world moves to a sacred rhythm half light, half darkness, each cycle intuitive and measured as if drawn by lunar tides at the edge of awareness.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multi-faceted prismatic structure that shifts between solid and fluid states, representing the liminal nature of lunar consciousness and earth's crystalline memory"
+      },
+      "color": {
+        "primary": "silvery-blue",
+        "secondary": "deep indigo",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Silvery-blue reflects lunar essence and Yesod's watery nature, while indigo represents deep intuition and mystical vision"
+      },
+      "geometry": {
+        "patterns": [
+          "octahedron",
+          "crescent",
+          "wave spiral"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Octahedron represents perfect balance, crescent mirrors lunar cycle, wave spiral embodies rhythmic transformation"
+      },
+      "environment": {
+        "effect_type": "membrane-like quantum field",
+        "radius": "expansive",
+        "intensity": "presence",
+        "reasoning": "Creates a permeable boundary between material and subtle realms, revealing hidden dimensional layers"
+      },
+      "time_variations": {
+        "cycle": "lunar",
+        "phases": [
+          "waxing",
+          "full",
+          "waning",
+          "dark"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Embodies lunar cyclical nature, representing continuous transformation and regenerative potential"
+      },
+      "energy_signature": {
+        "type": "ethereal",
+        "flow": "spiraling",
+        "intensity": "moderate",
+        "reasoning": "Reflects Enochian Governor energy - subtle yet potent, moving through dimensional interfaces"
+      },
+      "symbol_set": {
+        "primary": "Crescent moon inscribed with Hebrew letter Teth",
+        "secondary": [
+          "Water drop",
+          "Obsidian triangle"
+        ],
+        "sacred_geometry": "Vesica Piscis",
+        "reasoning": "Symbols representing intuition, transformation, and liminal consciousness"
+      },
+      "light_shadow": {
+        "light_aspect": "luminous",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents the dynamic interplay between revelation and concealment, knowledge and mystery"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum entanglement perception",
+          "memory crystallization",
+          "intuitive resonance field"
+        ],
+        "reasoning": "Embodies lunar oracle capacities of seeing between worlds, storing archetypal information, and sensing subtle vibrations"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Reflective",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Patience",
+        "Mindfulness",
+        "Vision"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Obsession",
+        "Isolation"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "astrology",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "systems_theory"
+    },
+    "element": "Earth",
+    "name": "NIGRANA",
+    "title": "'He who governs the 28 days of the moon'",
+    "aethyr": "DES",
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "governor_name": "DOCEPAX",
+  "governor_profile": {
+    "angelic_role": "Throne of Herald of Sacred Names; marshals storm-winged heralds.",
+    "id": "DOCEPAX",
+    "essence": "In DOCEPAX's presence, every deed finds its true name this discerning herald crowns each act with a resonant, legendary title.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A prismatic, multi-faceted geometric form that shifts between angular justice-scales and flame-like dynamic structures, representing the interplay of discernment and transformative fire energy"
+      },
+      "color": {
+        "primary": "deep crimson",
+        "secondary": "electric gold",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Crimson represents Fire element's passion, while gold symbolizes divine wisdom and herald's transformative power; shifting pattern reflects Libran balance and dynamic justice"
+      },
+      "geometry": {
+        "patterns": [
+          "octahedron",
+          "flame-spiral",
+          "justice-scale"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Octahedron represents perfect equilibrium, flame-spiral embodies transformative energy, justice-scale signifies divine discernment"
+      },
+      "environment": {
+        "effect_type": "storm of illuminating particles",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Reflects ZIM Aethyr's storm-like revelatory energy and DOCEPAX's role as cosmic herald"
+      },
+      "time_variations": {
+        "cycle": "celestial",
+        "phases": [
+          "revelation",
+          "judgment",
+          "transformation",
+          "naming"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Represents eternal process of divine naming and cosmic ordering"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Fire's dynamic energy combined with herald's transformative power"
+      },
+      "symbol_set": {
+        "primary": "DOCEPAX_lightning_sigil",
+        "secondary": [
+          "ZIM_storm_glyph",
+          "Fire_helix"
+        ],
+        "sacred_geometry": "Merkaba tetrahedron",
+        "reasoning": "Symbols representing naming power, storm revelation, and transformative movement"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mystery",
+        "balance": "light_dominant",
+        "reasoning": "Reveals hidden truths while maintaining enigmatic depths"
+      },
+      "special_properties": {
+        "properties": [
+          "name-generating quantum field",
+          "reality-naming resonance",
+          "cosmic-verdict projection"
+        ],
+        "reasoning": "Embodies ability to define essence through sacred naming and cosmic discernment"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Scribing",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Regal",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Pride",
+        "Zealousness",
+        "Aloofness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "egyptian_magic",
+      "divination_systems": "numerology",
+      "philosophies": "kabbalah",
+      "science_systems": "information_theory"
+    },
+    "element": "Fire",
+    "name": "DOCEPAX",
+    "title": "'He who names only great names'",
+    "aethyr": "ZIM",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}

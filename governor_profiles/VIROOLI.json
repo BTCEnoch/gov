@@ -1,0 +1,113 @@
+{
+  "governor_name": "VIROOLI",
+  "governor_profile": {
+    "angelic_role": "Archangel of Primordial Sanctuary; marshals tideborn spirits.",
+    "id": "VIROOLI",
+    "essence": "In VIROOLI's presence, one feels held within a primordial sanctuary an inner sacred chamber built before any outer realm can be commanded.",
+    "visual_aspects": {
+      "form": {
+        "name": "fluid-crystalline",
+        "description": "A translucent water-crystal formation that shifts between liquid and solid states, representing the liminal boundary between potential and manifestation. Inspired by the Vesica Piscis sacred geometry, embodying the generative space between states of being."
+      },
+      "color": {
+        "primary": "deep azure",
+        "secondary": "silvery-white",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Azure represents water's depth and spiritual insight, while silvery-white reflects Enochian celestial purity. The shifting pattern symbolizes water's transformative nature and the ZOM Aethyr's quantum flux."
+      },
+      "geometry": {
+        "patterns": [
+          "fractal wave",
+          "nested hexagonal"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Fractal waves represent infinite recursion of creation, while hexagonal structures mirror water's molecular sacred geometry. Phase-shifting motion embodies the Hermetic principle of 'as above, so below'."
+      },
+      "environment": {
+        "effect_type": "tidal sanctuary",
+        "radius": "expansive",
+        "intensity": "emanation",
+        "reasoning": "Creates a protective energetic field that resonates with primordial oceanic consciousness, expanding outward like generative waves of potential."
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "quantum emergence",
+          "fluid potential",
+          "crystalline formation",
+          "dissipation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Spiral time represents non-linear consciousness, with phases mimicking water's transformative states between quantum potential and manifest reality."
+      },
+      "energy_signature": {
+        "type": "primordial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Primordial energy signature connects to the first generative impulse, spiraling flow represents divine creative principle found in Taoist and Hermetic traditions."
+      },
+      "symbol_set": {
+        "primary": "Nested water droplet with hexagonal internal structure",
+        "secondary": [
+          "ZOM glyph",
+          "Water elemental symbol",
+          "Merkaba tetrahedron"
+        ],
+        "sacred_geometry": "Flower of Life overlay",
+        "reasoning": "Symbols represent generative potential, elemental connection, and multidimensional consciousness"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "mysterious void",
+        "balance": "balanced",
+        "reasoning": "Represents the generative tension between revelation and mystery, light and potential darkness inherent in creative processes"
+      },
+      "special_properties": {
+        "properties": [
+          "quantum permeability",
+          "memory encoding",
+          "consciousness amplification"
+        ],
+        "reasoning": "Reflects water's unique ability to store information, transmit energy, and bridge dimensional states"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Sombre",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Guardian",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Patience",
+        "Mindfulness",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Isolation",
+        "Aloofness",
+        "Rigidity"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "celtic_magic",
+      "divination_systems": "geomancy",
+      "philosophies": "taoism",
+      "science_systems": "ecology"
+    },
+    "element": "Water",
+    "name": "VIROOLI",
+    "title": "'He who made the first nest'",
+    "aethyr": "ZOM",
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  }
+}

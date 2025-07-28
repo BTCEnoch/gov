@@ -1,0 +1,114 @@
+{
+  "governor_name": "RANGLAM",
+  "governor_profile": {
+    "angelic_role": "Throne of Monastic Mind; marshals iron-winged legionaries.",
+    "id": "RANGLAM",
+    "essence": "As RANGLAM approaches, a monk-like stillness prevails mind and body align under strict self-discipline, and contemplation becomes as natural as breath.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A geometric human-like form composed of translucent earth crystals, representing disciplined structure and inner clarity. Resembles a monastic figure with angular, precise crystalline planes that shift and refract light, symbolizing mental discipline and transformative perception."
+      },
+      "color": {
+        "primary": "slate gray",
+        "secondary": "deep moss green",
+        "pattern": "shifting",
+        "intensity": "moderate",
+        "reasoning": "Slate gray represents Earth element's stability, while moss green symbolizes growth and introspective wisdom. Shifting pattern reflects the dynamic nature of contemplative consciousness."
+      },
+      "geometry": {
+        "patterns": [
+          "hexagonal",
+          "fractal",
+          "merkaba"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Hexagonal structures echo sacred geometry, representing cosmic order. Fractal patterns demonstrate infinite complexity within disciplined systems."
+      },
+      "environment": {
+        "effect_type": "meditative stillness",
+        "radius": "expansive",
+        "intensity": "presence",
+        "reasoning": "Creates a zone of profound contemplative energy that induces inner silence and self-reflection"
+      },
+      "time_variations": {
+        "cycle": "spiral",
+        "phases": [
+          "concentration",
+          "insight",
+          "release",
+          "integration"
+        ],
+        "stability": "crystallized",
+        "reasoning": "Spiral time represents non-linear spiritual progression, with each phase building upon previous insights"
+      },
+      "energy_signature": {
+        "type": "elemental",
+        "flow": "spiraling",
+        "intensity": "strong",
+        "reasoning": "Earth element energy manifests as grounded, persistent, transformative spiral of consciousness"
+      },
+      "symbol_set": {
+        "primary": "RANGLAM sigil",
+        "secondary": [
+          "Virgo glyph",
+          "Earth symbol",
+          "Hermit tarot"
+        ],
+        "sacred_geometry": "Flower of Life",
+        "reasoning": "Integrates personal angelic signature with archetypal wisdom symbols"
+      },
+      "light_shadow": {
+        "light_aspect": "luminous",
+        "shadow_aspect": "mystery",
+        "balance": "balanced",
+        "reasoning": "Represents inner illumination balanced with depth of contemplative practice"
+      },
+      "special_properties": {
+        "properties": [
+          "mental_crystallization",
+          "thought_filtering",
+          "wisdom_compression"
+        ],
+        "reasoning": "Ability to distill complex experiences into pure insight, transforming mental noise into coherent understanding"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Master",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Stoic",
+      "virtues": [
+        "Mindfulness",
+        "Self-control",
+        "Discernment"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Zealousness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "stoicism",
+      "science_systems": "cognitive_science"
+    },
+    "element": "Earth",
+    "name": "RANGLAM",
+    "title": "'He who governs his thoughts'",
+    "aethyr": "VTI",
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  }
+}

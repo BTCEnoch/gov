@@ -1,0 +1,113 @@
+{
+  "governor_name": "NOTIABI",
+  "governor_profile": {
+    "angelic_role": "Archangel of Lightning Revelation; marshals celestial legions.",
+    "id": "NOTIABI",
+    "essence": "When NOTIABI is invoked, truth arrives like a lightning strike sharp, sudden, and unerring, cutting through falsehood in an instant.",
+    "visual_aspects": {
+      "form": {
+        "name": "crystalline",
+        "description": "A multi-dimensional geometric construct combining lightning-like fractal structures with translucent prism-like edges, representing the lightning revelation of truth through Air element's intellectual clarity"
+      },
+      "color": {
+        "primary": "electric blue",
+        "secondary": "silver-white",
+        "pattern": "shifting",
+        "intensity": "intense",
+        "reasoning": "Electric blue represents Air's mental clarity and lightning's revelatory power; silver-white symbolizes divine truth and celestial transmission from Enochian angelic traditions"
+      },
+      "geometry": {
+        "patterns": [
+          "tetrahedral",
+          "fractal",
+          "merkaba"
+        ],
+        "complexity": "multidimensional",
+        "motion": "phase_shifting",
+        "reasoning": "Merkaba geometry represents divine light vehicle; tetrahedron symbolizes pure mental construct; fractal patterns demonstrate infinite complexity of truth"
+      },
+      "environment": {
+        "effect_type": "atmospheric ionization",
+        "radius": "expansive",
+        "intensity": "overwhelming",
+        "reasoning": "Creates localized field of perceptual clarity, electrically charging surrounding space to induce heightened awareness"
+      },
+      "time_variations": {
+        "cycle": "quantum",
+        "phases": [
+          "revelation",
+          "transmission",
+          "integration",
+          "transformation"
+        ],
+        "stability": "fluctuating",
+        "reasoning": "Non-linear temporal manifestation reflecting truth's dynamic nature"
+      },
+      "energy_signature": {
+        "type": "celestial",
+        "flow": "spiraling",
+        "intensity": "transcendent",
+        "reasoning": "Spiraling energy represents divine information download, transcending linear perception"
+      },
+      "symbol_set": {
+        "primary": "Lightning-inscribed triangular sigil",
+        "secondary": [
+          "OXO_glyph",
+          "Air_symbol"
+        ],
+        "sacred_geometry": "Vesica Piscis",
+        "reasoning": "Triangular sigil represents revelation; Vesica Piscis symbolizes generative divine intersection"
+      },
+      "light_shadow": {
+        "light_aspect": "transcendent",
+        "shadow_aspect": "transformation",
+        "balance": "light_dominant",
+        "reasoning": "Truth emerges through luminous revelation, with transformative potential in shadow integration"
+      },
+      "special_properties": {
+        "properties": [
+          "instantaneous truth perception",
+          "reality membrane penetration",
+          "consciousness recalibration"
+        ],
+        "reasoning": "Embodies lightning-like revelation, breaking through perceptual illusions instantly"
+      }
+    },
+    "polar_traits": {
+      "baseline_approach": "Prophesying",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Discernment",
+        "Honesty",
+        "Vision"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Impatience",
+        "Aloofness"
+      ]
+    },
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "i_ching",
+      "philosophies": "gnosticism",
+      "science_systems": "information_theory"
+    },
+    "element": "Air",
+    "name": "NOTIABI",
+    "title": "'Servant who speaks the truth'",
+    "aethyr": "OXO",
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+}
