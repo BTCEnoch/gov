@@ -1,0 +1,50 @@
+{
+  "governor_name": "CALZIRG",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered kneeling pose pouring geometric patterns like starlight, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or hexagonal crystalline appendages like sacred geometry horns incorporating hexagonal, fractal, geodesic patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with shifting Earth element square motifs and foundational patterns and Merkaba emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like cup of understanding with triangular geometric patterns with primordial spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor CALZIRG's profile: 'She who is in the firmament', Aethyr LIN, Earth element, Tarot The Star, Sephirot Binah, Zodiac Aquarius, embodying the essence: 'As CALZIRG approaches, the horizon stretches skyward an expansive, lofty feeling as if the very heav...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "visual_elements": {
+    "pose": "front-facing centered kneeling pose pouring geometric patterns like starlight",
+    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
+    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
+    "hair_style": "hexagonal crystalline appendages like sacred geometry horns",
+    "outfit": {
+      "base": "structured solid robes with crystalline geometric patterns",
+      "texture": "flat with sharpie-style lines for stability and grounding",
+      "details": "Earth element square motifs and foundational patterns",
+      "magical_essence": "crystalline dust wisps and mineral particles"
+    },
+    "accessory": "cup of understanding with triangular geometric patterns",
+    "primary_color": "neutral grey",
+    "secondary_color": "neutral grey",
+    "color_pattern": "shifting",
+    "geometry_patterns": [
+      "hexagonal",
+      "fractal",
+      "geodesic"
+    ],
+    "sacred_geometry": "Merkaba",
+    "secondary_symbols": [
+      "Aquarius_glyph",
+      "Earth_symbol"
+    ],
+    "energy_signature": {
+      "type": "primordial",
+      "flow": "spiraling with magical essence wisps"
+    },
+    "environment_effect": "sacred geometric field with faint aura lines",
+    "element": "Earth",
+    "tarot": "The Star",
+    "sephirot": "Binah",
+    "zodiac": "Aquarius"
+  },
+  "profile_data": {
+    "title": "'She who is in the firmament'",
+    "aethyr": "LIN",
+    "element": "Earth",
+    "essence": "As CALZIRG approaches, the horizon stretches skyward an expansive, lofty feeling as if the very heavens have descended to meet the earth.",
+    "angelic_role": "Throne of Firmament of Grace; marshals mountain wardens.",
+    "form_description": "A multi-faceted prismatic form embodying the mountain warden archetype, with geometric planes that shift between solid and translucent states, representing the liminal boundary between earth's material realm and celestial consciousness",
+    "color_reasoning": "Azure represents Binah's contemplative wisdom, silver-gray channels earth's elemental strength, reflecting Aquarian visionary qualities and the crystalline nature of LIN Aethyr",
+    "geometry_reasoning": "Hexagonal structure represents sacred geometric harmony, fractals demonstrate infinite complexity, embodying divine mathematical principles"
+  }
+}

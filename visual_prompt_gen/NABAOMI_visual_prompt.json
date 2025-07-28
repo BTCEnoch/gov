@@ -1,0 +1,49 @@
+{
+  "governor_name": "NABAOMI",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with flowing water-drop shaped head with rippling edges and construction paper layers suggesting continuous flow through layered cut-out waves with drawn depth. Hair or geometric crystalline appendages incorporating hexagonal wind spiral, fractal wave matrices patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and Merkaba interpenetration emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions with ethereal spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor NABAOMI's profile: 'He who knows pain', Aethyr ZEN, Air element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traum...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "visual_elements": {
+    "pose": "front-facing centered forward-leaning pose with hands gripping ethereal reins",
+    "head_shape": "flowing water-drop shaped head with rippling edges and construction paper layers",
+    "body_style": "undulating form with wave-like contours, flattened with sharpie-like flow lines",
+    "motion_quality": "suggesting continuous flow through layered cut-out waves with drawn depth",
+    "hair_style": "geometric crystalline appendages",
+    "outfit": {
+      "base": "ethereal flowing robes with geometric wind patterns",
+      "texture": "flat with sharpie-style lines for depth and movement",
+      "details": "Air element glyphs and spiral motifs",
+      "magical_essence": "faint wind wisps and floating geometric particles"
+    },
+    "accessory": "lunar crescent with silver geometric inscriptions",
+    "primary_color": "neutral grey",
+    "secondary_color": "neutral grey",
+    "color_pattern": "shifting",
+    "geometry_patterns": [
+      "hexagonal wind spiral",
+      "fractal wave matrices"
+    ],
+    "sacred_geometry": "Merkaba interpenetration",
+    "secondary_symbols": [
+      "Cancer_glyph",
+      "Air_symbol"
+    ],
+    "energy_signature": {
+      "type": "ethereal",
+      "flow": "spiraling with magical essence wisps"
+    },
+    "environment_effect": "sacred geometric field with faint aura lines",
+    "element": "Air",
+    "tarot": "The Chariot",
+    "sephirot": "Yesod",
+    "zodiac": "Cancer"
+  },
+  "profile_data": {
+    "title": "'He who knows pain'",
+    "aethyr": "ZEN",
+    "element": "Air",
+    "essence": "In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.",
+    "angelic_role": "Principality of Path of Compassion; leads celestial spirits.",
+    "form_description": "A translucent, wind-like form that shifts between crystalline geometric structure and organic flowing movement, representing the liminal space between structure and chaos inherent in Air element and ZEN Aethyr consciousness",
+    "color_reasoning": "Silver-blue represents Yesod's lunar qualities, air's mercurial nature, and compassionate wisdom; pearl-white symbolizes spiritual purity and transformative potential",
+    "geometry_reasoning": "Hexagonal structures from sacred geometry represent divine order, while fractal patterns demonstrate infinite compassionate recursion"
+  }
+}

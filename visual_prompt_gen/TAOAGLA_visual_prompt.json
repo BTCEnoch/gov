@@ -1,0 +1,50 @@
+{
+  "governor_name": "TAOAGLA",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating fractal_wave, merkaba_tetrahedron, flower_of_life patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey fluid draped garments with wave geometric patterns with flat with sharpie-style lines for flow and depth, elaborate with shifting Water element curved motifs and descending patterns and dynamic_torus emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with primordial spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rippling water wisps and droplet particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor TAOAGLA's profile: 'He who becomes the foremost beginning', Aethyr TEX, Water element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'When TAOAGLA is near, a pioneering spark ignites the air it feels like the universe is beginning ane...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "visual_elements": {
+    "pose": "front-facing centered authoritative standing pose with arms crossed over geometric chest piece",
+    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
+    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
+    "hair_style": "geometric crystalline appendages",
+    "outfit": {
+      "base": "fluid draped garments with wave geometric patterns",
+      "texture": "flat with sharpie-style lines for flow and depth",
+      "details": "Water element curved motifs and descending patterns",
+      "magical_essence": "rippling water wisps and droplet particles"
+    },
+    "accessory": "sword of severity with angular geometric blade",
+    "primary_color": "neutral grey",
+    "secondary_color": "neutral grey",
+    "color_pattern": "shifting",
+    "geometry_patterns": [
+      "fractal_wave",
+      "merkaba_tetrahedron",
+      "flower_of_life"
+    ],
+    "sacred_geometry": "dynamic_torus",
+    "secondary_symbols": [
+      "Aries_glyph",
+      "Water_symbol"
+    ],
+    "energy_signature": {
+      "type": "primordial",
+      "flow": "spiraling with magical essence wisps"
+    },
+    "environment_effect": "sacred geometric field with faint aura lines",
+    "element": "Water",
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac": "Aries"
+  },
+  "profile_data": {
+    "title": "'He who becomes the foremost beginning'",
+    "aethyr": "TEX",
+    "element": "Water",
+    "essence": "When TAOAGLA is near, a pioneering spark ignites the air it feels like the universe is beginning anew, led forward by an originative force.",
+    "angelic_role": "Seraph of Flame of Genesis; commands mist-bound spirits.",
+    "form_description": "A translucent water-crystal form that shifts between liquid mercury-like fluidity and geometric prismatic structures, representing the liminal space between potential and manifestation",
+    "color_reasoning": "Azure represents water's transformative power, electric blue signifies divine spark of creation, silver reflects Geburah's martial energy and TEX Aethyr's mystical boundary conditions",
+    "geometry_reasoning": "Sacred geometries represent generative cosmic principles, wave patterns echo water's fundamental nature, tetrahedron symbolizes pure creative potential"
+  }
+}

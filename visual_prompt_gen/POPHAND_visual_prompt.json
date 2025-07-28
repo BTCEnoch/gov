@@ -1,0 +1,50 @@
+{
+  "governor_name": "POPHAND",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with shifting Earth element square motifs and foundational patterns and Vesica Piscis emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like geometric emblem with elemental spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor POPHAND's profile: 'He who is divided into three parts', Aethyr DES, Earth element, Tarot The Lovers, Sephirot Daath, Zodiac Gemini, embodying the essence: 'As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, n...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "visual_elements": {
+    "pose": "front-facing centered balanced pose with arms extended in harmonious gesture",
+    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
+    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
+    "hair_style": "geometric crystalline appendages",
+    "outfit": {
+      "base": "structured solid robes with crystalline geometric patterns",
+      "texture": "flat with sharpie-style lines for stability and grounding",
+      "details": "Earth element square motifs and foundational patterns",
+      "magical_essence": "crystalline dust wisps and mineral particles"
+    },
+    "accessory": "geometric emblem",
+    "primary_color": "neutral grey",
+    "secondary_color": "neutral grey",
+    "color_pattern": "shifting",
+    "geometry_patterns": [
+      "Flower of Life",
+      "Merkaba",
+      "Oak leaf fractal"
+    ],
+    "sacred_geometry": "Vesica Piscis",
+    "secondary_symbols": [
+      "Gemini_glyph",
+      "Earth_symbol"
+    ],
+    "energy_signature": {
+      "type": "elemental",
+      "flow": "spiraling with magical essence wisps"
+    },
+    "environment_effect": "sacred geometric field with faint aura lines",
+    "element": "Earth",
+    "tarot": "The Lovers",
+    "sephirot": "Daath",
+    "zodiac": "Gemini"
+  },
+  "profile_data": {
+    "title": "'He who is divided into three parts'",
+    "aethyr": "DES",
+    "element": "Earth",
+    "essence": "As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.",
+    "angelic_role": "Dominion of Triune Harmony; guides oak-crowned guardians.",
+    "form_description": "A crystalline oak tree structure with three-branched symmetry, representing divine triplicity and earthen wisdom. The form shifts between solid geometry and organic flow, symbolizing the liminal space between structured knowledge and organic intuition.",
+    "color_reasoning": "Green represents Earth element and growth; gold symbolizes divine wisdom and the Daath sephirot's hidden knowledge. The shifting pattern reflects Gemini's mutable nature and constant transformation.",
+    "geometry_reasoning": "Sacred geometries representing interconnectedness, divine transportation, and natural organic growth patterns"
+  }
+}

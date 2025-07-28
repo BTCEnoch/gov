@@ -1,0 +1,50 @@
+{
+  "governor_name": "OSIDAIA",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered pouring pose with hands managing flow between vessels, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating octahedron, merkaba, flower of life patterns from sacred geometry symbolism. Outfit is unique: neutral grey and dark grey with high contrast ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and Vesica Piscis emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like orb of mercy with hexagonal geometric surface with celestial spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor OSIDAIA's profile: 'He who is the god of truth', Aethyr LIN, Air element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius, embodying the essence: 'When OSIDAIA is invoked, a clarifying radiance floods the scene nothing corrupt can hide from this i...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "visual_elements": {
+    "pose": "front-facing centered pouring pose with hands managing flow between vessels",
+    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
+    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
+    "hair_style": "geometric crystalline appendages",
+    "outfit": {
+      "base": "ethereal flowing robes with geometric wind patterns",
+      "texture": "flat with sharpie-style lines for depth and movement",
+      "details": "Air element glyphs and spiral motifs",
+      "magical_essence": "faint wind wisps and floating geometric particles"
+    },
+    "accessory": "orb of mercy with hexagonal geometric surface",
+    "primary_color": "neutral grey",
+    "secondary_color": "dark grey with high contrast",
+    "color_pattern": "shifting",
+    "geometry_patterns": [
+      "octahedron",
+      "merkaba",
+      "flower of life"
+    ],
+    "sacred_geometry": "Vesica Piscis",
+    "secondary_symbols": [
+      "Sagittarius_glyph",
+      "Air_symbol"
+    ],
+    "energy_signature": {
+      "type": "celestial",
+      "flow": "spiraling with magical essence wisps"
+    },
+    "environment_effect": "sacred geometric field with faint aura lines",
+    "element": "Air",
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac": "Sagittarius"
+  },
+  "profile_data": {
+    "title": "'He who is the god of truth'",
+    "aethyr": "LIN",
+    "element": "Air",
+    "essence": "When OSIDAIA is invoked, a clarifying radiance floods the scene nothing corrupt can hide from this illuminating truth that shines in every nook.",
+    "angelic_role": "Seraph of Light of Truth; commands stoneclad hosts.",
+    "form_description": "A prismatic, multi-faceted crystalline form representing the pure structure of truth, with fractal edges that constantly refract and reveal hidden dimensions of perception. The crystal embodies Air's intellectual clarity and LIN Aethyr's transformative wisdom.",
+    "color_reasoning": "Silver-white represents divine truth and purity, while electric blue symbolizes Air's mental clarity and the Sagittarian quest for higher understanding. The shifting pattern reflects the dynamic nature of truth and perception.",
+    "geometry_reasoning": "Octahedron represents perfect balance, Merkaba signifies spiritual transportation, Flower of Life embodies universal connection - all reflecting the Judge archetype's ability to see multiple perspectives simultaneously."
+  }
+}

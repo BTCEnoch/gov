@@ -1,0 +1,50 @@
+{
+  "governor_name": "TOANTOM",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered dynamic pose with one arm raised toward heaven, one pointing to earth, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or fractal-spiraling appendages with infinite recursive patterns incorporating fractal, sacred geometry, platonic solids patterns from sacred geometry symbolism. Outfit is unique: neutral grey and dark grey with high contrast ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and Flower of Life emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like caduceus of communication with intertwined geometric serpents with ethereal spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor TOANTOM's profile: 'He who loves knowledge', Aethyr ASP, Air element, Tarot The Magician, Sephirot Hod, Zodiac Gemini, embodying the essence: 'In TOANTOM's presence, even stones seem to whisper knowledge an inquisitive hush invites discovery a...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "visual_elements": {
+    "pose": "front-facing centered dynamic pose with one arm raised toward heaven, one pointing to earth",
+    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
+    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
+    "hair_style": "fractal-spiraling appendages with infinite recursive patterns",
+    "outfit": {
+      "base": "ethereal flowing robes with geometric wind patterns",
+      "texture": "flat with sharpie-style lines for depth and movement",
+      "details": "Air element glyphs and spiral motifs",
+      "magical_essence": "faint wind wisps and floating geometric particles"
+    },
+    "accessory": "caduceus of communication with intertwined geometric serpents",
+    "primary_color": "neutral grey",
+    "secondary_color": "dark grey with high contrast",
+    "color_pattern": "shifting",
+    "geometry_patterns": [
+      "fractal",
+      "sacred geometry",
+      "platonic solids"
+    ],
+    "sacred_geometry": "Flower of Life",
+    "secondary_symbols": [
+      "Gemini_glyph",
+      "Air_symbol"
+    ],
+    "energy_signature": {
+      "type": "ethereal",
+      "flow": "spiraling with magical essence wisps"
+    },
+    "environment_effect": "sacred geometric field with faint aura lines",
+    "element": "Air",
+    "tarot": "The Magician",
+    "sephirot": "Hod",
+    "zodiac": "Gemini"
+  },
+  "profile_data": {
+    "title": "'He who loves knowledge'",
+    "aethyr": "ASP",
+    "element": "Air",
+    "essence": "In TOANTOM's presence, even stones seem to whisper knowledge an inquisitive hush invites discovery as the scholar in you awakens with curiosity.",
+    "angelic_role": "Archangel of Vault of Knowledge; marshals stoneclad soldiers.",
+    "form_description": "A translucent geometric form combining octahedral and dodecahedral structures, representing Air's intellectual clarity and the multidimensional nature of knowledge in the ASP Aethyr",
+    "color_reasoning": "Silver represents Hod's intellectual realm, blue symbolizes Air's communicative nature, with shifting patterns reflecting Gemini's mercurial intelligence",
+    "geometry_reasoning": "Reflects the complex knowledge systems of Enochian magic and sacred geometric principles"
+  }
+}

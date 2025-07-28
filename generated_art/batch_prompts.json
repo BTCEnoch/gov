@@ -1,0 +1,1193 @@
+{
+  "metadata": {
+    "total_prompts": 91,
+    "style": "chibi greyscale construction paper cut-out",
+    "resolution": "512x512",
+    "background": "transparent"
+  },
+  "prompts": [
+    {
+      "id": "ABRIOND",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Air element symbolism. Outfit is unique: silvery-white and pale azure ethereal flowing robes with geometric patterns with hexagonal, octahedral, fractal patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor ABRIOND's profile: 'He who prepares his kingdom', Aethyr POP, Air element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ABRIOND_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Hermit",
+        "colors": [
+          "silvery-white",
+          "pale azure"
+        ]
+      }
+    },
+    {
+      "id": "ADVORPT",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric structure head shape. Hair or precise geometric hair ornaments incorporating Water element symbolism. Outfit is unique: silvery_blue and pearl_white fluid draped garments with wave patterns with hexagonal_matrix, fractal_water_crystal patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor ADVORPT's profile: 'She who silently watches', Aethyr TEX, Water element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ADVORPT_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Hermit",
+        "colors": [
+          "silvery_blue",
+          "pearl_white"
+        ]
+      }
+    },
+    {
+      "id": "AMBRIOL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a howling at the moon pose. Chibi proportions with flowing water-like form head shape. Hair or fish-like scaled patterns incorporating Fire element symbolism. Outfit is unique: luminous indigo and silver-blue angular armor with flame motifs with Vesica Piscis, Wave Spiral, Merkaba lattice patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor AMBRIOL's profile: 'He who continuously comforts', Aethyr LOE, Fire element, Tarot The Moon, Sephirot Yesod, Zodiac Pisces. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "AMBRIOL_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Moon",
+        "colors": [
+          "luminous indigo",
+          "silver-blue"
+        ]
+      }
+    },
+    {
+      "id": "ANDISPI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric structure head shape. Hair or sharp angular features incorporating Water element symbolism. Outfit is unique: deep indigo and silver-blue fluid draped garments with wave patterns with fractal wave forms, hexagonal water crystals patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor ANDISPI's profile: 'He who binds into obedience', Aethyr ZOM, Water element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ANDISPI_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Death",
+        "colors": [
+          "deep indigo",
+          "silver-blue"
+        ]
+      }
+    },
+    {
+      "id": "ASPIAON",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Fire element symbolism. Outfit is unique: scorching crimson and deep obsidian black angular armor with flame motifs with hexagonal, merkaba, flower_of_life patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor ASPIAON's profile: 'She who precedes inner truth', Aethyr DEO, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ASPIAON_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Death",
+        "colors": [
+          "scorching crimson",
+          "deep obsidian black"
+        ]
+      }
+    },
+    {
+      "id": "AXXIARG",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric structure head shape. Hair or mane-like flowing hair incorporating Water element symbolism. Outfit is unique: sapphire_blue and silver_mercury fluid draped garments with wave patterns with vesica_piscis, merkaba_star patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor AXXIARG's profile: 'He whose name is Flame', Aethyr PAZ, Water element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "AXXIARG_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Strength",
+        "colors": [
+          "sapphire_blue",
+          "silver_mercury"
+        ]
+      }
+    },
+    {
+      "id": "AYDROPT",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Air element symbolism. Outfit is unique: pale silver-azure and luminous white ethereal flowing robes with geometric patterns with Merkaba, Flower of Life, Vesica Piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor AYDROPT's profile: 'She who sees us with equality', Aethyr TAN, Air element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "AYDROPT_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Justice",
+        "colors": [
+          "pale silver-azure",
+          "luminous white"
+        ]
+      }
+    },
+    {
+      "id": "CALZIRG",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a kneeling by water pouring pose. Chibi proportions with geometric crystal-like structure head shape. Hair or wave-like flowing elements incorporating Earth element symbolism. Outfit is unique: deep azure and silver-gray solid structured clothing with crystalline details with hexagonal, fractal, geodesic patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor CALZIRG's profile: 'She who is in the firmament', Aethyr LIN, Earth element, Tarot The Star, Sephirot Binah, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "CALZIRG_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Star",
+        "colors": [
+          "deep azure",
+          "silver-gray"
+        ]
+      }
+    },
+    {
+      "id": "CHASLPO",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric crystal-like structure head shape. Hair or mane-like flowing hair incorporating Earth element symbolism. Outfit is unique: golden amber and deep forest green solid structured clothing with crystalline details with dodecahedron, fractal spiral, merkaba patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor CHASLPO's profile: 'He of wonderous joy', Aethyr NIA, Earth element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "CHASLPO_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Strength",
+        "colors": [
+          "golden amber",
+          "deep forest green"
+        ]
+      }
+    },
+    {
+      "id": "CHIRZPA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with tetrahedron, octahedron, stellated polyhedron patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor CHIRZPA's profile: 'He who enjoys loud sounds', Aethyr ASP, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "CHIRZPA_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Emperor",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "COMANAN",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Spirit element symbolism. Outfit is unique: deep indigo and silver-white mystical robes with merkaba, flower_of_life, vesica_piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor COMANAN's profile: 'He who knows how to manifest', Aethyr ZAX, Spirit element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "COMANAN_art.png",
+      "metadata": {
+        "element": "Spirit",
+        "tarot": "Justice",
+        "colors": [
+          "deep indigo",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "CRALPIR",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric structure head shape. Hair or sharp angular features incorporating Fire element symbolism. Outfit is unique: crimson and golden amber angular armor with flame motifs with tetrahedron, merkaba patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor CRALPIR's profile: 'He of bright joy', Aethyr ZIP, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "CRALPIR_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Death",
+        "colors": [
+          "crimson",
+          "golden amber"
+        ]
+      }
+    },
+    {
+      "id": "CRPANIB",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a seated with hands on knees pose. Chibi proportions with geometric crystal-like structure head shape. Hair or shell-like protective elements incorporating Earth element symbolism. Outfit is unique: deep charcoal gray and silver-moon white solid structured clothing with crystalline details with octahedron, merkaba, flower of life patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor CRPANIB's profile: 'He who destroys speech', Aethyr ZAA, Earth element, Tarot The High Priestess, Sephirot Yesod, Zodiac Cancer. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "CRPANIB_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The High Priestess",
+        "colors": [
+          "deep charcoal gray",
+          "silver-moon white"
+        ]
+      }
+    },
+    {
+      "id": "CUCARPT",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Air element symbolism. Outfit is unique: silver-white and electric blue ethereal flowing robes with geometric patterns with octahedral, fractal, merkaba patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor CUCARPT's profile: 'She who replaces what was with something similar', Aethyr LEA, Air element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "CUCARPT_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Death",
+        "colors": [
+          "silver-white",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "DIALOIA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Water element symbolism. Outfit is unique: silver-blue and pearl-white fluid draped garments with wave patterns with hexagonal, fractal, vesica_piscis patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor DIALOIA's profile: 'The god where truth is', Aethyr ARN, Water element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "DIALOIA_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Hermit",
+        "colors": [
+          "silver-blue",
+          "pearl-white"
+        ]
+      }
+    },
+    {
+      "id": "DOAGNIS",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a howling at the moon pose. Chibi proportions with flowing water-like form head shape. Hair or fish-like scaled patterns incorporating Water element symbolism. Outfit is unique: silver-blue and pearl-white fluid draped garments with wave patterns with Vesica Piscis, Wave interference patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor DOAGNIS's profile: 'She who comes without a name', Aethyr ARN, Water element, Tarot The Moon, Sephirot Yesod, Zodiac Pisces. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "DOAGNIS_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Moon",
+        "colors": [
+          "silver-blue",
+          "pearl-white"
+        ]
+      }
+    },
+    {
+      "id": "DOANZIN",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Fire element symbolism. Outfit is unique: sapphire blue and flame orange angular armor with flame motifs with fractal, merkaba, flower_of_life patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor DOANZIN's profile: 'He who names the waters', Aethyr ZIP, Fire element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "DOANZIN_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Temperance",
+        "colors": [
+          "sapphire blue",
+          "flame orange"
+        ]
+      }
+    },
+    {
+      "id": "DOCEPAX",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Fire element symbolism. Outfit is unique: deep crimson and electric gold angular armor with flame motifs with octahedron, flame-spiral, justice-scale patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor DOCEPAX's profile: 'He who names only great names', Aethyr ZIM, Fire element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "DOCEPAX_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Justice",
+        "colors": [
+          "deep crimson",
+          "electric gold"
+        ]
+      }
+    },
+    {
+      "id": "DOXMAEL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a reclining with one hand extended pose. Chibi proportions with geometric structure head shape. Hair or bull-like sturdy build incorporating Water element symbolism. Outfit is unique: pearl_luminescence and deep_indigo fluid draped garments with wave patterns with vesica_piscis, fibonacci_spiral, wave_interference patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor DOXMAEL's profile: 'He who establishes the night', Aethyr TEX, Water element, Tarot The Empress, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "DOXMAEL_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Empress",
+        "colors": [
+          "pearl_luminescence",
+          "deep_indigo"
+        ]
+      }
+    },
+    {
+      "id": "GECAOND",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Fire element symbolism. Outfit is unique: amber-gold and crimson angular armor with flame motifs with Merkaba, Flower of Life, Hexagonal fractal patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor GECAOND's profile: 'She who only obeys', Aethyr ZIM, Fire element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "GECAOND_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Justice",
+        "colors": [
+          "amber-gold",
+          "crimson"
+        ]
+      }
+    },
+    {
+      "id": "GEDOONS",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a arms open in welcoming gesture pose. Chibi proportions with geometric crystal-like structure head shape. Hair or twin-like symmetrical features incorporating Fire element symbolism. Outfit is unique: electric blue and obsidian black angular armor with flame motifs with hexagonal prism, merkaba star, vesica piscis patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor GEDOONS's profile: 'He who eliminates your name', Aethyr LOE, Fire element, Tarot The Lovers, Sephirot Hod, Zodiac Gemini. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "GEDOONS_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Lovers",
+        "colors": [
+          "electric blue",
+          "obsidian black"
+        ]
+      }
+    },
+    {
+      "id": "GEMNIMB",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric structure head shape. Hair or precise geometric hair ornaments incorporating Water element symbolism. Outfit is unique: aquamarine and silvery-pearl fluid draped garments with wave patterns with hexagonal_water_crystal, spiral_wave, vesica_piscis patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor GEMNIMB's profile: 'He who is only for a season', Aethyr TEX, Water element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "GEMNIMB_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Hermit",
+        "colors": [
+          "aquamarine",
+          "silvery-pearl"
+        ]
+      }
+    },
+    {
+      "id": "GENADOL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric crystal-like structure head shape. Hair or mane-like flowing hair incorporating Fire element symbolism. Outfit is unique: amber-gold and crimson angular armor with flame motifs with octahedron, flame-vortex, star-tetrahedron patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor GENADOL's profile: 'He who only attracts', Aethyr DEO, Fire element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "GENADOL_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Strength",
+        "colors": [
+          "amber-gold",
+          "crimson"
+        ]
+      }
+    },
+    {
+      "id": "GMTZIAM",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Earth element symbolism. Outfit is unique: deep earth-slate and mercury-silver solid structured clothing with crystalline details with hexagonal, fibonacci spiral, merkaba patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor GMTZIAM's profile: 'She who knows only herself', Aethyr RII, Earth element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "GMTZIAM_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Hermit",
+        "colors": [
+          "deep earth-slate",
+          "mercury-silver"
+        ]
+      }
+    },
+    {
+      "id": "LAPARIN",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a dancing with arms raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or mane-like flowing hair incorporating Fire element symbolism. Outfit is unique: golden-amber and luminous crimson angular armor with flame motifs with merkaba, flower_of_life, solar_mandala patterns. Include subtle accessory like geometric emblem. Emulate construction paper layering style exactly, but make this visually unique based on Governor LAPARIN's profile: 'He who is the protector of man', Aethyr ZIM, Fire element, Tarot The Sun, Sephirot Tiphereth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "LAPARIN_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Sun",
+        "colors": [
+          "golden-amber",
+          "luminous crimson"
+        ]
+      }
+    },
+    {
+      "id": "LAVACON",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Air element symbolism. Outfit is unique: luminous sapphire blue and platinum white ethereal flowing robes with geometric patterns with tetrahedron, merkaba, flower of life patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor LAVACON's profile: 'The happy one', Aethyr LEA, Air element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "LAVACON_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Temperance",
+        "colors": [
+          "luminous sapphire blue",
+          "platinum white"
+        ]
+      }
+    },
+    {
+      "id": "LAZDIXI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with both hands raised in blessing pose. Chibi proportions with geometric structure head shape. Hair or bull-like sturdy build incorporating Water element symbolism. Outfit is unique: oceanic teal and silver-white fluid draped garments with wave patterns with hexagonal water crystal, merkaba, vesica piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor LAZDIXI's profile: 'He who has no supreme name', Aethyr LIT, Water element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "LAZDIXI_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Hierophant",
+        "colors": [
+          "oceanic teal",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "LAZHIIM",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with both hands raised in blessing pose. Chibi proportions with geometric crystal-like structure head shape. Hair or bull-like sturdy build incorporating Earth element symbolism. Outfit is unique: deep olive green and bronze solid structured clothing with crystalline details with hexagonal, fractal, nested patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor LAZHIIM's profile: 'He who makes use of the day', Aethyr DES, Earth element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "LAZHIIM_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Hierophant",
+        "colors": [
+          "deep olive green",
+          "bronze"
+        ]
+      }
+    },
+    {
+      "id": "LEXARPH",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with both hands raised in blessing pose. Chibi proportions with geometric crystal-like structure head shape. Hair or bull-like sturdy build incorporating Spirit element symbolism. Outfit is unique: silver-white and pale turquoise mystical robes with Merkaba, Flower of Life, Vesica Piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor LEXARPH's profile: 'He who is first of the air', Aethyr ZAX, Spirit element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "LEXARPH_art.png",
+      "metadata": {
+        "element": "Spirit",
+        "tarot": "The Hierophant",
+        "colors": [
+          "silver-white",
+          "pale turquoise"
+        ]
+      }
+    },
+    {
+      "id": "MATHVLA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a rising with arms spread pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Earth element symbolism. Outfit is unique: deep charcoal and burnished bronze solid structured clothing with crystalline details with octahedron, fractal earth matrix, merkaba patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor MATHVLA's profile: 'He who ends actions', Aethyr ZAA, Earth element, Tarot Judgement, Sephirot Hod, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "MATHVLA_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Judgement",
+        "colors": [
+          "deep charcoal",
+          "burnished bronze"
+        ]
+      }
+    },
+    {
+      "id": "MIRZIND",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Earth element symbolism. Outfit is unique: deep charcoal black and electric silver-blue solid structured clothing with crystalline details with fractal mountain, hexagonal lattice, spiral vortex patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor MIRZIND's profile: 'He who is from the Waters of Torment', Aethyr VTI, Earth element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "MIRZIND_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Death",
+        "colors": [
+          "deep charcoal black",
+          "electric silver-blue"
+        ]
+      }
+    },
+    {
+      "id": "MOLPAND",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a dancing in cosmic circle pose. Chibi proportions with geometric structure head shape. Hair or wave-like flowing elements incorporating Water element symbolism. Outfit is unique: aquamarine and pearl_white fluid draped garments with wave patterns with vesica_piscis, merkaba_spiral patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor MOLPAND's profile: 'He who recieves men', Aethyr ICH, Water element, Tarot The World, Sephirot Yesod, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "MOLPAND_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The World",
+        "colors": [
+          "aquamarine",
+          "pearl_white"
+        ]
+      }
+    },
+    {
+      "id": "NABAOMI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with reins in hands pose. Chibi proportions with flowing water-like form head shape. Hair or shell-like protective elements incorporating Air element symbolism. Outfit is unique: silver-blue and pearl-white ethereal flowing robes with geometric patterns with hexagonal wind spiral, fractal wave matrices patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor NABAOMI's profile: 'He who knows pain', Aethyr ZEN, Air element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "NABAOMI_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Chariot",
+        "colors": [
+          "silver-blue",
+          "pearl-white"
+        ]
+      }
+    },
+    {
+      "id": "NIGRANA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a howling at the moon pose. Chibi proportions with geometric crystal-like structure head shape. Hair or fish-like scaled patterns incorporating Earth element symbolism. Outfit is unique: silvery-blue and deep indigo solid structured clothing with crystalline details with octahedron, crescent, wave spiral patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor NIGRANA's profile: 'He who governs the 28 days of the moon', Aethyr DES, Earth element, Tarot The Moon, Sephirot Yesod, Zodiac Pisces. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "NIGRANA_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Moon",
+        "colors": [
+          "silvery-blue",
+          "deep indigo"
+        ]
+      }
+    },
+    {
+      "id": "NOCAMAL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with reins in hands pose. Chibi proportions with geometric structure head shape. Hair or shell-like protective elements incorporating Water element symbolism. Outfit is unique: deep_aquamarine and silver_moonlight fluid draped garments with wave patterns with spiral, hexagonal_lattice, mobius_strip patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor NOCAMAL's profile: 'He who is servant of the arrow', Aethyr LIT, Water element, Tarot The Chariot, Sephirot Hod, Zodiac Cancer. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "NOCAMAL_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Chariot",
+        "colors": [
+          "deep_aquamarine",
+          "silver_moonlight"
+        ]
+      }
+    },
+    {
+      "id": "NOTIABI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with tetrahedral, fractal, merkaba patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor NOTIABI's profile: 'Servant who speaks the truth', Aethyr OXO, Air element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "NOTIABI_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Justice",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "OBUAORS",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Earth element symbolism. Outfit is unique: deep charcoal and midnight blue solid structured clothing with crystalline details with hexagonal, fractal patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor OBUAORS's profile: 'She who is half darkness', Aethyr VTI, Earth element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "OBUAORS_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Death",
+        "colors": [
+          "deep charcoal",
+          "midnight blue"
+        ]
+      }
+    },
+    {
+      "id": "OCCODON",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with both hands raised in blessing pose. Chibi proportions with geometric structure head shape. Hair or bull-like sturdy build incorporating Water element symbolism. Outfit is unique: aquamarine and silver-white fluid draped garments with wave patterns with Vesica Piscis, Merkaba, Flower of Life patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor OCCODON's profile: 'He whose name is Renewal', Aethyr LIL, Water element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "OCCODON_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Hierophant",
+        "colors": [
+          "aquamarine",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "ODDIORG",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Fire element symbolism. Outfit is unique: saffron-gold and deep crimson angular armor with flame motifs with tetrahedron, merkaba, fractal triangulation patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor ODDIORG's profile: 'He of fire and justice', Aethyr ZIP, Fire element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ODDIORG_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Temperance",
+        "colors": [
+          "saffron-gold",
+          "deep crimson"
+        ]
+      }
+    },
+    {
+      "id": "ODRAXTI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Earth element symbolism. Outfit is unique: deep sage green and bronze solid structured clothing with crystalline details with dodecahedron, merkaba, flower of life patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor ODRAXTI's profile: 'He who opens up the east', Aethyr RII, Earth element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ODRAXTI_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Temperance",
+        "colors": [
+          "deep sage green",
+          "bronze"
+        ]
+      }
+    },
+    {
+      "id": "OMAGRAP",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a howling at the moon pose. Chibi proportions with flowing water-like form head shape. Hair or fish-like scaled patterns incorporating Air element symbolism. Outfit is unique: silvery-blue and deep indigo ethereal flowing robes with geometric patterns with crescent, wave, fractal spiral patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor OMAGRAP's profile: 'He of lunar knowledge', Aethyr POP, Air element, Tarot The Moon, Sephirot Chesed, Zodiac Pisces. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "OMAGRAP_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Moon",
+        "colors": [
+          "silvery-blue",
+          "deep indigo"
+        ]
+      }
+    },
+    {
+      "id": "ONIZIMP",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a reclining with one hand extended pose. Chibi proportions with geometric crystal-like structure head shape. Hair or bull-like sturdy build incorporating Earth element symbolism. Outfit is unique: bronze and deep earth-brown solid structured clothing with crystalline details with hexagonal lattice, dodecahedron patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor ONIZIMP's profile: 'He who brings labor', Aethyr TOR, Earth element, Tarot The Empress, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ONIZIMP_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Empress",
+        "colors": [
+          "bronze",
+          "deep earth-brown"
+        ]
+      }
+    },
+    {
+      "id": "OPMACAS",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Fire element symbolism. Outfit is unique: obsidian-crimson and molten gold angular armor with flame motifs with Merkaba, Flower of Life, Tetractys patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor OPMACAS's profile: 'He who is from the beginning', Aethyr DEO, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "OPMACAS_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Death",
+        "colors": [
+          "obsidian-crimson",
+          "molten gold"
+        ]
+      }
+    },
+    {
+      "id": "ORANCIR",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric structure head shape. Hair or archer-like pointed ears incorporating Earth element symbolism. Outfit is unique: deep forest green and amber gold solid structured clothing with crystalline details with merkaba, flower_of_life, dodecahedron patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor ORANCIR's profile: 'He who is above and below', Aethyr NIA, Earth element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ORANCIR_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Temperance",
+        "colors": [
+          "deep forest green",
+          "amber gold"
+        ]
+      }
+    },
+    {
+      "id": "OSIDAIA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Air element symbolism. Outfit is unique: luminous silver-white and electric blue ethereal flowing robes with geometric patterns with octahedron, merkaba, flower of life patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor OSIDAIA's profile: 'He who is the god of truth', Aethyr LIN, Air element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "OSIDAIA_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Temperance",
+        "colors": [
+          "luminous silver-white",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "OXLOPAR",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Earth element symbolism. Outfit is unique: deep obsidian black and slate gray with emerald green veining solid structured clothing with crystalline details with hexagonal, fractal, sacred mountain patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor OXLOPAR's profile: 'He who has them in his hands', Aethyr BAG, Earth element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "OXLOPAR_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Death",
+        "colors": [
+          "deep obsidian black",
+          "slate gray with emerald green veining"
+        ]
+      }
+    },
+    {
+      "id": "PABNIXP",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Earth element symbolism. Outfit is unique: deep forest green and bronze solid structured clothing with crystalline details with merkaba, flower_of_life, hexagonal_lattice patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor PABNIXP's profile: 'He who governs', Aethyr BAG, Earth element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PABNIXP_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Emperor",
+        "colors": [
+          "deep forest green",
+          "bronze"
+        ]
+      }
+    },
+    {
+      "id": "PACASNA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a crouched with chains pose. Chibi proportions with geometric crystal-like structure head shape. Hair or goat-like horns and beard incorporating Water element symbolism. Outfit is unique: deep obsidian blue and silver-white fluid draped garments with wave patterns with hexagonal, fractal, mobius patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor PACASNA's profile: 'She who is unchanged by time', Aethyr ARN, Water element, Tarot The Devil, Sephirot Binah, Zodiac Capricorn. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PACASNA_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Devil",
+        "colors": [
+          "deep obsidian blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "PARAOAN",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a dancing in cosmic circle pose. Chibi proportions with geometric crystal-like structure head shape. Hair or wave-like flowing elements incorporating Spirit (All Elements) element symbolism. Outfit is unique: electric blue and silver-white mystical robes with Flower of Life, Merkaba, Vesica Piscis patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor PARAOAN's profile: 'He who has eyes', Aethyr LIN, Spirit (All Elements) element, Tarot The World, Sephirot Yesod, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PARAOAN_art.png",
+      "metadata": {
+        "element": "Spirit (All Elements)",
+        "tarot": "The World",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "PARZIBA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a kneeling by water pouring pose. Chibi proportions with geometric crystal-like structure head shape. Hair or wave-like flowing elements incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with stellate, fractal, merkaba patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor PARZIBA's profile: 'He who promises', Aethyr CHR, Air element, Tarot The Star, Sephirot Binah, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PARZIBA_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Star",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "PASCOMB",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric structure head shape. Hair or archer-like pointed ears incorporating Water element symbolism. Outfit is unique: azure_sapphire and pearl_white fluid draped garments with wave patterns with fractal_wave, merkaba_intersection patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor PASCOMB's profile: 'He who precedes understanding', Aethyr LIL, Water element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PASCOMB_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Temperance",
+        "colors": [
+          "azure_sapphire",
+          "pearl_white"
+        ]
+      }
+    },
+    {
+      "id": "POCISNI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric structure head shape. Hair or archer-like pointed ears incorporating Earth element symbolism. Outfit is unique: deep forest green and bronze-gold solid structured clothing with crystalline details with hexagonal, merkaba, flower_of_life patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor POCISNI's profile: 'He who visits those in Heaven', Aethyr BAG, Earth element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "POCISNI_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Temperance",
+        "colors": [
+          "deep forest green",
+          "bronze-gold"
+        ]
+      }
+    },
+    {
+      "id": "PONODOL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a kneeling by water pouring pose. Chibi proportions with geometric crystal-like structure head shape. Hair or wave-like flowing elements incorporating Fire element symbolism. Outfit is unique: electric blue and plasma white angular armor with flame motifs with Merkaba, Flower of Life, Fractal hexagonal patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor PONODOL's profile: 'He who destroys and creates', Aethyr ICH, Fire element, Tarot The Star, Sephirot Binah, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PONODOL_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Star",
+        "colors": [
+          "electric blue",
+          "plasma white"
+        ]
+      }
+    },
+    {
+      "id": "POPHAND",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a arms open in welcoming gesture pose. Chibi proportions with geometric structure head shape. Hair or twin-like symmetrical features incorporating Earth element symbolism. Outfit is unique: deep forest green and burnished gold solid structured clothing with crystalline details with Flower of Life, Merkaba, Oak leaf fractal patterns. Include subtle accessory like geometric emblem. Emulate construction paper layering style exactly, but make this visually unique based on Governor POPHAND's profile: 'He who is divided into three parts', Aethyr DES, Earth element, Tarot The Lovers, Sephirot Daath, Zodiac Gemini. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "POPHAND_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Lovers",
+        "colors": [
+          "deep forest green",
+          "burnished gold"
+        ]
+      }
+    },
+    {
+      "id": "POTHNIR",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric structure head shape. Hair or balanced symmetrical design incorporating Water element symbolism. Outfit is unique: deep_aquamarine and silver_moonlight fluid draped garments with wave patterns with vesica_piscis, merkaba_star, flower_of_life patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor POTHNIR's profile: 'Son of the three fold throne', Aethyr PAZ, Water element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "POTHNIR_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Justice",
+        "colors": [
+          "deep_aquamarine",
+          "silver_moonlight"
+        ]
+      }
+    },
+    {
+      "id": "PRISTAC",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Fire element symbolism. Outfit is unique: amber-gold and deep crimson angular armor with flame motifs with tetrahedron, stellated octahedron patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor PRISTAC's profile: 'He who has the likeness of a Holy One', Aethyr ZID, Fire element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "PRISTAC_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Temperance",
+        "colors": [
+          "amber-gold",
+          "deep crimson"
+        ]
+      }
+    },
+    {
+      "id": "RANGLAM",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Earth element symbolism. Outfit is unique: slate gray and deep moss green solid structured clothing with crystalline details with hexagonal, fractal, merkaba patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor RANGLAM's profile: 'He who governs his thoughts', Aethyr VTI, Earth element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "RANGLAM_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Hermit",
+        "colors": [
+          "slate gray",
+          "deep moss green"
+        ]
+      }
+    },
+    {
+      "id": "RONOOMB",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a reclining with one hand extended pose. Chibi proportions with geometric crystal-like structure head shape. Hair or bull-like sturdy build incorporating Earth element symbolism. Outfit is unique: deep emerald green and bronze solid structured clothing with crystalline details with dodecahedron, fractal matrix, spiral patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor RONOOMB's profile: 'He who protects the process of becoming', Aethyr TOR, Earth element, Tarot The Empress, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "RONOOMB_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Empress",
+        "colors": [
+          "deep emerald green",
+          "bronze"
+        ]
+      }
+    },
+    {
+      "id": "SAMAPHA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric structure head shape. Hair or mane-like flowing hair incorporating Water element symbolism. Outfit is unique: golden_amber and deep_oceanic_blue fluid draped garments with wave patterns with Vesica_Piscis, Fibonacci_spiral patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAMAPHA's profile: 'He who is with continuity', Aethyr ZOM, Water element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "SAMAPHA_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Strength",
+        "colors": [
+          "golden_amber",
+          "deep_oceanic_blue"
+        ]
+      }
+    },
+    {
+      "id": "SAXTOMP",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Fire element symbolism. Outfit is unique: amber-gold and deep indigo angular armor with flame motifs with hexagonal, merkaba, flower of life patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAXTOMP's profile: 'She whose name means understanding', Aethyr MAZ, Fire element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "SAXTOMP_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Hermit",
+        "colors": [
+          "amber-gold",
+          "deep indigo"
+        ]
+      }
+    },
+    {
+      "id": "SAZIAMI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Earth element symbolism. Outfit is unique: deep iron-red and obsidian black solid structured clothing with crystalline details with octahedron, hexagram, tetrahedron patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAZIAMI's profile: 'He who has true power', Aethyr ZAA, Earth element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "SAZIAMI_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Emperor",
+        "colors": [
+          "deep iron-red",
+          "obsidian black"
+        ]
+      }
+    },
+    {
+      "id": "SIGMORF",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with tetrahedron, octahedron, stellated polyhedron patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor SIGMORF's profile: 'He who visits the darkness', Aethyr TAN, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "SIGMORF_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Emperor",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "SOAGEEL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a reclining with one hand extended pose. Chibi proportions with geometric crystal-like structure head shape. Hair or bull-like sturdy build incorporating Earth element symbolism. Outfit is unique: deep emerald green and bronze solid structured clothing with crystalline details with Flower of Life, Platonic solids, Merkaba patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor SOAGEEL's profile: 'He who helps the most', Aethyr NIA, Earth element, Tarot The Empress, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "SOAGEEL_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Empress",
+        "colors": [
+          "deep emerald green",
+          "bronze"
+        ]
+      }
+    },
+    {
+      "id": "SOCHIAL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a kneeling by water pouring pose. Chibi proportions with geometric crystal-like structure head shape. Hair or wave-like flowing elements incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with fractal tetrahedron, merkaba star, flower of life patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor SOCHIAL's profile: 'He who burns up the past', Aethyr LEA, Air element, Tarot The Star, Sephirot Binah, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "SOCHIAL_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Star",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "TABITOM",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a pouring between two vessels pose. Chibi proportions with geometric crystal-like structure head shape. Hair or archer-like pointed ears incorporating Spirit element symbolism. Outfit is unique: saffron-gold and deep indigo mystical robes with hexagonal, merkaba, flower of life patterns. Include subtle accessory like orb of mercy. Emulate construction paper layering style exactly, but make this visually unique based on Governor TABITOM's profile: 'He who is like fire', Aethyr ZAX, Spirit element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TABITOM_art.png",
+      "metadata": {
+        "element": "Spirit",
+        "tarot": "Temperance",
+        "colors": [
+          "saffron-gold",
+          "deep indigo"
+        ]
+      }
+    },
+    {
+      "id": "TAHAMDO",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with tetrahedron, merkaba, flower of life patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor TAHAMDO's profile: 'He who lives according to his name', Aethyr OXO, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TAHAMDO_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Emperor",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "TAOAGLA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric structure head shape. Hair or ram-like curved horns incorporating Water element symbolism. Outfit is unique: azure_electric_blue and phosphorescent_silver fluid draped garments with wave patterns with fractal_wave, merkaba_tetrahedron, flower_of_life patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor TAOAGLA's profile: 'He who becomes the foremost beginning', Aethyr TEX, Water element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TAOAGLA_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Emperor",
+        "colors": [
+          "azure_electric_blue",
+          "phosphorescent_silver"
+        ]
+      }
+    },
+    {
+      "id": "TAPAMAL",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Fire element symbolism. Outfit is unique: obsidian-crimson and electric azure angular armor with flame motifs with Merkaba, Flower of Life, Vesica Piscis patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor TAPAMAL's profile: 'She who is like she was at the beginning', Aethyr LOE, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TAPAMAL_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Death",
+        "colors": [
+          "obsidian-crimson",
+          "electric azure"
+        ]
+      }
+    },
+    {
+      "id": "TASTOZO",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric crystal-like structure head shape. Hair or mane-like flowing hair incorporating Air element symbolism. Outfit is unique: luminous silver and electric blue ethereal flowing robes with geometric patterns with octahedron, merkaba, flower of life patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor TASTOZO's profile: 'She who initiates dancing', Aethyr OXO, Air element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TASTOZO_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Strength",
+        "colors": [
+          "luminous silver",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "TEDOOND",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Fire element symbolism. Outfit is unique: flame-crimson and burnished gold angular armor with flame motifs with tetrahedron, merkaba, flower_of_life patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor TEDOOND's profile: 'He who demands obedience', Aethyr VTA, Fire element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TEDOOND_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Emperor",
+        "colors": [
+          "flame-crimson",
+          "burnished gold"
+        ]
+      }
+    },
+    {
+      "id": "THOTANP",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric structure head shape. Hair or mane-like flowing hair incorporating Water element symbolism. Outfit is unique: pearl_white and azure_blue fluid draped garments with wave patterns with dodecahedron, wave_spiral patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor THOTANP's profile: 'She whose visits brings victory', Aethyr PAZ, Water element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "THOTANP_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Strength",
+        "colors": [
+          "pearl_white",
+          "azure_blue"
+        ]
+      }
+    },
+    {
+      "id": "TIARPAX",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Water element symbolism. Outfit is unique: aquamarine and silver fluid draped garments with wave patterns with dodecahedron, vesica_piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor TIARPAX's profile: 'He whose name means truth', Aethyr LIT, Water element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TIARPAX_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "Justice",
+        "colors": [
+          "aquamarine",
+          "silver"
+        ]
+      }
+    },
+    {
+      "id": "TOANTOM",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a one arm raised, one pointing down pose. Chibi proportions with geometric crystal-like structure head shape. Hair or twin-like symmetrical features incorporating Air element symbolism. Outfit is unique: mercurial silver and electric blue ethereal flowing robes with geometric patterns with fractal, sacred geometry, platonic solids patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor TOANTOM's profile: 'He who loves knowledge', Aethyr ASP, Air element, Tarot The Magician, Sephirot Hod, Zodiac Gemini. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TOANTOM_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Magician",
+        "colors": [
+          "mercurial silver",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "TOCARZI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Air element symbolism. Outfit is unique: pale luminous silver and soft pearl white ethereal flowing robes with geometric patterns with hexagonal, dodecahedron, vesica_piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor TOCARZI's profile: 'He of such equality', Aethyr TAN, Air element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TOCARZI_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "Justice",
+        "colors": [
+          "pale luminous silver",
+          "soft pearl white"
+        ]
+      }
+    },
+    {
+      "id": "TODNAON",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a crouched with chains pose. Chibi proportions with geometric crystal-like structure head shape. Hair or goat-like horns and beard incorporating Fire element symbolism. Outfit is unique: obsidian-crimson and electric blue angular armor with flame motifs with fractal hexagram, merkaba, flower of life patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor TODNAON's profile: 'He who is and will be', Aethyr ZID, Fire element, Tarot The Devil, Sephirot Binah, Zodiac Capricorn. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TODNAON_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Devil",
+        "colors": [
+          "obsidian-crimson",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "TORZOXI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with both hands raised in blessing pose. Chibi proportions with geometric crystal-like structure head shape. Hair or bull-like sturdy build incorporating Air element symbolism. Outfit is unique: silver-white and electric blue ethereal flowing robes with geometric patterns with octahedron, merkaba, flower of life patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor TORZOXI's profile: 'She who rises up in strength', Aethyr POP, Air element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TORZOXI_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Hierophant",
+        "colors": [
+          "silver-white",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "TOTOCAN",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Air element symbolism. Outfit is unique: silver-mercury and pale azure ethereal flowing robes with geometric patterns with octahedron, fractal spiral, merkaba patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor TOTOCAN's profile: 'He who drives the cycles', Aethyr CHR, Air element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "TOTOCAN_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Hermit",
+        "colors": [
+          "silver-mercury",
+          "pale azure"
+        ]
+      }
+    },
+    {
+      "id": "USNARDA",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a kneeling by water pouring pose. Chibi proportions with geometric structure head shape. Hair or wave-like flowing elements incorporating Water element symbolism. Outfit is unique: deep_indigo and silver_blue fluid draped garments with wave patterns with fractal_wave, dodecahedron, merkaba patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor USNARDA's profile: 'He who casts down into the depths', Aethyr ICH, Water element, Tarot The Star, Sephirot Binah, Zodiac Aquarius. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "USNARDA_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Star",
+        "colors": [
+          "deep_indigo",
+          "silver_blue"
+        ]
+      }
+    },
+    {
+      "id": "VALGARS",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with both hands raised in blessing pose. Chibi proportions with geometric structure head shape. Hair or bull-like sturdy build incorporating Water element symbolism. Outfit is unique: pearl_iridescent and deep_azure fluid draped garments with wave patterns with vesica_piscis, merkaba_star patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor VALGARS's profile: 'He who works with that which is', Aethyr LIL, Water element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VALGARS_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Hierophant",
+        "colors": [
+          "pearl_iridescent",
+          "deep_azure"
+        ]
+      }
+    },
+    {
+      "id": "VASTRIM",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a hands gently holding pose. Chibi proportions with geometric crystal-like structure head shape. Hair or mane-like flowing hair incorporating Earth element symbolism. Outfit is unique: emerald green and golden amber solid structured clothing with crystalline details with hexagonal, merkaba, flower_of_life patterns. Include subtle accessory like solar medallion. Emulate construction paper layering style exactly, but make this visually unique based on Governor VASTRIM's profile: 'He who is merciful', Aethyr RII, Earth element, Tarot Strength, Sephirot Tiphareth, Zodiac Leo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VASTRIM_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "Strength",
+        "colors": [
+          "emerald green",
+          "golden amber"
+        ]
+      }
+    },
+    {
+      "id": "VAUAAMP",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Fire element symbolism. Outfit is unique: vermilion and electric gold angular armor with flame motifs with merkaba, flower_of_life, tetractys patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor VAUAAMP's profile: 'He who initiates action', Aethyr MAZ, Fire element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VAUAAMP_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Emperor",
+        "colors": [
+          "vermilion",
+          "electric gold"
+        ]
+      }
+    },
+    {
+      "id": "VIROOLI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with arms crossed pose. Chibi proportions with geometric structure head shape. Hair or ram-like curved horns incorporating Water element symbolism. Outfit is unique: deep azure and silvery-white fluid draped garments with wave patterns with fractal wave, nested hexagonal patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor VIROOLI's profile: 'He who made the first nest', Aethyr ZOM, Water element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VIROOLI_art.png",
+      "metadata": {
+        "element": "Water",
+        "tarot": "The Emperor",
+        "colors": [
+          "deep azure",
+          "silvery-white"
+        ]
+      }
+    },
+    {
+      "id": "VIVIPOS",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Fire element symbolism. Outfit is unique: saffron-gold and deep amber angular armor with flame motifs with hexagonal matrix, spiraling fractal patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor VIVIPOS's profile: 'She of many repetitions', Aethyr VTA, Fire element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VIVIPOS_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Hermit",
+        "colors": [
+          "saffron-gold",
+          "deep amber"
+        ]
+      }
+    },
+    {
+      "id": "VIXPALG",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a crouched with chains pose. Chibi proportions with geometric crystal-like structure head shape. Hair or goat-like horns and beard incorporating Air element symbolism. Outfit is unique: midnight black and electric silver ethereal flowing robes with geometric patterns with octahedral, fractal spirals patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor VIXPALG's profile: 'He who consumes', Aethyr ASP, Air element, Tarot The Devil, Sephirot Binah, Zodiac Capricorn. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VIXPALG_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Devil",
+        "colors": [
+          "midnight black",
+          "electric silver"
+        ]
+      }
+    },
+    {
+      "id": "VOANAMB",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a holding scales in one hand pose. Chibi proportions with geometric crystal-like structure head shape. Hair or balanced symmetrical design incorporating Fire element symbolism. Outfit is unique: amber-gold and luminous crimson angular armor with flame motifs with Merkaba, Flower of Life, Vesica Piscis patterns. Include subtle accessory like rose of victory. Emulate construction paper layering style exactly, but make this visually unique based on Governor VOANAMB's profile: 'He to whom truth is relative', Aethyr VTA, Fire element, Tarot Justice, Sephirot Netzach, Zodiac Libra. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "VOANAMB_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Justice",
+        "colors": [
+          "amber-gold",
+          "luminous crimson"
+        ]
+      }
+    },
+    {
+      "id": "YALPAMB",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a dancing in cosmic circle pose. Chibi proportions with geometric crystal-like structure head shape. Hair or goat-like horns and beard incorporating Air element symbolism. Outfit is unique: luminous silver-white and translucent azure ethereal flowing robes with geometric patterns with fractal tetrahedron, merkaba star, flower of life patterns. Include subtle accessory like cup of understanding. Emulate construction paper layering style exactly, but make this visually unique based on Governor YALPAMB's profile: 'He who is the beginning and the end', Aethyr ZEN, Air element, Tarot The World, Sephirot Binah, Zodiac Capricorn. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "YALPAMB_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The World",
+        "colors": [
+          "luminous silver-white",
+          "translucent azure"
+        ]
+      }
+    },
+    {
+      "id": "ZAFASAI",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with lantern raised pose. Chibi proportions with geometric crystal-like structure head shape. Hair or precise geometric hair ornaments incorporating Air element symbolism. Outfit is unique: silver-white and pale azure ethereal flowing robes with geometric patterns with dodecahedron, fractal lattice, merkaba patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZAFASAI's profile: 'He who is in emptiness', Aethyr ZEN, Air element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ZAFASAI_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Hermit",
+        "colors": [
+          "silver-white",
+          "pale azure"
+        ]
+      }
+    },
+    {
+      "id": "ZAMFRES",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a standing with reins in hands pose. Chibi proportions with geometric structure head shape. Hair or shell-like protective elements incorporating Fire element symbolism. Outfit is unique: luminous amber and electric blue angular armor with flame motifs with hexagonal fractal, merkaba star, flower of life patterns. Include subtle accessory like lunar crescent. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZAMFRES's profile: 'He who appears when praised', Aethyr ZID, Fire element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ZAMFRES_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "The Chariot",
+        "colors": [
+          "luminous amber",
+          "electric blue"
+        ]
+      }
+    },
+    {
+      "id": "ZAXANIN",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a one arm raised, one pointing down pose. Chibi proportions with geometric crystal-like structure head shape. Hair or twin-like symmetrical features incorporating Earth element symbolism. Outfit is unique: emerald green and silver-white solid structured clothing with crystalline details with hexagonal, fractal, metatron's cube patterns. Include subtle accessory like caduceus of communication. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZAXANIN's profile: 'He who names things', Aethyr TOR, Earth element, Tarot The Magician, Sephirot Hod, Zodiac Gemini. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ZAXANIN_art.png",
+      "metadata": {
+        "element": "Earth",
+        "tarot": "The Magician",
+        "colors": [
+          "emerald green",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "ZILDRON",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a arms raised as if struck by lightning pose. Chibi proportions with geometric crystal-like structure head shape. Hair or ram-like curved horns incorporating Air element symbolism. Outfit is unique: electric blue and silver-white ethereal flowing robes with geometric patterns with tetrahedron, fractal spirals, merkaba patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZILDRON's profile: 'He who sets in flight', Aethyr CHR, Air element, Tarot The Tower, Sephirot Geburah, Zodiac Aries. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ZILDRON_art.png",
+      "metadata": {
+        "element": "Air",
+        "tarot": "The Tower",
+        "colors": [
+          "electric blue",
+          "silver-white"
+        ]
+      }
+    },
+    {
+      "id": "ZIRZIRD",
+      "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a striding forward with scythe pose. Chibi proportions with geometric crystal-like structure head shape. Hair or sharp angular features incorporating Fire element symbolism. Outfit is unique: obsidian black and molten crimson angular armor with flame motifs with fractal, merkaba, flower_of_life patterns. Include subtle accessory like sword of severity. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZIRZIRD's profile: 'He who was and will be', Aethyr MAZ, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio. Resolution 512x512, optimized for layering in Enochian Cyphers game.",
+      "filename": "ZIRZIRD_art.png",
+      "metadata": {
+        "element": "Fire",
+        "tarot": "Death",
+        "colors": [
+          "obsidian black",
+          "molten crimson"
+        ]
+      }
+    }
+  ]
+}
