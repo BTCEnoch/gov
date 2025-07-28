@@ -1,12 +1,12 @@
 {
   "governor_name": "ZIRZIRD",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered transformative striding pose with scythe-like geometric tool, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or fractal-spiraling appendages with infinite recursive patterns incorporating fractal, merkaba, flower_of_life patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey angular armor-like robes with flame geometric patterns with flat with sharpie-style lines for heat and energy, elaborate with shifting Fire element triangular motifs and ascending patterns and merkaba emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with primordial spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZIRZIRD's profile: 'He who was and will be', Aethyr MAZ, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio, embodying the essence: 'In ZIRZIRD's presence, the cosmic ledger turns epochs are tallied on starry wheels with unwavering p...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered transformative striding pose with scythe-like geometric tool, chibi proportions with large prismatic flame cosmic head with unique fractal structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying cosmic cosmic. Hair or geometric appendages incorporating fractal, merkaba, flower_of_life patterns, styled with guides cosmic influences. Outfit is unique: neutral grey inspired by crimson and neutral grey inspired by shifting angular armor-like robes with flame geometric patterns with flat with sharpie-style lines for heat and energy, elaborate with shifting Fire element triangular motifs and ascending patterns and fractal emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with cosmic spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZIRZIRD's profile: 'He who was and will be', Aethyr MAZ, Fire element, Tarot Death, Sephirot Geburah, Zodiac Scorpio, embodying the essence: 'In ZIRZIRD's presence, the cosmic ledger turns epochs are tallied on starry wheels with unwavering precision.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered transformative striding pose with scythe-like geometric tool",
-    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
-    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
-    "hair_style": "fractal-spiraling appendages with infinite recursive patterns",
+    "head_shape": "large prismatic flame cosmic head with unique fractal structure",
+    "body_style": "angular geometric body with prismatic facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying cosmic cosmic",
+    "hair_style": "geometric appendages incorporating fractal, merkaba, flower_of_life patterns, styled with guides cosmic influences",
     "outfit": {
       "base": "angular armor-like robes with flame geometric patterns",
       "texture": "flat with sharpie-style lines for heat and energy",
@@ -14,28 +14,53 @@
       "magical_essence": "flickering flame wisps and ember particles"
     },
     "accessory": "sword of severity with angular geometric blade",
-    "primary_color": "neutral grey",
-    "secondary_color": "neutral grey",
+    "primary_color": "neutral grey inspired by crimson",
+    "secondary_color": "neutral grey inspired by shifting",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "fractal",
       "merkaba",
       "flower_of_life"
     ],
-    "sacred_geometry": "merkaba",
+    "sacred_geometry": "fractal",
     "secondary_symbols": [
       "Scorpio_glyph",
       "Fire_symbol"
     ],
     "energy_signature": {
-      "type": "primordial",
+      "type": "cosmic",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Fire",
     "tarot": "Death",
     "sephirot": "Geburah",
-    "zodiac": "Scorpio"
+    "zodiac": "Scorpio",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "prismatic",
+        "flame",
+        "cosmic",
+        "transformative"
+      ],
+      "appendage_style": [
+        "guides",
+        "cosmic"
+      ],
+      "motion_vibe": [
+        "cosmic",
+        "cosmic"
+      ],
+      "color_influences": [
+        "crimson",
+        "shifting"
+      ],
+      "primary_form_words": [
+        "prismatic",
+        "flame",
+        "crystal"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He who was and will be'",

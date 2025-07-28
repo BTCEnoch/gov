@@ -1,12 +1,12 @@
 {
   "governor_name": "ABRIOND",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered standing pose with one hand raised holding an ethereal lantern, other hand in contemplative gesture, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or hexagonal crystalline appendages like sacred geometry horns incorporating hexagonal, octahedral, fractal patterns from sacred geometry symbolism. Outfit is unique: light grey with metallic sheen and mid-grey with cool undertones ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and Flower of Life emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like caduceus of communication with intertwined geometric serpents with ethereal spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ABRIOND's profile: 'He who prepares his kingdom', Aethyr POP, Air element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo, embodying the essence: 'In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodi...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered standing pose with one hand raised holding an ethereal lantern, other hand in contemplative gesture, chibi proportions with large luminous multi-faceted geometric head with unique hexagonal structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying crystallize strategy beehive. Hair or geometric appendages incorporating hexagonal, octahedral, fractal patterns, styled with Cherub crystallize influences. Outfit is unique: light grey with metallic sheen inspired by Silver and mid-grey with cool undertones inspired by communication ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and hexagonal emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like caduceus of communication with intertwined geometric serpents with crystallize spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ABRIOND's profile: 'He who prepares his kingdom', Aethyr POP, Air element, Tarot The Hermit, Sephirot Hod, Zodiac Virgo, embodying the essence: 'In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered standing pose with one hand raised holding an ethereal lantern, other hand in contemplative gesture",
-    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
-    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
-    "hair_style": "hexagonal crystalline appendages like sacred geometry horns",
+    "head_shape": "large luminous multi-faceted geometric head with unique hexagonal structure",
+    "body_style": "angular geometric body with luminous facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying crystallize strategy beehive",
+    "hair_style": "geometric appendages incorporating hexagonal, octahedral, fractal patterns, styled with Cherub crystallize influences",
     "outfit": {
       "base": "ethereal flowing robes with geometric wind patterns",
       "texture": "flat with sharpie-style lines for depth and movement",
@@ -14,28 +14,60 @@
       "magical_essence": "faint wind wisps and floating geometric particles"
     },
     "accessory": "caduceus of communication with intertwined geometric serpents",
-    "primary_color": "light grey with metallic sheen",
-    "secondary_color": "mid-grey with cool undertones",
+    "primary_color": "light grey with metallic sheen inspired by Silver",
+    "secondary_color": "mid-grey with cool undertones inspired by communication",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "hexagonal",
       "octahedral",
       "fractal"
     ],
-    "sacred_geometry": "Flower of Life",
+    "sacred_geometry": "hexagonal",
     "secondary_symbols": [
       "Virgo_glyph",
       "Air_symbol"
     ],
     "energy_signature": {
-      "type": "ethereal",
+      "type": "crystallize",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Air",
     "tarot": "The Hermit",
     "sephirot": "Hod",
-    "zodiac": "Virgo"
+    "zodiac": "Virgo",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "luminous",
+        "multi-faceted",
+        "geometric",
+        "solid",
+        "planes",
+        "beehive",
+        "wisdom"
+      ],
+      "appendage_style": [
+        "Cherub",
+        "crystallize",
+        "strategy",
+        "provident"
+      ],
+      "motion_vibe": [
+        "crystallize",
+        "strategy",
+        "beehive"
+      ],
+      "color_influences": [
+        "Silver",
+        "communication",
+        "azure"
+      ],
+      "primary_form_words": [
+        "luminous",
+        "multi-faceted",
+        "geometric"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He who prepares his kingdom'",

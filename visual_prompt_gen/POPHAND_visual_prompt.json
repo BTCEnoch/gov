@@ -1,12 +1,12 @@
 {
   "governor_name": "POPHAND",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with shifting Earth element square motifs and foundational patterns and Vesica Piscis emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like geometric emblem with elemental spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor POPHAND's profile: 'He who is divided into three parts', Aethyr DES, Earth element, Tarot The Lovers, Sephirot Daath, Zodiac Gemini, embodying the essence: 'As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, n...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large solid organic structured head with unique Flower of Life structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying interconnectedness. Hair or geometric appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns, styled with Dominion guides influences. Outfit is unique: neutral grey inspired by wisdom and neutral grey inspired by shifting structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with shifting Earth element square motifs and foundational patterns and Flower of Life emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like geometric emblem with interconnectedness spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor POPHAND's profile: 'He who is divided into three parts', Aethyr DES, Earth element, Tarot The Lovers, Sephirot Daath, Zodiac Gemini, embodying the essence: 'As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered balanced pose with arms extended in harmonious gesture",
-    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
-    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
-    "hair_style": "geometric crystalline appendages",
+    "head_shape": "large solid organic structured head with unique Flower of Life structure",
+    "body_style": "angular geometric body with solid facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying interconnectedness",
+    "hair_style": "geometric appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns, styled with Dominion guides influences",
     "outfit": {
       "base": "structured solid robes with crystalline geometric patterns",
       "texture": "flat with sharpie-style lines for stability and grounding",
@@ -14,28 +14,54 @@
       "magical_essence": "crystalline dust wisps and mineral particles"
     },
     "accessory": "geometric emblem",
-    "primary_color": "neutral grey",
-    "secondary_color": "neutral grey",
+    "primary_color": "neutral grey inspired by wisdom",
+    "secondary_color": "neutral grey inspired by shifting",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "Flower of Life",
       "Merkaba",
       "Oak leaf fractal"
     ],
-    "sacred_geometry": "Vesica Piscis",
+    "sacred_geometry": "Flower of Life",
     "secondary_symbols": [
       "Gemini_glyph",
       "Earth_symbol"
     ],
     "energy_signature": {
-      "type": "elemental",
+      "type": "interconnectedness",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Earth",
     "tarot": "The Lovers",
     "sephirot": "Daath",
-    "zodiac": "Gemini"
+    "zodiac": "Gemini",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "solid",
+        "organic",
+        "structured",
+        "interconnectedness",
+        "patterns"
+      ],
+      "appendage_style": [
+        "Dominion",
+        "guides"
+      ],
+      "motion_vibe": [
+        "interconnectedness"
+      ],
+      "color_influences": [
+        "wisdom",
+        "shifting",
+        "nature"
+      ],
+      "primary_form_words": [
+        "solid",
+        "organic",
+        "structured"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He who is divided into three parts'",

@@ -1,12 +1,12 @@
 {
   "governor_name": "OCCODON",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered blessing pose with both hands raised in sacred mudra, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating Vesica Piscis, Merkaba, Flower of Life patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey fluid draped garments with wave geometric patterns with flat with sharpie-style lines for flow and depth, elaborate with shifting Water element curved motifs and descending patterns and Torus emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like rose of victory with seven-fold geometric petals with primordial spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rippling water wisps and droplet particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor OCCODON's profile: 'He whose name is Renewal', Aethyr LIL, Water element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus, embodying the essence: 'In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris a...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered blessing pose with both hands raised in sacred mudra, chibi proportions with large translucent solid flowing head with unique Vesica Piscis structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying cosmic. Hair or geometric appendages incorporating Vesica Piscis, Merkaba, Flower of Life patterns, styled with Seraph commands influences. Outfit is unique: neutral grey inspired by Silver and neutral grey inspired by celestial fluid draped garments with wave geometric patterns with flat with sharpie-style lines for flow and depth, elaborate with shifting Water element curved motifs and descending patterns and Vesica Piscis emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like rose of victory with seven-fold geometric petals with cosmic spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rippling water wisps and droplet particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor OCCODON's profile: 'He whose name is Renewal', Aethyr LIL, Water element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus, embodying the essence: 'In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris and baptizing new forms into being.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered blessing pose with both hands raised in sacred mudra",
-    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
-    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
-    "hair_style": "geometric crystalline appendages",
+    "head_shape": "large translucent solid flowing head with unique Vesica Piscis structure",
+    "body_style": "angular geometric body with translucent facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying cosmic",
+    "hair_style": "geometric appendages incorporating Vesica Piscis, Merkaba, Flower of Life patterns, styled with Seraph commands influences",
     "outfit": {
       "base": "fluid draped garments with wave geometric patterns",
       "texture": "flat with sharpie-style lines for flow and depth",
@@ -14,28 +14,53 @@
       "magical_essence": "rippling water wisps and droplet particles"
     },
     "accessory": "rose of victory with seven-fold geometric petals",
-    "primary_color": "neutral grey",
-    "secondary_color": "neutral grey",
+    "primary_color": "neutral grey inspired by Silver",
+    "secondary_color": "neutral grey inspired by celestial",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "Vesica Piscis",
       "Merkaba",
       "Flower of Life"
     ],
-    "sacred_geometry": "Torus",
+    "sacred_geometry": "Vesica Piscis",
     "secondary_symbols": [
       "Taurus_glyph",
       "Water_symbol"
     ],
     "energy_signature": {
-      "type": "primordial",
+      "type": "cosmic",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Water",
     "tarot": "The Hierophant",
     "sephirot": "Netzach",
-    "zodiac": "Taurus"
+    "zodiac": "Taurus",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "translucent",
+        "solid",
+        "flowing",
+        "cosmic"
+      ],
+      "appendage_style": [
+        "Seraph",
+        "commands"
+      ],
+      "motion_vibe": [
+        "cosmic"
+      ],
+      "color_influences": [
+        "Silver",
+        "celestial",
+        "wisdom"
+      ],
+      "primary_form_words": [
+        "translucent",
+        "solid",
+        "flowing"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He whose name is Renewal'",

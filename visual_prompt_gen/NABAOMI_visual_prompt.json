@@ -1,12 +1,12 @@
 {
   "governor_name": "NABAOMI",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with flowing water-drop shaped head with rippling edges and construction paper layers suggesting continuous flow through layered cut-out waves with drawn depth. Hair or geometric crystalline appendages incorporating hexagonal wind spiral, fractal wave matrices patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and Merkaba interpenetration emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions with ethereal spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor NABAOMI's profile: 'He who knows pain', Aethyr ZEN, Air element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traum...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with large translucent geometric organic head with unique hexagonal wind spiral structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle compassion fractal. Hair or geometric appendages incorporating hexagonal wind spiral, fractal wave matrices patterns, styled with gentle compassion influences. Outfit is unique: neutral grey inspired by Silver and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and hexagonal wind spiral emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions with gentle spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor NABAOMI's profile: 'He who knows pain', Aethyr ZEN, Air element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered forward-leaning pose with hands gripping ethereal reins",
-    "head_shape": "flowing water-drop shaped head with rippling edges and construction paper layers",
-    "body_style": "undulating form with wave-like contours, flattened with sharpie-like flow lines",
-    "motion_quality": "suggesting continuous flow through layered cut-out waves with drawn depth",
-    "hair_style": "geometric crystalline appendages",
+    "head_shape": "large translucent geometric organic head with unique hexagonal wind spiral structure",
+    "body_style": "angular geometric body with translucent facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle compassion fractal",
+    "hair_style": "geometric appendages incorporating hexagonal wind spiral, fractal wave matrices patterns, styled with gentle compassion influences",
     "outfit": {
       "base": "ethereal flowing robes with geometric wind patterns",
       "texture": "flat with sharpie-style lines for depth and movement",
@@ -14,27 +14,56 @@
       "magical_essence": "faint wind wisps and floating geometric particles"
     },
     "accessory": "lunar crescent with silver geometric inscriptions",
-    "primary_color": "neutral grey",
-    "secondary_color": "neutral grey",
+    "primary_color": "neutral grey inspired by Silver",
+    "secondary_color": "neutral grey inspired by blue",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "hexagonal wind spiral",
       "fractal wave matrices"
     ],
-    "sacred_geometry": "Merkaba interpenetration",
+    "sacred_geometry": "hexagonal wind spiral",
     "secondary_symbols": [
       "Cancer_glyph",
       "Air_symbol"
     ],
     "energy_signature": {
-      "type": "ethereal",
+      "type": "gentle",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Air",
     "tarot": "The Chariot",
     "sephirot": "Yesod",
-    "zodiac": "Cancer"
+    "zodiac": "Cancer",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "translucent",
+        "geometric",
+        "organic",
+        "flowing",
+        "fractal",
+        "patterns"
+      ],
+      "appendage_style": [
+        "gentle",
+        "compassion"
+      ],
+      "motion_vibe": [
+        "gentle",
+        "compassion",
+        "fractal"
+      ],
+      "color_influences": [
+        "Silver",
+        "blue",
+        "lunar"
+      ],
+      "primary_form_words": [
+        "translucent",
+        "geometric",
+        "organic"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He who knows pain'",

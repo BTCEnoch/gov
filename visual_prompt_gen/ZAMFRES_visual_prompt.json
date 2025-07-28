@@ -1,12 +1,12 @@
 {
   "governor_name": "ZAMFRES",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating hexagonal fractal, merkaba star, flower of life patterns from sacred geometry symbolism. Outfit is unique: neutral grey and dark grey with high contrast angular armor-like robes with flame geometric patterns with flat with sharpie-style lines for heat and energy, elaborate with shifting Fire element triangular motifs and ascending patterns and merkaba star emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions with celestial spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZAMFRES's profile: 'He who appears when praised', Aethyr ZID, Fire element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In ZAMFRES's presence, honest praise takes on life genuine gratitude manifests tangible blessings be...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with large flame geometric patterns head with unique hexagonal fractal structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying patterns. Hair or geometric appendages incorporating hexagonal fractal, merkaba star, flower of life patterns, styled with Dominion guides influences. Outfit is unique: neutral grey inspired by electric and dark grey with high contrast inspired by blue angular armor-like robes with flame geometric patterns with flat with sharpie-style lines for heat and energy, elaborate with shifting Fire element triangular motifs and ascending patterns and hexagonal fractal emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions with patterns spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ZAMFRES's profile: 'He who appears when praised', Aethyr ZID, Fire element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In ZAMFRES's presence, honest praise takes on life genuine gratitude manifests tangible blessings before your eyes.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered forward-leaning pose with hands gripping ethereal reins",
-    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
-    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
-    "hair_style": "geometric crystalline appendages",
+    "head_shape": "large flame geometric patterns head with unique hexagonal fractal structure",
+    "body_style": "angular geometric body with flame facets, flattened with sharpie-like crease lines",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying patterns",
+    "hair_style": "geometric appendages incorporating hexagonal fractal, merkaba star, flower of life patterns, styled with Dominion guides influences",
     "outfit": {
       "base": "angular armor-like robes with flame geometric patterns",
       "texture": "flat with sharpie-style lines for heat and energy",
@@ -14,28 +14,51 @@
       "magical_essence": "flickering flame wisps and ember particles"
     },
     "accessory": "lunar crescent with silver geometric inscriptions",
-    "primary_color": "neutral grey",
-    "secondary_color": "dark grey with high contrast",
+    "primary_color": "neutral grey inspired by electric",
+    "secondary_color": "dark grey with high contrast inspired by blue",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "hexagonal fractal",
       "merkaba star",
       "flower of life"
     ],
-    "sacred_geometry": "merkaba star",
+    "sacred_geometry": "hexagonal fractal",
     "secondary_symbols": [
       "Cancer_glyph",
       "Fire_symbol"
     ],
     "energy_signature": {
-      "type": "celestial",
+      "type": "patterns",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Fire",
     "tarot": "The Chariot",
     "sephirot": "Yesod",
-    "zodiac": "Cancer"
+    "zodiac": "Cancer",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "flame",
+        "geometric",
+        "patterns"
+      ],
+      "appendage_style": [
+        "Dominion",
+        "guides"
+      ],
+      "motion_vibe": [
+        "patterns"
+      ],
+      "color_influences": [
+        "electric",
+        "blue",
+        "celestial"
+      ],
+      "primary_form_words": [
+        "flame",
+        "geometric"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He who appears when praised'",

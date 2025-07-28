@@ -1,12 +1,12 @@
 {
   "governor_name": "GEDOONS",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large multi-faceted crystalline head resembling a shifting merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric crystalline appendages incorporating hexagonal prism, merkaba star, vesica piscis patterns from sacred geometry symbolism. Outfit is unique: dark grey with high contrast and neutral grey angular armor-like robes with flame geometric patterns with flat with sharpie-style lines for heat and energy, elaborate with shifting Fire element triangular motifs and ascending patterns and intersecting tetrahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like caduceus of communication with intertwined geometric serpents with quantum-elemental spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor GEDOONS's profile: 'He who eliminates your name', Aethyr LOE, Fire element, Tarot The Lovers, Sephirot Hod, Zodiac Gemini, embodying the essence: 'When GEDOONS is near, identities can be erased like chalk names vanish from celestial rolls to grant...' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large multi-faceted solid head with unique hexagonal prism structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth. Hair or geometric appendages incorporating hexagonal prism, merkaba star, vesica piscis patterns from sacred geometry symbolism. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue angular armor-like robes with flame geometric patterns with flat with sharpie-style lines for heat and energy, elaborate with shifting Fire element triangular motifs and ascending patterns and hexagonal prism emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like caduceus of communication with intertwined geometric serpents with ethereal spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor GEDOONS's profile: 'He who eliminates your name', Aethyr LOE, Fire element, Tarot The Lovers, Sephirot Hod, Zodiac Gemini, embodying the essence: 'When GEDOONS is near, identities can be erased like chalk names vanish from celestial rolls to grant the bearer tactical invisibility.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered balanced pose with arms extended in harmonious gesture",
-    "head_shape": "large multi-faceted crystalline head resembling a shifting merkaba structure",
-    "body_style": "angular geometric body with crystal-like facets, flattened with sharpie-like crease lines",
+    "head_shape": "large multi-faceted solid head with unique hexagonal prism structure",
+    "body_style": "angular geometric body with multi-faceted facets, flattened with sharpie-like crease lines",
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth",
-    "hair_style": "geometric crystalline appendages",
+    "hair_style": "geometric appendages incorporating hexagonal prism, merkaba star, vesica piscis patterns from sacred geometry symbolism",
     "outfit": {
       "base": "angular armor-like robes with flame geometric patterns",
       "texture": "flat with sharpie-style lines for heat and energy",
@@ -14,28 +14,46 @@
       "magical_essence": "flickering flame wisps and ember particles"
     },
     "accessory": "caduceus of communication with intertwined geometric serpents",
-    "primary_color": "dark grey with high contrast",
-    "secondary_color": "neutral grey",
+    "primary_color": "dark grey with high contrast inspired by Electric",
+    "secondary_color": "neutral grey inspired by blue",
     "color_pattern": "shifting",
     "geometry_patterns": [
       "hexagonal prism",
       "merkaba star",
       "vesica piscis"
     ],
-    "sacred_geometry": "intersecting tetrahedron",
+    "sacred_geometry": "hexagonal prism",
     "secondary_symbols": [
       "Gemini_glyph",
       "Fire_symbol"
     ],
     "energy_signature": {
-      "type": "quantum-elemental",
+      "type": "ethereal",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
     "element": "Fire",
     "tarot": "The Lovers",
     "sephirot": "Hod",
-    "zodiac": "Gemini"
+    "zodiac": "Gemini",
+    "unique_descriptors": {
+      "head_descriptors": [
+        "multi-faceted",
+        "solid"
+      ],
+      "appendage_style": [],
+      "motion_vibe": [],
+      "color_influences": [
+        "Electric",
+        "blue",
+        "clarity"
+      ],
+      "primary_form_words": [
+        "multi-faceted",
+        "solid",
+        "crystal"
+      ]
+    }
   },
   "profile_data": {
     "title": "'He who eliminates your name'",
