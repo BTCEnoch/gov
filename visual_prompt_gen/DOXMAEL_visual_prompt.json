@@ -42,7 +42,7 @@
         "shifting",
         "structured",
         "Sacred",
-        "dimensional"
+        "transformation"
       ],
       "appendage_style": [
         "Dominion",
@@ -53,14 +53,26 @@
       ],
       "color_influences": [
         "lunar",
-        "wisdom"
+        "wisdom",
+        "depths"
       ],
       "primary_form_words": [
         "translucent",
         "shifting",
         "structured"
       ]
-    }
+    },
+    "tradition_traits": {
+      "clothing": [],
+      "accessories": [],
+      "fabrics": []
+    },
+    "traditions_used": [
+      "systems_theory",
+      "kabbalah",
+      "hermetic_magic",
+      "scrying"
+    ]
   },
   "profile_data": {
     "title": "'He who establishes the night'",
@@ -70,6 +82,17 @@
     "angelic_role": "Dominion of Veil of Night; guides pearl-plumed wardens.",
     "form_description": "A translucent, ever-shifting form that emerges from water's depths, simultaneously liquid and structured, embodying the liminal boundary between manifest and potential states",
     "color_reasoning": "Pearl represents lunar wisdom and hidden depths of Netzach, while indigo connects to Water element and intuitive vision of TEX Aethyr",
-    "geometry_reasoning": "Sacred geometries representing transformation, emergence, and interconnected dimensional boundaries"
+    "geometry_reasoning": "Sacred geometries representing transformation, emergence, and interconnected dimensional boundaries",
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "scrying",
+      "philosophies": "kabbalah",
+      "science_systems": "systems_theory"
+    }
+  },
+  "quality_metrics": {
+    "distinctiveness_score": 0.5,
+    "traditions_count": 4,
+    "unique_descriptors_count": 14
   }
 }

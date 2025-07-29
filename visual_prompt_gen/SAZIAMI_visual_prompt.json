@@ -1,21 +1,21 @@
 {
   "governor_name": "SAZIAMI",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic geometric divine head with unique octahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating octahedron, hexagram, tetrahedron patterns, styled with Principality influences. Outfit is unique: neutral grey and neutral grey structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with pulsing Earth element square motifs and foundational patterns and octahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAZIAMI's profile: 'He who has true power', Aethyr ZAA, Earth element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'As SAZIAMI approaches, a wave of confidence asserts itself the atmosphere bristles with authority and clear command that cannot be ignored.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic geometric divine head with unique octahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating octahedron, hexagram, tetrahedron patterns, styled with Principality Authority influences. Outfit is unique: neutral grey inspired by energy and neutral grey inspired by transformative structured solid robes with crystalline geometric patterns fused with observer effect capes and superposition tunics with flat with sharpie-style lines for stability and grounding, incorporating probabilistic patterns on cotton, elaborate with pulsing Earth element square motifs and foundational patterns and octahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade combined with particle accelerator ring with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAZIAMI's profile: 'He who has true power', Aethyr ZAA, Earth element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'As SAZIAMI approaches, a wave of confidence asserts itself the atmosphere bristles with authority and clear command that cannot be ignored.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered authoritative standing pose with arms crossed over geometric chest piece",
     "head_shape": "large prismatic geometric divine head with unique octahedron structure",
     "body_style": "angular geometric body with prismatic facets, flattened with sharpie-like crease lines",
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred",
-    "hair_style": "geometric appendages incorporating octahedron, hexagram, tetrahedron patterns, styled with Principality influences",
+    "hair_style": "geometric appendages incorporating octahedron, hexagram, tetrahedron patterns, styled with Principality Authority influences",
     "outfit": {
-      "base": "structured solid robes with crystalline geometric patterns",
-      "texture": "flat with sharpie-style lines for stability and grounding",
+      "base": "structured solid robes with crystalline geometric patterns fused with observer effect capes and superposition tunics",
+      "texture": "flat with sharpie-style lines for stability and grounding, incorporating probabilistic patterns on cotton",
       "details": "Earth element square motifs and foundational patterns",
       "magical_essence": "crystalline dust wisps and mineral particles"
     },
-    "accessory": "sword of severity with angular geometric blade",
-    "primary_color": "neutral grey",
-    "secondary_color": "neutral grey",
+    "accessory": "sword of severity with angular geometric blade combined with particle accelerator ring",
+    "primary_color": "neutral grey inspired by energy",
+    "secondary_color": "neutral grey inspired by transformative",
     "color_pattern": "pulsing",
     "geometry_patterns": [
       "octahedron",
@@ -42,22 +42,52 @@
         "geometric",
         "divine",
         "structured",
+        "Crystalline",
         "Sacred",
         "divine"
       ],
       "appendage_style": [
-        "Principality"
+        "Principality",
+        "Authority",
+        "hosts"
       ],
       "motion_vibe": [
         "Sacred"
       ],
-      "color_influences": [],
+      "color_influences": [
+        "energy",
+        "transformative"
+      ],
       "primary_form_words": [
         "prismatic",
         "geometric",
         "divine"
       ]
-    }
+    },
+    "tradition_traits": {
+      "clothing": [
+        "observer effect capes",
+        "superposition tunics",
+        "Zodiac-embroidered robes",
+        "horoscope chart capes",
+        "planetary symbol tunics"
+      ],
+      "accessories": [
+        "particle accelerator ring",
+        "zodiac wheel ring",
+        "planetary talisman"
+      ],
+      "fabrics": [
+        "probabilistic patterns on cotton",
+        "flowing silk for cosmic movement"
+      ]
+    },
+    "traditions_used": [
+      "hermetic_philosophy",
+      "hermetic_magic",
+      "quantum_physics",
+      "astrology"
+    ]
   },
   "profile_data": {
     "title": "'He who has true power'",
@@ -67,6 +97,17 @@
     "angelic_role": "Principality of Absolute Authority; leads earth-forged hosts.",
     "form_description": "A prismatic geometric form emerging from dense earth-matter, representing the solidification of divine authority through structured manifestation. Crystalline structure symbolizes the ordered power of Geburah and the mathematical precision of divine governance.",
     "color_reasoning": "Iron-red represents Aries' martial energy, Geburah's severity, and earthly power. Obsidian black grounds the manifestation, representing the transformative depth of earth element and mystical boundaries.",
-    "geometry_reasoning": "Sacred geometries representing divine structure, elemental balance, and quantum potential. Phase-shifting symbolizes authority's fluid yet absolute nature."
+    "geometry_reasoning": "Sacred geometries representing divine structure, elemental balance, and quantum potential. Phase-shifting symbolizes authority's fluid yet absolute nature.",
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "astrology",
+      "philosophies": "hermetic_philosophy",
+      "science_systems": "quantum_physics"
+    }
+  },
+  "quality_metrics": {
+    "distinctiveness_score": 1.05,
+    "traditions_count": 4,
+    "unique_descriptors_count": 16
   }
 }

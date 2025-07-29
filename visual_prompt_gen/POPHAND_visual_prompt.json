@@ -1,19 +1,19 @@
 {
   "governor_name": "POPHAND",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large divine solid organic head with unique Flower of Life structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns, styled with Dominion guides influences. Outfit is unique: neutral grey inspired by wisdom and neutral grey inspired by shifting structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with shifting Earth element square motifs and foundational patterns and Flower of Life emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like geometric emblem with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor POPHAND's profile: 'He who is divided into three parts', Aethyr DES, Earth element, Tarot The Lovers, Sephirot Daath, Zodiac Gemini, embodying the essence: 'As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered balanced pose with arms extended in harmonious gesture, chibi proportions with large crystalline oak divine head with unique Flower of Life structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns, styled with Dominion guides influences. Outfit is unique: neutral grey inspired by wisdom and neutral grey inspired by shifting structured solid robes with crystalline geometric patterns fused with Major/Minor suit robes and Arcana-illustrated cloaks with flat with sharpie-style lines for stability and grounding, incorporating colorful accents on grey base, elaborate with shifting Earth element square motifs and foundational patterns and Flower of Life emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like geometric emblem combined with wheel of fortune medallion with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor POPHAND's profile: 'He who is divided into three parts', Aethyr DES, Earth element, Tarot The Lovers, Sephirot Daath, Zodiac Gemini, embodying the essence: 'As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered balanced pose with arms extended in harmonious gesture",
-    "head_shape": "large divine solid organic head with unique Flower of Life structure",
-    "body_style": "angular geometric body with divine facets, flattened with sharpie-like crease lines",
+    "head_shape": "large crystalline oak divine head with unique Flower of Life structure",
+    "body_style": "angular geometric body with crystalline facets, flattened with sharpie-like crease lines",
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred",
     "hair_style": "geometric appendages incorporating Flower of Life, Merkaba, Oak leaf fractal patterns, styled with Dominion guides influences",
     "outfit": {
-      "base": "structured solid robes with crystalline geometric patterns",
-      "texture": "flat with sharpie-style lines for stability and grounding",
+      "base": "structured solid robes with crystalline geometric patterns fused with Major/Minor suit robes and Arcana-illustrated cloaks",
+      "texture": "flat with sharpie-style lines for stability and grounding, incorporating colorful accents on grey base",
       "details": "Earth element square motifs and foundational patterns",
       "magical_essence": "crystalline dust wisps and mineral particles"
     },
-    "accessory": "geometric emblem",
+    "accessory": "geometric emblem combined with wheel of fortune medallion",
     "primary_color": "neutral grey inspired by wisdom",
     "secondary_color": "neutral grey inspired by shifting",
     "color_pattern": "shifting",
@@ -38,6 +38,8 @@
     "zodiac": "Gemini",
     "unique_descriptors": {
       "head_descriptors": [
+        "crystalline",
+        "oak",
         "divine",
         "solid",
         "organic",
@@ -47,7 +49,8 @@
       ],
       "appendage_style": [
         "Dominion",
-        "guides"
+        "guides",
+        "oak-crowned"
       ],
       "motion_vibe": [
         "Sacred"
@@ -58,11 +61,30 @@
         "nature"
       ],
       "primary_form_words": [
-        "divine",
-        "solid",
-        "organic"
+        "crystalline",
+        "oak",
+        "divine"
       ]
-    }
+    },
+    "tradition_traits": {
+      "clothing": [
+        "Major/Minor suit robes",
+        "Arcana-illustrated cloaks"
+      ],
+      "accessories": [
+        "wheel of fortune medallion",
+        "trump symbol brooch"
+      ],
+      "fabrics": [
+        "colorful accents on grey base"
+      ]
+    },
+    "traditions_used": [
+      "systems_theory",
+      "hermetic_magic",
+      "neoplatonism",
+      "tarot"
+    ]
   },
   "profile_data": {
     "title": "'He who is divided into three parts'",
@@ -72,6 +94,17 @@
     "angelic_role": "Dominion of Triune Harmony; guides oak-crowned guardians.",
     "form_description": "A crystalline oak tree structure with three-branched symmetry, representing divine triplicity and earthen wisdom. The form shifts between solid geometry and organic flow, symbolizing the liminal space between structured knowledge and organic intuition.",
     "color_reasoning": "Green represents Earth element and growth; gold symbolizes divine wisdom and the Daath sephirot's hidden knowledge. The shifting pattern reflects Gemini's mutable nature and constant transformation.",
-    "geometry_reasoning": "Sacred geometries representing interconnectedness, divine transportation, and natural organic growth patterns"
+    "geometry_reasoning": "Sacred geometries representing interconnectedness, divine transportation, and natural organic growth patterns",
+    "knowledge_base": {
+      "magick_systems": "hermetic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "neoplatonism",
+      "science_systems": "systems_theory"
+    }
+  },
+  "quality_metrics": {
+    "distinctiveness_score": 0.95,
+    "traditions_count": 4,
+    "unique_descriptors_count": 18
   }
 }

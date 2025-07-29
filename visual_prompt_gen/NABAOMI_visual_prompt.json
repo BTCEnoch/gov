@@ -1,19 +1,19 @@
 {
   "governor_name": "NABAOMI",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with large translucent geometric organic head with unique hexagonal wind spiral structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle compassion sacred. Hair or geometric appendages incorporating hexagonal wind spiral, fractal wave matrices patterns, styled with Principality gentle influences. Outfit is unique: neutral grey inspired by Silver and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and hexagonal wind spiral emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions with gentle spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor NABAOMI's profile: 'He who knows pain', Aethyr ZEN, Air element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered forward-leaning pose with hands gripping ethereal reins, chibi proportions with large translucent crystalline geometric head with unique hexagonal wind spiral structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle compassion. Hair or geometric appendages incorporating hexagonal wind spiral, fractal wave matrices patterns, styled with Principality gentle influences. Outfit is unique: neutral grey inspired by Silver and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns fused with Major/Minor suit robes and tower-structured vests with flat with sharpie-style lines for depth and movement, incorporating layered paper-like fabrics, elaborate with shifting Air element glyphs and spiral motifs and hexagonal wind spiral emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like lunar crescent with silver geometric inscriptions combined with Tarot deck pouch with gentle spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor NABAOMI's profile: 'He who knows pain', Aethyr ZEN, Air element, Tarot The Chariot, Sephirot Yesod, Zodiac Cancer, embodying the essence: 'In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered forward-leaning pose with hands gripping ethereal reins",
-    "head_shape": "large translucent geometric organic head with unique hexagonal wind spiral structure",
+    "head_shape": "large translucent crystalline geometric head with unique hexagonal wind spiral structure",
     "body_style": "angular geometric body with translucent facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle compassion sacred",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle compassion",
     "hair_style": "geometric appendages incorporating hexagonal wind spiral, fractal wave matrices patterns, styled with Principality gentle influences",
     "outfit": {
-      "base": "ethereal flowing robes with geometric wind patterns",
-      "texture": "flat with sharpie-style lines for depth and movement",
+      "base": "ethereal flowing robes with geometric wind patterns fused with Major/Minor suit robes and tower-structured vests",
+      "texture": "flat with sharpie-style lines for depth and movement, incorporating layered paper-like fabrics",
       "details": "Air element glyphs and spiral motifs",
       "magical_essence": "faint wind wisps and floating geometric particles"
     },
-    "accessory": "lunar crescent with silver geometric inscriptions",
+    "accessory": "lunar crescent with silver geometric inscriptions combined with Tarot deck pouch",
     "primary_color": "neutral grey inspired by Silver",
     "secondary_color": "neutral grey inspired by blue",
     "color_pattern": "shifting",
@@ -38,11 +38,12 @@
     "unique_descriptors": {
       "head_descriptors": [
         "translucent",
+        "crystalline",
         "geometric",
         "organic",
         "flowing",
-        "sacred",
-        "divine"
+        "Hexagonal",
+        "sacred"
       ],
       "appendage_style": [
         "Principality",
@@ -53,7 +54,7 @@
       "motion_vibe": [
         "gentle",
         "compassion",
-        "sacred"
+        "Hexagonal"
       ],
       "color_influences": [
         "Silver",
@@ -62,10 +63,30 @@
       ],
       "primary_form_words": [
         "translucent",
-        "geometric",
-        "organic"
+        "crystalline",
+        "geometric"
       ]
-    }
+    },
+    "tradition_traits": {
+      "clothing": [
+        "Major/Minor suit robes",
+        "tower-structured vests",
+        "fool's motley tunic"
+      ],
+      "accessories": [
+        "Tarot deck pouch",
+        "wheel of fortune medallion"
+      ],
+      "fabrics": [
+        "layered paper-like fabrics"
+      ]
+    },
+    "traditions_used": [
+      "stoicism",
+      "consciousness_studies",
+      "shamanic_magic",
+      "tarot"
+    ]
   },
   "profile_data": {
     "title": "'He who knows pain'",
@@ -75,6 +96,17 @@
     "angelic_role": "Principality of Path of Compassion; leads celestial spirits.",
     "form_description": "A translucent, wind-like form that shifts between crystalline geometric structure and organic flowing movement, representing the liminal space between structure and chaos inherent in Air element and ZEN Aethyr consciousness",
     "color_reasoning": "Silver-blue represents Yesod's lunar qualities, air's mercurial nature, and compassionate wisdom; pearl-white symbolizes spiritual purity and transformative potential",
-    "geometry_reasoning": "Hexagonal structures from sacred geometry represent divine order, while fractal patterns demonstrate infinite compassionate recursion"
+    "geometry_reasoning": "Hexagonal structures from sacred geometry represent divine order, while fractal patterns demonstrate infinite compassionate recursion",
+    "knowledge_base": {
+      "magick_systems": "shamanic_magic",
+      "divination_systems": "tarot",
+      "philosophies": "stoicism",
+      "science_systems": "consciousness_studies"
+    }
+  },
+  "quality_metrics": {
+    "distinctiveness_score": 1.0,
+    "traditions_count": 4,
+    "unique_descriptors_count": 20
   }
 }
