@@ -67,29 +67,29 @@
       "clothing": [
         "pleroma-inspired capes",
         "Archon-resistant armored robes",
-        "belief-altering capes",
-        "sigil-collage jackets",
-        "tower-structured vests",
-        "fool's motley tunic"
+        "fool's motley tunic",
+        "Major/Minor suit robes",
+        "meta-magic hoods",
+        "belief-altering capes"
       ],
       "accessories": [
         "serpent Ouroboros ring",
         "demiurge-binding chain",
-        "random symbol dice",
-        "chaos star pendant",
-        "Tarot deck pouch"
+        "wheel of fortune medallion",
+        "key of Solomon pendant",
+        "Servitor creation tools"
       ],
       "fabrics": [
         "dark fabrics with hidden symbols",
-        "printed cotton with custom sigils",
-        "embroidered satin"
+        "colorful accents on grey base",
+        "synthetic blends for modernity"
       ]
     },
     "traditions_used": [
-      "gnosticism",
       "consciousness_studies",
-      "chaos_magic",
-      "tarot"
+      "gnosticism",
+      "tarot",
+      "chaos_magic"
     ]
   },
   "profile_data": {

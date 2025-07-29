@@ -76,10 +76,10 @@
       "fabrics": []
     },
     "traditions_used": [
-      "systems_theory",
-      "hermetic_magic",
       "geomancy",
-      "stoicism"
+      "hermetic_magic",
+      "stoicism",
+      "systems_theory"
     ]
   },
   "profile_data": {

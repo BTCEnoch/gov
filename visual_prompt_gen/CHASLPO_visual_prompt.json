@@ -66,29 +66,29 @@
       "clothing": [
         "Whirling dervish skirts",
         "simple woolen robes",
-        "belief-altering capes",
-        "sigil-collage jackets",
-        "Paradigm-shifting patchwork robes",
+        "fool's motley tunic",
         "Major/Minor suit robes",
-        "Arcana-illustrated cloaks"
+        "Arcana-illustrated cloaks",
+        "sigil-collage jackets",
+        "Paradigm-shifting patchwork robes"
       ],
       "accessories": [
         "Sufi heart pendant",
         "reed flute",
-        "paradigm wheel",
-        "Tarot deck pouch"
+        "trump symbol brooch",
+        "Servitor creation tools"
       ],
       "fabrics": [
         "spinning-friendly cotton",
-        "Mismatched fabrics sewn together",
-        "layered paper-like fabrics"
+        "Patterned velvet with card imagery",
+        "rubberized materials for flexibility"
       ]
     },
     "traditions_used": [
-      "consciousness_studies",
       "sufism",
-      "chaos_magic",
-      "tarot"
+      "consciousness_studies",
+      "tarot",
+      "chaos_magic"
     ]
   },
   "profile_data": {

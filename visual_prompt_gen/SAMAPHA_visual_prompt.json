@@ -65,20 +65,25 @@
     "tradition_traits": {
       "clothing": [
         "stellar alignment vests",
-        "planetary symbol tunics"
+        "planetary symbol tunics",
+        "as above so below tunics",
+        "alchemical wisdom capes",
+        "emerald tablet vests"
       ],
       "accessories": [
-        "Astrolabe pendant"
+        "Astrolabe pendant",
+        "Hermetic seal pendant"
       ],
       "fabrics": [
-        "flowing silk for cosmic movement"
+        "flowing silk for cosmic movement",
+        "Wisdom-woven silk"
       ]
     },
     "traditions_used": [
-      "hermetic_philosophy",
-      "systems_theory",
+      "astrology",
       "hermetic_magic",
-      "astrology"
+      "hermetic_philosophy",
+      "systems_theory"
     ]
   },
   "profile_data": {
@@ -98,7 +103,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 0.8,
+    "distinctiveness_score": 1.05,
     "traditions_count": 4,
     "unique_descriptors_count": 15
   }

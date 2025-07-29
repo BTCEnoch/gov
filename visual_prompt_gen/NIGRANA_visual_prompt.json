@@ -75,24 +75,28 @@
         "horoscope chart capes",
         "Nile god capes",
         "Pharaoh-inspired linen robes",
-        "heka-symbol vests"
+        "heka-symbol vests",
+        "emerald tablet vests",
+        "alchemical wisdom capes"
       ],
       "accessories": [
         "planetary talisman",
         "star map scroll",
         "Ankh cross",
-        "was scepter"
+        "was scepter",
+        "philosophical mercury vial"
       ],
       "fabrics": [
         "metallic thread for planets",
-        "papyrus-like textures"
+        "papyrus-like textures",
+        "Wisdom-woven silk"
       ]
     },
     "traditions_used": [
-      "systems_theory",
-      "hermetic_philosophy",
       "astrology",
-      "egyptian_magic"
+      "systems_theory",
+      "egyptian_magic",
+      "hermetic_philosophy"
     ]
   },
   "profile_data": {
@@ -112,7 +116,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.25,
+    "distinctiveness_score": 1.45,
     "traditions_count": 4,
     "unique_descriptors_count": 20
   }

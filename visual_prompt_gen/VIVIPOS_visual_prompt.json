@@ -71,20 +71,25 @@
       "clothing": [
         "stellar alignment vests",
         "planetary symbol tunics",
-        "horoscope chart capes"
+        "horoscope chart capes",
+        "emerald tablet vests",
+        "Hermetic axiom robes",
+        "alchemical wisdom capes"
       ],
       "accessories": [
-        "Astrolabe pendant"
+        "Astrolabe pendant",
+        "Hermetic seal pendant"
       ],
       "fabrics": [
-        "metallic thread for planets"
+        "metallic thread for planets",
+        "philosophical cotton"
       ]
     },
     "traditions_used": [
-      "hermetic_philosophy",
-      "systems_theory",
+      "astrology",
       "hermetic_magic",
-      "astrology"
+      "hermetic_philosophy",
+      "systems_theory"
     ]
   },
   "profile_data": {
@@ -104,7 +109,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 0.95,
+    "distinctiveness_score": 1.2,
     "traditions_count": 4,
     "unique_descriptors_count": 20
   }

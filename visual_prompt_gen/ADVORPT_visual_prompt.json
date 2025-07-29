@@ -66,24 +66,28 @@
         "superposition tunics",
         "heka-symbol vests",
         "Nile god capes",
-        "ankh-collared tunics"
+        "ankh-collared tunics",
+        "vision-seeking tunics",
+        "Crystal gazer robes"
       ],
       "accessories": [
         "Schrödinger box amulet",
         "Quantum bit pendant",
         "eye of Horus pendant",
-        "scarab amulet"
+        "scarab amulet",
+        "vision stone"
       ],
       "fabrics": [
         "fluctuating textures",
-        "beaded fabrics for protection"
+        "beaded fabrics for protection",
+        "prophetic gauze"
       ]
     },
     "traditions_used": [
       "quantum_physics",
       "zen_buddhism",
-      "scrying",
-      "egyptian_magic"
+      "egyptian_magic",
+      "scrying"
     ]
   },
   "profile_data": {
@@ -103,7 +107,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.05,
+    "distinctiveness_score": 1.25,
     "traditions_count": 4,
     "unique_descriptors_count": 13
   }

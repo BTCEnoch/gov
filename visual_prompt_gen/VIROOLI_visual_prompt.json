@@ -78,9 +78,9 @@
     },
     "traditions_used": [
       "ecology",
-      "celtic_magic",
       "geomancy",
-      "taoism"
+      "taoism",
+      "celtic_magic"
     ]
   },
   "profile_data": {

@@ -67,29 +67,29 @@
         "wu wei minimalist garments",
         "yin-yang balanced tunics",
         "Flowing Taoist priest robes",
-        "oracle consultant tunics",
-        "change-dynamic capes",
-        "ankh-collared tunics",
-        "Pharaoh-inspired linen robes",
-        "heka-symbol vests"
+        "heka-symbol vests",
+        "Nile god capes",
+        "trigram sashes",
+        "Hexagram-patterned robes",
+        "oracle consultant tunics"
       ],
       "accessories": [
         "bamboo staff",
-        "change book pendant",
         "eye of Horus pendant",
-        "Ankh cross"
+        "change book pendant",
+        "Yarrow stalks"
       ],
       "fabrics": [
         "cotton with circular patterns",
-        "Silk with line patterns",
-        "beaded fabrics for protection"
+        "White linen with hieroglyphs",
+        "black/white duality weaves"
       ]
     },
     "traditions_used": [
-      "systems_theory",
       "taoism",
-      "i_ching",
-      "egyptian_magic"
+      "systems_theory",
+      "egyptian_magic",
+      "i_ching"
     ]
   },
   "profile_data": {

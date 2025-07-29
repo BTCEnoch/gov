@@ -1,6 +1,6 @@
 {
   "governor_name": "SIGMORF",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic angular geometric head with unique tetrahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying fear melts. Hair or geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with Dominion guides influences. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns fused with divine spark tunics and pleroma-inspired capes with flat with sharpie-style lines for depth and movement, incorporating metallic weaves for divine light, elaborate with shifting Air element glyphs and spiral motifs and tetrahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade combined with demiurge-binding chain with fear spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor SIGMORF's profile: 'He who visits the darkness', Aethyr TAN, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'In SIGMORF's presence, fear melts away in steady flame a fearless aura that forges fearless resolve and lights introspection with strength.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic angular geometric head with unique tetrahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying fear melts. Hair or geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with Dominion guides influences. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns fused with entanglement-linked robes and observer effect capes with flat with sharpie-style lines for depth and movement, incorporating probabilistic patterns on cotton, elaborate with shifting Air element glyphs and spiral motifs and tetrahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade combined with wave function staff with fear spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor SIGMORF's profile: 'He who visits the darkness', Aethyr TAN, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'In SIGMORF's presence, fear melts away in steady flame a fearless aura that forges fearless resolve and lights introspection with strength.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered authoritative standing pose with arms crossed over geometric chest piece",
     "head_shape": "large prismatic angular geometric head with unique tetrahedron structure",
@@ -8,12 +8,12 @@
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying fear melts",
     "hair_style": "geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with Dominion guides influences",
     "outfit": {
-      "base": "ethereal flowing robes with geometric wind patterns fused with divine spark tunics and pleroma-inspired capes",
-      "texture": "flat with sharpie-style lines for depth and movement, incorporating metallic weaves for divine light",
+      "base": "ethereal flowing robes with geometric wind patterns fused with entanglement-linked robes and observer effect capes",
+      "texture": "flat with sharpie-style lines for depth and movement, incorporating probabilistic patterns on cotton",
       "details": "Air element glyphs and spiral motifs",
       "magical_essence": "faint wind wisps and floating geometric particles"
     },
-    "accessory": "sword of severity with angular geometric blade combined with demiurge-binding chain",
+    "accessory": "sword of severity with angular geometric blade combined with wave function staff",
     "primary_color": "dark grey with high contrast inspired by Electric",
     "secondary_color": "neutral grey inspired by blue",
     "color_pattern": "shifting",
@@ -72,31 +72,36 @@
     },
     "tradition_traits": {
       "clothing": [
-        "divine spark tunics",
-        "pleroma-inspired capes",
-        "observer effect capes",
         "entanglement-linked robes",
-        "Wave-particle duality garments",
+        "observer effect capes",
+        "prophetic sight capes",
+        "vision-seeking tunics",
+        "Crystal gazer robes",
+        "Archon-resistant armored robes",
+        "divine spark tunics",
+        "meta-magic hoods",
         "Paradigm-shifting patchwork robes",
         "sigil-collage jackets"
       ],
       "accessories": [
-        "demiurge-binding chain",
-        "serpent Ouroboros ring",
-        "Schrödinger box amulet",
         "wave function staff",
-        "paradigm wheel"
+        "Schrödinger box amulet",
+        "scrying mirror",
+        "vision stone",
+        "hymn scroll",
+        "random symbol dice"
       ],
       "fabrics": [
-        "metallic weaves for divine light",
         "probabilistic patterns on cotton",
-        "rubberized materials for flexibility"
+        "crystal-clear linen",
+        "dark fabrics with hidden symbols",
+        "Mismatched fabrics sewn together"
       ]
     },
     "traditions_used": [
-      "gnosticism",
       "quantum_physics",
       "scrying",
+      "gnosticism",
       "chaos_magic"
     ]
   },
@@ -117,7 +122,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.55,
+    "distinctiveness_score": 1.8,
     "traditions_count": 4,
     "unique_descriptors_count": 22
   }

@@ -83,31 +83,31 @@
         "Flowing Taoist priest robes",
         "taiji pattern sashes",
         "yin-yang balanced tunics",
-        "oracle consultant tunics",
-        "change-dynamic capes",
-        "Hexagram-patterned robes",
-        "Pharaoh-inspired linen robes",
         "heka-symbol vests",
-        "Nile god capes"
+        "Nile god capes",
+        "Pharaoh-inspired linen robes",
+        "Hexagram-patterned robes",
+        "oracle consultant tunics",
+        "change-dynamic capes"
       ],
       "accessories": [
         "yin-yang pendant",
-        "bagua mirror",
-        "change book pendant",
-        "scarab amulet",
-        "Ankh cross"
+        "was scepter",
+        "eye of Horus pendant",
+        "hexagram coins",
+        "Yarrow stalks"
       ],
       "fabrics": [
         "breathable linen suggesting qi movement",
-        "flexible cotton for adaptation",
-        "White linen with hieroglyphs"
+        "papyrus-like textures",
+        "Silk with line patterns"
       ]
     },
     "traditions_used": [
-      "systems_theory",
       "taoism",
-      "i_ching",
-      "egyptian_magic"
+      "systems_theory",
+      "egyptian_magic",
+      "i_ching"
     ]
   },
   "profile_data": {

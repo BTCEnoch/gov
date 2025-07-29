@@ -67,29 +67,29 @@
       "clothing": [
         "pleroma-inspired capes",
         "sophia wisdom vests",
-        "belief-altering capes",
-        "meta-magic hoods",
-        "Arcana-illustrated cloaks",
-        "Major/Minor suit robes",
-        "fool's motley tunic"
+        "fool's motley tunic",
+        "tower-structured vests",
+        "Paradigm-shifting patchwork robes",
+        "sigil-collage jackets",
+        "belief-altering capes"
       ],
       "accessories": [
         "serpent Ouroboros ring",
-        "Servitor creation tools",
-        "wheel of fortune medallion",
-        "Tarot deck pouch"
+        "Tarot deck pouch",
+        "random symbol dice",
+        "Servitor creation tools"
       ],
       "fabrics": [
         "translucent veils for revelation",
-        "synthetic blends for modernity",
-        "embroidered satin"
+        "embroidered satin",
+        "synthetic blends for modernity"
       ]
     },
     "traditions_used": [
-      "gnosticism",
       "consciousness_studies",
-      "chaos_magic",
-      "tarot"
+      "gnosticism",
+      "tarot",
+      "chaos_magic"
     ]
   },
   "profile_data": {

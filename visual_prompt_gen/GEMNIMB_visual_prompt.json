@@ -83,9 +83,9 @@
     },
     "traditions_used": [
       "ecology",
-      "celtic_magic",
       "astrology",
-      "taoism"
+      "taoism",
+      "celtic_magic"
     ]
   },
   "profile_data": {

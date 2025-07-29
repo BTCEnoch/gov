@@ -70,28 +70,28 @@
         "wu wei minimalist garments",
         "taiji pattern sashes",
         "Flowing Taoist priest robes",
-        "Hexagram-patterned robes",
-        "trigram sashes",
         "Pharaoh-inspired linen robes",
-        "heka-symbol vests"
+        "ankh-collared tunics",
+        "Hexagram-patterned robes",
+        "oracle consultant tunics"
       ],
       "accessories": [
         "Bagua mirror",
-        "Yarrow stalks",
-        "was scepter",
-        "eye of Horus pendant"
+        "Ankh cross",
+        "bagua mirror",
+        "change book pendant"
       ],
       "fabrics": [
         "Natural silk for flow",
-        "flexible cotton for adaptation",
-        "papyrus-like textures"
+        "papyrus-like textures",
+        "flexible cotton for adaptation"
       ]
     },
     "traditions_used": [
-      "systems_theory",
       "taoism",
-      "i_ching",
-      "egyptian_magic"
+      "systems_theory",
+      "egyptian_magic",
+      "i_ching"
     ]
   },
   "profile_data": {

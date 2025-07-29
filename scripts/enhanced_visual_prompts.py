@@ -225,6 +225,27 @@ class EnhancedVisualPromptGenerator:
                 "clothing": ["Multidimensional string robes", "brane-world tunics", "unified field capes", "superstring vests"],
                 "accessories": ["String theory loop pendant", "membrane amulet", "dimension portal", "quantum foam brooch"],
                 "fabrics": ["Vibrating patterned silk", "multidimensional layered fabrics", "wave-like wool", "unified metallic threads"]
+            },
+            # Additional traditions and aliases
+            "hermetic_philosophy": {
+                "clothing": ["Hermetic axiom robes", "as above so below tunics", "alchemical wisdom capes", "emerald tablet vests"],
+                "accessories": ["Hermetic seal pendant", "caduceus staff", "philosophical mercury vial", "axiom scroll"],
+                "fabrics": ["Wisdom-woven silk", "axiom-embroidered linen", "philosophical cotton", "hermetic velvet with symbols"]
+            },
+            "complexity_science": {
+                "clothing": ["Fractal pattern robes", "emergence theory tunics", "chaos theory capes", "systems dynamics vests"],
+                "accessories": ["Butterfly effect pendant", "strange attractor model", "complexity compass", "emergence calculator"],
+                "fabrics": ["Fractal-patterned silk", "emergent cotton weaves", "chaotic fiber blends", "complex system textiles"]
+            },
+            "scrying": {
+                "clothing": ["Crystal gazer robes", "vision-seeking tunics", "prophetic sight capes", "oracle divination vests"],
+                "accessories": ["Crystal ball", "scrying mirror", "vision stone", "prophetic lens"],
+                "fabrics": ["Translucent vision silk", "crystal-clear linen", "prophetic gauze", "oracle-woven cotton"]
+            },
+            "ritual_magic": {
+                "clothing": ["Ceremonial ritual robes", "invocation tunics", "banishing capes", "circle-casting vests"],
+                "accessories": ["Ritual athame", "ceremonial chalice", "invocation wand", "banishing pentacle"],
+                "fabrics": ["Ceremonial silk", "ritual-blessed linen", "sacred cotton", "consecrated velvet"]
             }
         }
 

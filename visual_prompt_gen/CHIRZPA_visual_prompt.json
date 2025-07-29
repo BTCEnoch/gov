@@ -70,23 +70,28 @@
       "clothing": [
         "entanglement-linked robes",
         "superposition tunics",
-        "belief-altering capes",
-        "meta-magic hoods"
+        "alchemical wisdom capes",
+        "emerald tablet vests",
+        "Paradigm-shifting patchwork robes",
+        "meta-magic hoods",
+        "belief-altering capes"
       ],
       "accessories": [
         "Schrödinger box amulet",
         "particle accelerator ring",
-        "paradigm wheel"
+        "axiom scroll",
+        "Servitor creation tools"
       ],
       "fabrics": [
         "fluctuating textures",
-        "printed cotton with custom sigils"
+        "hermetic velvet with symbols",
+        "synthetic blends for modernity"
       ]
     },
     "traditions_used": [
+      "geomancy",
       "quantum_physics",
       "hermetic_philosophy",
-      "geomancy",
       "chaos_magic"
     ]
   },
@@ -107,7 +112,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.15,
+    "distinctiveness_score": 1.4,
     "traditions_count": 4,
     "unique_descriptors_count": 18
   }

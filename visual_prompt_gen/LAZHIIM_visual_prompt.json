@@ -81,10 +81,10 @@
       ]
     },
     "traditions_used": [
-      "systems_theory",
-      "hermetic_magic",
       "astrology",
-      "taoism"
+      "hermetic_magic",
+      "taoism",
+      "systems_theory"
     ]
   },
   "profile_data": {

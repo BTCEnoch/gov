@@ -1,6 +1,6 @@
 {
   "governor_name": "ODRAXTI",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered pouring pose with hands managing flow between vessels, chibi proportions with large multi-faceted geometric crystalline head with unique dodecahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying insight Sacred. Hair or geometric appendages incorporating dodecahedron, merkaba, flower of life patterns, styled with Archangel marshals influences. Outfit is unique: neutral grey inspired by nature and neutral grey inspired by wisdom structured solid robes with crystalline geometric patterns fused with wu wei minimalist garments and taiji pattern sashes with flat with sharpie-style lines for stability and grounding, incorporating cotton with circular patterns, elaborate with shifting Earth element square motifs and foundational patterns and dodecahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like orb of mercy with hexagonal geometric surface combined with yin-yang pendant with insight spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ODRAXTI's profile: 'He who opens up the east', Aethyr RII, Earth element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius, embodying the essence: 'In ODRAXTI's presence, the morning of insight dawns a guiding Eastern star that cuts through confusion with the sharp logic of truth.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered pouring pose with hands managing flow between vessels, chibi proportions with large multi-faceted geometric crystalline head with unique dodecahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying insight Sacred. Hair or geometric appendages incorporating dodecahedron, merkaba, flower of life patterns, styled with Archangel marshals influences. Outfit is unique: neutral grey inspired by nature and neutral grey inspired by wisdom structured solid robes with crystalline geometric patterns fused with horoscope chart capes and stellar alignment vests with flat with sharpie-style lines for stability and grounding, incorporating metallic thread for planets, elaborate with shifting Earth element square motifs and foundational patterns and dodecahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like orb of mercy with hexagonal geometric surface combined with zodiac wheel ring with insight spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor ODRAXTI's profile: 'He who opens up the east', Aethyr RII, Earth element, Tarot Temperance, Sephirot Chesed, Zodiac Sagittarius, embodying the essence: 'In ODRAXTI's presence, the morning of insight dawns a guiding Eastern star that cuts through confusion with the sharp logic of truth.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered pouring pose with hands managing flow between vessels",
     "head_shape": "large multi-faceted geometric crystalline head with unique dodecahedron structure",
@@ -8,12 +8,12 @@
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying insight Sacred",
     "hair_style": "geometric appendages incorporating dodecahedron, merkaba, flower of life patterns, styled with Archangel marshals influences",
     "outfit": {
-      "base": "structured solid robes with crystalline geometric patterns fused with wu wei minimalist garments and taiji pattern sashes",
-      "texture": "flat with sharpie-style lines for stability and grounding, incorporating cotton with circular patterns",
+      "base": "structured solid robes with crystalline geometric patterns fused with horoscope chart capes and stellar alignment vests",
+      "texture": "flat with sharpie-style lines for stability and grounding, incorporating metallic thread for planets",
       "details": "Earth element square motifs and foundational patterns",
       "magical_essence": "crystalline dust wisps and mineral particles"
     },
-    "accessory": "orb of mercy with hexagonal geometric surface combined with yin-yang pendant",
+    "accessory": "orb of mercy with hexagonal geometric surface combined with zodiac wheel ring",
     "primary_color": "neutral grey inspired by nature",
     "secondary_color": "neutral grey inspired by wisdom",
     "color_pattern": "shifting",
@@ -69,32 +69,32 @@
     },
     "tradition_traits": {
       "clothing": [
-        "wu wei minimalist garments",
-        "taiji pattern sashes",
         "horoscope chart capes",
-        "planetary symbol tunics",
+        "stellar alignment vests",
+        "wu wei minimalist garments",
+        "yin-yang balanced tunics",
         "Nile god capes",
         "heka-symbol vests",
         "ankh-collared tunics"
       ],
       "accessories": [
-        "yin-yang pendant",
-        "bamboo staff",
         "zodiac wheel ring",
-        "star map scroll",
+        "planetary talisman",
+        "yin-yang pendant",
+        "I Ching coins",
         "scarab amulet"
       ],
       "fabrics": [
-        "cotton with circular patterns",
         "metallic thread for planets",
+        "cotton with circular patterns",
         "beaded fabrics for protection"
       ]
     },
     "traditions_used": [
-      "consciousness_studies",
-      "taoism",
       "astrology",
-      "egyptian_magic"
+      "taoism",
+      "egyptian_magic",
+      "consciousness_studies"
     ]
   },
   "profile_data": {

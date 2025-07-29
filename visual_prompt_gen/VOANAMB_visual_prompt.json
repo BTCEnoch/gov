@@ -69,30 +69,30 @@
         "superposition tunics",
         "entanglement-linked robes",
         "observer effect capes",
-        "Paradigm-shifting patchwork robes",
-        "belief-altering capes",
+        "Arcana-illustrated cloaks",
         "fool's motley tunic",
-        "tower-structured vests",
-        "Major/Minor suit robes"
+        "belief-altering capes",
+        "meta-magic hoods",
+        "sigil-collage jackets"
       ],
       "accessories": [
         "Quantum bit pendant",
         "Schrödinger box amulet",
-        "random symbol dice",
-        "paradigm wheel",
-        "key of Solomon pendant"
+        "wheel of fortune medallion",
+        "trump symbol brooch",
+        "chaos star pendant"
       ],
       "fabrics": [
         "metallic quantum dots",
-        "Mismatched fabrics sewn together",
-        "colorful accents on grey base"
+        "Patterned velvet with card imagery",
+        "printed cotton with custom sigils"
       ]
     },
     "traditions_used": [
       "quantum_physics",
       "zen_buddhism",
-      "chaos_magic",
-      "tarot"
+      "tarot",
+      "chaos_magic"
     ]
   },
   "profile_data": {

@@ -1,6 +1,6 @@
 {
   "governor_name": "USNARDA",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered kneeling pose pouring geometric patterns like starlight, chibi proportions with large translucent geometric cosmic head with unique fractal_wave structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying arrogance pride. Hair or geometric appendages incorporating fractal_wave, dodecahedron, merkaba patterns, styled with Virtue guides influences. Outfit is unique: neutral grey inspired by Indigo and neutral grey inspired by wisdom fluid draped garments with wave geometric patterns fused with Archon-resistant armored robes and pleroma-inspired capes with flat with sharpie-style lines for flow and depth, incorporating metallic weaves for divine light, elaborate with shifting Water element curved motifs and descending patterns and fractal_wave emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like cup of understanding with triangular geometric patterns combined with serpent Ouroboros ring with arrogance spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rippling water wisps and droplet particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor USNARDA's profile: 'He who casts down into the depths', Aethyr ICH, Water element, Tarot The Star, Sephirot Binah, Zodiac Aquarius, embodying the essence: 'When USNARDA is near, arrogance is plunged beneath black tides pride suffocates and humility is reborn in the darkness.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered kneeling pose pouring geometric patterns like starlight, chibi proportions with large translucent geometric cosmic head with unique fractal_wave structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying arrogance pride. Hair or geometric appendages incorporating fractal_wave, dodecahedron, merkaba patterns, styled with Virtue guides influences. Outfit is unique: neutral grey inspired by Indigo and neutral grey inspired by wisdom fluid draped garments with wave geometric patterns fused with Crystal gazer robes and prophetic sight capes with flat with sharpie-style lines for flow and depth, incorporating crystal-clear linen, elaborate with shifting Water element curved motifs and descending patterns and fractal_wave emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like cup of understanding with triangular geometric patterns combined with scrying mirror with arrogance spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rippling water wisps and droplet particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor USNARDA's profile: 'He who casts down into the depths', Aethyr ICH, Water element, Tarot The Star, Sephirot Binah, Zodiac Aquarius, embodying the essence: 'When USNARDA is near, arrogance is plunged beneath black tides pride suffocates and humility is reborn in the darkness.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered kneeling pose pouring geometric patterns like starlight",
     "head_shape": "large translucent geometric cosmic head with unique fractal_wave structure",
@@ -8,12 +8,12 @@
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying arrogance pride",
     "hair_style": "geometric appendages incorporating fractal_wave, dodecahedron, merkaba patterns, styled with Virtue guides influences",
     "outfit": {
-      "base": "fluid draped garments with wave geometric patterns fused with Archon-resistant armored robes and pleroma-inspired capes",
-      "texture": "flat with sharpie-style lines for flow and depth, incorporating metallic weaves for divine light",
+      "base": "fluid draped garments with wave geometric patterns fused with Crystal gazer robes and prophetic sight capes",
+      "texture": "flat with sharpie-style lines for flow and depth, incorporating crystal-clear linen",
       "details": "Water element curved motifs and descending patterns",
       "magical_essence": "rippling water wisps and droplet particles"
     },
-    "accessory": "cup of understanding with triangular geometric patterns combined with serpent Ouroboros ring",
+    "accessory": "cup of understanding with triangular geometric patterns combined with scrying mirror",
     "primary_color": "neutral grey inspired by Indigo",
     "secondary_color": "neutral grey inspired by wisdom",
     "color_pattern": "shifting",
@@ -68,28 +68,34 @@
     },
     "tradition_traits": {
       "clothing": [
-        "Archon-resistant armored robes",
+        "Crystal gazer robes",
+        "prophetic sight capes",
+        "sophia wisdom vests",
         "pleroma-inspired capes",
+        "Archon-resistant armored robes",
+        "Paradigm-shifting patchwork robes",
         "meta-magic hoods",
-        "belief-altering capes",
-        "Paradigm-shifting patchwork robes"
+        "belief-altering capes"
       ],
       "accessories": [
+        "scrying mirror",
+        "vision stone",
         "serpent Ouroboros ring",
-        "demiurge-binding chain",
-        "chaos star pendant",
-        "Servitor creation tools"
+        "Gnostic gem amulet",
+        "random symbol dice",
+        "paradigm wheel"
       ],
       "fabrics": [
-        "metallic weaves for divine light",
-        "rubberized materials for flexibility"
+        "crystal-clear linen",
+        "dark fabrics with hidden symbols",
+        "Mismatched fabrics sewn together"
       ]
     },
     "traditions_used": [
-      "gnosticism",
+      "consciousness_studies",
       "scrying",
-      "chaos_magic",
-      "consciousness_studies"
+      "gnosticism",
+      "chaos_magic"
     ]
   },
   "profile_data": {
@@ -109,7 +115,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.2,
+    "distinctiveness_score": 1.5,
     "traditions_count": 4,
     "unique_descriptors_count": 18
   }

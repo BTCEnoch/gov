@@ -69,23 +69,29 @@
         "entanglement-linked robes",
         "planetary symbol tunics",
         "horoscope chart capes",
-        "stellar alignment vests"
+        "stellar alignment vests",
+        "alchemical wisdom capes",
+        "emerald tablet vests",
+        "as above so below tunics"
       ],
       "accessories": [
         "Quantum bit pendant",
         "star map scroll",
-        "zodiac wheel ring"
+        "zodiac wheel ring",
+        "axiom scroll",
+        "philosophical mercury vial"
       ],
       "fabrics": [
         "Holographic fabrics",
-        "metallic thread for planets"
+        "metallic thread for planets",
+        "philosophical cotton"
       ]
     },
     "traditions_used": [
-      "hermetic_philosophy",
-      "hermetic_magic",
       "quantum_physics",
-      "astrology"
+      "astrology",
+      "hermetic_magic",
+      "hermetic_philosophy"
     ]
   },
   "profile_data": {
@@ -105,7 +111,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.05,
+    "distinctiveness_score": 1.35,
     "traditions_count": 4,
     "unique_descriptors_count": 15
   }

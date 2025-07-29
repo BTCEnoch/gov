@@ -70,23 +70,27 @@
         "superposition tunics",
         "Zodiac-embroidered robes",
         "horoscope chart capes",
-        "planetary symbol tunics"
+        "planetary symbol tunics",
+        "as above so below tunics",
+        "alchemical wisdom capes"
       ],
       "accessories": [
         "particle accelerator ring",
         "zodiac wheel ring",
-        "planetary talisman"
+        "planetary talisman",
+        "Hermetic seal pendant"
       ],
       "fabrics": [
         "probabilistic patterns on cotton",
-        "flowing silk for cosmic movement"
+        "flowing silk for cosmic movement",
+        "hermetic velvet with symbols"
       ]
     },
     "traditions_used": [
-      "hermetic_philosophy",
-      "hermetic_magic",
       "quantum_physics",
-      "astrology"
+      "astrology",
+      "hermetic_magic",
+      "hermetic_philosophy"
     ]
   },
   "profile_data": {
@@ -106,7 +110,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.05,
+    "distinctiveness_score": 1.25,
     "traditions_count": 4,
     "unique_descriptors_count": 16
   }

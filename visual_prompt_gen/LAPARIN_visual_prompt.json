@@ -65,20 +65,24 @@
       "clothing": [
         "Pharaoh-inspired linen robes",
         "ankh-collared tunics",
-        "Nile god capes"
+        "Nile god capes",
+        "Crystal gazer robes",
+        "prophetic sight capes"
       ],
       "accessories": [
-        "eye of Horus pendant"
+        "eye of Horus pendant",
+        "prophetic lens"
       ],
       "fabrics": [
-        "beaded fabrics for protection"
+        "beaded fabrics for protection",
+        "Translucent vision silk"
       ]
     },
     "traditions_used": [
       "systems_theory",
-      "stoicism",
+      "egyptian_magic",
       "scrying",
-      "egyptian_magic"
+      "stoicism"
     ]
   },
   "profile_data": {
@@ -98,7 +102,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 0.7,
+    "distinctiveness_score": 0.9,
     "traditions_count": 4,
     "unique_descriptors_count": 13
   }

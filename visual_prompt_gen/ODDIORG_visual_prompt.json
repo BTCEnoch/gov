@@ -68,20 +68,24 @@
       "clothing": [
         "Pythagorean theorem capes",
         "sacred digit tunics",
-        "vibration level sashes"
+        "vibration level sashes",
+        "as above so below tunics",
+        "alchemical wisdom capes"
       ],
       "accessories": [
-        "abacus talisman"
+        "abacus talisman",
+        "philosophical mercury vial"
       ],
       "fabrics": [
-        "harmonic patterned linen"
+        "harmonic patterned linen",
+        "axiom-embroidered linen"
       ]
     },
     "traditions_used": [
-      "systems_theory",
+      "numerology",
       "hermetic_magic",
       "hermetic_philosophy",
-      "numerology"
+      "systems_theory"
     ]
   },
   "profile_data": {
@@ -101,7 +105,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 0.75,
+    "distinctiveness_score": 0.95,
     "traditions_count": 4,
     "unique_descriptors_count": 16
   }

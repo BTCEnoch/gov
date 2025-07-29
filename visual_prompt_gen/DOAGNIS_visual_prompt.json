@@ -69,17 +69,22 @@
         "entanglement-linked robes",
         "superposition tunics",
         "Wave-particle duality garments",
-        "belief-altering capes",
-        "sigil-collage jackets"
+        "prophetic sight capes",
+        "vision-seeking tunics",
+        "meta-magic hoods",
+        "belief-altering capes"
       ],
       "accessories": [
         "particle accelerator ring",
         "wave function staff",
+        "Crystal ball",
+        "chaos star pendant",
         "Servitor creation tools"
       ],
       "fabrics": [
         "fluctuating textures",
-        "printed cotton with custom sigils"
+        "oracle-woven cotton",
+        "synthetic blends for modernity"
       ]
     },
     "traditions_used": [
@@ -106,7 +111,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 1.1,
+    "distinctiveness_score": 1.35,
     "traditions_count": 4,
     "unique_descriptors_count": 17
   }

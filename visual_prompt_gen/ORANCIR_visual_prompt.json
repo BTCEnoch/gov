@@ -66,21 +66,26 @@
       "clothing": [
         "Zodiac-embroidered robes",
         "stellar alignment vests",
-        "planetary symbol tunics"
+        "planetary symbol tunics",
+        "Hermetic axiom robes",
+        "alchemical wisdom capes",
+        "emerald tablet vests"
       ],
       "accessories": [
         "Astrolabe pendant",
-        "zodiac wheel ring"
+        "zodiac wheel ring",
+        "caduceus staff"
       ],
       "fabrics": [
-        "dark fabrics with star points"
+        "dark fabrics with star points",
+        "Wisdom-woven silk"
       ]
     },
     "traditions_used": [
-      "hermetic_philosophy",
-      "systems_theory",
+      "astrology",
       "hermetic_magic",
-      "astrology"
+      "hermetic_philosophy",
+      "systems_theory"
     ]
   },
   "profile_data": {
@@ -100,7 +105,7 @@
     }
   },
   "quality_metrics": {
-    "distinctiveness_score": 0.8,
+    "distinctiveness_score": 1.05,
     "traditions_count": 4,
     "unique_descriptors_count": 14
   }
