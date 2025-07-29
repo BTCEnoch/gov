@@ -73,30 +73,30 @@
         "planetary symbol tunics",
         "Zodiac-embroidered robes",
         "horoscope chart capes",
-        "Nile god capes",
-        "Pharaoh-inspired linen robes",
-        "heka-symbol vests",
+        "alchemical wisdom capes",
+        "Hermetic axiom robes",
         "emerald tablet vests",
-        "alchemical wisdom capes"
+        "heka-symbol vests",
+        "Nile god capes"
       ],
       "accessories": [
         "planetary talisman",
         "star map scroll",
-        "Ankh cross",
-        "was scepter",
-        "philosophical mercury vial"
+        "Hermetic seal pendant",
+        "philosophical mercury vial",
+        "was scepter"
       ],
       "fabrics": [
         "metallic thread for planets",
-        "papyrus-like textures",
-        "Wisdom-woven silk"
+        "philosophical cotton",
+        "White linen with hieroglyphs"
       ]
     },
     "traditions_used": [
-      "astrology",
       "systems_theory",
-      "egyptian_magic",
-      "hermetic_philosophy"
+      "astrology",
+      "hermetic_philosophy",
+      "egyptian_magic"
     ]
   },
   "profile_data": {

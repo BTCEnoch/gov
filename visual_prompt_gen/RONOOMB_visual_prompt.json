@@ -72,32 +72,32 @@
         "systems dynamics vests",
         "Fractal pattern robes",
         "chaos theory capes",
-        "yin-yang balanced tunics",
-        "Flowing Taoist priest robes",
-        "oracle consultant tunics",
-        "Hexagram-patterned robes",
         "trigram sashes",
+        "Hexagram-patterned robes",
+        "meta-magic hoods",
+        "Paradigm-shifting patchwork robes",
         "sigil-collage jackets",
-        "Paradigm-shifting patchwork robes"
+        "yin-yang balanced tunics",
+        "Flowing Taoist priest robes"
       ],
       "accessories": [
         "complexity compass",
-        "I Ching coins",
-        "Yarrow stalks",
-        "chaos star pendant"
+        "change book pendant",
+        "Servitor creation tools",
+        "yin-yang pendant"
       ],
       "fabrics": [
         "chaotic fiber blends",
-        "Natural silk for flow",
-        "bamboo-woven fabrics",
-        "Mismatched fabrics sewn together"
+        "Silk with line patterns",
+        "synthetic blends for modernity",
+        "Natural silk for flow"
       ]
     },
     "traditions_used": [
       "complexity_science",
-      "taoism",
       "i_ching",
-      "chaos_magic"
+      "chaos_magic",
+      "taoism"
     ]
   },
   "profile_data": {

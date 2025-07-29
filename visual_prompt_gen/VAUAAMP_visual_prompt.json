@@ -1,6 +1,6 @@
 {
   "governor_name": "VAUAAMP",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic flame multifaceted head with unique merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying sacred Sacred. Hair or geometric appendages incorporating merkaba, flower_of_life, tetractys patterns, styled with Archangel marshals influences. Outfit is unique: neutral grey inspired by energy and neutral grey inspired by electric angular armor-like robes with flame geometric patterns fused with Hermetic axiom robes and emerald tablet vests with flat with sharpie-style lines for heat and energy, incorporating axiom-embroidered linen, elaborate with pulsing Fire element triangular motifs and ascending patterns and merkaba emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade combined with Hermetic seal pendant with sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor VAUAAMP's profile: 'He who initiates action', Aethyr MAZ, Fire element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'In VAUAAMP's presence, a first spark of creation sketches sacred angles in living fire one feels the prime mover igniting all beginnings.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic flame multifaceted head with unique merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying sacred Sacred. Hair or geometric appendages incorporating merkaba, flower_of_life, tetractys patterns, styled with Archangel marshals influences. Outfit is unique: neutral grey inspired by energy and neutral grey inspired by electric angular armor-like robes with flame geometric patterns fused with Hexagram-patterned robes and oracle consultant tunics with flat with sharpie-style lines for heat and energy, incorporating bamboo-woven fabrics, elaborate with pulsing Fire element triangular motifs and ascending patterns and merkaba emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade combined with Yarrow stalks with sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like flickering flame wisps and ember particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor VAUAAMP's profile: 'He who initiates action', Aethyr MAZ, Fire element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'In VAUAAMP's presence, a first spark of creation sketches sacred angles in living fire one feels the prime mover igniting all beginnings.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered authoritative standing pose with arms crossed over geometric chest piece",
     "head_shape": "large prismatic flame multifaceted head with unique merkaba structure",
@@ -8,12 +8,12 @@
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying sacred Sacred",
     "hair_style": "geometric appendages incorporating merkaba, flower_of_life, tetractys patterns, styled with Archangel marshals influences",
     "outfit": {
-      "base": "angular armor-like robes with flame geometric patterns fused with Hermetic axiom robes and emerald tablet vests",
-      "texture": "flat with sharpie-style lines for heat and energy, incorporating axiom-embroidered linen",
+      "base": "angular armor-like robes with flame geometric patterns fused with Hexagram-patterned robes and oracle consultant tunics",
+      "texture": "flat with sharpie-style lines for heat and energy, incorporating bamboo-woven fabrics",
       "details": "Fire element triangular motifs and ascending patterns",
       "magical_essence": "flickering flame wisps and ember particles"
     },
-    "accessory": "sword of severity with angular geometric blade combined with Hermetic seal pendant",
+    "accessory": "sword of severity with angular geometric blade combined with Yarrow stalks",
     "primary_color": "neutral grey inspired by energy",
     "secondary_color": "neutral grey inspired by electric",
     "color_pattern": "pulsing",
@@ -69,32 +69,32 @@
     },
     "tradition_traits": {
       "clothing": [
-        "Hermetic axiom robes",
-        "emerald tablet vests",
-        "trigram sashes",
-        "oracle consultant tunics",
         "Hexagram-patterned robes",
+        "oracle consultant tunics",
+        "sigil-collage jackets",
+        "meta-magic hoods",
         "Paradigm-shifting patchwork robes",
-        "belief-altering capes",
-        "meta-magic hoods"
+        "Hermetic axiom robes",
+        "alchemical wisdom capes",
+        "emerald tablet vests"
       ],
       "accessories": [
-        "Hermetic seal pendant",
-        "caduceus staff",
         "Yarrow stalks",
-        "paradigm wheel"
+        "hexagram coins",
+        "Servitor creation tools",
+        "axiom scroll"
       ],
       "fabrics": [
-        "axiom-embroidered linen",
-        "black/white duality weaves",
-        "Mismatched fabrics sewn together"
+        "bamboo-woven fabrics",
+        "printed cotton with custom sigils",
+        "Wisdom-woven silk"
       ]
     },
     "traditions_used": [
-      "systems_theory",
-      "hermetic_philosophy",
       "i_ching",
-      "chaos_magic"
+      "chaos_magic",
+      "systems_theory",
+      "hermetic_philosophy"
     ]
   },
   "profile_data": {

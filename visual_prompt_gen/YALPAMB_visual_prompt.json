@@ -72,29 +72,29 @@
       "clothing": [
         "Fractal pattern robes",
         "systems dynamics vests",
-        "wu wei minimalist garments",
-        "yin-yang balanced tunics",
-        "taiji pattern sashes",
-        "Hexagram-patterned robes",
+        "change-dynamic capes",
+        "trigram sashes",
         "oracle consultant tunics",
-        "trigram sashes"
+        "Flowing Taoist priest robes",
+        "taiji pattern sashes",
+        "yin-yang balanced tunics"
       ],
       "accessories": [
         "complexity compass",
-        "I Ching coins",
-        "Yarrow stalks"
+        "change book pendant",
+        "Bagua mirror"
       ],
       "fabrics": [
         "emergent cotton weaves",
-        "hemp for simplicity",
-        "flexible cotton for adaptation"
+        "flexible cotton for adaptation",
+        "hemp for simplicity"
       ]
     },
     "traditions_used": [
       "complexity_science",
-      "taoism",
+      "i_ching",
       "hermetic_magic",
-      "i_ching"
+      "taoism"
     ]
   },
   "profile_data": {

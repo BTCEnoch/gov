@@ -76,10 +76,10 @@
       ]
     },
     "traditions_used": [
-      "systems_theory",
-      "hermetic_magic",
       "scrying",
-      "kabbalah"
+      "kabbalah",
+      "systems_theory",
+      "hermetic_magic"
     ]
   },
   "profile_data": {

@@ -70,32 +70,32 @@
       "clothing": [
         "Crystal gazer robes",
         "prophetic sight capes",
-        "sophia wisdom vests",
-        "pleroma-inspired capes",
-        "Archon-resistant armored robes",
-        "Paradigm-shifting patchwork robes",
         "meta-magic hoods",
-        "belief-altering capes"
+        "belief-altering capes",
+        "Paradigm-shifting patchwork robes",
+        "Archon-resistant armored robes",
+        "sophia wisdom vests",
+        "pleroma-inspired capes"
       ],
       "accessories": [
         "scrying mirror",
         "vision stone",
-        "serpent Ouroboros ring",
-        "Gnostic gem amulet",
-        "random symbol dice",
-        "paradigm wheel"
+        "chaos star pendant",
+        "Servitor creation tools",
+        "demiurge-binding chain",
+        "hymn scroll"
       ],
       "fabrics": [
         "crystal-clear linen",
-        "dark fabrics with hidden symbols",
-        "Mismatched fabrics sewn together"
+        "rubberized materials for flexibility",
+        "Reinforced leather for protection"
       ]
     },
     "traditions_used": [
       "consciousness_studies",
       "scrying",
-      "gnosticism",
-      "chaos_magic"
+      "chaos_magic",
+      "gnosticism"
     ]
   },
   "profile_data": {

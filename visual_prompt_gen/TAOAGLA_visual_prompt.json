@@ -67,34 +67,34 @@
         "emergence theory tunics",
         "chaos theory capes",
         "systems dynamics vests",
-        "emerald tablet vests",
-        "Hermetic axiom robes",
         "oracle consultant tunics",
-        "trigram sashes",
-        "change-dynamic capes",
-        "Paradigm-shifting patchwork robes",
+        "Hexagram-patterned robes",
+        "meta-magic hoods",
         "sigil-collage jackets",
-        "belief-altering capes"
+        "belief-altering capes",
+        "Hermetic axiom robes",
+        "as above so below tunics",
+        "alchemical wisdom capes"
       ],
       "accessories": [
         "Butterfly effect pendant",
-        "philosophical mercury vial",
-        "caduceus staff",
+        "bagua mirror",
         "hexagram coins",
-        "Servitor creation tools"
+        "chaos star pendant",
+        "Hermetic seal pendant"
       ],
       "fabrics": [
         "chaotic fiber blends",
-        "axiom-embroidered linen",
         "bamboo-woven fabrics",
-        "Mismatched fabrics sewn together"
+        "synthetic blends for modernity",
+        "Wisdom-woven silk"
       ]
     },
     "traditions_used": [
       "complexity_science",
-      "hermetic_philosophy",
       "i_ching",
-      "chaos_magic"
+      "chaos_magic",
+      "hermetic_philosophy"
     ]
   },
   "profile_data": {

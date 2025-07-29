@@ -1,6 +1,6 @@
 {
   "governor_name": "LEXARPH",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered blessing pose with both hands raised in sacred mudra, chibi proportions with large translucent geometric solid head with unique Merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating Merkaba, Flower of Life, Vesica Piscis patterns, styled with Seraph commands influences. Outfit is unique: neutral grey inspired by Silver and neutral grey inspired by spiritual transcendent layered robes combining all elemental patterns fused with observer effect capes and entanglement-linked robes with flat with sharpie-style lines for unity and synthesis, incorporating Holographic fabrics, elaborate with shifting Spirit element pentagram motifs and unifying patterns and Merkaba emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like rose of victory with seven-fold geometric petals combined with Quantum bit pendant with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rainbow essence wisps and transcendent particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor LEXARPH's profile: 'He who is first of the air', Aethyr ZAX, Spirit element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus, embodying the essence: 'In LEXARPH's presence, a liminal breeze seems to whisper fate onto invisible vellum one can almost read the script of destiny between worlds.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered blessing pose with both hands raised in sacred mudra, chibi proportions with large translucent geometric solid head with unique Merkaba structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating Merkaba, Flower of Life, Vesica Piscis patterns, styled with Seraph commands influences. Outfit is unique: neutral grey inspired by Silver and neutral grey inspired by spiritual transcendent layered robes combining all elemental patterns fused with horoscope chart capes and planetary symbol tunics with flat with sharpie-style lines for unity and synthesis, incorporating Celestial-patterned velvet, elaborate with shifting Spirit element pentagram motifs and unifying patterns and Merkaba emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like rose of victory with seven-fold geometric petals combined with Astrolabe pendant with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like rainbow essence wisps and transcendent particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor LEXARPH's profile: 'He who is first of the air', Aethyr ZAX, Spirit element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus, embodying the essence: 'In LEXARPH's presence, a liminal breeze seems to whisper fate onto invisible vellum one can almost read the script of destiny between worlds.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered blessing pose with both hands raised in sacred mudra",
     "head_shape": "large translucent geometric solid head with unique Merkaba structure",
@@ -8,12 +8,12 @@
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred",
     "hair_style": "geometric appendages incorporating Merkaba, Flower of Life, Vesica Piscis patterns, styled with Seraph commands influences",
     "outfit": {
-      "base": "transcendent layered robes combining all elemental patterns fused with observer effect capes and entanglement-linked robes",
-      "texture": "flat with sharpie-style lines for unity and synthesis, incorporating Holographic fabrics",
+      "base": "transcendent layered robes combining all elemental patterns fused with horoscope chart capes and planetary symbol tunics",
+      "texture": "flat with sharpie-style lines for unity and synthesis, incorporating Celestial-patterned velvet",
       "details": "Spirit element pentagram motifs and unifying patterns",
       "magical_essence": "rainbow essence wisps and transcendent particles"
     },
-    "accessory": "rose of victory with seven-fold geometric petals combined with Quantum bit pendant",
+    "accessory": "rose of victory with seven-fold geometric petals combined with Astrolabe pendant",
     "primary_color": "neutral grey inspired by Silver",
     "secondary_color": "neutral grey inspired by spiritual",
     "color_pattern": "shifting",
@@ -65,31 +65,31 @@
     },
     "tradition_traits": {
       "clothing": [
-        "observer effect capes",
-        "entanglement-linked robes",
-        "planetary symbol tunics",
         "horoscope chart capes",
-        "stellar alignment vests",
+        "planetary symbol tunics",
+        "entanglement-linked robes",
+        "observer effect capes",
+        "superposition tunics",
         "alchemical wisdom capes",
         "emerald tablet vests",
         "as above so below tunics"
       ],
       "accessories": [
-        "Quantum bit pendant",
-        "star map scroll",
-        "zodiac wheel ring",
+        "Astrolabe pendant",
+        "particle accelerator ring",
+        "Schrödinger box amulet",
         "axiom scroll",
         "philosophical mercury vial"
       ],
       "fabrics": [
-        "Holographic fabrics",
-        "metallic thread for planets",
+        "Celestial-patterned velvet",
+        "probabilistic patterns on cotton",
         "philosophical cotton"
       ]
     },
     "traditions_used": [
-      "quantum_physics",
       "astrology",
+      "quantum_physics",
       "hermetic_magic",
       "hermetic_philosophy"
     ]

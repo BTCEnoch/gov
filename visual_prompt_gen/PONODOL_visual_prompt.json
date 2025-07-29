@@ -68,34 +68,34 @@
       "clothing": [
         "chaos theory capes",
         "systems dynamics vests",
-        "Hermetic axiom robes",
-        "alchemical wisdom capes",
         "Hexagram-patterned robes",
         "change-dynamic capes",
-        "meta-magic hoods",
-        "belief-altering capes"
+        "Paradigm-shifting patchwork robes",
+        "belief-altering capes",
+        "emerald tablet vests",
+        "alchemical wisdom capes"
       ],
       "accessories": [
         "strange attractor model",
         "Butterfly effect pendant",
-        "caduceus staff",
         "hexagram coins",
-        "bagua mirror",
         "chaos star pendant",
-        "random symbol dice"
+        "random symbol dice",
+        "caduceus staff",
+        "philosophical mercury vial"
       ],
       "fabrics": [
         "Fractal-patterned silk",
-        "axiom-embroidered linen",
-        "Silk with line patterns",
-        "printed cotton with custom sigils"
+        "bamboo-woven fabrics",
+        "Mismatched fabrics sewn together",
+        "hermetic velvet with symbols"
       ]
     },
     "traditions_used": [
       "complexity_science",
-      "hermetic_philosophy",
       "i_ching",
-      "chaos_magic"
+      "chaos_magic",
+      "hermetic_philosophy"
     ]
   },
   "profile_data": {

@@ -67,29 +67,29 @@
       "clothing": [
         "oracle divination vests",
         "Crystal gazer robes",
-        "divine spark tunics",
-        "pleroma-inspired capes",
-        "meta-magic hoods",
         "sigil-collage jackets",
-        "Paradigm-shifting patchwork robes"
+        "belief-altering capes",
+        "sophia wisdom vests",
+        "divine spark tunics",
+        "Archon-resistant armored robes"
       ],
       "accessories": [
         "Crystal ball",
         "vision stone",
-        "Gnostic gem amulet",
-        "paradigm wheel"
+        "Servitor creation tools",
+        "hymn scroll"
       ],
       "fabrics": [
         "Translucent vision silk",
-        "Reinforced leather for protection",
-        "printed cotton with custom sigils"
+        "Mismatched fabrics sewn together",
+        "translucent veils for revelation"
       ]
     },
     "traditions_used": [
       "consciousness_studies",
       "scrying",
-      "gnosticism",
-      "chaos_magic"
+      "chaos_magic",
+      "gnosticism"
     ]
   },
   "profile_data": {

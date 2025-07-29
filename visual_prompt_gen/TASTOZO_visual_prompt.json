@@ -73,35 +73,35 @@
       "clothing": [
         "Fractal pattern robes",
         "emergence theory tunics",
-        "planetary symbol tunics",
+        "sigil-collage jackets",
+        "belief-altering capes",
+        "stellar alignment vests",
         "horoscope chart capes",
         "taiji pattern sashes",
-        "wu wei minimalist garments",
-        "meta-magic hoods",
-        "sigil-collage jackets",
-        "belief-altering capes"
+        "yin-yang balanced tunics",
+        "wu wei minimalist garments"
       ],
       "accessories": [
         "strange attractor model",
         "emergence calculator",
-        "star map scroll",
-        "Astrolabe pendant",
-        "Bagua mirror",
         "paradigm wheel",
-        "Servitor creation tools"
+        "Servitor creation tools",
+        "Astrolabe pendant",
+        "I Ching coins",
+        "Bagua mirror"
       ],
       "fabrics": [
         "emergent cotton weaves",
-        "flowing silk for cosmic movement",
-        "hemp for simplicity",
-        "rubberized materials for flexibility"
+        "printed cotton with custom sigils",
+        "dark fabrics with star points",
+        "hemp for simplicity"
       ]
     },
     "traditions_used": [
       "complexity_science",
+      "chaos_magic",
       "astrology",
-      "taoism",
-      "chaos_magic"
+      "taoism"
     ]
   },
   "profile_data": {

@@ -70,34 +70,34 @@
         "chaos theory capes",
         "Fractal pattern robes",
         "emergence theory tunics",
-        "Flowing Taoist priest robes",
-        "taiji pattern sashes",
         "Hexagram-patterned robes",
-        "change-dynamic capes",
-        "sigil-collage jackets",
+        "oracle consultant tunics",
         "Paradigm-shifting patchwork robes",
-        "meta-magic hoods"
+        "belief-altering capes",
+        "yin-yang balanced tunics",
+        "Flowing Taoist priest robes",
+        "taiji pattern sashes"
       ],
       "accessories": [
         "strange attractor model",
         "emergence calculator",
-        "bamboo staff",
-        "Yarrow stalks",
+        "bagua mirror",
         "Servitor creation tools",
-        "paradigm wheel"
+        "Bagua mirror",
+        "I Ching coins"
       ],
       "fabrics": [
         "Fractal-patterned silk",
-        "Natural silk for flow",
         "Silk with line patterns",
-        "Mismatched fabrics sewn together"
+        "Mismatched fabrics sewn together",
+        "Natural silk for flow"
       ]
     },
     "traditions_used": [
       "complexity_science",
-      "taoism",
       "i_ching",
-      "chaos_magic"
+      "chaos_magic",
+      "taoism"
     ]
   },
   "profile_data": {
