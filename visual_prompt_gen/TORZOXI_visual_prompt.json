@@ -1,11 +1,11 @@
 {
   "governor_name": "TORZOXI",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered blessing pose with both hands raised in sacred mudra, chibi proportions with large multi-faceted prismatic geometric head with unique octahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying cosmic. Hair or geometric appendages incorporating octahedron, merkaba, flower of life patterns, styled with Seraph commands influences. Outfit is unique: neutral grey inspired by Silver and dark grey with high contrast inspired by electric ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and octahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like rose of victory with seven-fold geometric petals with cosmic spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor TORZOXI's profile: 'She who rises up in strength', Aethyr POP, Air element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus, embodying the essence: 'In TORZOXI's presence, courage surges anew the atmosphere brims with resilient valor, empowering the spirit to stand valiant against all odds.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered blessing pose with both hands raised in sacred mudra, chibi proportions with large multi-faceted prismatic geometric head with unique octahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying balance. Hair or geometric appendages incorporating octahedron, merkaba, flower of life patterns, styled with Seraph commands influences. Outfit is unique: neutral grey inspired by Silver and dark grey with high contrast inspired by electric ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and octahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like rose of victory with seven-fold geometric petals with balance spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor TORZOXI's profile: 'She who rises up in strength', Aethyr POP, Air element, Tarot The Hierophant, Sephirot Netzach, Zodiac Taurus, embodying the essence: 'In TORZOXI's presence, courage surges anew the atmosphere brims with resilient valor, empowering the spirit to stand valiant against all odds.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered blessing pose with both hands raised in sacred mudra",
     "head_shape": "large multi-faceted prismatic geometric head with unique octahedron structure",
     "body_style": "angular geometric body with multi-faceted facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying cosmic",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying balance",
     "hair_style": "geometric appendages incorporating octahedron, merkaba, flower of life patterns, styled with Seraph commands influences",
     "outfit": {
       "base": "ethereal flowing robes with geometric wind patterns",
@@ -28,7 +28,7 @@
       "Air_symbol"
     ],
     "energy_signature": {
-      "type": "cosmic",
+      "type": "balance",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
@@ -42,15 +42,16 @@
         "prismatic",
         "geometric",
         "structured",
-        "cosmic",
-        "interconnectedness"
+        "divine",
+        "balance",
+        "cosmic"
       ],
       "appendage_style": [
         "Seraph",
         "commands"
       ],
       "motion_vibe": [
-        "cosmic"
+        "balance"
       ],
       "color_influences": [
         "Silver",

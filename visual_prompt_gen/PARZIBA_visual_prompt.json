@@ -1,11 +1,11 @@
 {
   "governor_name": "PARZIBA",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered kneeling pose pouring geometric patterns like starlight, chibi proportions with large translucent luminous geometric head with unique stellate structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle patterns. Hair or geometric appendages incorporating stellate, fractal, merkaba patterns, styled with Virtue commands influences. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and stellate emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like cup of understanding with triangular geometric patterns with gentle spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor PARZIBA's profile: 'He who promises', Aethyr CHR, Air element, Tarot The Star, Sephirot Binah, Zodiac Aquarius, embodying the essence: 'In PARZIBA's presence, the spirit lifts with quiet optimism an assuring light of faith glimmers even in darkness, gentle and unwavering.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered kneeling pose pouring geometric patterns like starlight, chibi proportions with large translucent crystalline luminous head with unique stellate structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying darkness gentle. Hair or geometric appendages incorporating stellate, fractal, merkaba patterns, styled with Virtue commands influences. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and stellate emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like cup of understanding with triangular geometric patterns with darkness spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor PARZIBA's profile: 'He who promises', Aethyr CHR, Air element, Tarot The Star, Sephirot Binah, Zodiac Aquarius, embodying the essence: 'In PARZIBA's presence, the spirit lifts with quiet optimism an assuring light of faith glimmers even in darkness, gentle and unwavering.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered kneeling pose pouring geometric patterns like starlight",
-    "head_shape": "large translucent luminous geometric head with unique stellate structure",
+    "head_shape": "large translucent crystalline luminous head with unique stellate structure",
     "body_style": "angular geometric body with translucent facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying gentle patterns",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying darkness gentle",
     "hair_style": "geometric appendages incorporating stellate, fractal, merkaba patterns, styled with Virtue commands influences",
     "outfit": {
       "base": "ethereal flowing robes with geometric wind patterns",
@@ -28,7 +28,7 @@
       "Air_symbol"
     ],
     "energy_signature": {
-      "type": "gentle",
+      "type": "darkness",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
@@ -39,6 +39,7 @@
     "unique_descriptors": {
       "head_descriptors": [
         "translucent",
+        "crystalline",
         "luminous",
         "geometric",
         "fluid",
@@ -50,9 +51,11 @@
         "commands",
         "empyrean",
         "legions",
+        "darkness",
         "gentle"
       ],
       "motion_vibe": [
+        "darkness",
         "gentle",
         "patterns"
       ],
@@ -63,8 +66,8 @@
       ],
       "primary_form_words": [
         "translucent",
-        "luminous",
-        "geometric"
+        "crystalline",
+        "luminous"
       ]
     }
   },

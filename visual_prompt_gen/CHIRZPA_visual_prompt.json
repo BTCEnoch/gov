@@ -1,12 +1,12 @@
 {
   "governor_name": "CHIRZPA",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic geometric angular head with unique tetrahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Platonic. Hair or geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with commands influences. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and tetrahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with Platonic spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor CHIRZPA's profile: 'He who enjoys loud sounds', Aethyr ASP, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'In CHIRZPA's presence, the ground itself feels alive with boisterous energy earthy laughter and exuberant vibrations spur bold action and joy.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic geometric angular head with unique tetrahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Platonic. Hair or geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with Principality commands influences. Outfit is unique: dark grey with high contrast inspired by Electric and neutral grey inspired by blue ethereal flowing robes with geometric wind patterns with flat with sharpie-style lines for depth and movement, elaborate with shifting Air element glyphs and spiral motifs and tetrahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with Platonic spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like faint wind wisps and floating geometric particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor CHIRZPA's profile: 'He who enjoys loud sounds', Aethyr ASP, Air element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'In CHIRZPA's presence, the ground itself feels alive with boisterous energy earthy laughter and exuberant vibrations spur bold action and joy.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered authoritative standing pose with arms crossed over geometric chest piece",
     "head_shape": "large prismatic geometric angular head with unique tetrahedron structure",
     "body_style": "angular geometric body with prismatic facets, flattened with sharpie-like crease lines",
     "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Platonic",
-    "hair_style": "geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with commands influences",
+    "hair_style": "geometric appendages incorporating tetrahedron, octahedron, stellated polyhedron patterns, styled with Principality commands influences",
     "outfit": {
       "base": "ethereal flowing robes with geometric wind patterns",
       "texture": "flat with sharpie-style lines for depth and movement",
@@ -44,10 +44,12 @@
         "translucent",
         "fractal",
         "planes",
+        "dynamic",
         "Platonic",
         "solids"
       ],
       "appendage_style": [
+        "Principality",
         "commands"
       ],
       "motion_vibe": [

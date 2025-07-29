@@ -1,12 +1,12 @@
 {
   "governor_name": "SAZIAMI",
-  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic geometric structured head with unique octahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying potential. Hair or geometric appendages incorporating octahedron, hexagram, tetrahedron patterns from sacred geometry symbolism. Outfit is unique: neutral grey and neutral grey structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with pulsing Earth element square motifs and foundational patterns and octahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with potential spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAZIAMI's profile: 'He who has true power', Aethyr ZAA, Earth element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'As SAZIAMI approaches, a wave of confidence asserts itself the atmosphere bristles with authority and clear command that cannot be ignored.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
+  "prompt": "A chibi-style character in greyscale construction paper cut-out aesthetic, flat shapes with sharp edges and minimal shading, on transparent background. The face is solid black with no features. The body is in a front-facing centered authoritative standing pose with arms crossed over geometric chest piece, chibi proportions with large prismatic geometric divine head with unique octahedron structure suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred. Hair or geometric appendages incorporating octahedron, hexagram, tetrahedron patterns, styled with Principality influences. Outfit is unique: neutral grey and neutral grey structured solid robes with crystalline geometric patterns with flat with sharpie-style lines for stability and grounding, elaborate with pulsing Earth element square motifs and foundational patterns and octahedron emblem on chest; texture flat with sharpie-style lines for depth. Include subtle accessory like sword of severity with angular geometric blade with Sacred spiraling energy emanations. Environmental effect: sacred geometric field creating geometric aura patterns around the character with subtle magical essence emanations like crystalline dust wisps and mineral particles. Emulate construction paper layering style exactly, but make this visually unique based on Governor SAZIAMI's profile: 'He who has true power', Aethyr ZAA, Earth element, Tarot The Emperor, Sephirot Geburah, Zodiac Aries, embodying the essence: 'As SAZIAMI approaches, a wave of confidence asserts itself the atmosphere bristles with authority and clear command that cannot be ignored.' Resolution 512x512, optimized for layering in Enochian Cyphers game and WebGL rendering with TAP hypertoken metadata embedding.",
   "visual_elements": {
     "pose": "front-facing centered authoritative standing pose with arms crossed over geometric chest piece",
-    "head_shape": "large prismatic geometric structured head with unique octahedron structure",
+    "head_shape": "large prismatic geometric divine head with unique octahedron structure",
     "body_style": "angular geometric body with prismatic facets, flattened with sharpie-like crease lines",
-    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying potential",
-    "hair_style": "geometric appendages incorporating octahedron, hexagram, tetrahedron patterns from sacred geometry symbolism",
+    "motion_quality": "suggesting stillness and motion through sharp, layered cut-outs with drawn depth, embodying Sacred",
+    "hair_style": "geometric appendages incorporating octahedron, hexagram, tetrahedron patterns, styled with Principality influences",
     "outfit": {
       "base": "structured solid robes with crystalline geometric patterns",
       "texture": "flat with sharpie-style lines for stability and grounding",
@@ -28,7 +28,7 @@
       "Earth_symbol"
     ],
     "energy_signature": {
-      "type": "potential",
+      "type": "Sacred",
       "flow": "spiraling with magical essence wisps"
     },
     "environment_effect": "sacred geometric field with faint aura lines",
@@ -40,18 +40,22 @@
       "head_descriptors": [
         "prismatic",
         "geometric",
+        "divine",
         "structured",
-        "potential"
+        "Sacred",
+        "divine"
       ],
-      "appendage_style": [],
+      "appendage_style": [
+        "Principality"
+      ],
       "motion_vibe": [
-        "potential"
+        "Sacred"
       ],
       "color_influences": [],
       "primary_form_words": [
         "prismatic",
         "geometric",
-        "structured"
+        "divine"
       ]
     }
   },
