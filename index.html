@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enochian Cyphers - Mystical Background</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      overflow: hidden;
+      font-family: 'Courier New', monospace;
+    }
+    #info {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 12px;
+      z-index: 100;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="info">
+    Enochian Cyphers - 91 Governor Angels<br>
+    Bitcoin L1-native RPG<br>
+    Press SPACE for new pattern
+  </div>
+  <script>
+    let objects = []; // Array of scrolling objects
+    let numObjects = 30; // Increased ethereal elements
+    let governorNames = [
+      'ABRIOND', 'ADVORPT', 'AMBRIOL', 'ANDISPI', 'ASPIAON', 'AXXIARG', 'AYDROPT',
+      'CALZIRG', 'CHASLPO', 'CHIRZPA', 'COMANAN', 'CRALPIR', 'CRPANIB', 'CUCARPT',
+      'DIALOIA', 'DOAGNIS', 'DOANZIN', 'DOCEPAX', 'DOXMAEL', 'GECAOND', 'GEDOONS',
+      'GEMNIMB', 'GENADOL', 'GMTZIAM', 'LAPARIN', 'LAVACON', 'LAZDIXI', 'LAZHIIM',
+      'LEXARPH', 'MATHVLA', 'MIRZIND', 'MOLPAND', 'NABAOMI', 'NIGRANA', 'NOCAMAL',
+      'NOTIABI', 'OBUAORS', 'OCCODON', 'ODDIORG', 'ODRAXTI', 'OMAGRAP', 'ONIZIMP',
+      'OPMACAS', 'ORANCIR', 'OSIDAIA', 'OXLOPAR', 'PABNIXP', 'PACASNA', 'PARAOAN',
+      'PARZIBA', 'PASCOMB', 'POCISNI', 'PONODOL', 'POPHAND', 'POTHNIR', 'PRISTAC',
+      'RANGLAM', 'RONOOMB', 'SAMAPHA', 'SAXTOMP', 'SAZIAMI', 'SIGMORF', 'SOAGEEL',
+      'SOCHIAL', 'TABITOM', 'TAHAMDO', 'TAOAGLA', 'TAPAMAL', 'TASTOZO', 'TEDOOND',
+      'THOTANP', 'TIARPAX', 'TOANTOM', 'TOCARZI', 'TODNAON', 'TORZOXI', 'TOTOCAN',
+      'USNARDA', 'VALGARS', 'VASTRIM', 'VAUAAMP', 'VIROOLI', 'VIVIPOS', 'VIXPALG',
+      'VOANAMB', 'YALPAMB', 'ZAFASAI', 'ZAMFRES', 'ZAXANIN', 'ZILDRON', 'ZIRZIRD'
+    ];
+    let aethyrs = [
+      'LIL', 'ARN', 'ZOM', 'PAZ', 'LIT', 'MAZ', 'DEO', 'ZID', 'ZIP', 'ZAX',
+      'ICH', 'LOE', 'ZIM', 'UTI', 'OXO', 'LEA', 'TAN', 'ZEN', 'POP', 'CHR',
+      'ASP', 'LIN', 'TOR', 'NIA', 'RII', 'BAG', 'ZAA', 'DES', 'ZIR', 'TEX'
+    ];
+    let currentGovernorIndex = 0;
+
+    class EtherealObject {
+      constructor(x, y, type, speed, alpha) {
+        this.x = x;
+        this.y = y;
+        this.type = type; // 'sigil', 'geometry', 'aethyr', 'governor'
+        this.speed = speed; // Vertical scroll speed (parallax variance)
+        this.alpha = alpha; // Transparency (0-255)
+        this.rotation = 0; // For animation
+        this.size = random(30, 200); // Variable size for depth
+        this.baseAlpha = alpha;
+        this.pulseOffset = random(TWO_PI);
+        this.governorIndex = floor(random(governorNames.length));
+        this.aethyrIndex = floor(random(aethyrs.length));
+        this.geometryType = floor(random(5)); // Different sacred geometry types
+        this.layer = random() < 0.3 ? 'background' : 'foreground'; // Depth layers
+      }
+
+      update() {
+        // Parallax scrolling with depth-based speed
+        this.y += this.speed * (this.layer === 'background' ? 0.5 : 1.0);
+        if (this.y > height + this.size) {
+          this.y = -this.size;
+          // Regenerate properties for variety
+          this.governorIndex = floor(random(governorNames.length));
+          this.aethyrIndex = floor(random(aethyrs.length));
+        }
+
+        // Multi-layered rotation based on type
+        if (this.type === 'sigil' || this.type === 'governor') {
+          this.rotation += 0.005; // Slower mystical rotation
+        } else {
+          this.rotation += 0.015; // Faster geometric rotation
+        }
+
+        // Enhanced pulsing with individual offset
+        let pulse = sin(frameCount * 0.008 + this.pulseOffset);
+        this.alpha = map(pulse, -1, 1, this.baseAlpha * 0.3, this.baseAlpha);
+
+        // Subtle horizontal drift for ethereal effect
+        this.x += sin(frameCount * 0.003 + this.y * 0.01) * 0.2;
+      }
+
+      display() {
+        push();
+        translate(this.x, this.y);
+        rotate(this.rotation);
+
+        // Layer-based styling
+        if (this.layer === 'background') {
+          stroke(100, 150, 255, this.alpha * 0.6); // Blue tint for background
+          strokeWeight(0.5);
+        } else {
+          stroke(255, 220, 150, this.alpha); // Warm white for foreground
+          strokeWeight(1);
+        }
+
+        noFill();
+
+        // Enhanced type system
+        switch(this.type) {
+          case 'sigil':
+            this.drawEnochianSigil();
+            break;
+          case 'governor':
+            this.drawGovernorSigil();
+            break;
+          case 'aethyr':
+            this.drawAethyrPattern();
+            break;
+          default:
+            this.drawSacredGeometry();
+        }
+        pop();
+      }
+
+      drawEnochianSigil() {
+        // Enhanced Enochian sigil with authentic patterns
+        let r = this.size / 2;
+
+        // Central cross (Enochian tablet structure)
+        line(-r, 0, r, 0);
+        line(0, -r, 0, r);
+
+        // Outer circle (Aethyric boundary)
+        ellipse(0, 0, this.size * 0.9);
+
+        // Inner sacred geometry
+        ellipse(0, 0, this.size * 0.5);
+
+        // Directional rays (4 watchtowers)
+        for (let i = 0; i < 4; i++) {
+          let angle = TWO_PI / 4 * i + PI/4;
+          let x1 = cos(angle) * r * 0.3;
+          let y1 = sin(angle) * r * 0.3;
+          let x2 = cos(angle) * r * 0.7;
+          let y2 = sin(angle) * r * 0.7;
+          line(x1, y1, x2, y2);
+        }
+
+        // Mystical triangulation
+        for (let i = 0; i < 3; i++) {
+          let angle = TWO_PI / 3 * i;
+          let x = cos(angle) * r * 0.4;
+          let y = sin(angle) * r * 0.4;
+          point(x, y);
+        }
+      }
+
+      drawGovernorSigil() {
+        // Governor-specific sigil based on name patterns
+        let name = governorNames[this.governorIndex];
+        let r = this.size / 2;
+
+        // Base structure from governor name hash
+        let hash = 0;
+        for (let i = 0; i < name.length; i++) {
+          hash += name.charCodeAt(i);
+        }
+
+        let sides = 3 + (hash % 6); // 3-8 sided base
+
+        // Outer polygon
+        beginShape();
+        for (let i = 0; i < sides; i++) {
+          let angle = TWO_PI / sides * i;
+          let x = cos(angle) * r * 0.8;
+          let y = sin(angle) * r * 0.8;
+          vertex(x, y);
+        }
+        endShape(CLOSE);
+
+        // Inner connections based on name
+        for (let i = 0; i < name.length && i < 6; i++) {
+          let angle1 = TWO_PI / name.length * i;
+          let angle2 = TWO_PI / name.length * ((i + 2) % name.length);
+          let x1 = cos(angle1) * r * 0.4;
+          let y1 = sin(angle1) * r * 0.4;
+          let x2 = cos(angle2) * r * 0.4;
+          let y2 = sin(angle2) * r * 0.4;
+          line(x1, y1, x2, y2);
+        }
+
+        // Central sigil mark
+        ellipse(0, 0, r * 0.2);
+      }
+
+      drawAethyrPattern() {
+        // Aethyr-specific patterns (30 Aethyrs)
+        let aethyr = aethyrs[this.aethyrIndex];
+        let r = this.size / 2;
+
+        // Concentric circles representing Aethyric layers
+        for (let i = 1; i <= 3; i++) {
+          ellipse(0, 0, r * 2 * i / 3);
+        }
+
+        // Letter-based pattern
+        let letterCount = aethyr.length;
+        for (let i = 0; i < letterCount; i++) {
+          let angle = TWO_PI / letterCount * i;
+          let x1 = cos(angle) * r * 0.3;
+          let y1 = sin(angle) * r * 0.3;
+          let x2 = cos(angle) * r * 0.8;
+          let y2 = sin(angle) * r * 0.8;
+          line(x1, y1, x2, y2);
+
+          // Letter position markers
+          ellipse(x2, y2, 3);
+        }
+
+        // Central Aethyric symbol
+        for (let i = 0; i < 6; i++) {
+          let angle = TWO_PI / 6 * i;
+          let x = cos(angle) * r * 0.15;
+          let y = sin(angle) * r * 0.15;
+          point(x, y);
+        }
+      }
+
+      drawSacredGeometry() {
+        let r = this.size / 2;
+
+        switch(this.geometryType) {
+          case 0: // Flower of Life
+            this.drawFlowerOfLife(r);
+            break;
+          case 1: // Metatron's Cube
+            this.drawMetatronsCube(r);
+            break;
+          case 2: // Golden Spiral
+            this.drawGoldenSpiral(r);
+            break;
+          case 3: // Platonic Solids
+            this.drawPlatonicSolid(r);
+            break;
+          default: // Merkaba
+            this.drawMerkaba(r);
+        }
+      }
+
+      drawFlowerOfLife(r) {
+        // Central circle
+        ellipse(0, 0, r);
+
+        // Six surrounding circles
+        for (let i = 0; i < 6; i++) {
+          let angle = TWO_PI / 6 * i;
+          let x = cos(angle) * r * 0.5;
+          let y = sin(angle) * r * 0.5;
+          ellipse(x, y, r);
+        }
+      }
+
+      drawMetatronsCube(r) {
+        // Outer hexagon
+        beginShape();
+        for (let i = 0; i < 6; i++) {
+          let angle = TWO_PI / 6 * i;
+          let x = cos(angle) * r * 0.8;
+          let y = sin(angle) * r * 0.8;
+          vertex(x, y);
+        }
+        endShape(CLOSE);
+
+        // Inner connections
+        for (let i = 0; i < 6; i++) {
+          let angle1 = TWO_PI / 6 * i;
+          let angle2 = TWO_PI / 6 * ((i + 3) % 6);
+          let x1 = cos(angle1) * r * 0.8;
+          let y1 = sin(angle1) * r * 0.8;
+          let x2 = cos(angle2) * r * 0.8;
+          let y2 = sin(angle2) * r * 0.8;
+          line(x1, y1, x2, y2);
+        }
+
+        // Central hexagon
+        beginShape();
+        for (let i = 0; i < 6; i++) {
+          let angle = TWO_PI / 6 * i;
+          let x = cos(angle) * r * 0.3;
+          let y = sin(angle) * r * 0.3;
+          vertex(x, y);
+        }
+        endShape(CLOSE);
+      }
+
+      drawGoldenSpiral(r) {
+        // Fibonacci spiral (golden ratio)
+        let phi = (1 + sqrt(5)) / 2;
+        let radius = 1;
+        let prevX = 0, prevY = 0;
+
+        for (let i = 0; i < 30; i++) {
+          let theta = i * TWO_PI / phi;
+          let x = radius * cos(theta);
+          let y = radius * sin(theta);
+
+          if (i > 0) {
+            line(prevX, prevY, x, y);
+          }
+
+          prevX = x;
+          prevY = y;
+          radius *= 1.05; // Golden expansion
+        }
+      }
+
+      drawPlatonicSolid(r) {
+        // Tetrahedron projection
+        let vertices = [
+          [0, -r * 0.6],
+          [-r * 0.5, r * 0.3],
+          [r * 0.5, r * 0.3],
+          [0, 0]
+        ];
+
+        // Draw edges
+        for (let i = 0; i < vertices.length; i++) {
+          for (let j = i + 1; j < vertices.length; j++) {
+            line(vertices[i][0], vertices[i][1], vertices[j][0], vertices[j][1]);
+          }
+        }
+      }
+
+      drawMerkaba(r) {
+        // Upward triangle
+        beginShape();
+        for (let i = 0; i < 3; i++) {
+          let angle = TWO_PI / 3 * i - PI/2;
+          let x = cos(angle) * r * 0.7;
+          let y = sin(angle) * r * 0.7;
+          vertex(x, y);
+        }
+        endShape(CLOSE);
+
+        // Downward triangle
+        beginShape();
+        for (let i = 0; i < 3; i++) {
+          let angle = TWO_PI / 3 * i + PI/2;
+          let x = cos(angle) * r * 0.7;
+          let y = sin(angle) * r * 0.7;
+          vertex(x, y);
+        }
+        endShape(CLOSE);
+
+        // Central circle
+        ellipse(0, 0, r * 0.3);
+      }
+    }
+
+    function setup() {
+      createCanvas(windowWidth, windowHeight);
+      background(0, 0); // Transparent black (alpha 0)
+
+      // Deterministic seed based on current governor
+      randomSeed(91 + currentGovernorIndex);
+
+      generateObjects();
+      frameRate(30); // Efficient FPS for smooth animation
+    }
+
+    function generateObjects() {
+      objects = []; // Clear existing objects
+
+      for (let i = 0; i < numObjects; i++) {
+        let x = random(width);
+        let y = random(-height, height); // Spread initial positions
+
+        // Enhanced type distribution
+        let rand = random();
+        let type;
+        if (rand < 0.3) type = 'sigil';
+        else if (rand < 0.5) type = 'governor';
+        else if (rand < 0.7) type = 'aethyr';
+        else type = 'geometry';
+
+        let speed = random(0.3, 1.8); // Varied parallax speeds
+        let alpha = random(80, 220); // Wider alpha range
+
+        objects.push(new EtherealObject(x, y, type, speed, alpha));
+      }
+    }
+
+    function draw() {
+      // Subtle gradient background
+      for (let i = 0; i <= height; i += 2) {
+        let alpha = map(i, 0, height, 5, 0);
+        stroke(10, 5, 20, alpha);
+        line(0, i, width, i);
+      }
+
+      // Sort objects by layer for proper depth rendering
+      objects.sort((a, b) => {
+        if (a.layer === 'background' && b.layer === 'foreground') return -1;
+        if (a.layer === 'foreground' && b.layer === 'background') return 1;
+        return 0;
+      });
+
+      // Update and display all objects
+      for (let obj of objects) {
+        obj.update();
+        obj.display();
+      }
+
+      // Mystical overlay effect
+      drawMysticalOverlay();
+    }
+
+    function drawMysticalOverlay() {
+      // Subtle pulsing aura
+      let pulse = sin(frameCount * 0.01) * 10 + 15;
+      stroke(100, 150, 255, pulse);
+      strokeWeight(0.5);
+      noFill();
+
+      // Corner sigils
+      push();
+      translate(50, 50);
+      scale(0.3);
+      rotate(frameCount * 0.005);
+      drawCornerSigil();
+      pop();
+
+      push();
+      translate(width - 50, 50);
+      scale(0.3);
+      rotate(-frameCount * 0.005);
+      drawCornerSigil();
+      pop();
+
+      push();
+      translate(50, height - 50);
+      scale(0.3);
+      rotate(frameCount * 0.005);
+      drawCornerSigil();
+      pop();
+
+      push();
+      translate(width - 50, height - 50);
+      scale(0.3);
+      rotate(-frameCount * 0.005);
+      drawCornerSigil();
+      pop();
+    }
+
+    function drawCornerSigil() {
+      // Simple corner sigil
+      ellipse(0, 0, 60);
+      line(-20, 0, 20, 0);
+      line(0, -20, 0, 20);
+      for (let i = 0; i < 4; i++) {
+        let angle = TWO_PI / 4 * i + PI/4;
+        let x = cos(angle) * 15;
+        let y = sin(angle) * 15;
+        point(x, y);
+      }
+    }
+
+    function keyPressed() {
+      if (key === ' ') {
+        // Cycle through governors and regenerate pattern
+        currentGovernorIndex = (currentGovernorIndex + 1) % governorNames.length;
+        randomSeed(91 + currentGovernorIndex);
+        generateObjects();
+
+        // Update info display
+        let info = document.getElementById('info');
+        info.innerHTML = `
+          Enochian Cyphers - Governor: ${governorNames[currentGovernorIndex]}<br>
+          Aethyr: ${aethyrs[currentGovernorIndex % aethyrs.length]}<br>
+          Press SPACE for next pattern
+        `;
+      }
+    }
+
+    function windowResized() {
+      resizeCanvas(windowWidth, windowHeight);
+      generateObjects(); // Regenerate for new dimensions
+    }
+  </script>
+</body>
+</html>
